@@ -1,0 +1,2064 @@
+When drilling stainless steel, use a. (Level 1)
+@@drill ground to 120 °, slow cutting speed.
+drill ground to 90 °, fast cutting speed.
+drill ground to 90 °, slow cutting speed.
+How is a material galvanised?. (Level 1)
+Sprayed with nickel solution.
+Packed in a drum containing zinc dust and heated.
+@@Dipped in a bath of molten zinc.
+What temperature would steel be tempered at?. (Level 1)
+At the annealing temperature.
+Above the annealing temperature.
+@@Below the annealing temperature.
+Tempering steel gives. (Level 1)
+greater brittleness.
+greater hardness.
+@@relief of internal stress after hardening.
+The addition of chromium to steel will produce. (Level 1)
+toughness.
+@@hardness.
+ductility.
+Chromium added to plain carbon steel. (Level 1)
+@@increases it's resistance to corrosion.
+turns it into a non-ferrous alloy.
+makes the metal softer.
+Cast iron is. (Level 2)
+very malleable.
+tough.
+@@heavy and brittle.
+Case hardening can be carried out on. (Level 2)
+titanium.
+@@any ferrous metal.
+duralumin.
+Exhaust systems are usually made from stainless steel which is susceptible to. (Level 2)
+surface corrosion.
+filiform corrosion.
+@@intergranular corrosion.
+When metal is first heated slightly above its critical temperature and then cooled rapidly it is common that the metal will increase in. (Level 2)
+brittleness.
+@@both of the above.
+hardness.
+Steel is tempered. (Level 2)
+@@after hardening.
+before hardening.
+to increase hardening.
+If a steel component is operated below the fatigue limit. The fatigue life is. (Level 2)
+finite.
+@@infinite.
+depend on its proof stress.
+A low carbon steel would normally be case hardened using. (Level 2)
+the nitriding process.
+flame or induction hardening.
+@@pack or gas carburising.
+After a product has been manufactured and all heat treatment has been carried out the stress remaining if any is termed as. (Level 2)
+@@residual stress.
+working stress.
+applied stress.
+Annealing steels. (Level 2)
+toughens the metal.
+@@makes the metal malleable.
+makes the metal brittle.
+Tempering of hardened steel is carried out to. (Level 2)
+retain surface hardness, but soften the core.
+retain core hardness, but soften the surface.
+@@significantly reduce the brittleness without suffering a major drop in its strength.
+High speed steel relies heavily on the following metallic element for its ability to cut other metals, even when it is heated to a dull red colour. (Level 2)
+@@Tungsten.
+Nickel.
+Vanadium.
+When a low carbon steel bolt is stretched beyond its elastic limit without breaking, it will. (Level 2)
+deform temporarily.
+become more ductile.
+@@deform permanently.
+In the tensile strength test. (Level 2)
+the material is pulled to limit of elasticity.
+@@the material is pulled to until it breaks.
+the material is pulled until it reaches its UTS.
+Impact resistance measures the. (Level 2)
+@@material toughness.
+material hardness.
+material ductility.
+Specified time of contact between the indentor and test piece in a vickers or brinell hardness test is. (Level 2)
+20 seconds.
+10 seconds.
+@@15 seconds.
+In an Izod impact test the striking energy of the striker is approximately. (Level 2)
+150 J.
+@@163 J.
+300 J.
+The Charpy test measures. (Level 2)
+strain.
+@@impact energy.
+Young's modulus.
+The 'Fatigue limit' for steel is generally in the region of, compared to the static U.T.S. (Level 1)
+40%-60%.
+60%-80%.
+@@20%-40%.
+The ability of mild steel to accept more load after the yield point is reached is due to. (Level 1)
+necking.
+@@strain hardening.
+plasticisation.
+What is a Rockwell tester used for?. (Level 1)
+@@Hardness Testing.
+Tensile Testing.
+Fatigue Testing.
+What type of test involves using a weighted pendulum to strike a material until fracture?. (Level 1)
+Hardness Test.
+@@Impact Resistance Test.
+Fatigue Testing.
+Which of the folllowing are all hardness testing machines?. (Level 1)
+Rockwell, Brinell and Izod.
+Rockwell, Vickers and Izod.
+@@Rockwell, Brinell and Vickers.
+What care should you take with 2024-T3?. (Level 1)
+@@Do not scratch or make nicks in it.
+Do not bend at sharp angles.
+Do not remove the surface of the sheet metal.
+Composition of silver solder is. (Level 1)
+tin and lead.
+tin, lead and silver.
+@@tin, lead, silver and antimony.
+If aluminium alloy is not quenched within the minimum time allowed after heat treatment is it will be. (Level 1)
+subject to corrosion.
+malleable.
+@@brittle.
+Anodizing protects alloy metal from corrosion and does what else?. (Level 1)
+Seals the surface from moisture.
+@@Makes a good surface for paint to adhere to.
+Makes the surface alkaline.
+A material has the code 2024-TH6 on it. Which part of the code indicates the percentage of the alloying element?. (Level 1)
+H.
+@@20
+6
+When buffing surface of Aluminium Alloy, what material are you removing?. (Level 2)
+@@Oxide layer.
+Aluminium.
+Alloy.
+Why is clad alloy preferred to pure Aluminium?. (Level 2)
+Less brittle.
+More ductile.
+@@Tougher.
+Why are aluminium alloys used on aircraft, instead of pure aluminium?. (Level 2)
+@@Stronger.
+Corrosion resistant.
+Lighter.
+The magnesium alloys used in aircraft can be recognized by. (Level 2)
+shiny surface due to chromium plated on the surface.
+@@yellowish surface due to protective treatment.
+silver surface due to protective coating.
+Age hardening of aluminium is. (Level 2)
+@@never carried out.
+gradual hardening over a period of time.
+not necessary.
+Alclad is. (Level 2)
+aluminium with duralumin cladding.
+@@duralumin with aluminium coating.
+duralumin with magnesium cladding.
+The oxide film on the surface of aluminium is. (Level 2)
+hard and porous.
+porous.
+@@non porous.
+The process of forming a pure layer of aluminium over an aluminium alloy is. (Level 2)
+metalizing.
+@@cladding.
+electroplating.
+Titanium can be identified by placing it on a grinding wheel and looking for. (Level 2)
+Red Sparks.
+Yellow Sparks.
+@@White Sparks.
+What is a fusible material?. (Level 1)
+The ability of two dissimilar metals to melt together.
+@@The ability of a metal to melt.
+The ability of a metal to be welded.
+Brittleness is. (Level 1)
+the property to resist wear.
+@@the property to not deform before cracking.
+the property to resist deformation.
+The proof stress of a material is the stress at which. (Level 1)
+the material yields.
+@@small amount of permanent set takes place.
+necking of the material begins.
+Young's Modulus is a measure of. (Level 2)
+strain.
+stress.
+@@stiffness.
+Hooke's law states that, within the elastic region, elastic strain is. (Level 2)
+indirectly proportional to stress.
+@@directly proportional to stress.
+directly opposite to stress.
+The S.I. unit for strain is. (Level 2)
+Nmm.
+P.S.I.
+@@no units.
+The value of stress for a given material can be derived by. (Level 2)
+Cross sectional area / Load.
+Load * Cross sectional area.
+@@Load / Cross sectional area.
+A material's yield strength is the ability to. (Level 2)
+withstand a crushing force.
+resist side loads.
+@@resist deformation.
+What type of a test involves stretching material until it breaks?. (Level 2)
+Fatigue Testing.
+Hardness Testing.
+@@Tensile Testing.
+What is Alumina?. (Level 2)
+An alloy of aluminium.
+Aluminium ore.
+@@ceramic oxide of aluminium.
+Which of these core materials will be used in the making of a composite material flat panel?. (Level 2)
+@@Hexagonal core.
+Rectangular core.
+Flexible core.
+Which of the following could best be manufactured from Perspex panel?. (Level 2)
+@@passenger window.
+radome.
+cockpit windscreen.
+Kevlar and Nomex are types of. (Level 2)
+glass fibre composite.
+@@advanced composite.
+aluminium alloy.
+Strength of fibreglass is. (Level 2)
+either direction.
+@@along the fibre.
+across the fibre.
+A composite flap panel has structural damage. What NDT method will you use to detect?. (Level 2)
+High voltage x-ray.
+Low voltage x-ray.
+@@Coin tap test.
+Sound is best absorbed by a material which is. (Level 2)
+dense.
+@@soft and porous.
+hard.
+A category of plastic material that is capable of softening or flowing when reheated is described as a. (Level 1)
+thermoset.
+@@thermoplastic.
+thermocure.
+The classification of high tensile strength fibreglass used in aircraft structures is. (Level 2)
+G-glass.
+E-glass.
+@@S-glass.
+Which is the identifying characteristic of acrylic plastics?. (Level 2)
+Acetone will soften the plastic, but will not change its colour.
+Has a yellowish tint when viewed from the edge.
+@@Zinc chloride will have no effect.
+The classification for fibreglass reinforcement material that is high resistivity and the most common is. (Level 2)
+@@E-glass.
+S-glass.
+G-glass.
+The vacuum connections on a fibreglass repair must be placed onto the. (Level 2)
+top layer of glass fabric directly.
+@@breather mat.
+peel ply.
+What do you do if you forget to add hardener to a composite repair?. (Level 1)
+Add hardener at the edges and it will cure.
+It will cure eventually anyway.
+@@Remove all resin and start again.
+Why would you use microballoons as a filler?. (Level 1)
+@@It is the lightest filler material.
+It is the cheapest filler material.
+It cross-links with the panel.
+When using a backing former on a composite repair you need to use. (Level 1)
+vacuum bag.
+@@cellophane.
+breather cloth.
+Heater mats should overlap the repair by. (Level 1)
+4 inches.
+6 inches.
+2 inches.
+A thermoplastic fibre reinforced composite is prepared by. (Level 1)
+solvent wipe.
+@@corona method.
+etching.
+Hot bond composite pane has a crack. When it reaches the ribbon it will. (Level 2)
+carry on along the ribbon.
+have no effect on its direction.
+@@stop.
+In an autoclave the air is removed by. (Level 2)
+pressure.
+roller.
+@@vacuum.
+What is the separation of an aramid panel layers described as?. (Level 2)
+@@Delamination.
+Debonding.
+Detachment.
+Tap testing a sandwich panel construction. (Level 2)
+is not an approved method of testing.
+will not give very reliable results.
+@@is crude, but works remarkably well.
+Which product is a serious health hazard when handling?. (Level 2)
+Ceramic.
+@@Asbestos.
+Glass fibre.
+Aircraft transparent plastics are cleaned using. (Level 2)
+@@warm soapy water, rinsed and dried.
+paraffin and soft cotton pad.
+clean dry soft leather.
+A thermosetting adhesive. (Level 2)
+will be resistant to heat.
+can be re-formed when hot.
+@@undergoes a chemical transformation and creates an insoluble substance.
+Metal fasteners used with carbon/graphite composite structures. (Level 2)
+@@must be made of materials such as titanium or corrosion resistant steel.
+must be made of high strength aluminium alloy.
+may be made of any of the metals commonly used in aircraft fasteners.
+Which methods can be used to inspect fibreglass/honeycomb structures for entrapped water?. (Level 2)
+Acoustic emission and X-ray.
+@@X-ray and back-lighting.
+Acoustic emission and back-lighting.
+When balsa wood is used to replace a damaged honeycomb core, the plug should be cut so that. (Level 2)
+it is about 1/8 inch undersize to allow sufficient bonding material to be applied.
+the grain is parallel to the skin.
+@@the grain is perpendicular to the skin.
+When repairing puncture-type damage of a metal faced laminated honeycomb panel, the edges of the doubler should be tapered to. (Level 2)
+whatever is desired for a neat clean appearance.
+two times the thickness of the metal.
+@@100 times the thickness of the metal.
+One of the best ways to assure that a properly prepared batch of matrix resin has been achieved is to. (Level 2)
+test the viscosity of the resin immediately after mixing.
+@@have mixed enough for a test sample.
+perform a chemical composition analysis.
+Composite inspections by means of acoustic emissions monitoring. (Level 2)
+analyse ultrasonic signals transmitted into the parts being inspected.
+create sonogram pictures of the areas being inspected.
+pick up the 'noise' of corrosion or other deterioration taking place.
+Which of the following are advantages of using microballoons in repairs to laminate honeycomb sandwich panels?. (Level 2)
+Greater concentrations of resin in edges and corners, improved strength to weight ratio, less density, lower stress concentrations.
+@@Less density, lower stress concentrations.
+Improved strength to weight ratio, less density, lower stress.
+The length and time that a catalyzed resin will remain in a workable state is called the. (Level 2)
+shelf life.
+service life.
+@@pot life.
+From the following list of metals, which is most cathodic?. (Level 2)
+Nickel.
+Magnesium.
+@@Stainless steel.
+Intergrannular corrosion is caused by. (Level 3)
+improperly assembled components.
+@@improper heat treatment.
+dissimilar metal contact.
+Corrosion caused by electrolytic action is the result of. (Level 3)
+@@contact between two unlike metals.
+excessive anodization.
+the wrong quenching agent.
+Corrosion may be regarded as the destruction of metal by. (Level 3)
+@@electrochemical action.
+hydroelectric action.
+electromechanical action.
+Exfoliation corrosion is sometimes referred to as. (Level 3)
+@@layer corrosion.
+filiform corrosion.
+sub-surface corrosion.
+When dissimilar metals are brought together, or the same metal in different states, one metal forms the anode and the other the cathode. Which will suffer from corrosion?. (Level 3)
+Both will corrode equally.
+The cathode.
+@@The anode.
+In corrosion, the electrode that loses electrons is. (Level 3)
+the cathode.
+@@either the cathode or the anode depending upon the electrolyte.
+the anode.
+Which of these is a common cause of corrosion?. (Level 3)
+Water in fuel.
+@@Spilled battery acid.
+Untreated metal.
+What is stress corrosion?. (Level 3)
+Corrosion in an area under cyclic loading.
+Corrosion due to fretting.
+@@Corrosion in an area under continuous loading.
+Electrochemical reaction is caused by the contact of. (Level 3)
+bonding.
+@@moisture on the surface of the metal.
+dissimilar metals.
+Chemical attack is a direct result of. (Level 3)
+intergranular corrosion.
+@@cathodic & anodic changes in the material.
+filiform corrosion.
+Galvanic corrosion is caused by. (Level 3)
+incorrect heat treatments or incorrect alloying.
+cyclic stressing and a decrease in cross sectional area.
+@@the joining of 2 dissimilar metals.
+In the galvanic series, the most noble metal will, if joined to another metal. (Level 3)
+always be at the top of the table.
+corrode before the less noble metal.
+@@allow the less noble metal to corrode first.
+Stress corrosion is associated with. (Level 3)
+cyclic loading and a corrosion pit.
+corrosion pit in a member under a compressive load.
+@@corrosion pit in a member under stress.
+Corrosion will spread more rapidly when metals are exposed to. (Level 3)
+cold climates.
+@@high temperatures.
+dry climates.
+Which is the following correct statement?. (Level 3)
+Selenious acid is used for the re-protection of aluminium alloys.
+The chemical test for bronze is nitric acid which produces a white precipitate.
+All corrosion is a chemical action.
+In a poorly produced repair to skin structure, where would stress corrosion start?. (Level 3)
+@@Radiate from the corner or sharp edges.
+Along the edges of repair.
+Form internally to produce surface corrosion.
+Some metals are inherently stable. What does this suggest?. (Level 3)
+@@They strongly resist corrosion.
+They are highly prone to corrosion.
+They try to revert to their natural state.
+The oxide film formed on the surface of aluminium is. (Level 3)
+@@non-porous.
+porous.
+hard and porous.
+Corrosion control begins at the. (Level 3)
+production stage.
+manufacturing stage.
+@@design stage.
+Aluminium is. (Level 3)
+not resistant to corrosion.
+@@highly resistant to corrosion.
+reasonably resistant to corrosion.
+When galvanic corrosion takes place, which part corrodes?. (Level 3)
+@@Anode.
+Oxide film coating.
+Cathode.
+Corrosion caused by galvanic action is the result of. (Level 3)
+@@contact between two unlike metals.
+excessive anodization.
+excessive etching.
+What sort of corrosion would a magneto be likely to encounter if completely enclosed?. (Level 3)
+None, providing the magneto is completely enclosed.
+@@Direct chemical attack.
+Pitting.
+What are the signs of fretting corrosion?. (Level 3)
+@@Black powder or cocoa staining.
+Intergranular cracking.
+Flaking.
+Black streaks back from a rivet hole signify. (Level 3)
+galvanic corrosion.
+intergrannular corrosion.
+@@fretting.
+When a steel part is welded, corrosion occurs because. (Level 3)
+it is affected by spatter.
+@@the strip has become anodic.
+paint has been removed.
+Intergranular corrosion. (Level 3)
+can be recognized by a grey powder deposit.
+@@may have no visual surface indication.
+can be recognized by its flaking and lifting of the material layers.
+Active flux does what?. (Level 3)
+Protects.
+@@Cleans.
+Both cleans and protects.
+Jointing compound is used for what reason?. (Level 3)
+@@To prevent dissimilar metal corrosion.
+To bond the components together.
+To make the components easier to disassemble.
+Galvanic action caused by dissimilar metal contact may best be prevented by. (Level 3)
+applying a non-porous dielectric material between the surfaces.
+Special precautions are not required if they are properly bonded.
+priming both the surfaces with a light coat of zinc chromate primer.
+After welding, stainless steel is susceptible to a corrosion known as. (Level 3)
+weld deterioration.
+@@weld decay.
+weld rot.
+The lifting or flaking of the metal at the surface due to delamination of grain boundaries caused by the pressure of corrosion is. (Level 3)
+exfoliation.
+@@electrolysis.
+transgranulation.
+The electrolytic process that forms an oxide film on the surface of aluminium alloys is known as. (Level 3)
+galvanizing.
+@@anodizing.
+electroplating.
+What is the indication of fretting corrosion on aluminium alloy?. (Level 3)
+@@Black powder.
+Brown powder.
+White powder.
+What action is taken to protect integral tanks from corrosion due to micro- biological growth?. (Level 3)
+The inside of the tank is coated with yellow chromate.
+Rubber liners are installed in the tank.
+@@biocidal additive is used in the fuel.
+What type of corrosion attacks grain boundaries of aluminium alloys which are improperly or inadequately heat treated?. (Level 3)
+Stress corrosion.
+@@Intergranular corrosion.
+Surface corrosion.
+The artificial production of a film of oxide on the surface of aluminium or any of its alloys is commonly called. (Level 3)
+alodizing.
+parco lubrizing.
+@@anodizing.
+Intergrannular corrosion in structural aluminium alloy parts. (Level 3)
+are not likely to occur in parts fabricated from heat-treated sheet aluminium.
+may be detected by the white, powdery deposit formed on the surface of the metal.
+cannot always be detected by surface indications.
+Magnesium alloy components are protected by. (Level 3)
+an electro process.
+@@chemical process.
+painted process.
+Corrosion products should be removed from magnesium alloys by the use of. (Level 3)
+solution of 10% by weight of chromic acid in distilled water with 0.1% by volume of sulphuric acid.
+solution of 10% by volume of chromic acid in distilled water with 1% phosphoric acid.
+aluminium wool.
+If it is necessary to remove corrosion from a steel component in-situ, the base of a suitable solution for this purpose is. (Level 3)
+chromic acid.
+@@phosphoric acid.
+nitric acid.
+A type of protection which is applicable to magnesium alloys is the. (Level 3)
+phosphate process.
+@@chromating process.
+coslettising process.
+Heavy corrosion deposits on clad aluminium alloys should be removed. (Level 3)
+mechanically using a pneumatic vibrator.
+chemically by use of trichloroethylene.
+@@chemically by use of phosphoric acid.
+What action should be taken on finding intergrannular corrosion?. (Level 3)
+@@Replace complete component part.
+De-corrode and reprotect.
+Renew corroded area by patching.
+Anodic treatment of aluminium alloy gives. (Level 3)
+purple finish.
+shorter life due to hardening.
+@@pure coating of aluminium oxide on the surface.
+Corrosion at the grain boundaries is called. (Level 3)
+@@intergrannular.
+fretting.
+filiform.
+Fretting corrosion occurs where. (Level 3)
+@@two material are subject to very slight movement between the two.
+deep scratch increases to become fretting corrosion.
+pitting corrosion is allowed to become more pronounced.
+What is used to remove corrosion from magnesium?. (Level 3)
+Phosphate acid solution.
+@@Chromic acid solution.
+Sulphuric acid solution.
+Surface corrosion on stainless steel is identified by. (Level 3)
+red rust.
+white film.
+@@black pitting.
+Hooks, wires and other suspension devices used in an anodic bath should be made of. (Level 3)
+brass or copper.
+@@aluminium or titanium.
+steel or copper.
+What are the signs of fretting corrosion on steel?. (Level 3)
+Dark staining around area.
+Surface cracking as corrosion breaks through to surface of component.
+Rust on surface.
+Spilled mercury on aluminium. (Level 3)
+increases susceptibility to hydrogen embrittlement
+may cause impaired corrosion resistance if left in prolonged contact.
+causes rapid and severe corrosion in prolonged contact.
+Intercrystalline corrosion. (Level 3)
+@@is detectable by x-rays.
+is the same as exfoliation corrosion.
+always appears as small surface cracks.
+The usual manufacturers anti-corrosion process to be applied to Fe aircraft parts is. (Level 3)
+@@cadmium plating.
+anodising.
+metal spraying.
+Chromate treatment is applied to. (Level 3)
+Al alloys.
+Fe alloys.
+@@magnesium alloys.
+Anti-corrosion treatment used on Magnesium is. (Level 3)
+@@chromating.
+electro-plating.
+phosphating.
+Fretting corrosion occurs with. (Level 3)
+water trapped between moving parts.
+@@vibration in bolted parts.
+improper heat treatment.
+Intergranular corrosion is also known as what?. (Level 3)
+Stress corrosion.
+@@Exfoliation.
+Galvanic.
+During construction, sharp internal corners and inaccessible places should be avoided to reduce. (Level 3)
+filiform corrosion.
+fretting corrosion.
+@@crevice corrosion.
+To check the interior of tubular members for corrosion attack. (Level 3)
+any form of test is acceptable.
+@@ultra sonic testing is necessary.
+dye penetrant testing should be used.
+Anodising is a form of. (Level 3)
+@@artificial protection.
+metallic coating.
+sacrificial protection.
+The Alocrom 1200 process was designed to treat. (Level 3)
+chromium plating.
+@@small surfaces.
+surfaces too large for dip treatment.
+Alodizing protects alloy metal from corrosion and does what else?. (Level 3)
+@@Makes a good surface for paint to adhere to.
+Makes the surface alkaline.
+Seals the surface from moisture.
+When cleaning aircraft faying surfaces, a cause for concern is. (Level 3)
+@@corrosion acting on the end faces of panels.
+sharp corners etc trapping corrosive chemicals.
+leaks into the fuselage.
+The form of corrosion most likely to cause stress concentration is. (Level 3)
+Surface Corrosion.
+Fretting Corrosion.
+@@Pitting Corrosion.
+Lead acid battery fluid has been found to be leaking on the surface of the aircraft structure. What substance would you use to neutralise the acid?. (Level 3)
+Sulphur and Lime.
+Hot distilled water.
+@@Sodium bicarbonate of soda.
+What colour is the corrosion found on the surface of aluminium alloys?. (Level 3)
+@@White/Grey.
+Green/Blue.
+Black.
+Corrosion on copper is identified by. (Level 3)
+red/brown rust.
+black powder.
+@@green discolouration.
+A composite flap panel has corrosion. What NDT method will you use to detect?. (Level 3)
+@@Low voltage x-ray.
+Coin tap test.
+High voltage x-ray.
+When examining a piece of metal through a magnifying glass, hair line cracks would indicate. (Level 3)
+crevice corrosion.
+@@intergrannular corrosion.
+surface corrosion.
+In the anodic film inspection and sealing test, if a good seal has been accomplished. (Level 3)
+@@the dye mark will not rub off.
+the dye mark has no importance.
+the dye mark will rub off.
+Aluminium alloy parts are often protected by the. (Level 3)
+Alocrom plating.
+chromium plating process.
+@@Alocrom 1200 process.
+Corrosion is always completely removed. (Level 3)
+to prevent further damage.
+to fit new parts.
+@@to permit the extent of damage to be assessed.
+Corrosion on a copper alloy can be recognised by. (Level 3)
+@@blue/green deposit.
+white deposit.
+grey deposit.
+Which of the following is a temporary protective measure?. (Level 3)
+Sacrificial protection.
+@@Chromating.
+Paint finish.
+Which anti-corrosion chemical treatment is normally applied to aluminium alloys?. (Level 3)
+Pure aluminium.
+@@Anodising.
+Cadmium.
+Spilled mercury on aluminium causes. (Level 3)
+@@greyish powder, fuzzy deposit or whiskery growth.
+yellowish stains on surface of the metal.
+black pits going into brown rust.
+A non-electrolytic chemical treatment for aluminium alloys to increase corrosion resistance and paint bonding qualities is called. (Level 3)
+@@alodizing.
+anodizing.
+dichromating.
+Which of the following are acceptable to use in cleaning anodized surfaces?. (Level 3)
+Steel wool, aluminium wool, fibre bristle brush.
+@@Aluminium wool, fibre bristle brush.
+Brass wire brush, stainless steel wire brush.
+A primary cause of intergranular corrosion is. (Level 3)
+@@improper heat treatment.
+improper application of primer.
+dissimilar metal contact.
+Which of these materials is the most anodic?. (Level 3)
+@@Magnesium.
+Cadmium.
+7075-T6 aluminium alloy.
+Which of these materials is the most cathodic?. (Level 3)
+2024 aluminium alloy.
+Zinc.
+@@Stainless steel.
+Galvanic corrosion is most likely to be most rapid and severe when. (Level 3)
+the surface area of the anodic metal is smaller than the surface area of the cathodic material.
+the surface area of the cathodic metal and the anodic material are approximately the same.
+the surface area of the cathodic metal is smaller than the surface area of the anodic material.
+The pitch of a screw thread is. (Level 2)
+@@crest to root.
+2 * crest to root.
+crest to crest.
+A single start thread the lead is. (Level 2)
+2 * pitch.
+@@1 * pitch.
+½ * pitch.
+A wire thread insert tap is. (Level 2)
+@@supplied in a fitting kit.
+slightly larger than the hole.
+slightly smaller than the hole.
+Multi-start threads. (Level 2)
+increase the lead and decrease the pitch.
+@@increase the lead without increasing the pitch.
+increase the lead and the pitch.
+Buttress threads are used. (Level 2)
+to transmit power in both directions.
+@@to transmit power on one direction.
+on nuts and bolts.
+The lead on a single start thread is. (Level 2)
+@@1 * the pitch.
+2 * the pitch.
+1/2 the pitch.
+Colour identification of an aluminium rivet is. (Level 2)
+@@black.
+violet.
+green.
+For a wire insert thread repair, the hole is tapped using. (Level 2)
+the same size.
+@@special tap supplied with the kit.
+the next size up.
+Most commonly used thread form in aviation is. (Level 2)
+@@V thread.
+round thread.
+buttress.
+Which of the following thread designations is most fatigue resistant?. (Level 1)
+UNF.
+UNC.
+@@UNJF.
+Which thread type has a 55 ° angle?. (Level 1)
+Metric.
+@@Whitworth.
+UNF.
+When fitting a hyloks. (Level 1)
+they should be lubricated.
+each hylock should be torqued, the torque calculated for each time.
+the hole should be drilled so it is an interference fit.
+What sort of surface treatment would you find on a magnesium casting?. (Level 1)
+Anodizing.
+Phosphating.
+@@Chromating.
+What is the nominal length of a UNF bolt?. (Level 1)
+Under head to end of the threads.
+@@Under head to screw threads (i.e. plain shank).
+The length of the threads.
+Where should you not use a nyloc nut?. (Level 2)
+@@Temperatures above 120 °C.
+Temperatures above 200 °C.
+Temperatures above 250 °C.
+What is the nominal screw length?. (Level 2)
+@@The overall length of a countersunk screw and the non-threaded portion of a bolt.
+The overall length of a bolt (from under the head) and the overall length of a screw (including the head).
+The length of thread for a bolt, overall length for a countersunk screw.
+How many times can a locking plate be used?. (Level 1)
+@@indefinitely providing it is a good fit around the component to be locked.
+once, then discarded.
+3 times, then discarded.
+The taper of a standard taper pin is. (Level 1)
+@@1 in 48.
+1 in 36.
+1 in 20.
+When using a spring washer, the plain washer would be fitted. (Level 1)
+@@between spring and part.
+between head and spring.
+under the nut.
+How many times can you use a locking plate?. (Level 1)
+Until all the tabs have been broken off.
+@@As long as it remains serviceable.
+Once only.
+Wire locking approach angles should not be less than. (Level 1)
+@@45 °.
+90 °.
+10 °.
+A spring type washer when used on an aluminium component must be used. (Level 1)
+@@with a plain washer.
+by itself.
+with a tab washer.
+A non metallic locknut is. (Level 2)
+@@never used over 250 °F.
+never torqued.
+never re-used.
+Which can be re-used?. (Level 2)
+@@Locking plate, circlip, spring washer.
+Shake proof washer, spring washer, locking plate.
+Tab washer, circlip, locking plate.
+A tab washer has been removed after fitment for a short time from a non essential system, the tab washer may be. (Level 2)
+re-used.
+re-used if a spare is not available.
+@@not re-used.
+Taper pins are subject to what loads?. (Level 2)
+Tensile.
+Compressive.
+@@Shear.
+A turnbuckle locknut is a. (Level 2)
+@@stiff nut.
+slotted nut.
+castle nut.
+A spring washer. (Level 2)
+may be used a second time provided it is fitted the reverse way round.
+@@maybe used more than once provided it continues to provide an efficient lock.
+must not be used more than once.
+An internal circlip can be used to. (Level 2)
+@@retain a ball bearing in a housing.
+to do both of the above.
+retain a ball bearing on a shaft.
+A washer having both twisted teeth and spring actions is. (Level 2)
+AN970 large-area flat washer.
+@@AN936 shake-proof lock washer.
+AN935 split-ring lock washer.
+Split pins. (Level 2)
+@@may be used only once.
+can be used more than once but depends on the material of the split pin.
+may be used more than once.
+How is the locking feature of the fibre-type locknut obtained?. (Level 2)
+By a fibre insert held firmly in place at the base of the load carrying section.
+@@By the use of an unthreaded fibre locking insert.
+By making the threads in the fibre insert slightly smaller than those in the load carrying section.
+Split pins are made from. (Level 2)
+brass or Low carbon steel - cadmium plated,.
+brass or stainless steel.
+@@Low carbon steel - cadmium plated, or stainless steel.
+Forming a solution treated rivet gives it 75% of its hardness. What gives it the other 25%?. (Level 1)
+@@Leave at room temperature for four hours.
+Precipitation treat the component when forming is complete.
+Put them in a refrigerator.
+If D or DD rivets are not formed in time , or removed from the freezer in time, they. (Level 1)
+must be discarded.
+@@must be re-heat treated before use.
+can be re-heat treated once then discarded.
+A joggle in a removed rivet is indication of what type of partial failure?. (Level 1)
+Bearing.
+@@Shear.
+Compression.
+How is a British aluminium rivet identified?. (Level 1)
+@@Black anodic finish.
+Natural anodised finish.
+Violet anodic finish.
+A BS rivet made from L36 would be what colour and marking?. (Level 1)
+@@Black anodic with an 'A'.
+Natural anodic with no marking.
+Green anodic with an 'X'.
+D and DD rivets are refrigerated to. (Level 1)
+precipitation harden.
+increase age hardening.
+@@retard age hardening.
+What do you do to 2017 and 2024 rivets after heat treatment?. (Level 1)
+Leave for a minimum of 2 hours before using.
+refrigerate for a minimum of 2 hours before using.
+@@Use immediately or refrigerate.
+An American rivet with a cross on the head is. (Level 1)
+2124 aluminium alloy.
+2117 aluminium alloy.
+@@5056 aluminium alloy.
+A countersunk rivet of the ‘SP’ series has a head style of. (Level 1)
+20 °.
+90 °.
+@@100 °.
+A rivet with no marking has the material code. (Level 2)
+AD.
+@@A.
+D.
+Rivet MS20426 has what head type?. (Level 2)
+@@CSK.
+Universal.
+Round.
+What is meant by the term Pitch Ratio?. (Level 2)
+The area of contact between the two sheets of metal when joining by rivets.
+The distance between the hole and the edge of the material.
+@@The distance between two holes.
+The length of solid rivets is in graduations of. (Level 3)
+@@1/16 inch.
+1/8 inch.
+1/4 inch.
+What would be the diameter and length of a solid rivet if the following markings are given, AS 162-408?. (Level 3)
+¼ inch dia, ½ inch length.
+½ inch dia, 1 inch length.
+@@1/8 inch dia, ½ inch length.
+What would the marking .5 indicate after the normal part number of a solid rivet?. (Level 3)
+The rivet length in graduations of 1/8 inch.
+The diameter of the rivet is half an inch.
+@@Indicates close tolerance rivet.
+What is the pressure range for the Avdel Riveter type F?. (Level 3)
+@@60 to 80 psi.
+20 to 60 psi.
+40 to 60 psi.
+What is the length of the operation stroke of the Avdel Riveter type F?. (Level 3)
+@@½ inch.
+7/8 inch.
+1 inch.
+If a sheet of aluminium alloy of 0.032 and 0.064 is to be joined together the rivet should be. (Level 3)
+0.032 plus 2D.
+@@0.096 plus 1.5 D.
+0.064 plus 1D.
+Where would a pop rivet with a break stem mandrel be used?. (Level 3)
+@@In a closed structure.
+Where the head can be retrieved.
+Any situation calling for a pop rivet.
+A chobert rivet gun may be used. (Level 3)
+@@until the end has worn 0.002 inch below nominal diameter.
+indefinately.
+once only.
+Avdel rivets are closed by. (Level 3)
+tapered mandrel.
+@@broaching.
+squeezing.
+Countersunk rivets have two angles of countersink, these are. (Level 3)
+@@100 - 115 degrees.
+125 - 135 degrees.
+100 -160 degrees.
+On a CHERRY MAX rivet, after the riveting process the mandrel section or stem is. (Level 3)
+is ground down flush to rivet head.
+discarded.
+@@remains in the rivet sleeve to provide mechanical strength.
+A 'HUCK' rivet is similar in design to a. (Level 3)
+blind rivet.
+dome head rivet.
+@@cherry rivet.
+When replacing a hydraulic pipe, where would you find the correct replacement part?. (Level 1)
+@@Parts catalogue.
+Maintenance schedule.
+Maintenance manual.
+How are flexible hoses categorised?. (Level 1)
+@@By maximum pressure.
+By diameter.
+By length.
+What are the rigid pipes on gas turbine engines made from?. (Level 1)
+@@Stainless steel.
+Aluminium alloy.
+Copper.
+How would you test a hydraulic hose?. (Level 1)
+Pressure test 2.0 * working pressure.
+@@Pressure test 1.5 * working pressure.
+Pressure test 1.0 * working pressure.
+To prevent damage to seals on fitment you would. (Level 1)
+compress and stretch them.
+@@use a cardboard protector over the threaded portions.
+use grease.
+Flexible pipes are identified by. (Level 1)
+length.
+diameter.
+@@material.
+A pipe carrying lubricant would be identified by the colour. (Level 1)
+white.
+@@yellow.
+white and yellow.
+What type of material would hydraulic pipes on an undercarriage leg or bay be made from?. (Level 1)
+@@Stainless steel, annealed, 14H.
+7075, H14.
+1100, 2024, in half hard state.
+A metal pipe has a small indentation. What are the limits?. (Level 3)
+5% internal diameter.
+10% of external diameter.
+@@No dent on a bend.
+An aircraft pipe has a number stamped on it. It is the. (Level 3)
+fluid it is carrying.
+aircraft system.
+@@serial number.
+The length of a straight hose assembly is measured. (Level 2)
+between the outer faces of the union nuts.
+@@between the extremities of the two nipples.
+along the coloured line.
+Metal tubing fluid lines are sized by wall thickness and. (Level 2)
+outside diameter and 1/32 inch increments.
+inside diameter and 1/16 inch increments.
+@@outside diameter and 1/16 inch increments.
+A certain amount of slack must be left in a flexible hose during installation because, when under pressure, it. (Level 2)
+expands in length and contracts in diameter.
+@@contracts in length and expands in diameter.
+expands in length and diameter.
+The term 'cold flow' is generally associated with. (Level 2)
+welding and sheet metal.
+@@rubber hose.
+vaporizing fuel.
+Flexible lines must be fitted with a slack. (Level 2)
+@@of 5 - 8 % of the length.
+of at least 10 - 12 % of the length.
+to allow maximum flexing during operation.
+The material specifications for a certain aircraft require that a replacement oil line be fabricated from3/4 inch, 0.072 5052-0 aluminium alloy tubing. What is the inside dimension of this tubing?. (Level 2)
+0.688 inch.
+@@0.606 inch.
+0.750 inch.
+How do you assemble a banjo hose?. (Level 1)
+Put a washer on the outside of the banjo only.
+Put a washer on the inside of the banjo only.
+@@Put washer either side of the banjo.
+A 0.5 in. diameter pipe is to be joined using standard nuts and fittings. What coupling would you use?. (Level 1)
+AN8-8852-1.
+AN8-8852-2.
+@@AN8-8852-8.
+To install a flareless coupling. (Level 1)
+turn until torque is felt plus 3 flats (half turn).
+hand tight plus 2 flats.
+@@turn until torque is felt plus 2 flats.
+A Skydrol hydraulic seal would be made of. (Level 1)
+@@butyl rubber, ethelene propylene or Teflon Phosphate Ester based.
+natural rubber vegetable based.
+synthetic rubber mineral based.
+Adapter nipples are not required on. (Level 1)
+@@pipe to externally coned adapter.
+pipe to pipe coupling.
+pipe to internally coned adapter.
+A butyl rubber seal is made from. (Level 2)
+silicon rubber.
+@@synthetic rubber.
+latex natural rubber.
+What is the colour of an AN steel flared-tube fitting?. (Level 2)
+@@Black.
+Red.
+Blue.
+Which statement about Military Standard (MS) flareless fittings is correct?. (Level 2)
+During installation, MS flareless fittings are normally tightened by turning the nut a specified amount after the sleeve and fitting sealing surface have made contact, rather than being torqued.
+MS flareless fittings must be tightened to a specific torque.
+MS flareless fittings should not be lubricated prior to assembly.
+A flexible sealing element subject to motion is a. (Level 2)
+gasket.
+@@packing.
+compound.
+Coil springs are made from. (Level 1)
+carbon or alloy steels with high working stress.
+low carbon steels with high working stress.
+@@carbon or high alloy steels with low working stress.
+What load are spring hooks subjected to?. (Level 1)
+@@Bending.
+Tension.
+Compressive.
+Steel music wire is. (Level 2)
+@@used for lower strength springs.
+made of high carbon or nickel alloy.
+used for high strength springs and as progressive-rate springs.
+A spring should be inspected for correct. (Level 2)
+@@length, strength and squareness.
+width, strength and squareness.
+width, length and strength.
+Needle roller bearings. (Level 1)
+can accept a small amount of misalignment.
+@@are susceptible to brinelling.
+are designed to carry axial loads.
+When rotating a ball bearing by hand, a regular click indicates. (Level 1)
+@@cracked ring.
+damage to the balls.
+intergranular corrosion in the outer ring.
+A journal load is. (Level 1)
+compression.
+@@radial.
+axial.
+What kind of bearing is used in a landing system?. (Level 1)
+Needle roller bearing.
+@@Tapered roller bearing.
+Caged ball bearing.
+Spherical roller bearings resist what loads?. (Level 1)
+Large radial but no thrust.
+@@Large radial and moderate thrust.
+Large thrust and moderate radial.
+Where are needle roller bearings used?. (Level 1)
+High speed operations.
+Where is fluid damped bearing used.
+@@Where there are space restrictions.
+Loads on tapered roller bearings are. (Level 1)
+thrust only.
+radial only.
+@@radial and thrust.
+A crankshaft would be fitted with a. (Level 1)
+cylindrical roller bearing.
+taper roller bearing.
+@@spherical roller bearing.
+Where heat is likely to be transmitted through a bearing. (Level 2)
+group 2 bearings are used.
+@@group 4 bearings are used.
+group 3 bearings are used.
+Shielded ball bearings are inspected by. (Level 2)
+running at operating speed and listening for signs of wear.
+dismantling and inspecting.
+@@rotating slowly by hand.
+Thrust bearings take. (Level 2)
+radial loads.
+journal loads.
+@@sideloads.
+A single row ball bearing is best suited to accepting. (Level 2)
+@@radial loads only.
+axial loads only.
+axial and radial Loads.
+Taper roller bearings are used for which of the following purposes?. (Level 2)
+To transmit radial loads whilst resisting axial movement.
+@@To transmit thrust loads with radial loads.
+To permit axial movement whilst resisting radial load.
+The stationary race of a journal bearing is normally. (Level 2)
+spigoted fit.
+@@an interference fit.
+push fit.
+Inspection of bearings is normally carried out. (Level 2)
+@@in situ.
+when dismantled.
+when removed from an assembly.
+How do you check a chain for elongation?. (Level 1)
+Apply a load, measure chain and use 5% max formula to check extension.
+@@Apply a load, measure chain and use 2% max formula to check extension.
+Hang the chain under its own weight, measure chain and use 2% max formula to check extension.
+How do you store a chain?. (Level 1)
+@@Oiled and coiled in greaseproof paper.
+Lay uncoiled and flat in greaseproof paper.
+Hanged so they do not kink.
+Epicyclic gears are used on. (Level 1)
+shafts rotating on axis 90 degrees from each other.
+@@shafts rotating on the same axis.
+shafts rotating on offset axis.
+What is the purpose of the guard, where a control chain goes around a sprocket?. (Level 1)
+@@Stops the chain coming off if it goes slack.
+Protects personnel when carrying out maintenance.
+Prevents entry of foreign bodies.
+Worm drives operate in shafts which are. (Level 1)
+@@90 degrees to each other and in a differing plane.
+90 degrees to each other and in the same plane.
+parallel to each other and in the same plane.
+The pattern of a gear is the. (Level 1)
+the path they take when the gear is rotating.
+profile of the gear teeth.
+@@mark it leaves on a mating gear.
+A worm drive creates. (Level 2)
+drive in 2 planes and transmits both directions.
+drive in 1 plane but transmits both directions.
+@@drive in 2 planes but transmits 1 direction only.
+The teeth of a gear would normally be. (Level 2)
+nitrided.
+tempered.
+@@case hardened.
+If a chain is removed for routine maintenance. (Level 2)
+it must be proof checked to full load.
+it must be proof checked to ½ max load.
+@@it does not have to be proof checked.
+On gear teeth, the wear pattern should be. (Level 2)
+@@the middle of the tooth most worn.
+even from top to bottom.
+the top edge most worn.
+On bevel gear teeth, the wear pattern should be. (Level 2)
+@@at the centre of the tooth.
+greatest at the heel, least at the toe.
+greatest at the toe, tapering off to the heel.
+Bevel gears are. (Level 2)
+@@all over case hardened.
+heel is hardened.
+toe is hardened.
+A chain is checked for stiff links by. (Level 2)
+hanging by hand by measure and sight.
+stretching out and measuring.
+@@running the chain over a finger by 180 degrees.
+When is a turnbuckle not in safety?. (Level 1)
+When a small diameter wire can be passed through the inspection hole.
+When you can see daylight through the hole.
+@@When a wire of the same diameter as the inspection hole can be passed through.
+How do you check a turnbuckle is in safety?. (Level 1)
+@@Use the inspection hole or count the threads showing.
+Ensure that the turnbuckle cannot be turned by hand.
+Make sure no threads are showing at either end of the turnbuckle.
+British aircraft cables are classified by their. (Level 1)
+@@breaking load in hundredweights.
+breaking loads in lbf, where 1 lbf = 4.448N.
+diameter and breaking load in Hundredweights.
+Cables are preferred to other control systems because. (Level 1)
+single braid allows for 2 way directions.
+@@they are strong and light.
+they maintain slight mechanical advantage over push/pull systems.
+Turnbuckles, depending on type, are locked by. (Level 1)
+stiffnuts.
+@@locknuts and wire.
+castleated nuts and splitpins.
+Cable tension is maintained by. (Level 1)
+grommet.
+@@cable tension regulator.
+fairlead.
+To correctly tension cables it can help to. (Level 1)
+take up initial slack by additional pulleys.
+@@have control surface locks in to support weight and adjust turnbuckles equally.
+use a cable run with turnbuckles at least every eight feet.
+British turnbuckles are checked for safety by. (Level 1)
+@@attempting to pass a hardened pin probe through the inspection hole.
+attempting to pass locking wire through the hole.
+looking through the hole and checking for threads showing.
+Turnbuckles are correctly fitted when. (Level 1)
+both rods are seen to touch in the inspection hole.
+both rods enter the barrel by the same amount.
+@@the inspection hole is blind or the required number of threads are showing.
+How is the diameter of a cable measured?. (Level 1)
+Diameter of one wire multiplied by the number of wires.
+@@Overall diameter.
+Diameter of one wire only.
+What is the small hole on a swaged turnbuckle for?. (Level 2)
+To check for moisture deposits.
+@@To check if correct amount of cable has been inserted before swaging.
+To alloy the turnbuckle to be wire locked.
+When checking the safety of turnbuckles you should use what?. (Level 2)
+Visual check.
+@@Wire the same diameter as the inspection hole.
+Wire smaller than inspection hole.
+Cable minimum breakage strain for British and American is measured by. (Level 2)
+@@hundredweight for British, c.s.a. and pounds for American.
+hundredweight for British, c.s.a. hundredweight for American.
+pounds for both.
+If a pulley shows signs of wear on one side. (Level 2)
+the cable is too tightly tensed.
+the pulley is too large for the cable.
+@@the cable is misaligned.
+A 7x7 cable has seven strands each of. (Level 2)
+fourteen wires.
+@@seven wires.
+one wire.
+Cable stops are manufactured from. (Level 2)
+stainless steel.
+@@copper.
+magnesium alloy.
+Pulleys are manufactured from. (Level 2)
+@@brass and phenolic resin.
+tungum and high tensile steel.
+stainless steel and nylon.
+In a Teleflex flexible control system, the Teleflex cable consists of. (Level 2)
+multi strand steel wires and is used primarily as a single one way device operated from a control lever.
+@@high tensile steel wire with a right or left hand helix wire wound on to it. The system can operate in two directions.
+flexible seven or nineteen strand steel cable used for the operation of manual flying controls.
+A cable tension regulator will be installed in a flying control system to. (Level 2)
+automatically compensate for low cable tension caused by worn cables.
+compensate for rapid movement of the controls by taking up the slack.
+@@allow for variations in temperature which will vary the cable tension.
+Aircraft flying control cables are normally classified by the. (Level 2)
+circumference of the cable and overall length.
+number of strands it contains and the number of wires in each strand.
+@@minimum breaking load or the diameter in inches.
+7 * 7 cable has seven stranded wires each with. (Level 2)
+@@7 wires.
+14 wires.
+49 wires.
+Tension regulators on aeroplanes with fully metal bodies are used to. (Level 2)
+set up the necessary tension.
+@@maintain the necessary tension.
+relax the tension in cold conditions.
+A 14 gauge cable when compared to an 18 gauge cable has. (Level 1)
+the same current rating.
+@@higher current rating.
+lower current rating.
+In a front release connector, the pin will be. (Level 1)
+@@released from the front and extracted from the rear.
+released from rear and extracted from the front.
+released from the front and extracted from the front.
+An interconnect cable has what insulation?. (Level 1)
+same thickness as airframe cable.
+thicker than airframe cable.
+@@thinner than airframe cable.
+Why is the ground side of an electrical power conductor usually connected to a male connector?. (Level 1)
+To make installation of the connector easier.
+@@To reduce the chance of an accidental short.
+To reduce the chance of corrosion affecting the pins.
+Maximum temperature of tin coated copper cable is. (Level 1)
+200 °C.
+260 °C.
+@@105 °C.
+Plug pins are numbered. (Level 1)
+from the outside in - clockwise.
+@@from the inside out - clockwise.
+from the inside out - anticlockwise.
+Equipment wire. (Level 1)
+@@is flexible and suitable for soldering.
+can be used for interconnect wiring.
+has thicker insulation than interconnect wire.
+In the wiring code shown, what does the number 6 (4th number from the left) represent? 1EF6B22 NMS V. (Level 1)
+@@Cable number.
+Circuit function.
+Cable size.
+An aluminium oxide layer on a conductor will do what when the temperature is increased?. (Level 1)
+Remain the same.
+@@Become thicker.
+Become thinner.
+What is a coaxial cable?. (Level 1)
+single conductor.
+@@Two or more conductors.
+twisted pair of conductors.
+'X' on an electrical cable indicates. (Level 1)
+emergency power.
+@@AC power.
+control system.
+What must you be careful with a hot stamped cable?. (Level 1)
+Corrosion.
+Peeling of the insulation.
+@@Wet arc tracking.
+What is the effect of aluminium oxide on aluminium electrical cable?. (Level 1)
+@@Insulates.
+Reduces resistance.
+Provides strength.
+What amperage is an 18 swg cable?. (Level 1)
+1 amp.
+@@10 amp.
+5 amp.
+A co-axial cable is better than a normal cable because. (Level 1)
+@@there is an electrostatic field around it which helps to reduce the electromagnetic field.
+weight for weight it can carry more signal.
+it has less resistance.
+Interconnect cables. (Level 2)
+@@employ thinner insulation than airframe types.
+are used for equipment wire in the unified system.
+are the cable through the MEC to the engine.
+The first step for the coaxial cable to attach to the end fitting is. (Level 2)
+use a tooling hold between the assembly and cable.
+@@the outer covering is cut back to expose the braided outer conductors.
+back-off the insulator and connect with conductor.
+A fire resistant cable must maintain adequate insulation in a fire for. (Level 2)
+10 minutes.
+@@5 minutes.
+30 minutes.
+When silver coated connectors are used in unpressurised parts of the aircraft. (Level 2)
+wet track arcing can occur.
+@@red plague can occur.
+separation of the coating can occur.
+Knuckling is a problem on earlier aircraft cables due to. (Level 2)
+hot stamping of cables.
+too much flux.
+@@wires being pulled through too hard.
+Cable current ratings are based on a conductor temperature rise of 40 °C and if the maximum design ambient temperature is continuously exceeded they should be. (Level 2)
+@@multiplied by the 'K' factor.
+divide by the 'K' factor.
+halved.
+Which of the following types of electrical wire is likely to be used for connection of thermo-couples around the jet-pipe of a turbine engine?. (Level 2)
+Nyvin.
+Tersil.
+@@Fepsil.
+The main reason why crimped joints are preferable to soldered joints is. (Level 2)
+the quality of crimped joints will be constant.
+no flux is needed.
+@@there is no heat required.
+In the cable identification '2 P 215 A 28 N' the position of the letter P indicates. (Level 2)
+that it is a Pneumatics system cable.
+@@the circuit function.
+which segment the cable is in.
+Crimping terminals are colour coded. The colour indicates. (Level 2)
+the type of crimping tool to be used only.
+the wire size to be used with that crimp only.
+@@both the crimping tool and the size of the wire to be used.
+What is the base element of ferrous materials? (Level 1)
+Steel
+@@Iron
+Copper
+Pure iron is: (Level 1)
+@@Very soft
+Very hard
+Moderate hardness
+Compared to aluminum, steel has: (Level 1)
+Lower density
+@@Higher density
+The same density
+What are steel grades? (Level 1)
+Rating of steel’s usefulness
+The cost to make the steel
+@@The different kinds of steels, distinguished by the specific properties
+What type of non-alloyed steel is use on aircrafts? (Level 1)
+Construction steel
+@@Carbon steel
+Manufacturing steel
+Carbon steel has carbon content around: (Level 1)
+0.05 up to 0.5%
+@@0.5 up to 0.8%
+0.8 up to 1%
+HHT is a: (Level 1)
+@@Low alloy steel
+High alloy steel
+Non-alloyed steel
+CRES is a: (Level 1)
+Low alloy steel
+@@High alloy steel
+Non-alloyed steel
+Which cannot be classified as a HHT steel? (Level 2)
+It has 5% Tungsten and 3% Chromium
+It has 4% Chromium and 4% Vanadium
+@@It has 6% Nickel and 2% Chromium
+AISI 6xxx has which element as its primary alloying element? (Level 2)
+Chromium
+@@Chromium-vanadium
+Nickel-chromium
+With the AISI standard, the second digit means: (Level 2)
+Carbon percentage
+@@Primary alloy percentage
+Secondary alloy percentage
+With the AISI standard, the last 2 digits represent Carbon content in: (Level 2)
+1/10%
+@@1/100%
+1/1000%
+Which element is the major ingredient for CRES? (Level 2)
+Chromium
+Silicon
+@@Nickel
+Which of the following is not a chipless deformation? (Level 2)
+Bending
+Compressing
+@@Shearing
+What appear when HHT steel suffers from cold-shortness? (Level 2)
+@@Cracks
+Nicks
+Scratches
+Which of these steel grades is affected by hydrogen embrittlement? (Level 2)
+300M
+@@AISI 4130
+17-4 PH
+Which of these is not likely the cause of hydrogen embrittlement? (Level 2)
+Improper processing of the material
+@@Service induced stresses
+Installation residual stresses
+When steels are heat treated near its upper limit: (Level 2)
+@@Tends to fracture without much deformation
+Absorbs more energy by deformation
+Yields the desire structural reliability from either dynamic or static loads
+The higher the carbon content: (Level 2)
+@@The higher hardness steel
+The higher weldability steel
+The higher ductility steel
+When tempering steel, the temperature is: (Level 1)
+Above the GSE line
+@@Below the GSE line
+Exactly at the GSE line
+When soft annealing steel, after heating, you must: (Level 1)
+Cool it down by quenching
+@@Cool it down in the furnace slowly
+Cool it down at room temperature
+Which of these steels can be heat treated? (Level 1)
+Austenitic
+@@Martensitic
+Ferritic
+Which of the following surface protection method can be used on both stainless and non-stainless steels? (Level 1)
+Chrome passivating
+Chromium plating
+@@Cadmium plating
+To get hot-gas corrosion resistance properties, which of these surface protection method is used on non-stainless steel? (Level 2)
+Phosphating
+Chemical Nickel plating
+@@Hard Chromium plating
+Which of these acids will have a reaction with titanium at room temperature? (Level 2)
+Chromic acid
+Hydrochloric acid
+@@Hydrofluoric acid
+The most common alloying element for titanium is? (Level 1)
+@@Aluminum
+Copper
+Zinc
+In general, Titanium is not: (Level 1)
+@@Castable
+Cuttable
+Millable
+Which of the following can be used with titanium fire? (Level 1)
+Water
+@@Powder extinguisher
+Foam extinguisher
+When you start drilling titanium, which of the following drill bits cannot be used? (Level 2)
+5/32 in
+1/8 in
+@@3/16 in
+Which is not a suitable cooling media for titanium drilling? (Level 1)
+Distilled water
+@@Oil
+Air
+Titanium components cannot be cleaned using: (Level 1)
+MEK
+@@Isopropyl Alcohol
+Acetone
+How can you recycle aluminum material? (Level 1)
+@@Remelting
+Polishing
+Alloying
+When alloying pure aluminum with other elements, which is not true? (Level 2)
+Increased strength
+Decreased deformability
+@@Increased corrosion resistance
+Compared to cast aluminum alloys, wrought aluminum alloys: (Level 2)
+Are more brittle
+@@Are less brittle
+Have the same brittleness
+Which of the following is a non-heat treatable aluminum alloy? (Level 2)
+@@AlMgMn
+AlSiCu
+AlCuMg
+Which of these aluminum are not corrosion resistant? (Level 2)
+3003 Al
+5056 Al
+@@7475 Al
+Which of these aluminum are weldable and heat treatable? (Level 2)
+5056
+@@6061
+7475
+Why do you need to clad aluminum alloys? (Level 1)
+@@Alloys do not form a closed oxide skin to protect themselves.
+Alloys do not give the same shine and glare.
+Alloys do not have the same properties as pure aluminum.
+Which of the following usually has the thickest clad layer? (Level 2)
+@@0.0055 m 2024 Al
+0.3 inch 7075 Al
+6200 µm2117 Al
+Aluminum alloy designated with 3XX.X has which element as its major alloying element? (Level 2)
+Manganese
+Magnesium and silicon
+@@Silicon with copper and/or magnesium
+1XXX aluminum has at least: (Level 2)
+@@99.00% aluminum
+99.09% aluminum
+99.99% aluminum
+How do you differentiate between wrought aluminum and cast aluminum by their designated number? (Level 2)
+Wrought aluminum has 1 more digit compared to cast aluminum
+@@Cast aluminum has 1 digit separated from the previous 3 by a point
+Wrought aluminum has the last digit being 1 or 2 to specify the form of manufacture
+How many steps are there in the aluminum heat treatment process? (Level 1)
+2
+@@3
+4
+Which step increases the hardness of aluminum alloys in the heat treatment process? (Level 1)
+Solution annealing
+Quenching
+@@Aging
+In the solution annealing process, the temperature of the aluminum alloy is brought to: (Level 1)
+@@Above the solubility curve
+Below the solubility curve
+Exactly the solubility curve
+The solution annealing time of a material depends on: (Level 1)
+The type of material
+@@The thickness of the material
+The type of furnace used
+In the solution annealing process, the temperature and soak time of the material depends on: (Level 1)
+@@The material manufacturer
+The aircraft manufacturer
+The authority
+The purpose of quenching is to: (Level 1)
+Cool down the material
+@@Fix the state achieved with solution annealing
+Harden the material
+Generally, the quenching process happens in: (Level 1)
+A salt bath
+An oil bath
+@@A water bath
+The W-state is achieved: (Level 1)
+After solution annealing
+@@After quenching
+After aging
+Why do aluminum alloys get hardened after a heat treatment process? (Level 2)
+@@The aluminum lattice structure gets distorted by precipitations formed by wandering foreign atoms inside them.
+The aluminum lattice structure gets uniformed by precipitations formed by wandering foreign atoms inside them.
+The aluminum lattice structure gets crystalized by precipitations formed by wandering foreign atoms inside them.
+Which is not an aging method for aluminum alloys? (Level 1)
+Natural aging
+@@Forced aging
+Artificial aging
+After soft annealing: (Level 1)
+The parts can be installed on the aircraft
+The parts have to be quenched
+@@The parts have to be heat treated again
+Which is not a valid temper designation? (Level 2)
+@@2117-T2
+2014-T3
+7175-T6
+Which of these materials are easiest to form with? (Level 2)
+2024-W
+2024-F
+@@2024-O
+Which is not a possible temper designation? (Level 2)
+2024-W
+2024-O
+@@2024-H
+Which is a possible temper designation? (Level 2)
+5052-T3
+5052-W
+@@5052-H
+ALCLAD 7075-T6511 is: (Level 2)
+@@Solution annealed, quenched, stretched, straightened, artificially aged.
+Solution annealed, quenched, straightened, stretched, artificially aged.
+Solution annealed, quenched, bended, stretched, straightened, artificially aged.
+The difference between T42 and T62 temper designation is: (Level 2)
+The annealing process
+The quenching process
+@@The aging process
+Compared to T6, T61: (Level 2)
+Has more strength
+Can be welded
+@@Is more ductile
+The process to make ALCLAD 2024-T42 from ALCLAD 2024-T3 is? (Level 2)
+@@Soft annealing, solution annealing, quenched, naturally aged.
+Soft annealing, solution annealing, quenched, stress relieved by stretching, naturally aged.
+Soft annealing, solution annealing, quenched, stress relieved by compressing, naturally aged.
+The difference between T1 and T4 is: (Level 2)
+@@The annealing process
+The quenching process
+The aging process
+Compared to T6, T5 has: (Level 2)
+@@Higher temperature before quenching
+Lower temperature before quenching
+The same temperature before quenching
+Compared to 2024-F, 2024-T3: (Level 2)
+@@Has higher strength
+Has higher ductility
+Has higher corrosion resistance
+Glare is a material consists of aluminum and: (Level 1)
+Carbon fiber prepreg
+Aramid fiber prepreg
+@@Glass fiber prepreg
+How many standard grades of glare are there? (Level 1)
+4
+5
+@@6
+Which properties make it so that glare is better than aluminum alloys at protecting the load carrying structure underneath the skin? (Level 1)
+@@Good impact properties
+Good fatigue resistance
+Good damage tolerant properties
+To measure hardness, which is not one of the commonly used test methods? (Level 1)
+The Brinell test
+@@The Moh test
+The Rockwell test
+The Brinell test measures: (Level 1)
+@@The diameter of the impression
+The depth of the impression
+The force of the impression
+Which is not a scale in the Rockwell hardness test? (Level 1)
+C-Scale
+B-Scale
+@@A-Scale
+What does CFRP mean? (Level 1)
+@@Carbon Fibre Reinforced Plastic
+Ceramic Fibre Reinforced Plastic
+Composite Fibre Reinforced Plastic
+Composite is describe as: (Level 1)
+Three or more materials that are combined to form a much stronger structure than either material by itself
+One or more materials that are combined to form a much stronger structure than either material by itself
+@@Two or more materials that are combined to form a much stronger structure than either material by itself
+The advantages of composite materials are: (Level 2)
+High strength-to-weight ratio, Reduction of parts and fasteners, Reduction of wear, Easy to repair.
+@@High strength-to-weight ratio, Reduction of parts and fasteners, Reduction of wear, Corrosion resistance.
+High strength-to-weight ratio, Reduction of parts and fasteners, Reduction of wear, Generally expensive
+The disadvantages of composite materials are: (Level 2)
+@@Generally expensive. Not easy to repair; you need well-trained staff, tools, equipment and facilities to repair composite components.
+Generally expensive. Easy to repair; you need well-trained staff, tools, equipment and facilities to repair composite components.
+Generally cheap. Easy to repair; you don't need well-trained staff, tools, equipment and facilities to repair composite components.
+Reinforcing materials are include: (Level 1)
+@@Fibreglass, Aramid, Graphite 
+Fibreglass, Aramid, Kevlar
+CFRP, Aramid, Graphite
+Prepreg fibers are: (Level 1)
+These fibres are impregnated with resin.
+These fibres are already impregnated with resin in the production process and then heated very fast.
+@@These fibres are already impregnated with resin in the production process and then cooled down very fast.
+What are the characteristics of the honeycomb core material? (Level 1)
+Has a rectangle shape and has a excellent strength-to-weight ratio.
+@@Has a natural honeycomb shape and has excellent strength-to-weight ratio. 
+Has a circle shape and has excellent strength-to-weight ratio.
+What is the main material of the tailplane and elevator on an A320 aircraft? (Level 1)
+Aluminium alloy
+AFRP
+@@CFRP and GFRP
+The effectiveness of an adhesive depends on several factors, including: (Level 1)
+@@Resistance to slippage and shrinkage, Malleability, Cohesive strength and Adhesion
+Resistance to slippage and shrinkage, Cohesive strength and Adhesion
+Resistance to slippage and shrinkage, Malleability
+What are film adhesives used for? (Level 2)
+@@Bonding metal to metal, sandwich core to skin and GFRP, AFRP and CFRP
+Bonding GFRP to AFRP and CFRP
+Bonding sandwich core to GFRP, AFRP and CFRP
+The film adhesive has to be stored (Level 1)
+Under refrigeration at 0°C
+At room temperature.
+@@Under refrigeration at −18°C
+The two main types of resin used as a matrix are: (Level 1)
+Thermoplastic resins and polyester resin
+@@Thermosetting resin and thermoplastic resin
+Epoxy resins and phenolic resins
+Aramid fibres are also known as: (Level 1)
+@@KEVLAR
+Graphite
+Silica
+Which type of fibre causes aluminum corrosion? (Level 2)
+Aramid fibre
+@@carbon fibre
+Glass fibre
+Which type of resin is not used on composite structures? (Level 2)
+Epoxy resins
+Phenolic resins
+@@Thermoplastic resins
+The disadvantages of epoxy resins are? (Level 1)
+@@Toxic, low pot and shelf−life, high cost
+Non-toxic, low pot and shelf−life, high cost
+Toxic, long pot and shelf−life, high cost
+When you mix the recommended amount of hardener into resin, the part will be (Level 1)
+@@Cured
+Sticky
+Unreacted
+The most simple composite is composed of (Level 1)
+A metallic and a non-metallic material
+@@A matrix and a reinforcing material
+A metallic and reinforcing material
+The production methods of plastics include: (Level 2)
+Polyester, polycondensation, polyaddition
+Polymerisation, polyamides, polyurethanes
+@@Polymerisation, polycondensation, polyaddition
+Which aircraft has its whole airframe made out of composite materials? (Level 2)
+Airbus A321
+Airbus A330
+@@Boeing B787
+Which fibre is used mainly for new Airbus aircraft radome? (Level 2)
+@@QFRP
+CFRP
+AFRP
+Which material is used to manufacture primary structural components? (Level 2)
+@@CFRP
+AFRP
+GFRP
+Styles of fabrics are include: (Level 1)
+Roving, warp-reinforced fabric, fabrics
+@@Roving, mats, fabrics
+Roving, warp-reinforced fabric, linen fabrics
+Bonding prepreg is used (Level 2)
+To connect GFRP laminates
+To connect CFRP laminates
+@@To connect GFRP laminates with honeycombs or sheet metal parts.
+How many percent of resin are there in a standard prepreg? (Level 2)
+18 to 20%
+@@0.38
+0.5
+What is a sandwich construction? (Level 1)
+@@A core is bonded between two thin-face sheets, providing a rigid, lightweight component
+A core is bonded with one thin-face sheet, providing a rigid, lightweight component
+Two thin-face sheets are bonded together, providing a rigid, lightweight component
+Core material is include (Level 1)
+Foam and adhesive film
+Foam and resin
+@@Foam and honeycomb core
+Nomex core is made from: (Level 2)
+Aluminium
+@@A paper-impregnated material
+Carbon
+Which adhesive has to evaporate one of its components to cure? (Level 1)
+@@Solvent adhesives
+Contact adhesives
+Dispersion adhesives
+Which of the following are commonly used thixotropic agents? (Level 2)
+Micro-balloons and glass fibre
+Micro-balloons and carbon fibre
+@@Micro-balloons and aerosil.
+The two main types of thermosetting resin used for composite structures are: (Level 2)
+@@Epoxy resins and Phenolic resins
+Thermoplastic resins and Polyester resin
+Epoxy resins and thermoplastic resins
+Epoxy resins will cure at: (Level 1)
+@@Room temperature or high temperature
+At 0°C
+Room temperature
+When the matrix and the reinforcing material are combined and cured, (Level 2)
+The part is weaker than the fabric is by itself, and weaker than the resin is by itself.
+This condition would result in a weak product, and in extreme cases the epoxy would remain sticky.
+@@The part is stronger than the fabric is by itself, and stronger than the resin is by itself.
+Which form are the matrix and the reinforcing generally in? (Level 2)
+The matrix is generally in gas form and the reinforcing material is a solid
+@@The matrix is generally in liquid form and the reinforcing material is a solid
+The matrix is generally in solid form and the reinforcing material is a liquid
+Surface treatment of composite materials includes (Level 2)
+@@Electrical Bonding and Painting
+Heat treatment and Painting
+Chromic Acid Anodizing (CAA) and Heat treatment
+How many main types of resin are used as a matrix? (Level 1)
+@@2 types
+3 types
+4 types
+Which type of resin is not currently utilized on composite structures? (Level 2)
+Epoxy resins
+@@Thermoplastic resins
+Phenolic resins
+Which factors have a positive effect on surface wetting? (Level 1)
+@@Removal of surface contamination, Viscosity reduction through application of heat, Time and pressure at the bonding point.
+Fingerprints left on adherent surfaces, Residues not removed from the adherent surfaces, Low temperatures, Incorrect or no surface pre-treatment.
+Removal of surface contamination, Time and pressure at the bonding point, Low temperatures
+Which type of damage is a skin not-perforated damage? (Level 2)
+Abrasion, Lightning strike, Delamination, Scratches, Dents, Holes, Gouges
+Abrasion, Debonding, Delamination, Nicks, Dents, Holes, Gouges
+@@Abrasion, Debonding, Delamination, Nicks, Dents, Gouges, Scratches
+Which type of damage is a skin perforated damage (with damage of fibres)? (Level 2)
+Abrasion, Delamination, Scratches, Dents, Gouges
+@@Holes, Lightning strike, Impact by foreign object (FOD)
+Abrasion, Debonding, Delamination, Nicks, Dents, Gouges, Scratches
+Basically, what is corrosion? (Level 1)
+@@Corrosion is defined as an undesirable, natural reaction of materials with substances in their environment
+Corrosion is defined as a desired chemical reaction of materials with substances in their environment
+Corrosion is a type of mechanical abrasion that reduces material thickness
+If there is an area with worm-like traces on the surface of the aluminum alloy, what kind of corrosion is it (Level 1)
+Electrochemical Corrosion
+@@Filiform Corrosion
+Galvanic Corrosion
+Why is pitting corrosion dangerous (Level 1)
+@@Because it has no obvious signs on the surface of the metal so it is difficult to detect. In addition, the corrosion extends in the vertical direction so it reduces material strength
+Because it has no obvious signs on the surface of the metal so it is difficult to detect. In addition, the corrosion extends in the horizontal direction so it reduces material strength
+Because it is the most difficult type of corrosion to repair
+When you immerse a electrode metal bars in electrolyte fluid, what will happen with the Anode? (Level 2)
+The dissolved ions take in electrons and deposit as metal atoms on the electrode surface, which means that the metal ions are reduced
+This is an oxidation-reduction reaction
+@@Positively charged metal-ions are emitted to the electrolyte, and leave behind negatively charged electrodes in the metal
+When you see the white-grey powdery on surface of steel, what does it mean? (Level 2)
+@@Mean nothing
+This is a sign of corrosion on surface
+This is the production of the oxidation on steel surface
+What will happen if Austenitic steel works under high temperature? (Level 2)
+@@It can lose their corrosion resistance ability
+Steel characteristics do not change, due to their high thermal strength
+They will become softer
+How many part of the Hi-Lok and Hi-Lite (pin threaded) fastener: (Level 1)
+There are one parts: Collar with an internal thread, an external hexagonal drive and an external
+There are one parts: Threaded pin with a head (universal or countersink)
+@@There are two parts: Threaded pin with a head (universal or countersink) and collar with an internal thread, an external hexagonal drive and an external shear groove
+Pin (threaded) fasteners are usually installed in interference-fit holes? (Level 2)
+@@TRUE
+FALSE
+Not given
+A clearance fit hole (unless specified differently) must be used if one or more of the structural members to be attached are made of? (Level 2)
+Aluminum alloy
+@@Steel, Stainless steel, Titanium
+Application for all material
+Can install the pin (threaded) fasteners with power or hand tools? (Level 1)
+Not allow
+Just hand tools
+@@Yes, depending on the position the power/hand tools can access.
+When blind rivets which are used for repair work on the aircraft? (Level 2)
+At the locations in an aircraft structure, which are need the heavy load
+At the locations in an aircraft structure, which are need the light load
+@@At the locations in an aircraft structure, which are very hard to reach for riveting - it is impossible to set a rivet snap at the other site of the rivet
+How to identify material and type of solid rivets are identified by? (Level 1)
+@@Symbol and shape on head of rivet
+Shape of rivet
+Length of rivet
+Which type of solid rivet may used in tank sealing rivets? (Level 2)
+Type A- and DD rivets
+Type A- and AD rivets
+@@Type AD- and DD rivets
+Which symbol on TAPER-LOK HEAD MARKS is Heat Resistant Alloy? (Level 1)
+HB
+@@CB
+H
+Which symbol on TAPER-LOK HEAD MARKS is 6Al4V Titanium Alloy? (Level 1)
+HB
+@@V
+H
+A Lockbolt (pin swaged) fastener is a two-piece assembly consisting of: (Level 1)
+A pin with a protruding or countersink head
+A collar
+@@A pin with a protruding or countersink head and a collar
+Which type of fit are used to install Lockbolt pins in thin structure? (Level 2)
+@@Clearance fit
+Transitionfit
+Interference Fit
+Which type of fit are used to install Lockbolt pins in thick structure? (Level 2)
+@@Clearance fit
+Transitionfit
+Interference Fit
+Working pressure of HP-Tubes is? (Level 1)
+@@Above 1500 PSI
+Above 1800 PSI
+Under 1500 PSI
+What material principally made of lines in the engine area and in the landing gear area? (Level 1)
+Aluminum
+@@Steel
+Titanium
+The MS-Fitting consists of? (Level 2)
+@@A fitting, a sleeve and a union nut
+A fitting, a bolt and a union nut
+A fitting, a sleeve and a flare nut
+How many types of Harrison-Type-Fittings? (Level 1)
+1
+3
+@@2
+What is construction of hose include? (Level 2)
+@@The inner layer, the reinforcement layer and the outer cover
+The reinforcement layer and the outer cover
+The inner layer and the outer cover
+What size of the inner diameter of hoses is usually given in? (Level 2)
+1/8 inch
+@@1/16 inch
+1/4 inch
+What is a spring? (Level 1)
+@@Is an engineering component which when deflected by a force tends to return to its unloaded shape
+Is an engineering component which when deflected by a force tends to keep to its unloaded shape
+Is an engineering component which when deflected by a force tends to return to its loaded shape
+How many classes of metal springs have? (Level 1)
+1
+@@3
+2
+How is compression springs work? (Level 1)
+@@By resisting compressive force
+By resisting externally applied torque
+By their initial tension resisting the pulling force to which their ends are attached
+How is extension springs work? (Level 1)
+By resisting compressive force
+By resisting externally applied torque
+@@By their initial tension resisting the pulling force to which their ends are attached
+How is torsion springs work? (Level 1)
+By resisting compressive force
+@@By resisting externally applied torque
+By their initial tension resisting the pulling force to which their ends are attached
+Which material most commonly used of all springs? (Level 1)
+Flat High−Carbon Spring Steels
+Stainless Steel Wire
+@@High−Carbon Spring Wire
+What is/are main function(s) of bearing? (Level 1)
+Used to support the journals of shafts
+Used to support the journals of axles
+@@Used to support the journals of shafts and axles
+What are 02 types of bearings? (Level 1)
+Pivot bearings and axial bearings
+@@Axial bearings and journal bearings
+Journal bearings or roller bearings
+What are 02 kinds of bearings loading? (Level 2)
+@@Radial and thrust
+Axial and thrust
+Radial and axial
+How many types of anti−friction bearings? (Level 1)
+3
+4
+@@5
+Construction of an anti-friction bearing consists of? (Level 2)
+@@The outer and inner raceway, the rolling element and usually a rolling element cage
+The inner raceway, the rolling element and usually a rolling element cage
+The outer raceway, the rolling element and usually a rolling element cage
+What is/are material of the anti friction bearing raceways and rolling elements? (Level 1)
+@@Chromium steel or chromium nickel steel
+Chromium steel or titanium nickel steel
+Aluminum or chromium nickel steel
+Which load(s) the tapered roller bearing can handle? (Level 1)
+Radial and axial loads
+Axial and thrust loads
+@@Radial and thrust loads
+Which bearing combines the benefits of all the other bearing types as well as offering additional advantages? (Level 2)
+Spherical roller bearing
+@@The tapered roller bearing
+The ball bearing
+Which bearing have a ’point’ contact between the balls and the races? (Level 2)
+Spherical roller bearing
+The tapered roller bearing
+@@The ball bearing
+Which bearing distributes the load over the length of the roller (line contact)? (Level 2)
+Spherical roller bearing
+@@The tapered roller bearing
+The ball bearing
+Which bearing are similar to cylindrical roller bearings but with long, thin rollers, giving them a very compact cross−section? (Level 2)
+@@Needle roller bearings
+The ball bearing
+The tapered roller bearing
+What is the most common use of cylindrical roller bearings? (Level 1)
+At locating and non−locating positions
+@@At non−locating positions
+At locating positions
+Where is chains may be used in? (Level 1)
+@@Control runs or in conjunction with cable assemblies
+In conjunction with cable assemblies
+Control runs
+Where may chains be found in? (Level 1)
+Control Column Installations, Elevator Controls and Trim Control Systems
+@@Control Column Installations, Aileron and Elevator Controls and Trim Control Systems
+Control Column Installations, Aileron and Trim Control Systems
+The number of teeth on the roller chain wheels should not be smaller than? (Level 2)
+@@12
+10
+8
+The number of teeth of the gear chain wheels should not be smaller than? (Level 1)
+15
+16
+@@17
+Which component power transmission for trim is achieved via? (Level 2)
+@@A chain drive
+A roller
+A shaft
+What are coupling classed? (Level 2)
+Flexible, movable and disconnectable couplings, and safety couplings
+Solid, movable and disconnectable couplings
+@@Solid, movable and disconnectable couplings, and safety couplings
+The solid couplings are include? (Level 2)
+Rigid couplings and disk couplings
+@@Sleeve couplings and disk couplings
+Movable couplings and disk couplings
+Movable couplings comprise of? (Level 2)
+@@Expansion couplings, hinge couplings and elastic couplings
+Sleeve couplings, hinge couplings and elastic couplings
+Disk couplings, hinge couplings and elastic couplings
+What speed does gear drives transfer rotational movement without slip? (Level 1)
+High speed
+@@Low speed
+Low speed and high speed
+To prevent accidents, all gear drives must be covered by? (Level 1)
+Efficient blanking plug
+Efficient caps
+@@Efficient protection devices
+What teeth may the spur gears have? (Level 2)
+Straight teeth and herringbone teeth
+Slanting teeth and herringbone teeth
+@@Straight teeth, slanting teeth and herringbone teeth
+On wheels with slanting or herringbone teeth, how are the teeth arranged? (Level 2)
+@@Helically on the wheel
+Parallel to the shaft
+Circularly on the wheel
+To avoid excessive axial force, the slanting angle of the slanting teeth should not be larger than? (Level 2)
+10 degree
+@@20 degree
+30 degree
+In a bevel gear, can a wheel be exchanged for another with a different number of teeth? (Level 1)
+@@No
+Yes
+Depend on size of the shaft
+How are bevel wheels manufactured with? (Level 2)
+Circular or helical teeth
+@@Straight, circular or helical teeth
+Straight, thin or helical teeth
+What force are the helical gears suitable for the transfer? (Level 1)
+Large forces
+Small and large forces
+@@Small forces
+The combination of the slanting angles results in the axial angle of both wheels in helical gears usually is? (Level 1)
+45 degrees
+@@90 degrees
+120 degrees
+Which speed the driving-key-type gear can be used to transmit small forces? (Level 1)
+Mid rotational speeds
+@@Low rotational speeds
+High rotational speeds
+How to lock turnbuckles? (Level 1)
+@@By locking wire or locking clips
+By locking wire
+By locking clips
+Why cable lines have advantages over other mechanical actuators, such as linkages, shafts and chains? (Level 1)
+Because of their higher weight
+@@Because of their lower weight
+Because of their strength
+In 1/8 - 7x19 cable: how many wires in cable? (Level 1)
+7
+19
+@@133
+In 1/8 - 7x19 cable: how many strands in cable? (Level 1)
+@@7
+19
+133
+Where are pulleys use to? (Level 1)
+@@Change in direction of control cable
+Keep in direction of control cable
+Change tension of control cable
+Which component is used to change cable tension? (Level 1)
+@@Turnbuckles
+Pulleys
+Conduits
+Which Boeing manual have electric installation instruction in the aircraft? (Level 1)
+ESPM
+AWM
+@@SWPM
+What kind of wire is primarily used in the aircraft? (Level 2)
+@@Copper wiring
+Aluminium wiring
+Nickel
+Boeing wires additionally are marked with a wire number which include: (Level 1)
+The Wire number, the AWG size, the color code
+@@The Wire harness, the Wire number, the AWG size, the color code
+The Wire harness, the Wire number, the color code
+Airbus Wire numbers have 8 digit number, what does the second number block mean? (Level 2)
+The ATA and sub ATA chapter
+@@The actual wire number in the aircraft system
+The wire color code
+Ref to ESPM 20−32−22/PMS 01−07−16, What are different identification categories of Airbus cables? (Level 1)
+Non−printable cables, cables without printing
+Printable cables, non−printable cables
+@@Printable cables, non−printable cables, cables without printing
+What is definition of thermocouple correct? (Level 2)
+@@The thermocouple consists of two different metal alloys soldered or welded together in which a minimal electrical potential is created when the wiring contact is heated which is proportional to the temperature
+The thermocouple consists of two different metal alloys soldered or welded together in which a minimal electrical potential is created when the wiring contact is heated which is inversely proportional to the temperature
+The thermocouple consists of two different metal alloys soldered or welded together in which a minimal electrical potential is created when the wiring contact is heated which is proportional to the humidity
+What is a function of Coaxial cables? (Level 2)
+To conduct electricity
+@@For the transmission of high−frequency signals
+For the transmission of low−frequency signals
+According to the CS−definitions, What is requirement of wires in fire alarm systems? (Level 1)
+@@Wire can withstand 1100℃ for a total of five minutes without losing their function
+Wire can withstand 500℃ for a total of five minutes without losing their function
+Wire can withstand 2000℃ for a total of five minutes without losing their function
+What is AP wire structure? (Level 1)
+@@Nickel plated copper, inner Polyimide tape, outer Polyimide tape, outer covering
+Nickel plated copper, outer covering
+Inner Polyimide tape, outer Polyimide tape, outer covering
+What elements do the current capacity of wires depend on? (Level 2)
+The conductor material and the wire size
+The insulation and the wire size
+@@The conductor material, the insulation and the wire size 
+For the identification of wires and cables, Boeing requires: (Level 1)
+The mandatory use of capital letters and Arabic numerals
+The mandatory use of capital letters and Arabic numerals, markings must be easily legible from a distance of 15 inches under normal lighting conditions
+@@The mandatory use of capital letters and Arabic numerals, markings must be easily legible from a distance of 15 inches under normal lighting conditions, a minimum contrast of 55 percent between the marking and the wire
+Airbus Wire numbers have 8 digit number, what does the first four number mean? (Level 2)
+@@The ATA and sub ATA chapter 
+The actual wire number in the aircraft system
+The wire color code

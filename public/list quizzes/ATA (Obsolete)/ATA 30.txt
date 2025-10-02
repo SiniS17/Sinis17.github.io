@@ -1,0 +1,192 @@
+At what pressure and temperature is anti-ice fluid applied? (Level 1) 
+7°F at 100 PSI. 
+@@70°C at 100 PSI. 
+70°F at 10 PSI. 
+The advantage of leading-edge fluid de-icing is. (Level 1) 
+less of a fire hazard. 
+@@aerodynamic shape is not disturbed. 
+more efficient. 
+On a 'hot rod' type of ice detector, it is switched on. (Level 1) 
+all the time. 
+@@when selected by the crew. 
+when in the air. 
+De-misting of passenger windows is provided by. (Level 1) 
+sealed window. 
+an electrical heating element.
+@@air from the cabin. 
+Windscreen wiper torque tests are carried out at. (Level 1) 
+blade attachment end. 
+centre point of the blade. 
+@@the shaft end. 
+Air for anti-icing of the wings is obtained from. (Level 1) 
+air conditioning ducting. 
+@@engine compressors. 
+a combustion heater. 
+The usual material for pipelines in a fluid deice system. (Level 1) 
+stainless steel. 
+Monel. 
+@@nylon. 
+What is run-back ice? (Level 1) 
+@@Glaze ice. 
+Rime ice. 
+Glime ice. 
+The advantage of leading-edge fluid de-icing is. (Level 1) 
+less of a fire hazard. 
+@@aerodynamic shape is not disturbed. 
+efficient. 
+On a 'hot rod' type of ice detector, it is switched on. (Level 1) 
+on the time. 
+@@when selected by the crew. 
+when in the air. 
+De-misting of passenger windows is provided by. (Level 1) 
+sealed window. 
+an electrical colling element. 
+@@air from the cabin. 
+Windscreen wiper torque tests are carried out at. (Level 1) 
+blade attachment end. 
+left point of the blade. 
+@@the shaft end. 
+Air for anti-icing of the wings is obtained from. (Level 1) 
+water conditioning ducting.
+@@engine compressors. 
+a combustion heater. 
+The usual material for pipelines in a fluid deice system. (Level 1) 
+Stainless steel back. 
+Monel. 
+@@Nylon. 
+What is run-back ice? (Level 1) 
+@@Glaze ice. 
+Drift ice. 
+Glime ice. 
+How is a serrated rod ice detector bench tested? (Level 2) 
+@@Screwdriver torque test. 
+By a motor load test. 
+Motor test and go/no-go gap measurement. 
+Windshield heating provides. (Level 2) 
+thermal expansion for a tighter fit. 
+@@impact resistance enhancement. 
+increases strength to resist cabin pressure. 
+Prior to securing a leading-edge de-icing boot you must. (Level 2) 
+@@remove all paint. 
+paint the surface. 
+shave rivet to prevent further abrasion. 
+When a vibrating rod ice detector has de-iced, the warning lamp on the flight deck. (Level 2) 
+goes out immediately. 
+goes out after one more cycle. 
+@@goes out after a set period of time. 
+A deicer boot is completely bonded to the leading edge to. (Level 2) 
+provide smoother airflow over leading edge. 
+@@prevent electrical static build up. 
+provide more efficient deicer cycles. 
+In a cockpit window heater system, the autotransformer. (Level 2) 
+supplies DC power for heating. 
+supplies AC Power for heating.
+@@steps up output for severe weather conditions. 
+Windscreen autotransformers. (Level 2) 
+step down voltage. 
+@@step up voltage. 
+are used to supply extra current under difficult conditions. 
+Windscreen heating is supplied from. (Level 2) 
+@@frequency wild generator, direct to the windscreen. 
+DC generator, via a transformer. 
+frequency wild generator, via a rectifier. 
+When operating a windscreen wiper on the ground, make sure to. (Level 2) 
+use slow wiper only. 
+@@use water as lubricant when operating. 
+place soft cloth between blade and window. 
+How is a serrated rod ice detector bench tested? (Level 2) 
+@@Screwdriver torque test. 
+By a motor load test. 
+Motor test and go gap measurement. 
+Windshield heating provides. (Level 2) 
+thermal expansion for a tighter fit. 
+@@impact resistance enhancement. 
+creases strength to resist cabin pressure. 
+Prior to securing a leading-edge de-icing boot you must. (Level 2) 
+@@remove all paint. 
+paint the surface. 
+shave rivet 
+When a vibrating rod ice detector has de-iced, the warning lamp on the flight deck. (Level 2) 
+goes out mediately. 
+goes out after one more cycle. 
+@@goes out after a set period of time. 
+A deicer boot is completely bonded to the leading edge to. (Level 2) 
+prevent smoother airflow over leading edge. 
+@@prevent electrical static build up. 
+provide more efficient deicer cycles.
+In a cockpit window heater system, the autotransformer. (Level 2) 
+supplies DC Power for heating. 
+supplies AC Power for colling. 
+@@steps up output for severe weather conditions. 
+Windscreen autotransformers. (Level 2) 
+step more down voltage. 
+@@step up voltage. 
+are used to supply extra current under difficult conditions. 
+Windscreen heating is supplied from. (Level 2) 
+@@frequency wild generator, direct to the windscreen. 
+AC generator, via a transformer. 
+frequency wild generator, via a rectifier. 
+When operating a windscreen wiper on the ground, make sure to. (Level 2) 
+use fast wiper only. 
+@@use water as lubricant when operating. 
+place soft cloth between blade and window. 
+On large transport aircraft, the windshield wiper system is. (Level 3) 
+one system for both sides but with the same power source. 
+independent on each side but with the same power source. 
+@@independent on each side with different power sources. 
+Ice formation on wings is due to. (Level 3) 
+suspended ice crystals melting on contact with the wing and instantly re-freezing. 
+ice crystals forming layers on contact with the wing. 
+@@supercooled water changing state on contact with the wing. 
+Windshield rain repellent is applied. (Level 3) 
+@@when rain is on windows and spread by wipers. 
+before rain and spread on window surface by wipers. 
+when in heavy rain so vision is unobscured. 
+Pneumatic rain removal systems. (Level 3) 
+@@use engine bleed air at high velocity to remove water droplets from windscreen. 
+are not permitted on large transport aircraft.
+use a pneumatic motor to drive windscreen wipers. 
+An ice deposit formed when liquid water flows over the airframe before freezing, and which is dense, tough and sticks closely to the surface is called. (Level 3) 
+@@glaze Ice. 
+rime Ice. 
+hoar Frost. 
+When testing pitot head heaters. (Level 3) 
+they can only be checked by noting the temperature rise of the probe. 
+@@they must only be switched on for the minimum time required to check serviceability. 
+they should be switched on for five minutes to allow to stabilize before taking ammeter readings. 
+A rotary knife edge ice detector provides warning of ice by. (Level 3) 
+increased torque caused by ice formation slowing the rotating wheel and illuminating a warning light in the aircraft. 
+@@decreased torque caused by ice formation slowing the rotating wheel and illuminating a warning light in the cockpit. 
+ice formation stopping the rotation of a rotary knife edge and illuminating a warning light in the cockpit. 
+A wing thermal anti-ice annunciator is illuminated permanently in flight deck without selection being made. The most probable cause would be. (Level 3) 
+@@a short circuit. 
+an open circuit. 
+normal. 
+Ice formation on wings is due to. (Level 3) 
+suspended ice crystals melting on contact with the wing and instantly freezing. 
+ice crystals forming layers on contact with the wing. 
+@@supercooled water changing state on contact with the wing. 
+Windshield rain repellent is applied. (Level 3) 
+@@when rain is on windows and spread by wipers. 
+before rain and spread on window surface by wipers. 
+before heavy rain so vision is unobscured. 
+Pneumatic rain removal systems. (Level 3) 
+@@use engine bleed air at high velocity to remove water droplets from windscreen.
+are not permitted on large transport aircraft. 
+use a hydraulic motor to drive windscreen wipers. 
+An ice deposit formed when liquid water flows over the airframe before freezing, and which is dense, tough and sticks closely to the surface is called. (Level 3) 
+@@glaze Ice. 
+rime Ice. 
+Drift Frost. 
+When testing pitot head heaters. (Level 3) 
+they can not only be checked by noting the temperature rise of the probe. 
+@@they must only be switched on for the minimum time required to check serviceability. 
+they should be switched on for five minutes to allow to stabilize before taking ammeter readings. 
+A rotary knife edge ice detector provides warning of ice by. (Level 3) 
+increased torque caused by ice formation slowing the rotating wheel and illuminating a warning light in the aircraft. 
+@@decreased torque caused by ice formation slowing the rotating wheel and illuminating a warning light in the cockpit. 
+ice formation stopping the rotation of a rotary knife edge and illuminating a warning light in the cabin. 
+A wing thermal anti-ice annunciator is illuminated permanently in-flight deck without selection being made. The most probable cause would be. (Level 3) 
+@@a short circuit. 
+a close circuit. 
+normal. 

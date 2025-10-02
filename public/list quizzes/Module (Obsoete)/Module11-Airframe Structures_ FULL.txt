@@ -1,0 +1,664 @@
+Zone 320 under the ATA system is. (Level 1)
+central fuselage.
+@@vertical stabiliser.
+horizontal stabiliser.
+Tension is the stress of. (Level 1)
+crush or compression.
+@@elongating or stretch.
+twisting.
+Composite materials are bonded by. (Level 1)
+aluminium wire.
+@@special paint.
+copper wire.
+ATA Zone 100 is. (Level 1)
+upper fuselage.
+@@lower fuselage.
+Wing.
+The bonding lead to a remote aircraft component must be. (Level 1)
+@@0.5 in wide.
+22 AWG.
+0.25 in wide and 22 AWG.
+at force is an I-Beam subjected to?. (Level 1)
+Tension.
+@@Bending.
+Shear.
+Which of the following is an example of a fail safe structure?. (Level 1)
+Spar.
+Longeron.
+@@Stringer.
+In the ATA 100 zonal system the passenger entry door will have a designation of. (Level 1)
+@@800.
+600.
+400.
+Which area of the aircraft is subject to hoop stress?. (Level 1)
+Control surfaces.
+@@Pressure cabin.
+Wings.
+Shear stress is described as. (Level 1)
+pulling forces.
+compressing forces.
+@@slip away under the action of forces.
+Most radio aerials are. (Level 1)
+not bonded.
+@@bonded.
+insulated from the fuselage.
+Secondary bonding is usually provided with. (Level 1)
+stranded copper 0.25 inch.
+single strand 0.25 inch.
+@@18 AWG.
+Water Lines (WLs) are measured points on a. (Level 1)
+@@vertical line.
+wing line.
+horizontal line.
+What governs the ultimate fatigue life of an aircraft?. (Level 1)
+Pressure Cycles.
+@@Flying Hours.
+Landings.
+The life of the structure is counted by. (Level 1)
+landings.
+@@pressurization cycle.
+flying hours.
+A member taking a compression load is called a. (Level 1)
+beam.
+cable.
+@@strut.
+What load is a tie rod designed to accept?. (Level 1)
+Bending.
+@@Tensile.
+Torsion.
+If a colour is used to identify primary structure, it will be. (Level 1)
+@@red.
+green.
+yellow.
+Which of the following is primary structure?. (Level 1)
+Frame.
+@@Skin.
+Stringer.
+Fuselage station numbers are measured from the front of the aircraft in. (Level 1)
+feet.
+@@inches.
+feet and inches.
+Structure with built in redundancy is called. (Level 1)
+double safe.
+@@failsafe.
+safe life.
+The Airworthiness Notice that refers to structural surveys is. (Level 1)
+Notice 65.
+Notice 79.
+@@Notice 89.
+Structural survey inspections are normally called up by the. (Level 1)
+operator.
+maintenance engineer.
+@@manufacturer.
+Where are wing stations measured from?. (Level 1)
+Water Line (WL).
+Zone Line (ZL).
+@@Butt Line (BL).
+When doing a bonding check the maximum resistance between component and earth is. (Level 2)
+0.005ohms.
+1/50 ohms.
+@@50 milliohms.
+How is damage to the nose cone of an aircraft prevented during a lightning strike?. (Level 2)
+Earthing Strap.
+@@Bonding Strip.
+@@Bonding Strip.
+A Fuselage Station is a. (Level 2)
+lateral point on aircraft wing.
+lateral point on aircraft fuse.
+@@longitudinal point on the aircraft fuselage.
+A radome is protected from static electricity build-up by. (Level 2)
+bonding strips.
+special conductive grease.
+@@conductive paint.
+Precise points are located on an aircraft by a system of. (Level 2)
+frame stations, vertical lines and lateral lines.
+longitudinal, vertical and lateral lines.
+@@frame stations, water lines and buttock lines.
+Damage tolerant design. (Level 2)
+is applied only to secondary structure.
+@@allows for certain damage to the structure to go un-repaired between scheduled maintenance.
+allows for damage to structure by distributing loads to other structure.
+The ground cable must be. (Level 2)
+@@single strand copper wire 0.5 in. cross sectional area.
+copper stranded 0.5 in. cross sectional area.
+single strand 18 AWG.
+Where on the aircraft is FS245, RWS45?. (Level 2)
+245 inches from the nose of the aircraft and 45 inches from the tip of the right wing.
+@@245 inches from the datum line of the aircraft and 45 inches from the centreline of the right wing.
+245 inches from the nose of the aircraft and 45 inches from the centreline of the right wing.
+How is the radome protected from lightning strike?. (Level 2)
+Special grease on the hinges.
+@@Diverter strips.
+Special paint.
+If you short the two prongs with the single prong of a bonding tester together, what would the gauge read?. (Level 2)
+Full scale deflection.
+Centre scale.
+@@Zero.
+A condition after which a permanent deformation of a material is caused, is known as. (Level 2)
+@@strain.
+shear.
+shear.
+Semi-monocoque construction. (Level 2)
+utilizes the safe-life design concept.
+is used only for the fuselage.
+@@offers good damage resistance.
+The various parts of the aircraft airframe are maintained at the same potential by. (Level 2)
+@@bonding.
+earthing.
+static wicks.
+The cross sectional area of a secondary conductor must be not less than. (Level 2)
+@@18 SWG for a single wire.
+22 SWG x 0.25.
+22 SWG x 0.5.
+The main forces on an aircraft structure are. (Level 2)
+@@tension, compression, torsion and shear.
+tension, compression, torsion and strain.
+tension, compression, twisting and shear.
+What are buttock lines?. (Level 2)
+@@Measurements from the centre line.
+Horizontal measurement lines.
+Vertical measurement lines.
+Aircraft fibreglass panels are protected against lighting strikes, partially by. (Level 2)
+non-conductive paint.
+bonding.
+@@conductive paint.
+Stringers are used in which of the following types of aircraft fuselage construction?. (Level 2)
+@@Semi-monocoque.
+Truss type.
+Monocoque.
+Wing stations are measured. (Level 2)
+outboard from the wing root.
+@@outboard from the fuselage centreline.
+inboard from the wing upper surface.
+Which parts of the aircraft are classified secondary structures?. (Level 2)
+@@These parts of the airframe are highly stressed but if damaged will not cause failure of the aircraft.
+These parts of the airframe are highly stressed and if damaged may cause failure of the aircraft and loss of life.
+These are lightly stressed parts such as fairings, wheel shields and minor component brackets etc.
+Stress. (Level 2)
+is the property of a material to resist fracture.
+@@is the load per unit area acting on a material.
+is the deformation of a material caused by applied load.
+A piece of structure which must be replaced at a specified number of cycles, flying hours or years, regardless of its physical condition is what type of item?. (Level 2)
+@@Safe-life.
+Fail-safe.
+Condition monitored.
+If you are unable to identify a structure classification as either Primary or Secondary, what action should you adopt?. (Level 2)
+@@Upgrade it to primary.
+Grade it as secondary.
+Paint it red and stamp it as tertiary.
+Safe-life is. (Level 2)
+the sharing of loads between adjacent members.
+the minimum number of flying hours that should elapse before a major structural failure occurs.
+@@the maximum number of flying hours that should elapse before a major structural failure occurs.
+What kind of seal is used on firewall bulkheads?. (Level 1)
+Soft rubber.
+@@Fire-proof grommets.
+None is required.
+The two stages in a good adhesive bond are. (Level 1)
+@@wetting and Setting.
+wetting and gripping.
+spreading and setting.
+Prior to aluminium alloy bonding, we use. (Level 1)
+@@acid etch.
+alkaline etch.
+solvent etch.
+In semi-monocoque construction, compression loads are taken by. (Level 1)
+@@stringers.
+bulkheads.
+frames.
+Most large transport aircraft skins are. (Level 1)
+@@2024.
+7075.
+5056.
+What opposes buckling in a semi-monocoque structure?. (Level 1)
+@@Stringers.
+Bulkheads.
+Frames.
+In a monocoque structure, which component carries the majority of the loads?. (Level 1)
+Longerons.
+Stringers.
+@@Skin.
+A bonded waffle doubler, as well as acting as a skin strengthener, also acts as a. (Level 1)
+jury strut.
+@@tear stopper.
+shear tie.
+What are the faying surfaces of a repair?. (Level 1)
+Middle of repair.
+Edges of repair metal.
+@@Material under repair.
+Why is a joggle joint used?. (Level 1)
+So countersunk rivets do not need to be used.
+@@Smooth contour of surface.
+Added strength.
+What are the types of true bonded joints?. (Level 1)
+@@Mechanical and specific.
+Mechanical and cemented.
+Mechanical and cemented.
+Skin panels may be strengthened by. (Level 1)
+cleats.
+struts.
+@@stringers.
+Synthetic resins are made from nylon, vinyl and. (Level 1)
+asphalt.
+cellulose.
+@@acrylics.
+In a fully monocoque fuselage, all the loads are carried by the. (Level 1)
+longerons.
+frames.
+@@skin.
+If an aircraft has alkaline batteries, the battery compartment drain pipes will be. (Level 1)
+plastic.
+aluminium alloy.
+@@stainless steel.
+When an item is cocooned, the visual indicator will indicate. (Level 1)
+@@humidity.
+temperature.
+toxic gases.
+The maximum permissible bow in a steel tube is. (Level 1)
+@@1 in 600.
+1 in 200.
+1 in 400.
+Buckling in a semi-monocoque structure is prevented by. (Level 1)
+@@stringers.
+longerons.
+bulkheads.
+Which loads do longerons resist?. (Level 1)
+Torsional only.
+Bending, compression, tensile and torsion.
+@@Bending, compression and tensile.
+A spar web will take loads in. (Level 1)
+bending.
+tension.
+@@shear.
+Wing bending and shear loads are taken by. (Level 1)
+spar cap.
+skin.
+@@main spar.
+A cantilever wing is a. (Level 1)
+@@usual airliner wing.
+top wing of a biplane.
+swept-back wing.
+On a mono-spar wing, what gives the wing its profile contour?. (Level 1)
+Milled stringers.
+The position of the spars.
+@@Ribs.
+The main undercarriage is attached to the. (Level 1)
+@@aircraft structure.
+rear main spar.
+front main spar.
+The final coat of sealing in a integral fuel tank is called. (Level 1)
+fillet.
+interfay.
+@@brush coat.
+The principle load bearing members of the wing are. (Level 1)
+@@spars.
+struts.
+ribs.
+A leading edge slat is attached to the. (Level 1)
+@@slat track.
+wing upper skin.
+Front spar
+The web of an 'I' beam takes mainly which type of load?. (Level 1)
+@@Shear.
+Tension.
+Bending.
+The term 'empennage' incorporates. (Level 1)
+rudder, ailerons, spoilers.
+elevators, stabiliser, ailerons.
+@@elevators, stabiliser, rudder.
+The four main structural items making up a horizontal stabiliser are. (Level 1)
+spar, rib, bulkheads, skin panels.
+@@spar, rib, stringers, skin panels.
+spar, rib, longerons, skin panels.
+The direction of travel of an electrically operated variable incidence tailplane is determined by. (Level 1)
+gearbox.
+@@solenoid operated clutches.
+direction of rotation of the electric motor.
+The fin helps to give. (Level 1)
+@@directional stability about the normal axis.
+longitudinal stability about the normal axis.
+directional stability about the longitudinal axis.
+Which of the following are primary control surfaces?. (Level 1)
+Roll spoilers, elevators, tabs.
+Elevators, roll spoilers, tabs.
+@@Elevators, ailerons, rudder.
+The outboard ailerons on some large aircraft. (Level 1)
+are isolated at low speeds.
+are isolated to improve sensitivity.
+@@are isolated at high speeds.
+What is attached to the rear of the vertical stabilizer?. (Level 1)
+Elevator.
+Aileron.
+@@Rudder.
+Aerodynamic balance is used to. (Level 1)
+@@make the flying controls easier to move.
+prevent flutter of the flying controls.
+reduce the control load to zero.
+A control surface is mass balanced by. (Level 1)
+@@the attachment of weights acting forward of the hinge line.
+the attachment of weights acting on the hinge line.
+fitting a balance tab.
+The purpose of anti-balance tabs is to. (Level 1)
+relieve stick loads.
+trim the aircraft.
+@@give more feel to the control column.
+An elevator controls the aircraft motion in. (Level 1)
+yaw.
+@@pitch.
+roll.
+Jet engines are usually mounted by. (Level 1)
+aluminium castings.
+@@forged mounts and bolted to aircraft forged structure.
+welded steel tubing.
+A pylon structural member supports the. (Level 1)
+centre section.
+@@engine.
+empennage.
+The purpose of a primer is to. (Level 2)
+provide shiny surface for the topcoat.
+provide flexible surface for the top coat.
+@@help bonding of the topcoat.
+Which of the following statements is correct, in relation to PLI washers used in critical bolted joints?. (Level 2)
+PLI washers can be affected by thread or nut friction or by lubrication.
+@@PLI washers can only be used with self locking nuts and the washers should be used once.
+PLI washers can be used more than once, providing they are used in critical bolted joints.
+When carrying out a symmetry check on a large aircraft, what method of measurement is normally used?. (Level 2)
+Lateral alignment method.
+Longitudinal alignment method.
+@@Steel tape and spring balance.
+To remove a rivet. (Level 2)
+drill the head with a drill bit slightly smaller than the rivet shank, chisel off the rivet head, and remove the shank with a metal punch.
+chisel off the rivet head, and remove the shank with a metal punch.
+@@drill the head with a drill bit the same size as the rivet shank, chisel off the rivet head, and remove the shank with a metal punch.
+Battery trays are. (Level 2)
+absorbent to soak up electrolyte.
+metal for earthing purposes.
+@@metal with PVC coating and anti corrosive paint.
+The primary purpose of sealant in use in pressurised aircraft is. (Level 2)
+@@to seal the cabin.
+to prevent corrosion.
+to provide external streamlining.
+When installing a 'Hi-lock' bolt, it is necessary to. (Level 2)
+@@simply fit the bolt as they are prelubricated.
+lubricate the collar.
+lubricate the shank and threads.
+Sealant or levelling compound is installed during structure repair:. (Level 2)
+@@according to AMM and SRM chapter 51.
+according to SB instructions.
+according to separate manufacturer's documentations such as BAC.
+Dissimilar metal fusion bonding is best for. (Level 2)
+high strength high toughness.
+@@high strength high stiffness.
+low strength high toughness.
+The ideal conditions for paint spraying an aircraft are. (Level 2)
+20°C to 30°C and humidity below 70%.
+@@15°C to 25°C and humidity below 75%.
+15°C to 25°C and humidity above 60%.
+When both sides of a structural repair are not easily reached, which type of fastener would you use?. (Level 2)
+Pop rivet.
+Hi lock bolt.
+@@Blind rivet.
+With regard to extraneous spilt fluids. (Level 2)
+@@they may be harmful to the aircraft structure.
+they should only be cleaned up if they are on the external surface of the aircraft.
+they can be ignored, they provide extra protection.
+What is the normal form of construction of a spar?. (Level 2)
+Two webs separated by a boom.
+One boom mounted under a web.
+@@Two booms separated by a web.
+A crack stopper is fitted. (Level 2)
+before a crack starts, to prevent its initiation.
+@@before a crack starts, to slow its rate of propagation.
+after a crack starts, to slow its rate of propagation.
+Which of the following should be accomplished before jacking an aircraft?. (Level 2)
+@@Install critical stress panels or plates.
+Determine the fuel tanks are empty.
+Remove all optional equipment.
+One of the advantages of the semi-monocoque construction is that it. (Level 2)
+is easier to manufacture.
+@@shares the loads.
+takes all the loads in the skin.
+Intercostals are. (Level 2)
+vertical struts joining the upper and lower wings of a biplane.
+compression ribs in cantilever wings.
+@@longitudinal fuselage members attached at each end to adjacent frames.
+Joints that are designed to stop the propagation of cracks are known as. (Level 2)
+@@failsafe joints.
+secondary joints.
+crack limiting joints.
+An overweight landing is one in which the aircraft has. (Level 2)
+@@too much kinetic energy on landing.
+missed placed centre of gravity on landing.
+an excessive fuel load on take-off.
+Symmetry checks should be carried out. (Level 2)
+in the hangar with the aircraft on its wheels.
+on the ramp with the aircraft on its wheels.
+@@in the hanger with the aircraft on jacks.
+The purpose of a wash primer and primer is to. (Level 2)
+@@help bonding for top-coat.
+provide a flexible surface for top-coat.
+provide more aerodynamic finish for top-coat.
+Dents are generally not permitted in a tubular member. (Level 2)
+@@if they are located in the end thirds of the length of the member.
+if the major axis of the dent is parallel to the tube axis irrespective of the location.
+if they are located in the middle third of the length of the member.
+An aspect ratio of 8 could mean. (Level 2)
+@@span 64 ft., mean chord 8 ft.
+span squared 64 ft., chord 8 ft.
+mean chord 64 ft., span 8 ft.
+A wing's leading edge would have provisions and linkages for slats and. (Level 2)
+@@leading edge flaps.
+trailing edge flaps.
+slots.
+The mid-spar is fitted in large aircraft to. (Level 2)
+support fitting the engine mount & landing gear mount.
+@@assist the main spar with operational loads.
+provide redundant design.
+One purpose of a rib is to. (Level 2)
+support the bending loads on a fuselage.
+form the main lateral member in an aerofoil.
+@@maintain the correct contour of an aerofoils covering.
+What is a cantilever wing?. (Level 2)
+One that folds for access to limited space.
+One that has external supporting struts.
+@@One that has no external supporting struts.
+A spar is tapered from root to tip because. (Level 2)
+shear forces are greatest at the root.
+@@bending moment is greatest at the root.
+centre of lift occurs close to the root.
+A spar web is. (Level 2)
+@@member between the spar and wing/fuselage connection.
+an area between two spar caps.
+rib/spar joint.
+To correct for nose heaviness on an aircraft fitted with a variable incidence tailplane, the incidence of the tailplane would be. (Level 2)
+@@decreased, which is done by lowering the leading edge.
+decreased, which is done by lowering the trailing edge.
+increased, which is done by lowering the leading edge.
+An upward elevator deflection on the reverse camber tailplane. (Level 2)
+may increase or decrease download depending upon the aircraft C of G position.
+will decrease tailplane download.
+@@will increase tailplane download.
+Variable incidence tailplanes. (Level 2)
+move rapidly when trimming the aircraft during climb.
+out and landing approach and slowly during cruise always move slowly.
+@@move rapidly when trimming the aircraft during the landing approach and slowly at all other times.
+On an aircraft with a variable incidence trimming tailplane, the tailplane incidence changes. (Level 2)
+if the control column is moved back or forward.
+automatically if the elevator moves.
+@@if the trim wheel is turned back or forward.
+Construction such as horn balance and inset hinge balance installed on control surface assembly. (Level 2)
+serves as a 'servo' system of balance.
+@@has same effect of the balance tab.
+is meant to trim CG of control surfaces.
+Aerodynamic balance. (Level 2)
+@@will reduce aerodynamic loading.
+will cause CP to move towards the trailing edge and cause instability.
+will cause CP to move towards the trailing edge and cause instability.
+An excess of aerodynamic balance would move the control surface centre of pressure. (Level 2)
+rearwards, resulting in too much assistance.
+rearwards, resulting in loss of assistance.
+@@forwards, resulting in an unstable overbalance.
+A flying control mass balance weight. (Level 2)
+keeps the control surface C of G as close to the trailing edge as possible.
+@@tends to move the control surface C of G close to the hinge line.
+ensures that the C of G always acts to aid the pilot thus relieving control column load.
+The method employed to mass balance control surfaces is to. (Level 2)
+@@attach weights forward of the hinge line.
+allow the leading edge of the surface to project into the airflow.
+fit bias strips to the trailing edge of the surfaces.
+A 'frise' aileron is incorporated to. (Level 2)
+provide aerodynamic balancing so assisting the pilot to move the control.
+ensure aileron control is retained at high angles of attack.
+@@equalize aileron drag in a turn.
+The balance tab is an auxiliary surface fitted to a main control surface. (Level 2)
+operating automatically to provide feel to the controls.
+operated independently at which point in the length of cable the tensiometer is applied.
+@@operating automatically to assist the pilot in moving the controls.
+Wing mounted podded engines and integral fuel tanks. (Level 2)
+@@provide wing bending relief.
+provide increased safety if the undercarriage collapses on landing.
+reduce tailplane download.
+Which is not true about semi-monocoque structure (Level 1)
+The semi-monocoque fuselage is constructed primarily of the alloys of aluminium, although steel and titanium are found in areas of high temperatures.
+The bulkheads, frames, stringers and longerons facilitate the design and construction of a streamlined fuselage, and add to the strength and rigidity of the structure.
+@@All the strength of the structure is carried in the outside skin.
+Which part has function to transfer directly the pressure load from the skin to the frame? (Level 1)
+Stringer
+@@Clip
+Longegron
+Which process is the most important treatment for aluminium alloys (Level 1)
+@@Anodizing process
+Alodizing process
+Cleaning process
+Which one is not purpose of primer layer: (Level 2)
+The primer increases the corrosion resistance 1properties because it contains corrosion inhibitors
+The primer also protects the surface against corrosive agents and gives a good surface for the adhesion of the subsequent paint coatings.
+@@The primer has the function to protect the layers of the bare material and gives the aircraft the necessary appearance.
+Which layer is directly applied before applying top coat layer (Level 2)
+Wash primer
+@@Primer
+Pre-treatment
+Which one is true about special coatings (Level 2)
+@@This is used to cover protected surfaces or to protect unprotected surfaces
+It helps the surface is roughened which provides a good contact for paint coatings
+The purpose is to remove all dirt, oil, fuel, fluid, dust deposits and accumulated dirt from landing gear and wheel for inspection and maintenance purposes
+In some locations on an aircraft where it is not possible to reach both sides of the structure, which type of fastener must be used? (Level 2)
+Bolt and nut
+Solid rivet
+@@Blind rivet
+Which structure member carry and distribute different loads of the fuselage (Level 2)
+@@Bulkhead
+Stringer
+Skin
+What is primary structure (Level 1)
+@@Primary structure is that structure which contributes significantly to carrying flight, ground and pressurization loads.
+Primary structure is that structure which carries only air or inertial loads generated on or within the secondary structure.
+Primary structure is that structure which contributes significantly to carrying flight and pressurization loads
+Which is correct about “safe-life” design principle? (Level 1)
+@@The safe-life design principle requires that major structural elements be replaced after a fixed number of flight cycles.
+These parts can be repaired or refurbished to extend the components life
+This method relies upon a duplication of certain structural members to ensure that if one member failed, the other would assume the load of the failed member.
+How many type of aircraft fuselage construction? (Level 1)
+1
+@@2
+3
+How far are frames normally spaced used in constructing the fuselage? (Level 2)
+@@20 inches
+22 inches
+24 inches
+Where is the keel beam located? (Level 1)
+@@Through the center wing section of the fuselage
+Through the aft wing section of the fuselage
+Through the mid section of the fuselage
+In case of emergency, which doors can be used as emergency exit doors for a quick passenger and crew evacuation? (Level 1)
+Cargo doors
+Service doors
+@@Main entry doors
+The basic construction of the doors comprises (Level 1)
+The door structure and the different mechanisms
+The door structure and the linings
+@@The door structure, the linings and the different mechanisms
+The door structure consists of (Level 1)
+The door frame, beams and intercostals
+@@The door frame, beams, formers and intercostals
+The door frame, formers and intercostals
+The door is supported by (Level 2)
+@@The support arm
+The guide arms
+The support arm and the guide arms
+The overhead hatch provides an emergency exit for (Level 1)
+The passengers from the cockpit
+@@The flight crew from the cockpit
+The flight crew from the cabin
+To check the reservoir pressure gage? (Level 2)
+@@Check permitted pressures on the pressure-temperature chart
+Check the yellow band on the reservoir pressure gage
+Check the green band on the reservoir pressure gage
+When working around or with the reservoir or any mechanism connected to it (Level 1)
+You must install the safety caps
+You must install the safety collars
+@@You must install the safety pins
+The bulk cargo door is different from the other cargo doors; it opens? (Level 2)
+@@Inwards and is operated manually
+Outwards and is operated manually
+Inwards and is operated electrically
+On Airbus aircraft, a piano hinge connects the cargo door to the fuselage (Level 2)
+At the bottom of cargo door
+@@At the top of cargo door 
+At the center of cargo door
+The vent door (of cargo door) provides pressure relief by (Level 2)
+Opening outward when the differential pressure between inside and outside of the fuselage is greater than 1 psi
+Opening inward when the differential pressure between inside and outside of the fuselage is greater than 5 psi
+@@Opening inward when the differential pressure between inside and outside of the fuselage is greater than 1 psi
+The aircraft windows are: (Level 1)
+The cockpit windows and the observer windows
+The cockpit windows and the cabin windows
+@@The cockpit windows, the cabin windows and the observer windows 
+Which windows can be used as flight crew emergency exits (Level 1)
+@@Side windows 
+Cabin windows
+Windshields
+The cabin windows have (Level 1)
+1 panes
+@@2 panes 
+3 panes
+The vent hole makes sure that during normal operation, the pressure between the panes is the same as the cabin pressure, it located at? (Level 2)
+@@In the center near the bottom of the inner pane 
+In the center near the top of the inner pane
+In the center near the bottom of the outer pane
+The nose cap of the leading edge structure is made of (Level 1)
+Stainless steel alloy
+@@Aluminum alloy 
+Titanium alloy
+The aft pylon attach fittings transmit (Level 2)
+@@Weight and longitudinal loads
+Lateral loads and longitudinal loads
+Weight and lateral loads
+The forward pylon attach fittings transmit (Level 2)
+Weight and longitudinal loads
+Lateral loads and longitudinal loads
+@@Weight and lateral loads
+The tail cone is (Level 1)
+A non-removable single unit
+@@A removable single unit
+A removable double unit
+The movable rudders are attached to (Level 2)
+@@the trailing edge of the fixed vertical stabilizer
+the leading edge of the fixed vertical stabilizer
+the center hinge of the fixed vertical stabilizer
+Functions of the wing (Level 1)
+Create lift which keeps the aircraft in flight
+Store fuel for flight and support for the engines
+@@Create lift, store fuel for flight and support for the engines
+The wing upper skin panel carries (Level 2)
+Mainly tension loads to the fuselage structure
+@@Mainly compression loads
+Mainly vertical loads to the fuselage structure
+The wing lower skin panel carries (Level 2)
+@@Mainly tension loads to the fuselage structure
+Mainly compression loads to the fuselage structure
+Mainly vertical loads to the fuselage structure
+Where is landing gear support arm located? (Level 2)
+@@Wing rear spar
+Wing front spar
+Wing front spar and wing rear spar

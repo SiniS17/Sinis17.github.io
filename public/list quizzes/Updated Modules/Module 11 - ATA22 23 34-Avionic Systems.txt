@@ -1,0 +1,396 @@
+Autopilot servo brake is energised. (Level 1)
+to actuate on.
+at the same time as the clutch.
+@@to actuate off.
+An autopilot PFCU servo brake is. (Level 1)
+energised on.
+energised at the same time as the clutch.
+@@energised off.
+The aviation distress frequency is. (Level 1)
+121.5 kHZ.
+122.5 MHz.
+@@121.5 MHz.
+A radar altimeter in track mode is effective to. (Level 1)
+100 ft.
+@@2500 ft.
+2000 ft.
+112.1 MHz is. (Level 1)
+an ILS frequency.
+an ADF frequency.
+@@a VOR frequency.
+What does a Decca Navigation system operate on?. (Level 1)
+Very High Frequency.
+@@Low Frequency.
+High Frequency.
+Which of the following has an hyperbolic curve?. (Level 1)
+VOR.
+DME.
+@@Loran C.
+A GPS satellite will come into view. (Level 1)
+20° above the horizon with respect to the viewer.
+@@15° above the horizon with respect to the viewer.
+10° above the horizon with respect to the viewer.
+Restrictions to the use of hand held microphones apply to. (Level 1)
+@@transport category aircraft only.
+private aircraft.
+aerial work and transport category aircraft.
+The purpose of the clutch in an autothrottle servo is. (Level 1)
+@@to allow the pilot to override.
+to limit the range of control movement.
+to protect the servo motor in the event of inadvertent runaway.
+Track mode of an RA is operational. (Level 1)
+@@from 0 to 2,500 feet.
+from 1.0 to 100 feet.
+above 10,000 feet.
+Which category are hand mikes considered essential?. (Level 1)
+Aerial work aircraft.
+@@Light aircraft.
+Heavy passenger aircraft.
+How many aerials are there in a TCAS system?. (Level 1)
+1.
+3.
+@@2.
+Wavelength of band radar is. (Level 1)
+@@3 cm.
+5 cm.
+10 m.
+Precipitation static is caused by. (Level 1)
+lightning strikes.
+HF radiation.
+@@skin to air particle collisions.
+HF aerials have weak points designed at. (Level 1)
+both ends.
+the front end.
+@@the back end.
+What is the reply frequency of an aircraft transponder?. (Level 1)
+1000 MHz.
+1030 MHz.
+@@1090 MHz.
+CAT 2 RVR limit is. (Level 1)
+@@1200 ft.
+1000 ft.
+10,000 ft.
+With autopilot engaged, which control surface is inhibited?. (Level 1)
+@@THS.
+Elevators.
+Ailerons.
+When flaps are lowered, the automatic trim system will. (Level 1)
+angle of incidence remains the same.
+increase the angle of incidence of the THS.
+@@decrease the angle of incidence of the THS.
+In autopilot, the control column. (Level 1)
+does not move.
+moves in pitch.
+@@moves in pitch and roll.
+A hyperbolic system is. (Level 1)
+VOR.
+@@LORAN C.
+ILS.
+Emergency frequency is. (Level 1)
+125.5 Hz.
+@@121.5 Hz.
+123.5 Hz.
+When is autothrottle disengaged?. (Level 1)
+On landing.
+After thrust reverser has deployed beyond 90% so that TO/GA can be selected in case of emergency.
+@@On selection of thrust reverse.
+In aircraft with an autopilot and an auto trim, a pitch command input will cause. (Level 1)
+column will not move and trim system will move.
+column to move but trim system not to move.
+@@column to move and trim system to move.
+In regard to the aircraft transponder, what is the pulse frequency?. (Level 1)
+Number of pulses per signal.
+Amount of times interrogating signal is sent per second.
+@@Amount of times reply signal is sent per second.
+CAT 2 RVR limit is. (Level 1)
+@@400 m.
+200 m.
+800 m.
+How many programs can a FMC store?. (Level 1)
+One current.
+Two. Both active.
+@@Two. One active and one standby.
+EPR and speed for autothrottle is activated at. (Level 1)
+@@take off.
+approach.
+cruise.
+How does an IRS calculate velocity?. (Level 1)
+@@Integration of accelerometers.
+Differentiation of laser gyro.
+Double integration of accelerometers.
+In an autopilot, what controls pitch mode?. (Level 1)
+@@Glideslope.
+VOR.
+Localizer.
+Glideslope controls autopilot in. (Level 1)
+yaw.
+roll.
+@@pitch.
+Static dischargers help eliminate radio interference by dissipating static electricity into the atmosphere at. (Level 1)
+all voltage levels.
+@@low current levels.
+high voltage levels.
+112.1 MHz is what frequency?. (Level 1)
+VHF.
+ILS.
+@@VOR.
+What is B-RNAV?. (Level 1)
+Indicates true airspeed.
+@@Indicates bearing and airspeed until next active waypoint.
+Ability to store 6 waypoints.
+An Automatic Flight Control System receives inputs from the following ground based transmitters. (Level 1)
+DME, ILS, ADF.
+@@VOR, ILS.
+RA, ADF, ILS.
+What is the wavelength of C band radar?. (Level 1)
+17 m.
+3 cm.
+@@7 cm.
+What is primary radar?. (Level 1)
+@@Radar that sends out pulse and receives reflected pulse.
+Land based.
+Radar that gives height and position.
+What is ILS marker beacon frequency?. (Level 1)
+@@75 MHz.
+100 MHz.
+50 MHz.
+TCAS is selected. (Level 1)
+@@by a switch, by pilot on selector panel.
+automatically.
+not available in cruise.
+The manual VOR input is for. (Level 1)
+glideslope.
+@@course deviation bar.
+RMI.
+The mach trim is initiated by. (Level 1)
+an electric motor.
+@@the autopilot motor.
+a PCU.
+What is the colour of the middle marker beacon?. (Level 1)
+@@Amber.
+Blue.
+White.
+A GPS system is formed from. (Level 1)
+receiver, processing unit, interactive console.
+satellites, processing unit, display unit.
+@@space, control, user.
+On a fibreglass aerial, what paint should be used?. (Level 1)
+Cellulose only.
+@@Not cellulose.
+Polyurethane.
+For aircraft with dual CMCs, when only one CMC is available, it. (Level 1)
+can be connected to either side.
+@@must be connected to the left side.
+must be connected to the right side.
+Laser gyros are. (Level 1)
+aligned to the magnetic north.
+aligned to the true north.
+@@aligned to the aircraft structure.
+Laser gyros. (Level 1)
+have rotational parts.
+@@do not have rotational parts.
+have movable parts.
+A radio coupled approach is. (Level 1)
+@@localiser first, followed by glideslope.
+in any order.
+glideslope first, followed by localiser.
+Aileron signal is fed to the rudder channel. (Level 1)
+for yaw damping compensation.
+for turn command back-up.
+@@for turn coordination.
+The rate of G/S warning in GPWS. (Level 1)
+@@changes with radio altitude.
+does not change.
+changes with barometric altitude.
+What frequency are VOR and ILS?. (Level 1)
+UHF.
+@@VHF.
+HF.
+A radio frequency of 16 MHz would be used for. (Level 1)
+weather radar.
+marker beacons.
+@@HF communications.
+An aircraft lands in autoland. After touch down and thrust reversers are deployed. What happens toautothrottle?. (Level 1)
+@@Automatically switches off.
+Advances throttles.
+Stays armed for go around in an emergency.
+Pilot's instinctive cut-out buttons are positioned. (Level 1)
+on right side of control wheel.
+@@on side of control wheel furthest from throttles.
+on left side of control wheel.
+When painting a neoprene coated radio antenna. (Level 1)
+use any paint.
+use cellulose paint.
+@@do not use cellulose paint.
+ILS and VOR operate in which range. (Level 1)
+HF.
+@@VHF.
+UHF.
+FMC secondary flight-plan is selected. (Level 1)
+on the ground by the pilot.
+@@in the air by the pilot.
+by calendar date monthly.
+GPWS operating in mode 1 and 2 when close to ground will give. (Level 1)
+amber warning.
+@@red caption and aural 'whoop whoop pull up'.
+red caption and aural 'pull up, undercarriage, flaps, throttle'.
+The components of an ILS are. (Level 1)
+a localizer and the marker beacons.
+@@a localizer, a glide slope and the marker beacons.
+a localizer and a glide slope.
+In ILS, the glideslope provides. (Level 1)
+distance checks.
+@@vertical steering.
+lateral steering.
+If the 90 Hz tone modulation in a localizer receiver predominates, the deviation indicator will show. (Level 1)
+@@fly right.
+the flag.
+fly left.
+Autopilot will operate above what altitude?. (Level 1)
+750 ft.
+1000 ft.
+@@500 ft.
+A radio coupled autopilot in pitch uses. (Level 1)
+ADF.
+VOR.
+@@glideslope.
+EPR and thrust modes in autothrottle are the only modes that can be selected in. (Level 1)
+cruise.
+approach.
+@@take off.
+An inertial navigation unit uses pin programming for. (Level 1)
+magnetic orientation.
+@@location.
+aircraft type.
+How many axis does the aircraft autopilot control?. (Level 1)
+Four.
+@@Three.
+Two.
+How can it be verified if FMC update is correct?. (Level 1)
+Dataplate on the FMC.
+BITE.
+@@FMC via CDU.
+GPWS will show a fault if the following fails:. (Level 1)
+@@Radio altimeter.
+Air speed indicator.
+Pressure altimeter.
+INS has mercury switches on. (Level 1)
+@@all gimbals.
+outer gimbal.
+inner gimbal.
+If the runway picture in the EADI moves down during an ILS approach, the aircraft must fly. (Level 1)
+up.
+@@down.
+nowhere - this is normal on an ILS approach.
+What modulation is used for the beams of a localiser in an ILS?. (Level 1)
+@@150 Hz right of runway centerline, 90 Hz left of runway centreline.
+90 Hz below the glide path, 150 Hz above the glide path.
+150 Hz left of runway centerline, 90 Hz right of runway centreline.
+In what frequency range does the automatic direction finding (ADF) system operate?. (Level 1)
+108.00 - 117.95 MHz.
+1025 - 1150 KHz.
+@@190 - 1759 KHz.
+How does an aircraft distinguish its own Distance Measuring Equipment reply from those for other aircraft?. (Level 1)
+@@By changing at random the time delay between the pulse pairs of the interrogation signal.
+By modulation of an audio tone.
+By using an alternate frequency.
+From where is bearing information received for display on the digital-distance radio- magnetic indicator (DDRMI)?. (Level 1)
+@@From VOR and ADF systems.
+From ADF only.
+From VOR only.
+Which frequency is used to achieve line of sight radio communication?. (Level 1)
+HF.
+VHF.
+@@VHF and UHF.
+Why is an aerial tuning unit used in a high frequency (HF) communication system?. (Level 1)
+To extend or retract the aerial and so vary its physical length.
+@@To electrically lengthen or shorten the aerial for optimum matching of impedance.
+To select the transmission/reception frequency in the HF band.
+ILS marker beacon lights are. (Level 1)
+@@blue, amber, white.
+blue, white, green.
+green, blue, amber.
+What would be the purpose of an input from an inertial reference system being connected to a weather radar?. (Level 1)
+To place the weather radar target in azimuth and distance for the display.
+To ensure that there is no radar transmission with aircraft on ground.
+@@To provide stabilisation for the radar antenna.
+Which systems provide envelope modulation information for a Ground Proximity Warning System (GPWS). (Level 1)
+Rudder/ailerons.
+Autothrottle.
+@@Flaps/undercarriage.
+The Time Reference Scanning Beam (TRSB) corresponds to ILS localiser and glidepath. How does it operate?. (Level 1)
+It operates in the same manner as ILS but utilises higher frequencies.
+@@Azimuth and elevation transmitters produce a narrow beam which is rapidly scanned TO and FRO or UP and DOWN.
+It operates in conjunction with DME at lower frequencies than ILS.
+The FMS navigation database is updated. (Level 1)
+@@every 28 days.
+after a B or C check has been completed.
+daily.
+In an IRS system you would expect to find. (Level 1)
+@@ring laser gyros.
+three strap down accelerometers.
+an azimuth gyro system.
+In an INS system the accelerometer is a mass. (Level 1)
+a remotely mounted mass on the airframe.
+a mass suspended in free air.
+@@suspended between two springs in a tube.
+In a modern aircraft the ACARS system is used primarily for. (Level 1)
+reporting defects on the aircraft automatically.
+@@communications between the aircraft and base.
+as part of the passenger telephone system.
+What are the main areas of the autopilot?. (Level 1)
+Error, correction , demand, resolved.
+Error, correction, follow up, demand.
+@@Error, correction, follow up, command.
+VHF frequency is. (Level 1)
+@@108 - 136 MHz.
+108 - 112 MHz.
+108 - 118 MHz.
+The call system for the captain will have the audio signal of a. (Level 1)
+horn.
+@@hi tone chime.
+two tone chime.
+111.1 MHz is. (Level 1)
+a VOR frequency.
+@@an ILS frequency.
+a HF frequency.
+Channel 3 on a CVR records. (Level 1)
+first officer.
+@@flightdeck.
+captain.
+DME works on the frequency of. (Level 1)
+@@UHF.
+HF.
+VHF.
+A radial is referenced. (Level 1)
+to a VOR.
+@@from a beacon.
+on a compass.
+ADF works by using. (Level 1)
+@@both loop and sense aerial.
+loop aerial.
+sense aerial.
+How is the next database on the FMC activated?. (Level 1)
+@@Manually in the air.
+Manually, on the ground.
+Automatically by due date.
+What GPWS mode gives a 'Whoop Whoop, Pull-up' command?. (Level 1)
+Mode 6.
+Mode 3.
+@@Mode 2.
+A transponder that is compatible for use with a TCAS system would be. (Level 1)
+Mode A.
+@@Mode S.
+Mode C.
+GPS. (Level 1)
+uses 18 satellites equally spaced around 6 orbits.
+uses 21 satellites equally spaced around 7 orbits.
+@@uses 24 satellites equally spaced around 6 orbits.
+Random precession of the inner gimbal ring is detected by placing mercury switches. (Level 1)
+on both gimbal rings.
+on outer gimbal ring.
+@@on inner gimbal ring.
+The IRS laser gyro is a. (Level 1)
+displaced gyro.
+displacement gyro.
+@@rate gyro.

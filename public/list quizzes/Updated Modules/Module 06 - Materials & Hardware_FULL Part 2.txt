@@ -1,0 +1,1124 @@
+CRES is a: (Level 1)
+Low alloy steel
+@@High alloy steel
+Non-alloyed steel
+When tempering steel, the temperature is: (Level 1)
+Above the GSE line
+@@Below the GSE line
+Exactly at the GSE line
+When soft annealing steel, after heating, you must: (Level 1)
+Cool it down by quenching
+@@Cool it down in the furnace slowly
+Cool it down at room temperature
+The most common alloying element for titanium is? (Level 1)
+@@Aluminum
+Copper
+Zinc
+In general, Titanium is not: (Level 1)
+@@Castable
+Cuttable
+Millable
+Which of the following can be used with titanium fire? (Level 1)
+Water
+@@Powder extinguisher
+Foam extinguisher
+Which is not a suitable cooling media for titanium drilling? (Level 1)
+Distilled water
+@@Oil
+Air
+Titanium components cannot be cleaned using: (Level 1)
+MEK
+@@Isopropyl Alcohol
+Acetone
+How can you recycle aluminum material? (Level 1)
+@@Remelting
+Polishing
+Alloying
+Why do you need to clad aluminum alloys? (Level 1)
+@@Alloys do not form a closed oxide skin to protect themselves.
+Alloys do not give the same shine and glare.
+Alloys do not have the same properties as pure aluminum.
+How many steps are there in the aluminum heat treatment process? (Level 1)
+2
+@@3
+4
+Which step increases the hardness of aluminum alloys in the heat treatment process? (Level 1)
+Solution annealing
+Quenching
+@@Aging
+In the solution annealing process, the temperature of the aluminum alloy is brought to: (Level 1)
+@@Above the solubility curve
+Below the solubility curve
+Exactly the solubility curve
+The solution annealing time of a material depends on: (Level 1)
+The type of material
+@@The thickness of the material
+The type of furnace used
+In the solution annealing process, the temperature and soak time of the material depends on: (Level 1)
+@@The material manufacturer
+The aircraft manufacturer
+The authority
+The purpose of quenching is to: (Level 1)
+Cool down the material
+@@Fix the state achieved with solution annealing
+Harden the material
+Generally, the quenching process happens in: (Level 1)
+A salt bath
+An oil bath
+@@A water bath
+The W-state is achieved: (Level 1)
+After solution annealing
+@@After quenching
+After aging
+Which is not an aging method for aluminum alloys? (Level 1)
+Natural aging
+@@Forced aging
+Artificial aging
+After soft annealing: (Level 1)
+The parts can be installed on the aircraft
+The parts have to be quenched
+@@The parts have to be heat treated again
+Glare is a material consists of aluminum and: (Level 1)
+Carbon fiber prepreg
+Aramid fiber prepreg
+@@Glass fiber prepreg
+How many standard grades of glare are there? (Level 1)
+4
+5
+@@6
+Which properties make it so that glare is better than aluminum alloys at protecting the load carrying structure underneath the skin? (Level 1)
+@@Good impact properties
+Good fatigue resistance
+Good damage tolerant properties
+What does CFRP mean? (Level 1)
+@@Carbon Fibre Reinforced Plastic
+Ceramic Fibre Reinforced Plastic
+Composite Fibre Reinforced Plastic
+Composite is describe as: (Level 1)
+Three or more materials that are combined to form a much stronger structure than either material by itself
+One or more materials that are combined to form a much stronger structure than either material by itself
+@@Two or more materials that are combined to form a much stronger structure than either material by itself
+Reinforcing materials are include: (Level 1)
+@@Fibreglass, Aramid, Graphite
+Fibreglass, Aramid, Kevlar
+CFRP, Aramid, Graphite
+Prepreg fibers are: (Level 1)
+These fibres are impregnated with resin.
+These fibres are already impregnated with resin in the production process and then heated very fast.
+@@These fibres are already impregnated with resin in the production process and then cooled down very fast.
+What are the characteristics of the honeycomb core material? (Level 1)
+Has a rectangle shape and has a excellent strength-to-weight ratio.
+@@Has a natural honeycomb shape and has excellent strength-to-weight ratio.
+Has a circle shape and has excellent strength-to-weight ratio.
+What is the main material of the tailplane and elevator on an A320 aircraft? (Level 1)
+Aluminium alloy
+AFRP
+@@CFRP and GFRP
+The effectiveness of an adhesive depends on several factors, including: (Level 1)
+@@Resistance to slippage and shrinkage, Malleability, Cohesive strength and Adhesion
+Resistance to slippage and shrinkage, Cohesive strength and Adhesion
+Resistance to slippage and shrinkage, Malleability
+The film adhesive has to be stored (Level 1)
+Under refrigeration at 0°C
+At room temperature.
+@@Under refrigeration at −18°C
+The two main types of resin used as a matrix are: (Level 1)
+Thermoplastic resins and polyester resin
+@@Thermosetting resin and thermoplastic resin
+Epoxy resins and phenolic resins
+Aramid fibres are also known as: (Level 1)
+@@KEVLAR
+Graphite
+Silica
+The disadvantages of epoxy resins are? (Level 1)
+@@Toxic, low pot and shelf−life, high cost
+Non-toxic, low pot and shelf−life, high cost
+Toxic, long pot and shelf−life, high cost
+When you mix the recommended amount of hardener into resin, the part will be (Level 1)
+@@Cured
+Sticky
+Unreacted
+The most simple composite is composed of (Level 1)
+A metallic and a non-metallic material
+@@A matrix and a reinforcing material
+A metallic and reinforcing material
+Styles of fabrics are include: (Level 1)
+Roving, warp-reinforced fabric, fabrics
+@@Roving, mats, fabrics
+Roving, warp-reinforced fabric, linen fabrics
+What is a sandwich construction? (Level 1)
+@@A core is bonded between two thin-face sheets, providing a rigid, lightweight component
+A core is bonded with one thin-face sheet, providing a rigid, lightweight component
+Two thin-face sheets are bonded together, providing a rigid, lightweight component
+Core material is include (Level 1)
+Foam and adhesive film
+Foam and resin
+@@Foam and honeycomb core
+Which adhesive has to evaporate one of its components to cure? (Level 1)
+@@Solvent adhesives
+Contact adhesives
+Dispersion adhesives
+Epoxy resins will cure at: (Level 1)
+@@Room temperature or high temperature
+At 0°C
+Room temperature
+How many main types of resin are used as a matrix? (Level 1)
+@@2 types
+3 types
+4 types
+Which factors have a positive effect on surface wetting? (Level 1)
+@@Removal of surface contamination, Viscosity reduction through application of heat, Time and pressure at the bonding point.
+Fingerprints left on adherent surfaces, Residues not removed from the adherent surfaces, Low temperatures, Incorrect or no surface pre-treatment.
+Removal of surface contamination, Time and pressure at the bonding point, Low temperatures
+Which factors have a negative effect on surface wetting? (Level 1)
+Removal of surface contamination, Viscosity reduction through application of heat, Time and pressure at the bonding point.
+@@Fingerprints left on adherent surfaces, Residues not removed from the adherent surfaces, Low temperatures, Incorrect or no surface pre-treatment.
+Removal of surface contamination, Time and pressure at the bonding point, Low temperatures
+Which of the following statements is correct about Scratch damage? (Level 1)
+Scratch is damage to a surface caused by scuffing, rubbing or scraping of the component. Fibres are not damaged and mechanical performance is not affected.
+Scratch is when a separation of materials, e.g. stringer to skin, occurs due to an adhesive failure
+@@Scratch is the result of contact with a sharp object and only surface fibres are affected and the edges are sharp
+Which of the following statements is correct about Abrasion damage? (Level 1)
+@@Abrasion is damage to a surface caused by scuffing, rubbing or scraping of the component. Fibres are not damaged and mechanical performance is not affected.
+Abrasion is when a separation of materials, e.g. stringer to skin, occurs due to an adhesive failure
+Abrasion is the result of contact with a sharp object and only surface fibres are affected and the edges are sharp
+Which of the following statements is correct about Lightning Strike damage? (Level 1)
+@@The effect of a lightning strike depends on the material will not be the same. For non-conductive materials like Glass- and Aramid Fibre a large part of the component, if not completely protected, may be blown out because both skins are affected and the core generally vapourised due to the extreme heat
+Lightning strike is when a separation of materials, e.g. stringer to skin, occurs due to an adhesive failure
+Lightning strike is when the separation of plies occurs in a multi-laminate material. This can be caused by the material being hit (impact delamination), or when there is a resin failure for any other reason.
+Which of the following statements is correct about Dent damage? (Level 1)
+@@A dent is a deformity caused by extraneous forces, which are applied to the structure. This can be an impact (FOD) for example.
+A dent is when a separation of materials, e.g. stringer to skin, occurs due to an adhesive failure
+A dent is when the separation of plies occurs in a multi-laminate material. This can be caused by the material being hit (impact delamination), or when there is a resin failure for any other reason.
+Which of the following statements is correct about Erosion damage? (Level 1)
+Erosion is the result of contact with a sharp object and only surface fibres are affected and the edges are sharp.
+@@Erosion could affect all the leading edge surfaces, especially when the initial surface protection system has been damaged. Erosion, when undetected or unrepaired, may generate composite deterioration.
+Erosion principally affects the resin and is generally due to accidental contact with aggressive chemical liquids or products (e.g. hydraulic fluid).
+Which of the following statements is correct about Tap testing? (Level 1)
+Tap testing is only capable of finding flaws that are evident on the visible surface. Internal flaws in composites (such as delamination, disbonding and matrix crazing) are not detectable. In addition, tight surface cracks and edge delamination may not be detectable.
+Tap testing is extremely sensitive in measuring small surface defects. The part to be inspected is stressed by the application of heat, a static load or vibration to bring out the effect of the flaw on the surface displacement
+@@Tap testing is widely used for the quick evaluation of any accessible aircraft surfaces to detect presence of debonding or entrapped water.
+What are the typical of repairs on Composite parts? (Level 1)
+Injection repair, repair of edges.
+Repair of coverings and honeycombs
+@@Injection repair, repair of edges and repair of coverings, honeycombs
+Which of the following statements is correct about Repair through Injection of Resin? (Level 1)
+Repair through Injection of Resin is recommended for small damages of the honeycomb material. The area is filled with thickened resin/hardener alloy and in the next step made plane. However, the repaired area has lost nearly the half of its original strength.
+@@The repair through injection of resin is an approved repair for delamination or dissolving adhesives. If the damaged is caused by contamination or water absorption, this type of repair is not recommended.
+Repair through Injection of Resin is typical for sandwich structures. It is easy to accomplish especially if the damaged parts are very small. Today two different repairs of sandwich parts can be accomplished: _ Repair of the covering, if only one side of the covering and/or parts of the combs are damaged. _ Repair of the covering, if both covering parts and the combs are damaged
+Which of the following statements is correct about Filling Repair? (Level 1)
+@@Filling Repair Resin is recommended for small damages of the honeycomb material. The area is filled with thickened resin/hardener alloy and in the next step made plane. However, the repaired area has lost nearly the half of its original strength.
+Filling Repair is an approved repair for delamination or dissolving adhesives. If the damage is caused by contamination or water absorption, this type of repair is not recommended.
+Filling Repair is typical for sandwich structures. It is easy to accomplish especially if the damaged parts are very small. Today two different repairs of sandwich parts can be accomplished: _ Repair of the covering, if only one side of the covering and/or parts of the combs are damaged. _ Repair of the covering, if both covering parts and the combs are damaged
+Which of the following statements is correct about the Repair of honeycombs and covering? (Level 1)
+Repair of honeycombs and covering is recommended for small damages of the honeycomb material. The area is filled with thickened resin/hardener alloy and in the next step made plane. However, the repaired area has lost nearly the half of its original strength.
+Repair of honeycombs and covering is an approved repair for delamination or dissolving adhesives. If the damage is caused by contamination or water absorption, this type of repair is not recommended
+@@Repair of honeycombs and covering is typical for sandwich structures. It is easy to accomplish especially if the damaged parts are very small. Today two different repairs of sandwich parts can be accomplished: _ Repair of the covering, if only one side of the covering and/or parts of the combs are damaged. _ Repair of the covering, if both covering parts and the combs are damaged
+What does Shelf Life mean? (Level 1)
+Shelf Life is the length and time that a catalyzed resin will remain in a workable state
+@@The shelf life is the time which the product is still good in an unopened container and varies from product to product
+The shelf life is the time that resin remains suitable for application after it has been mixed.
+What are the effects of the Perforated Parting Film? (Level 1)
+@@To prevent the bagging materials sticking to the repair surface. The film is perforated with small holes to allow air and gases to escape from the repair piles. Some resin will escape through the holes so, for repair, it is best to choose a film with pin-pricks to reduce the resin loss. Perforated parting film will produce a shiny, resin-rich surface on the repair.
+To help even-out the temperature over the entire repair, help even-out the pressure over the whole repair and improve the flatness of the surface of the repair.
+To allow the air and gases to escape easily
+What are the effects of the Breather Fabric? (Level 1)
+To prevent the bagging materials sticking to the repair surface. The film is perforated with small holes to allow air and gases to escape from the repair piles. Some resin will escape through the holes so, for repair, it is best to choose a film with pin-pricks to reduce the resin loss. Perforated parting film will produce a shiny, resin-rich surface on the repair.
+To help even-out the temperature over the entire repair, help even-out the pressure over the whole repair and improve the flatness of the surface of the repair.
+@@To allow the air and gases to escape easily
+What are the effects of the Peel Ply? (Level 1)
+@@To leave a rough finish. This produces a surface which can be painted or bonded without further sanding.
+To provide an easy path for air to escape and to absorb any resin which comes through the holes in the perforated parting film.
+To prevent resin soaking through onto the other bagging materials and the heater blanket.
+Basically, what is corrosion? (Level 1)
+@@Corrosion is defined as an undesirable, natural reaction of materials with substances in their environment
+Corrosion is defined as a desired chemical reaction of materials with substances in their environment
+Corrosion is a type of mechanical abrasion that reduces material thickness
+If there is an area with worm-like traces on the surface of the aluminum alloy, what kind of corrosion is it (Level 1)
+Electrochemical Corrosion
+@@Filiform Corrosion
+Galvanic Corrosion
+Why is pitting corrosion dangerous (Level 1)
+@@Because it has no obvious signs on the surface of the metal so it is difficult to detect. In addition, the corrosion extends in the vertical direction so it reduces material strength
+Because it has no obvious signs on the surface of the metal so it is difficult to detect. In addition, the corrosion extends in the horizontal direction so it reduces material strength
+Because it is the most difficult type of corrosion to repair
+What are the basic conditions for the formation of corrosion? (Level 1)
+@@Material, environment and the chemical reaction of material with environment
+Material, inert gas and the chemical reaction of material with gas
+Material, Oxygen and temperature
+Corrosion occurs when two dissimilar metals make electrical contact in the presence of an electrolyte, what is it? (Level 1)
+@@Galvanic corrosion
+Electrochemical Corrosion
+Fretting Corrosion
+How many part of the Hi-Lok and Hi-Lite (pin threaded) fastener: (Level 1)
+There are one parts: Collar with an internal thread, an external hexagonal drive and an external
+There are one parts: Threaded pin with a head (universal or countersink)
+@@There are two parts: Threaded pin with a head (universal or countersink) and collar with an internal thread, an external hexagonal drive and an external shear groove
+Can install the pin (threaded) fasteners with power or hand tools ? (Level 1)
+Not allow
+Just hand tools
+@@Yes, depending on the position the power/hand tools can access.
+How to identify material and type of solid rivets are identified by ? (Level 1)
+@@Symbol and shape on head of rivet
+Shape of rivet
+Length of rivet
+Which symbol on TAPER-LOK HEAD MARKS is Heat Resistant Alloy ? (Level 1)
+HB
+@@CB
+H
+Which symbol on TAPER-LOK HEAD MARKS is 6Al4V Titanium Alloy ? (Level 1)
+HB
+@@V
+H
+A Lockbolt (pin swaged) fastener is a two-piece assembly consisting of: (Level 1)
+A pin with a protruding or countersink head
+A collar
+@@A pin with a protruding or countersink head and a collar
+What are rivets made of US material 1100 used for? (Level 1)
+Attach aluminium alloy components where a high−strength rivet
+@@Attach aluminium alloy components where a low−strength rivet is sufficient to hold the load.
+Attach aluminium alloy components where a normal−strength rivet is sufficient to hold the load.
+Do Monel rivets need to be heat treated before use? (Level 1)
+@@No
+Yes
+Not given
+Monel rivets are used on which material? (Level 1)
+Steel riveted assemblies
+@@Steel, titanium or aluminium alloy riveted assemblies
+Steel or aluminium alloy riveted assemblies
+Do Titanium rivets need to be heat treated before use? (Level 1)
+@@No
+Yes
+Not given
+How many head types of Solid Rivets ? (Level 1)
+12
+@@11
+10
+When remove solid rivet, you must drill-out on ? (Level 1)
+Manufacture head
+Upset head
+@@Any direction head you can access
+When remove Hi Lok/Hilite, you must ? (Level 1)
+Drill on manufacture head
+Upset head
+@@Loosen Collar/nut and then punch out the rivet or drill any direction head you can access
+Working pressure of HP-Tubes is? (Level 1)
+@@Above 1500 PSI
+Above 1800 PSI
+Under 1500 PSI
+What material principally made of lines in the engine area and in the landing gear area? (Level 1)
+Aluminum
+@@Steel
+Titanium
+How many types of Harrison-Type-Fittings? (Level 1)
+1
+3
+@@2
+What is a spring? (Level 1)
+@@Is an engineering component which when deflected by a force tends to return to its unloaded shape
+Is an engineering component which when deflected by a force tends to keep to its unloaded shape
+Is an engineering component which when deflected by a force tends to return to its loaded shape
+How many classes of metal springs have? (Level 1)
+1
+@@3
+2
+How is compression springs work? (Level 1)
+@@By resisting compressive force
+By resisting externally applied torque
+By their initial tension resisting the pulling force to which their ends are attached
+What is/are main function(s) of bearing? (Level 1)
+Used to support the journals of shafts
+Used to support the journals of axles
+@@Used to support the journals of shafts and axles
+What are 02 types of bearings? (Level 1)
+Pivot bearings and axial bearings
+@@Axial bearings and journal bearings
+Journal bearings or roller bearings
+How many types of anti−friction bearings? (Level 1)
+3
+4
+@@5
+What is/are material of the anti friction bearing raceways and rolling elements? (Level 1)
+@@Chromium steel or chromium nickel steel
+Chromium steel or titanium nickel steel
+Aluminum or chromium nickel steel
+Which load(s) the tapered roller bearing can handle? (Level 1)
+Radial and axial loads
+Axial and thrust loads
+@@Radial and thrust loads
+Where is chains may be used in? (Level 1)
+@@Control runs or in conjunction with cable assemblies
+In conjunction with cable assemblies
+Control runs
+Where may chains be found in? (Level 1)
+Control Column Installations, Elevator Controls and Trim Control Systems
+@@Control Column Installations, Aileron and Elevator Controls and Trim Control Systems
+Control Column Installations, Aileron and Trim Control Systems
+The number of teeth of the gear chain wheels should not be smaller than? (Level 1)
+15
+16
+@@17
+What speed does gear drives transfer rotational movement without slip? (Level 1)
+High speed
+@@Low speed
+Low speed and high speed
+To prevent accidents, all gear drives must be covered by? (Level 1)
+Efficient blanking plug
+Efficient caps
+@@Efficient protection devices
+In a bevel gear, can a wheel be exchanged for another with a different number of teeth? (Level 1)
+@@No
+Yes
+Depend on size of the shaft
+What force are the helical gears suitable for the transfer? (Level 1)
+Large forces
+Small and large forces
+@@Small forces
+The combination of the slanting angles results in the axial angle of both wheels in helical gears usually is? (Level 1)
+45 degrees
+@@90 degrees
+120 degrees
+How to lock turnbuckles? (Level 1)
+@@By locking wire or locking clips
+By locking wire
+By locking clips
+Why cable lines have advantages over other mechanical actuators, such as linkages, shafts and chains? (Level 1)
+Because of their higher weight
+@@Because of their lower weight
+Because of their strength
+In 1/8 - 7x19 cable: how many wires in cable? (Level 1)
+7
+19
+@@133
+In 1/8 - 7x19 cable: how many strands in cable? (Level 1)
+@@7
+19
+133
+Where are pulleys use to? (Level 1)
+@@Change in direction of control cable
+Keep in direction of control cable
+Change tension of control cable
+Which Boeing manual have electric installation instruction in the aircraft? (Level 1)
+ESPM
+AWM
+@@SWPM
+Boeing wires additionally are marked with a wire number which include: (Level 1)
+The Wire number, the AWG size, the color code
+@@The Wire harness, the Wire number, the AWG size, the color code
+The Wire harness, the Wire number, the color code
+Ref to ESPM 20−32−22/PMS 01−07−16, What are different identification categories of Airbus cables? (Level 1)
+Non−printable cables, cables without printing
+Printable cables, non−printable cables
+@@Printable cables, non−printable cables, cables without printing
+According to the CS−definitions, What is requirement of wires in fire alarm systems? (Level 1)
+@@Wire can withstand 1100℃ for a total of five minutes without losing their function
+Wire can withstand 500℃ for a total of five minutes without losing their function
+Wire can withstand 2000℃ for a total of five minutes without losing their function
+What is AP wire structure? (Level 1)
+@@Nickel plated copper, inner Polyimide tape, outer Polyimide tape, outer covering
+Nickel plated copper, outer covering
+Inner Polyimide tape, outer Polyimide tape, outer covering
+When silver coated connectors are used in unpressurised parts of the aircraft. (Level 2)
+wet track arcing can occur.
+@@red plague can occur.
+separation of the coating can occur.
+Knuckling is a problem on earlier aircraft cables due to. (Level 2)
+hot stamping of cables.
+too much flux.
+@@wires being pulled through too hard.
+Cable current ratings are based on a conductor temperature rise of 40  °C and if the maximum design ambient temperature is continuously exceeded they should be. (Level 2)
+@@multiplied by the 'K' factor.
+divide by the 'K' factor.
+halved.
+Which of the following types of electrical wire is likely to be used for connection of thermo- couples around the jet-pipe of a turbine engine?. (Level 2)
+Nyvin.
+Tersil.
+@@Fepsil.
+The main reason why crimped joints are preferable to soldered joints is. (Level 2)
+the quality of crimped joints will be constant.
+no flux is needed.
+@@there is no heat required.
+In the cable identification '2 P 215 A 28 N' the position of the letter P indicates. (Level 2)
+that it is a Pneumatics system cable.
+@@the circuit function.
+which segment the cable is in.
+Crimping terminals are colour coded. The colour indicates. (Level 2)
+the type of crimping tool to be used only.
+the wire size to be used with that crimp only.
+@@both the crimping tool and the size of the wire to be used.
+Which cannot be classified as a HHT steel? (Level 1)
+It has 5% Tungsten and 3% Chromium
+It has 4% Chromium and 4% Vanadium
+@@It has 6% Nickel and 2% Chromium
+AISI 6xxx has which element as its primary alloying element? (Level 1)
+Chromium
+@@Chromium-vanadium
+Nickel-chromium
+With the AISI standard, the second digit means: (Level 1)
+Carbon percentage
+@@Primary alloy percentage
+Secondary alloy percentage
+With the AISI standard, the last 2 digits represent Carbon content in: (Level 1)
+1/10%
+@@1/100%
+1/1000%
+Which element is the major ingredient for CRES? (Level 1)
+Chromium
+Silicon
+@@Nickel
+Which of the following is not a chipless deformation? (Level 1)
+Bending
+Compressing
+@@Shearing
+What appear when HHT steel suffers from cold-shortness? (Level 1)
+@@Cracks
+Nicks
+Scratches
+Which of these steel grades is affected by hydrogen embrittlement? (Level 1)
+300M
+@@AISI 4130
+17-4 PH
+Which of these is not likely the cause of hydrogen embrittlement? (Level 1)
+Improper processing of the material
+@@Service induced stresses
+Installation residual stresses
+When steels are heat treated near its upper limit: (Level 1)
+@@Tends to fracture without much deformation
+Absorbs more energy by deformation
+Yields the desire structural reliability from either dynamic or static loads
+Which of these acids will have a reaction with titanium at room temperature? (Level 1)
+Chromic acid
+Hydrochloric acid
+@@Hydrofluoric acid
+When you start drilling titanium, which of the following drill bits cannot be used? (Level 1)
+5/32 in
+1/8 in
+@@3/16 in
+When alloying pure aluminum with other elements, which is not true? (Level 1)
+Increased strength
+Decreased deformability
+@@Increased corrosion resistance
+Compared to cast aluminum alloys, wrought aluminum alloys: (Level 1)
+Are more brittle
+@@Are less brittle
+Have the same brittleness
+Which of the following is a non-heat treatable aluminum alloy? (Level 1)
+@@AlMgMn
+AlSiCu
+AlCuMg
+Which of these aluminum are not corrosion resistant? (Level 1)
+3003 Al
+5056 Al
+@@7475 Al
+Which of these aluminum are weldable and heat treatable? (Level 1)
+5056
+@@6061
+7475
+Which of the following usually has the thickest clad layer? (Level 1)
+@@0.0055 m 2024 Al
+0.3 inch 7075 Al
+6200 µm2117 Al
+Aluminum alloy designated with 3XX.X has which element as its major alloying element? (Level 1)
+Manganese
+Magnesium and silicon
+@@Silicon with copper and/or magnesium
+1XXX aluminum has at least: (Level 1)
+@@99.00% aluminum
+99.09% aluminum
+99.99% aluminum
+How do you differentiate between wrought aluminum and cast aluminum by their designated number? (Level 1)
+Wrought aluminum has 1 more digit compared to cast aluminum
+@@Cast aluminum has 1 digit separated from the previous 3 by a point
+Wrought aluminum has the last digit being 1 or 2 to specify the form of manufacture
+Why do aluminum alloys get hardened after a heat treatment process? (Level 1)
+@@The aluminum lattice structure gets distorted by precipitations formed by wandering foreign atoms inside them.
+The aluminum lattice structure gets uniformed by precipitations formed by wandering foreign atoms inside them.
+The aluminum lattice structure gets crystalized by precipitations formed by wandering foreign atoms inside them.
+Which is not a valid temper designation? (Level 1)
+@@2117-T2
+2014-T3
+7175-T6
+Which of these materials are easiest to form with? (Level 1)
+2024-W
+2024-F
+@@2024-O
+Which is not a possible temper designation? (Level 1)
+2024-W
+2024-O
+@@2024-H
+Which is a possible temper designation? (Level 1)
+5052-T3
+5052-W
+@@5052-H
+ALCLAD 7075-T6511 is: (Level 1)
+@@Solution annealed, quenched, stretched, straightened, artificially aged.
+Solution annealed, quenched, straightened, stretched, artificially aged.
+Solution annealed, quenched, bended, stretched, straightened, artificially aged.
+The difference between T42 and T62 temper designation is: (Level 1)
+The annealing process
+The quenching process
+@@The aging process
+Compared to T6, T61: (Level 1)
+Has more strength
+Can be welded
+@@Is more ductile
+The process to make ALCLAD 2024-T42 from ALCLAD 2024-T3 is? (Level 1)
+@@Soft annealing, solution annealing, quenched, naturally aged.
+Soft annealing, solution annealing, quenched, stress relieved by stretching, naturally aged.
+Soft annealing, solution annealing, quenched, stress relieved by compressing, naturally aged.
+The advantages of composite materials are: (Level 1)
+High strength-to-weight ratio, Reduction of parts and fasteners, Reduction of wear, Easy to repair.
+@@High strength-to-weight ratio, Reduction of parts and fasteners, Reduction of wear, Corrosion resistance.
+High strength-to-weight ratio, Reduction of parts and fasteners, Reduction of wear, Generally expensive
+The disadvantages of composite materials are: (Level 1)
+@@Generally expensive. Not easy to repair; you need well-trained staff, tools, equipment and facilities to repair composite components.
+Generally expensive. Easy to repair; you need well-trained staff, tools, equipment and facilities to repair composite components.
+Generally cheap. Easy to repair; you don't need well-trained staff, tools, equipment and facilities to repair composite components.
+What are film adhesives used for? (Level 1)
+@@Bonding metal to metal, sandwich core to skin and GFRP, AFRP and CFRP
+Bonding GFRP to AFRP and CFRP
+Bonding sandwich core to GFRP, AFRP and CFRP
+Which type of fibre causes aluminum corrosion? (Level 1)
+Aramid fibre
+@@carbon fibre
+Glass fibre
+Which type of resin is not used on composite structures? (Level 1)
+Epoxy resins
+Phenolic resins
+@@Thermoplastic resins
+The production methods of plastics include: (Level 1)
+Polyester, polycondensation, polyaddition
+Polymerisation, polyamides, polyurethanes
+@@Polymerisation, polycondensation, polyaddition
+Which aircraft has its whole airframe made out of composite materials? (Level 1)
+Airbus A321
+Airbus A330
+@@Boeing B787
+Which fibre is used mainly for new Airbus aircraft radome? (Level 1)
+@@QFRP
+CFRP
+AFRP
+Which material is used to manufacture primary structural components? (Level 1)
+@@CFRP
+AFRP
+GFRP
+Bonding prepreg is used (Level 1)
+To connect GFRP laminates
+To connect CFRP laminates
+@@To connect GFRP laminates with honeycombs or sheet metal parts.
+How many percent of resin are there in a standard prepreg? (Level 1)
+18 to 20%
+@@0.38
+0.5
+Nomex core is made from: (Level 1)
+Aluminium
+@@A paper-impregnated material
+Carbon
+Which of the following are commonly used thixotropic agents? (Level 1)
+Micro-balloons and glass fibre
+Micro-balloons and carbon fibre
+@@Micro-balloons and aerosil.
+The two main types of thermosetting resin used for composite structures are: (Level 1)
+@@Epoxy resins and Phenolic resins
+Thermoplastic resins and Polyester resin
+Epoxy resins and thermoplastic resins
+When the matrix and the reinforcing material are combined and cured, (Level 1)
+The part is weaker than the fabric is by itself, and weaker than the resin is by itself.
+This condition would result in a weak product, and in extreme cases the epoxy would remain sticky.
+@@The part is stronger than the fabric is by itself, and stronger than the resin is by itself.
+Which form are the matrix and the reinforcing generally in? (Level 1)
+The matrix is generally in gas form and the reinforcing material is a solid
+@@The matrix is generally in liquid form and the reinforcing material is a solid
+The matrix is generally in solid form and the reinforcing material is a liquid
+Surface treatment of composite materials includes (Level 1)
+@@Electrical Bonding and Painting
+Heat treatment and Painting
+Chromic Acid Anodizing (CAA) and Heat treatment
+Which type of resin is not currently utilized on composite structures? (Level 1)
+Epoxy resins
+@@Thermoplastic resins
+Phenolic resins
+Which type of damage is a skin not-perforated damage? (Level 1)
+Abrasion, Lightning strike, Delamination, Scratches, Dents, Holes, Gouges
+Abrasion, Debonding, Delamination, Nicks, Dents, Holes, Gouges
+@@Abrasion, Debonding, Delamination, Nicks, Dents, Gouges, Scratches
+Which type of damage is a skin perforated damage (with damage of fibres)? (Level 1)
+Abrasion, Delamination, Scratches, Dents, Gouges
+@@Holes, Lightning strike, Impact by foreign object (FOD)
+Abrasion, Debonding, Delamination, Nicks, Dents, Gouges, Scratches
+Which of the following statements is correct about Debonding damage? (Level 1)
+Debonding is damage to a surface caused by scuffing, rubbing or scraping of the component. Fibres are not damaged and mechanical performance is not affected.
+@@Debonding is when a separation of materials, e.g. stringer to skin, occurs due to an adhesive failure
+Debonding is the result of contact with a sharp object and only surface fibres are affected and the edges are sharp
+Which of the following statements is correct about Delamination damage? (Level 1)
+Delamination is a deformity caused by extraneous forces, which are applied to the structure. This can be an impact (FOD) for example.
+Delamination is when a separation of materials, e.g. stringer to skin, occurs due to an adhesive failure
+@@Delamination is when the separation of plies occurs in a multi-laminate material. This can be caused by the material being hit (impact delamination), or when there is a resin failure for any other reason.
+Which of the following statements is correct about Chemical Degradation damage? (Level 1)
+Chemical degradation is the result of contact with a sharp object, only surface fibres are affected and the edges are sharp.
+Chemical degradation could affect all the leading edge surfaces. Chemical degradation, when undetected or unrepaired, may generate composite deterioration.
+@@Chemical degradation principally affects the resin and is generally due to accidental contact with aggressive chemical liquids or products (e.g. hydraulic fluid).
+What testing methods can detect the presence of debonding and delamination damages? (Level 1)
+Tap Testing, Visual or optical inspection
+@@Tap Testing, Ultrasonics
+Penetrant, Ultrasonics
+Which of the following statements is correct about Radiography testing? (Level 1)
+Radiography is only capable of finding flaws that are evident on the visible surface.
+The part to be inspected by radiography is stressed by the application of heat, a static load or vibration to bring out the effect of the flaw on the surface displacement.
+@@Radiography is a NDT technique that uses X−rays or gamma rays.
+Which of the following statements is correct about Ultrasonics testing? (Level 1)
+@@Ultrasonic waves travel through solids and liquids at relatively high speeds, but are rapidly attenuated in gasses. The density and the elasticity of the medium may affect the wave speed.
+The part to be inspected by ultrasonics is stressed by the application of heat, a static load or vibration to bring out the effect of the flaw on the surface displacement.
+Ultrasonics is a NDT technique that uses X−rays or gamma rays.
+A category of plastic material that is capable of softening or flowing when reheated is called? (Level 1)
+Thermoset
+@@Thermoplastic
+Thermocure
+The length and of time that a catalyzed resin will remain in a workable state is called the (Level 1)
+Shelf life
+Service life
+@@Pot life
+What is the purpose of the water break test? (Level 1)
+@@Make sure the repair surface is clean of grease and contamination
+Ensure that there is no further damage at the repair surface
+Make sure the repair surface is clean of grease and contamination and no further damage at the repair surface
+What are the effects of the Caul Plate? (Level 1)
+To prevent the bagging materials sticking to the repair surface. The film is perforated with small holes to allow air and gases to escape from the repair piles. Some resin will escape through the holes so, for repair, it is best to choose a film with pin-pricks to reduce the resin loss. Perforated parting film will produce a shiny, resin-rich surface on the repair.
+@@To help even-out the temperature over the entire repair, help even-out the pressure over the whole repair and improve the flatness of the surface of the repair.
+To allow the air and gases to escape easily
+What are the effects of Non−Perforated Parting Film? (Level 1)
+To leave a rough finish. This produces a surface which can be painted or bonded without further sanding.
+To provide an easy path for air to escape and to absorb any resin which comes through the holes in the perforated parting film.
+@@To prevent resin soaking through onto the other bagging materials and the heater blanket.
+What are the effects of the Bleeder Cloth? (Level 1)
+To leave a rough finish. This produces a surface which can be painted or bonded without further sanding.
+@@To provide an easy path for air to escape and to absorb any resin which comes through the holes in the perforated parting film.
+To prevent resin soaking through onto the other bagging materials and the heater blanket.
+What are the effects of the Heater Blanket? (Level 1)
+@@Heater Blanket is used to control the temperature of the repair during the warm-up, cure and cool- down stages of the repair
+Heater Blanket is used to reduce heat loss and to minimise the effects of draughts on the repair
+Heater Blanket is used to seal the vacuum bag to the surface of the item under repair
+What are the effects of the Insulation? (Level 1)
+Insulation is used to control the temperature of the repair during the warm-up, cure and cool-down stages of the repair
+@@Insulation is used to reduce heat loss and to minimise the effects of draughts on the repair
+Insulation is used to seal the vacuum bag to the surface of the item under repair
+What are the effects of the Bag Seating Tape? (Level 1)
+Bag Seating Tape is used to control the temperature of the repair during the warm-up, cure and cool- down stages of the repair
+Bag Seating Tape is used to reduce heat loss and to minimise the effects of draughts on the repair
+@@Bag Seating Tape is used to seal the vacuum bag to the surface of the item under repair
+When you immerse a electrode metal bars in electrolyte fluid, what will happen with the Anode? (Level 1)
+The dissolved ions take in electrons and deposit as metal atoms on the electrode surface, which means that the metal ions are reduced
+This is an oxidation-reduction reaction
+@@Positively charged metal-ions are emitted to the electrolyte, and leave behind negatively charged electrodes in the metal
+When you see the white-grey powdery on surface of steel, what does it mean? (Level 1)
+@@Mean nothing
+This is a sign of corrosion on surface
+This is the production of the oxidation on steel surface
+What will happen if Austenitic steel works under high temperature? (Level 1)
+@@It can lose their corrosion resistance ability
+Steel characteristics do not change, due to their high thermal strength
+They will become softer
+Can steels made from alloys of chromium (Cr)−nickel (Ni) and chromium−nickel-manganese be corroded? (Level 1)
+No, They are corrosion resistance steels
+@@Yes, if it works under high temperature environment
+Yes, after hardened only by cold-working
+Aluminum alloy has good corrosion resistance right? (Level 1)
+@@Wrong
+Right
+It depends on the main metal in the alloy
+With aluminum alloys are used on aircraft, which part plays the role of corrosion resistance (Level 1)
+The main metal composition in the alloy will determine its corrosion resistance
+Due to the low strength of aluminium alloy, it is unsuitable for aircraft structures
+@@A thin layer of pure aluminium on surface is a means of corrosion protection
+Why say Corrosion of metals is the tendency to return to their natural state? (Level 1)
+Because in nature metals exist in the form of alloys
+Because in nature, almost all metals exist in the form of noble metals, thus alloys tend to return to their metal oxides form
+@@Because in nature, except some noble metals, almost metals do not exist in their pure form, exist only in the form of metal ores (oxides)
+In a mechanical joint between aluminum alloy and copper, which material will be corroded first (Level 1)
+None of them, because they are corrosion resistance
+@@Aluminum alloy
+Cu
+Why aircraft fuselage structure joints use aluminum alloy rivets and not steel or monel rivets? (Level 1)
+Because aluminum alloy rivets are easy to install
+Because aluminum alloy rivets have better strength and less susceptible to corrosion than others
+@@This will minimize corrosion due to the dissimilar metal of rivets and aircraft structures
+When there is corrosion on aircraft structures, what are its consequences ? (Level 1)
+The Aircraft is inoperable
+@@Aircraft structures are reduced mechanical strength, functional impairment or destroyed if these damaged structures are not repaired appropriately
+The aircraft is not allowed to operate until the damaged structures are replaced
+Pin (threaded) fasteners are usually installed in interference-fit holes ? (Level 1)
+@@TRUE
+FALSE
+Not given
+A clearance fit hole (unless specified differently) must be used if one or more of the structural members to be attached are made of ? (Level 1)
+Aluminum alloy
+@@Steel, Stainless steel, Titanium
+Application for all material
+When blind rivets which are used for repair work on the aircraft ? (Level 1)
+At the locations in an aircraft structure, which are need the heavy load
+At the locations in an aircraft structure, which are need the light load
+@@At the locations in an aircraft structure, which are very hard to reach for riveting - it is impossible to set a rivet snap at the other site of the rivet
+Which type of solid rivet may used in tank sealing rivets ? (Level 1)
+Type A- and DD rivets
+Type A- and AD rivets
+@@Type AD- and DD rivets
+Which type of fit are used to install Lockbolt pins in thin structure ? (Level 1)
+@@Clearance fit
+Transitionfit
+Interference Fit
+Which type of fit are used to install Lockbolt pins in thick structure ? (Level 1)
+@@Clearance fit
+Transitionfit
+Interference Fit
+Which type of fit are used to install Lockbolt pins in any structure ? (Level 1)
+Interference Fit
+Transitionfit
+@@Interference or transition fit
+A commonly-used rule of thumb for selecting the rivet size is to choose a rivet whose diameter is ? (Level 1)
+At least 2 times the thickness of the thickest sheet being joined.
+At least 2.5 times the thickness of the thickest sheet being joined.
+@@At least 3 times the thickness of the thickest sheet being joined.
+Symbol of solid rivet 2017 Aluminium Alloy (AD) ? (Level 1)
+They are identified by two raised dashes on their heads.
+A raised dot in the centre of their head.
+@@A small dimple in the centre of their head
+Symbol of solid rivet 2017 Aluminium Alloy (D) ? (Level 1)
+They are identified by two raised dashes on their heads.
+A small dimple in the centre of their head
+@@A raised dot in the centre of their head.
+Symbol of solid rivet 2024 Aluminium Alloy (DD) ? (Level 1)
+A raised dot in the centre of their head.
+A small dimple in the centre of their head
+@@They are identified by two raised dashes on their heads.
+Symbol of Titanium rivets are identified on their head ? (Level 1)
+@@Titanium rivets are identified by a raised V or T on their head
+A small dimple in the centre of their head
+A raised dot in the centre of their head.
+Symbol of Corrosion Resistant Steel rivets are identified on their head ? (Level 1)
+@@No mark
+A small dimple in the centre of their head
+A raised dot in the centre of their head.
+The MS-Fitting consists of? (Level 1)
+@@A fitting, a sleeve and a union nut
+A fitting, a bolt and a union nut
+A fitting, a sleeve and a flare nut
+What is construction of hose include? (Level 1)
+@@The inner layer, the reinforcement layer and the outer cover
+The reinforcement layer and the outer cover
+The inner layer and the outer cover
+What size of the inner diameter of hoses is usually given in? (Level 1)
+1/8 inch
+@@1/16 inch
+1/4 inch
+Which spring are used to apply a fixed load throughout their life? (Level 1)
+High Duty Springs
+@@Static Load Springs
+General Duty Springs
+Which spring can produce tensional and torsional movement? (Level 1)
+@@Wireform Springs
+Torsion Springs
+Compression Springs
+Which material of spring can be used for high temperatures up to 343 degrees Celsius? (Level 1)
+Alloy Steel Wire
+@@Stainless Steel Wire
+High−Temperature Alloy Wire
+What are 02 kinds of bearings loading? (Level 1)
+@@Radial and thrust
+Axial and thrust
+Radial and axial
+Construction of an anti-friction bearing consists of? (Level 1)
+@@The outer and inner raceway, the rolling element and usually a rolling element cage
+The inner raceway, the rolling element and usually a rolling element cage
+The outer raceway, the rolling element and usually a rolling element cage
+Which bearing combines the benefits of all the other bearing types as well as offering additional advantages? (Level 1)
+Spherical roller bearing
+@@The tapered roller bearing
+The ball bearing
+Which bearing have a ’point’ contact between the balls and the races? (Level 1)
+Spherical roller bearing
+The tapered roller bearing
+@@The ball bearing
+Which bearing distributes the load over the length of the roller (line contact)? (Level 1)
+Spherical roller bearing
+@@The tapered roller bearing
+The ball bearing
+The number of teeth on the roller chain wheels should not be smaller than? (Level 1)
+@@12
+10
+8
+Which component power transmission for trim is achieved via? (Level 1)
+@@A chain drive
+A roller
+A shaft
+What are coupling classed? (Level 1)
+Flexible, movable and disconnectable couplings, and safety couplings
+Solid, movable and disconnectable couplings
+@@Solid, movable and disconnectable couplings, and safety couplings
+The solid couplings are include? (Level 1)
+Rigid couplings and disk couplings
+@@Sleeve couplings and disk couplings
+Movable couplings and disk couplings
+Movable couplings comprise of? (Level 1)
+@@Expansion couplings, hinge couplings and elastic couplings
+Sleeve couplings, hinge couplings and elastic couplings
+Disk couplings, hinge couplings and elastic couplings
+What teeth may the spur gears have? (Level 1)
+Straight teeth and herringbone teeth
+Slanting teeth and herringbone teeth
+@@Straight teeth, slanting teeth and herringbone teeth
+On wheels with slanting or herringbone teeth, how are the teeth arranged? (Level 1)
+@@Helically on the wheel
+Parallel to the shaft
+Circularly on the wheel
+To avoid excessive axial force, the slanting angle of the slanting teeth should not be larger than? (Level 1)
+10 degree
+@@20 degree
+30 degree
+Cables used in airplane construction normally consist of individual cable wires with a minimum tensile strength of? (Level 1)
+@@1200N/mm2
+1000N/mm2
+1500N/mm2
+How many type of cable terminals? (Level 1)
+Stud end, Fork end and Eye end
+Ball, Stud end and Eye end
+@@Ball, Stud end, Fork end and Eye end
+Where are pressure seals used? (Level 1)
+Control cables pass through bulk cargo
+@@Control cables pass through pressure bulkheads
+Control cables pass through a wall
+Flexible conduit may be bent to a radius of not less than? (Level 1)
+33 inches
+36 inches
+@@39 inches
+Swivel joints can be installed where rotary movement of the control lever at the receiving end does not exceed? (Level 1)
+@@90 degree
+45 degree
+120 degree
+What kind of wire is primarily used in the aircraft? (Level 1)
+@@Copper wiring
+Aluminium wiring
+Nickel
+Airbus Wire numbers have 8 digit number, what does the second number block mean? (Level 1)
+The ATA and sub ATA chapter
+@@The actual wire number in the aircraft system
+The wire color code
+What is definition of thermocouple correct? (Level 1)
+@@The thermocouple consists of two different metal alloys soldered or welded together in which a minimal electrical potential is created when the wiring contact is heated which is proportional to the temperature
+The thermocouple consists of two different metal alloys soldered or welded together in which a minimal electrical potential is created when the wiring contact is heated which is inversely proportional to the temperature
+The thermocouple consists of two different metal alloys soldered or welded together in which a minimal electrical potential is created when the wiring contact is heated which is proportional to the humidity
+What is a function of Coaxial cables? (Level 1)
+To conduct electricity
+@@For the transmission of high−frequency signals
+For the transmission of low−frequency signals
+What elements do the current capacity of wires depend on? (Level 1)
+The conductor material and the wire size
+The insulation and the wire size
+@@The conductor material, the insulation and the wire size
+Anodising is a form of. (Level 3)
+@@artificial protection.
+metallic coating.
+sacrificial protection.
+The Alocrom 1200 process was designed to treat. (Level 3)
+chromium plating.
+@@small surfaces.
+surfaces too large for dip treatment.
+The artificial production of a film of oxide on the surface of aluminium or any of its alloys is commonly called. (Level 3)
+@@anodizing.
+parco lubrizing.
+alodizing.
+Alodizing protects alloy metal from corrosion and does what else?. (Level 3)
+@@Makes a good surface for paint to adhere to.
+Makes the surface alkaline.
+Seals the surface from moisture.
+When cleaning aircraft faying surfaces, a cause for concern is. (Level 3)
+@@corrosion acting on the end faces of panels.
+sharp corners etc trapping corrosive chemicals.
+leaks into the fuselage.
+The form of corrosion most likely to cause stress concentration is. (Level 3)
+Surface Corrosion.
+Fretting Corrosion.
+@@Pitting Corrosion.
+Lead acid battery fluid has been found to be leaking on the surface of the aircraft structure. What substance would you use to neutralise the acid?. (Level 3)
+Sulphur and Lime.
+Hot distilled water.
+@@Sodium bicarbonate of soda.
+What colour is the corrosion found on the surface of aluminium alloys?. (Level 3)
+@@White/Grey.
+Green/Blue.
+Black.
+Corrosion on copper is identified by. (Level 3)
+red/brown rust.
+black powder.
+@@green discolouration.
+A composite flap panel has corrosion. What NDT method will you use to detect?. (Level 3)
+@@Low voltage x-ray.
+Coin tap test.
+High voltage x-ray.
+When examining a piece of metal through a magnifying glass, hair line cracks would indicate. (Level 3)
+crevice corrosion.
+@@intergrannular corrosion.
+surface corrosion.
+In the anodic film inspection and sealing test, if a good seal has been accomplished. (Level 3)
+@@the dye mark will not rub off.
+the dye mark has no importance.
+the dye mark will rub off.
+Aluminium alloy parts are often protected by the. (Level 3)
+Alocrom plating.
+chromium plating process.
+@@Alocrom 1200 process.
+Corrosion is always completely removed. (Level 3)
+to prevent further damage.
+to fit new parts.
+@@to permit the extent of damage to be assessed.
+Corrosion on a copper alloy can be recognised by. (Level 3)
+@@blue/green deposit.
+white deposit.
+grey deposit.
+Which of the following is a temporary protective measure?. (Level 3)
+Sacrificial protection.
+@@Chromating.
+Paint finish.
+Which anti-corrosion chemical treatment is normally applied to aluminium alloys?. (Level 3)
+Pure aluminium.
+@@Anodising.
+Cadmium.
+Spilled mercury on aluminium causes. (Level 3)
+@@greyish powder, fuzzy deposit or whiskery growth.
+yellowish stains on surface of the metal.
+black pits going into brown rust.
+A non-electrolytic chemical treatment for aluminium alloys to increase corrosion resistance and paint bonding qualities is called. (Level 3)
+@@alodizing.
+anodizing.
+dichromating.
+Which of the following are acceptable to use in cleaning anodized surfaces?. (Level 3)
+Steel wool, aluminium wool, fibre bristle brush.
+@@Aluminium wool, fibre bristle brush.
+Brass wire brush, stainless steel wire brush.
+A primary cause of intergranular corrosion is. (Level 3)
+@@improper heat treatment.
+improper application of primer.
+dissimilar metal contact.
+Which of these materials is the most anodic?. (Level 3)
+@@Magnesium.
+Cadmium.
+7075-T6 aluminium alloy.
+Which of these materials is the most cathodic?. (Level 3)
+2024 aluminium alloy.
+Zinc.
+@@Stainless steel.
+Galvanic corrosion is most likely to be most rapid and severe when. (Level 3)
+@@the surface area of the cathodic metal and the anodic material are approximately the same. OR the surface area of the anodic metal is smaller than the surface area of the cathodic material.
+the surface area of the cathodic metal and the anodic material are approximately the same.
+the surface area of the cathodic metal is smaller than the surface area of the anodic material.
+The length of solid rivets is in graduations of. (Level 3)
+@@1/16 inch.
+1/8 inch.
+1/4 inch.
+What would be the diameter and length of a solid rivet if the following markings are given, AS 162-408?. (Level 3)
+¼ inch dia, ½ inch length.
+½ inch dia, 1 inch length.
+@@1/8 inch dia, ½ inch length.
+What would the marking .5 indicate after the normal part number of a solid rivet?. (Level 3)
+The rivet length in graduations of 1/8 inch.
+The diameter of the rivet is half an inch.
+@@Indicates close tolerance rivet.
+What is the pressure range for the Avdel Riveter type F?. (Level 3)
+@@60 to 80 psi.
+20 to 60 psi.
+40 to 60 psi.
+What is the length of the operation stroke of the Avdel Riveter type F?. (Level 3)
+@@½ inch.
+7/8 inch.
+1 inch.
+If a sheet of aluminium alloy of 0.032 and 0.064 is to be joined together the rivet should be. (Level 3)
+0.032 plus 2D.
+@@0.096 plus 1.5 D.
+0.064 plus 1D.
+Where would a pop rivet with a break stem mandrel be used?. (Level 3)
+@@In a closed structure.
+Where the head can be retrieved.
+Any situation calling for a pop rivet.
+A chobert rivet gun may be used. (Level 3)
+@@until the end has worn 0.002 inch below nominal diameter.
+indefinately.
+once only.
+Avdel rivets are closed by. (Level 3)
+a tapered mandrel.
+@@broaching.
+squeezing.
+Countersunk rivets have two angles of countersink, these are. (Level 3)
+@@100 - 115 degrees.
+125 - 135 degrees.
+100 -160 degrees.
+On a CHERRY MAX rivet, after the riveting process the mandrel section or stem is. (Level 3)
+is ground down flush to rivet head.
+discarded.
+@@remains in the rivet sleeve to provide mechanical strength.
+A 'HUCK' rivet is similar in design to a. (Level 3)
+blind rivet.
+dome head rivet.
+@@cherry rivet.
+A metal pipe has a small indentation. What are the limits?. (Level 3)
+5% internal diameter.
+10% of external diameter.
+@@No dent on a bend.
+An aircraft pipe has a number stamped on it. It is the. (Level 3)
+fluid it is carrying.
+aircraft system.
+@@serial number.
+Which of these is a common cause of corrosion?. (Level 3)
+Water in fuel.
+@@Spilled battery acid.
+Untreated metal.
+What is stress corrosion?. (Level 3)
+Corrosion in an area under cyclic loading.
+Corrosion due to fretting.
+@@Corrosion in an area under continuous loading.
+Electrochemical reaction is caused by the contact of. (Level 3)
+bonding.
+@@moisture on the surface of the metal.
+dissimilar metals.
+Chemical attack is a direct result of. (Level 3)
+intergranular corrosion.
+@@cathodic & anodic changes in the material.
+filiform corrosion.
+Galvanic corrosion is caused by. (Level 3)
+incorrect heat treatments or incorrect alloying.
+cyclic stressing and a decrease in cross sectional area.
+@@the joining of 2 dissimilar metals.
+In the galvanic series, the most noble metal will, if joined to another metal. (Level 3)
+always be at the top of the table.
+corrode before the less noble metal.
+@@allow the less noble metal to corrode first.
+Stress corrosion is associated with. (Level 3)
+cyclic loading and a corrosion pit.
+a corrosion pit in a member under a compressive load.
+@@a corrosion pit in a member under stress.
+Corrosion will spread more rapidly when metals are exposed to. (Level 3)
+cold climates.
+@@high temperatures.
+dry climates.
+Which is the following correct statement?. (Level 3)
+Selenious acid is used for the re-protection of aluminium alloys.
+@@The chemical test for bronze is nitric acid which produces a white precipitate.
+All corrosion is a chemical action.
+In a Galvanic Cell made from Zn (Anode) and Cu (Cathode), which electrode is oxidized (Level 1)
+Cu
+@@Zn
+None
+There is a damage on the surface of the ALCLAD sheet, the depth of which exceeds 7% of the thickness of the metal sheet. If not repaired, what kind of corrosion is most likely to occur? (Level 1)
+@@Intergranular Corrosion
+Fretting Corrosion
+Filiform Corrosion
+Name one method of corrosion protection that uses electrochemical reactions (Level 1)
+Electrolysis
+@@Electroplating technique
+Electrochemical
+During routine aircraft maintenance, a fuel sample is usually taken for inspection. One of the purposes of this is to prevent corrosion in the fuel tank. Why? (Level 1)
+@@Because in the fuel tank may have water and microorganisms can grow in the tank. This will cause corrosion of the fuel tank structure
+Because the fuel in the tank can be mixed with the electrolyte solution, leading to electrochemical corrosion
+Because the fuel in the tank can change its chemical structure, turning it into structural corrosive substances
+In 2 metal joints: 1: between aluminum alloy 2024 and tin, 2: between 2024 and Zinc. In which joints aluminum alloy 2024 will be corroded first after a period of working time (Level 1)
+@@In the joint between 2024 and Tin
+In the joint between 2024 and Zinc
+None of them

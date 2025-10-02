@@ -1,0 +1,192 @@
+Which system providing communication within the aircraft? (Level 1)
+@@The Cabin Intercommunication Data System (CIDS)
+The Cabin Network Service (CNS)
+The Cabin Inflight Entertaiment System (IFE)
+Which system providing communication between the aircraft cabin and ground stations? (Level 1)
+The Cabin Intercommunication Data System (CIDS)
+@@The Cabin Network Service (CNS)
+The Cabin Inflight Entertaiment System (IFE)
+The Cabin Intercommunication Data System provides an interface between (Level 1)
+Cockpit and cabin systems
+Cabin crew and cabin systems
+@@Cockpit/cabin crew and cabin systems
+Cabin Systems are used to communicate (Level 1)
+@@Both within the aircraft cabin and between the cabin and the cockpit
+Within the aircraft cabin
+Between the cabin and the cockpit
+The Cabin Systems also include (Level 1)
+System for inflight entertainment (IFE) of passengers.
+System used by passengers to communicate with the ground.
+@@Systems for inflight entertainment (IFE) of passengers, and systems used by passengers to communicate with the ground.
+Older aircraft cabin systems used (Level 1)
+digital electronics
+@@analog electronics
+Both analog and digital electronics
+A cabin intercommunication data system is used by (Level 1)
+Flight attendants
+Flight attendants and passengers
+@@Flight attendants, pilots, and passengers
+A cabin network service is (Level 1)
+@@A digital system that is typically hosted on a server within the aircraft
+An analog system that is typically hosted on a server within the aircraft
+A digital or analog system that is typically hosted on a server within the aircraft
+In Boeing 777. The cabin service system includes (Level 1)
+both the cabin intercommunication data system and the inflight entertaiment system.
+@@both the cabin intercommunication data system and the cabin network service.
+both the cabin network service and the inflight entertaiment system.
+In Boeing 777. The cabin service system uses (Level 1)
+Only one data bus system.
+Two different data bus systems
+@@Three different data bus systems
+The central processor of the Boeing 777 cabin service system is (Level 1)
+@@The cabin systems management unit (CSMU)
+The cabin central processor unit (CCPU)
+The Directors
+The IFE equipment of each Boeing 777 passenger seat typically includes (Level 1)
+A video display and an audio headphone jack.
+@@A video display, an audio headphone jack, and controls for selecting specific video or audio content to be enjoyed by the passenger.
+A video display  and controls for selecting specific video or audio content to be enjoyed by the passenger.
+The data routes from the IFE computer to the individual passenger seats  through. (Level 1)
+The CSMU (Cabin systems management unit)
+The ZMUs (Zone management units)
+@@The CSMU and the ZMUs,
+The aircraft’s external communication system is used to connect with (Level 1)
+@@A ground-based network.
+A satellite-based network.
+Either a ground-based network or a satellite-based network.
+For the aircraft’s external communication system connect with satellite-based network. The antenna (Level 1)
+Will be mounted on the lower surface of the aircraft, usually on the belly of the fuselage.
+Will be mounted on the lower surface of the aircraft or on the upper surface of the aircraft
+@@Must be mounted to the upper surface of the aircraft
+For the aircraft’s external communication system connect with ground-based network. The antenna (Level 1)
+@@Will be mounted on the lower surface of the aircraft, usually on the belly of the fuselage.
+Will be mounted on the lower surface of the aircraft or on the upper surface of the aircraft
+Must be mounted to the upper surface of the aircraft
+Ground-based networks use (Level 1)
+Internet to communicate with the aircraft.
+Wired towers to communicate with the aircraft.
+@@Radio towers to communicate with the aircraft.
+The cabin mass memory system is (Level 1)
+Where allow controls the cabin system.
+@@Where the data that is used in the cabin is stored.
+Central processor of cabin system
+Which following statement is correct for cabin mass memory system? (Level 1)
+@@The mass memory system can be programmed with cabin configuration information.
+The mass memory system can not be programmed with cabin configuration information.
+The mass memory system can be programmed with cockpit configuration information.
+Which following statement is correct for cabin mass memory system? (Level 1)
+The system can not be updated.
+@@The system can be updated, when necessary, through a data loading system.
+The system can be automatically updated.
+Cabin monitoring systems are used to (Level 1)
+Monitor the cabin crews.
+Monitor the passenger in cabin.
+@@Monitor various conditions in the passenger cabin.
+In the Cabin monitoring systems. Information about the conditions being monitored can be accessed by (Level 1)
+Passengers in real time.
+@@Flight attendants in real time.
+Maintenance staffs only
+In the Cabin monitoring systems. Information about the conditions can also be stored and accessed later for (Level 1)
+Troubleshooting
+Trend monitoring
+@@Purposes such as troubleshooting and trend monitoring.
+The cabin Wi-Fi, which allows passengers (Level 1)
+@@To connect their own personal devices to an on-board Wi-Fi system.
+To connect cabin system devices to an on-board Wi-Fi system.
+To connect their own personal devices to cabin interphone system.
+Which systems support data exchange of the different related LRU’s and they are typically operated via Flight Attendant Panels. (Level 1)
+@@The Cabin Intercommunication Data System (CIDS)
+The Cabin Inflight Entertaiment System (IFE)
+The Cabin Network Service (CNS)
+Cabin Core System are include: (Level 1)
+Inflight Entertainment System; External Communication System; Cabin Mass Memory System.
+Inflight Entertainment System; External Communication System; Miscellaneous Cabin System.
+@@Inflight Entertainment System; External Communication System; Cabin Mass Memory System; Cabin Monitoring System; Miscellaneous Cabin System.
+Which system used for addressing passengers through overhead cabin speakers? (Level 1)
+Cabin Interphone
+@@Passenger Address
+Flight Attendant Calling
+Which system used for communication among the cabin crew members, and also between the cabin and the flight deck? (Level 1)
+Flight Attendant Calling
+Passenger Address
+@@Cabin Interphone
+Which system allows passengers to call for assistance from the cabin crew? (Level 1)
+@@Flight Attendant Calling
+Cabin Interphone
+Passenger Address
+Which system showing the aircraft’s current location, altitude, and airspeed (Level 1)
+The Indication System
+@@Moving Map Displays
+The Display System
+A cabin network service is essentially (Level 1)
+A cabin telephone
+A cabin computer
+@@A computer Local Area Network (LAN) within the aircraft
+Operation of thecabin network service wireless systems is (Level 1)
+@@Not permitted during takeoffs and landings.
+Not permitted during flight.
+Not permitted during takeoffs.
+The three different data bus systems used in  Boeing 777 cabin service system are (Level 1)
+ARINC 629, the ARINC 429 and ARINC 628.
+@@ARINC 629, the CSS Intersystem Bus and ARINC 628.
+ARINC 429, the CSS Intersystem Bus, and ARINC 628.
+Which bus the Boeing 777 cabin service system connects to the aircraft information management system (AIMS)? (Level 1)
+@@The ARINC 629 bus
+The CSS Intersystem Bus
+The ARINC 628 bus
+Which bus is a data transfer bus internal to the cabin system  in the Boeing 777 cabin service system? (Level 1)
+The ARINC 629 bus
+@@The CSS Intersystem Bus
+The data transfer bus
+Which bus is a data interface specifically designed for use with inflight entertainment (IFE) systems in the Boeing 777 cabin service system? (Level 1)
+@@The ARINC 628 bus
+The CSS Intersystem Bus
+The ARINC 429 bus
+The cabin systems management unit (CSMU) is connected to (Level 1)
+The CSS Intersystem Bus
+The aircraft’s main ARINC 429 data bus.
+@@The aircraft’s main ARINC 629 data bus.
+The cabin systems management unit (CSMU) connects to the IFE system through (Level 1)
+@@The ARINC 628 bus
+The ARINC 429 bus
+The aircraft’s main ARINC 429 data bus.
+Cabin attendant handsets (CAHs) are connected to (Level 1)
+The cabin systems management unit (CSMU)
+The cabin systems control panel (CSCP)
+@@The zone management unit (ZMU)
+Cabin Networks can transfer large volumes of data to many different locations by using (Level 1)
+@@Multiplexing and demultiplexing techniques
+Modulation and demodulation techniques
+Coding and decoding techniques
+Which PA announcements have higher priority? (Level 1)
+Cabin Crew PA announcements
+@@Pilot's PA announcements
+Both Pilot's PA announcements and Cabin Crew PA announcements have same priority level
+The IFE equipment typically includes (Level 1)
+@@A video display, an audio headphone jack, and controls for selecting specific video or audio content to be enjoyed by the passenger
+A video display and controls for selecting specific video or audio content to be enjoyed by the passenger
+A controls for selecting specific video or audio content to be enjoyed by the passenger
+For connecting with the external networks, the aircraft uses (Level 1)
+A router that is connected to dedicated radio transmitting equipment.
+A router that is connected to dedicated radio receiving equipment.
+@@A router that is connected to dedicated radio transmitting and receiving equipment.
+Which system can multiplex and de-multiplex many channels, and carry information to many destinations simultaneously? (Level 1)
+A low-speed digital data transfer system
+@@A high-speed digital data transfer system
+Both low and high-speed digital data transfer system
+The main advantage of the Iridium system is (Level 1)
+@@The world-wide coverage capability
+It not have disruptive connections
+More cheap
+The Advantages of using WI-FI inside an aircraft cabin in comparison to hard-wired aircraft systems are: (Level 1)
+Higher speed, easier and improved access to data and information and Hard points are eliminated (Ethernet) for connection to the internet.
+Better accessibility throughout the aircraft cabin and information and Hard points are eliminated (Ethernet) for connection to the internet.
+@@Higher speed, easier and improved access to data and information, Better accessibility throughout the aircraft cabin and Hard points are eliminated (Ethernet) for connection to the internet.
+Which cameras essentially provide a real-time presentation of the aircraft's position for passengers? (Level 1)
+@@Outside video cameras
+Inside video cameras
+All cameras
+Which cameras are commonly used and the video is usually incorporated in other flight data as part of the individual passenger network displays? (Level 1)
+Cabin Cameras and Cockpit door cameras
+@@"Forward looking” and "down looking” cameras
+All cameras

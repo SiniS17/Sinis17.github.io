@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Aviation Quiz App</title>
+  <link rel="stylesheet" href="styles.css">
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" rel="stylesheet">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header">
+      <div class="header-content">
+        <div class="logo">
+          <i class="fas fa-plane"></i>
+          <h1 id="quiz-title">Aviation Quiz</h1>
+        </div>
+        <nav class="header-nav">
+          <button id="home-btn" class="nav-btn" onclick="listQuizzes()">
+            <i class="fas fa-home"></i>
+            <span>Home</span>
+          </button>
+        </nav>
+      </div>
+    </header>
+
+    <!-- Left Sidebar for Review Content -->
+    <aside id="left-sidebar" class="left-sidebar" style="display: none;">
+      <div id="results-container" class="results-panel"></div>
+    </aside>
+
+    <main class="main-content">
+      <div id="quiz-list-container" class="quiz-selection">
+        <div class="welcome-section">
+          <h2>Choose Your Quiz Category</h2>
+          <p>Test your knowledge in aviation maintenance, technical systems, and certification standards.</p>
+        </div>
+        <div id="quiz-grid" class="quiz-grid"></div>
+      </div>
+
+
+      <div id="quiz-container" class="quiz-interface"></div>
+    </main>
+  </div>
+
+  <div id="loading-overlay" class="loading-overlay">
+    <div class="loading-content">
+      <div class="loading-spinner"></div>
+      <div class="loading-text">Preparing Live Test</div>
+      <div class="loading-subtitle">Please wait while questions are being loaded...</div>
+    </div>
+  </div>
+
+  <!-- Floating Action Buttons -->
+  <button id="control-fab" class="fab" aria-label="Toggle Controls">
+    <i class="fas fa-sliders-h"></i>
+  </button>
+  
+  <button id="sidebar-fab" class="fab mobile-only" aria-label="Toggle Review">
+    <i class="fas fa-list"></i>
+  </button>
+
+  <!-- Floating Control Panel -->
+  <div id="control-panel" class="floating-panel" role="dialog" aria-modal="true" aria-hidden="true">
+    <div class="panel-header">
+      <h3>Quiz Controls</h3>
+      <button id="close-panel" class="close-btn" aria-label="Close Panel">
+        <i class="fas fa-times"></i>
+      </button>
+    </div>
+    <div class="panel-content">
+      <div class="control-group">
+        <label><i class="fas fa-hashtag"></i> Questions:</label>
+        <input type="number" id="question-count" min="1" value="20">
+      </div>
+      <div class="control-group">
+        <label><i class="fas fa-bolt"></i> Live Test</label>
+        <input type="checkbox" id="live-test-checkbox">
+      </div>
+      <div class="control-group">
+        <label><i class="fas fa-layer-group"></i> Levels:</label>
+        <div id="level-checkboxes" class="level-filters-inline"></div>
+      </div>
+      <div class="control-group">
+        <p id="max-questions-info" class="quiz-info"></p>
+      </div>
+    </div>
+  </div>
+
+  <!-- Panel Overlay -->
+  <div id="panel-overlay" class="panel-overlay"></div>
+
+  <!-- jQuery CDN -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

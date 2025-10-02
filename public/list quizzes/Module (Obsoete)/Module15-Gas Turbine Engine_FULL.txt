@@ -1,0 +1,2852 @@
+A turbo jet engine gives.(Level 1)
+@@large acceleration to a small mass of air.
+large acceleration to a large weight of air.
+small acceleration to a large mass of air.
+A jet engine derives its thrust by.(Level 1)
+drawing air into the compressor.
+impingement of the propelling gases on the outside air.
+@@reaction of the propelling gases.
+In a free turbine.(Level 1)
+there is a clutch between compressor and power output shaft.
+there is a direct drive with a free-wheel unit.
+@@there is no mechanical connection with the compressor.
+The working fluid of a gas turbine engine is.(Level 1)
+gasoline.
+kerosene.
+@@air.
+The diffuser section is located between.(Level 1)
+the burner section and the turbine section.
+station No. 7 and station No. 8.
+@@the compressor section and the burner section.
+If the LP shaft shears.(Level 1)
+@@turbine runaway occurs.
+compressor overspeed occurs.
+compressor underspeed occurs.
+The term Pt7 means.(Level 1)
+pressure and temperature at station No. 7.
+@@the total pressure at station No. 7.
+the total inlet pressure.
+The symbol for designating the speed of a LP compressor in a twin spool engine is.(Level 2)
+N.
+NG.
+@@N1.
+A turbojet engine is smoother running than a piston engine because.(Level 2)
+the lubrication is better.
+it runs at a lower temperature.
+@@it has no reciprocating parts.
+A gas turbine engine comprises which three main sections?.(Level 2)
+Compressor, diffuser, and stator.
+@@Turbine, compressor, and combustion.
+Turbine, combustion, and stator.
+When a volume of air is compressed.(Level 1)
+heat is gained.
+@@no heat is lost or gained.
+heat is lost.
+The pressure of subsonic air as it flows through a convergent nozzle.(Level 2)
+increases.
+remains constant.
+@@decreases.
+If a volume of a mass of air is 546 cubic feet at 273K, at 274K it will be.(Level 1)
+@@2 cubic feet greater.
+1/273 less by weight.
+2 cubic feet smaller.
+In what section of a turbojet engine is the jet nozzle located?.(Level 2)
+@@Exhaust.
+Turbine.
+Combustion.
+Newton's First Law of Motion, generally termed the Law of Inertia, states:.(Level 2)
+To every action there is an equal and opposite reaction.
+Force is proportional to the product of mass and acceleration.
+@@Every body persists in its state of rest, or of motion in a straight line, unless acted upon by some outside force.
+A high bypass engine results in.(Level 1)
+@@overall slower airflow and greater propulsive efficiency.
+overall faster airflow.
+greater propulsive efficiency.
+Bernoulli's Theorem states that at any point in a flow of gas.(Level 2)
+the static pressure and dynamic pressure are equal.
+the static pressure is less than the dynamic pressure.
+@@the total energy remains constant.
+The Brayton cycle is known as the constant.(Level 1)
+temperature cycle.
+mass cycle.
+@@pressure cycle.
+In a choked nozzle, velocity increases, and.(Level 1)
+density decreases.
+pressure decreases.
+@@pressure increases.
+Using standard atmospheric conditions, the standard sea level temperature is.(Level 1)
+29°C.
+@@59°F.
+59°C.
+Standard sea level pressure is.(Level 1)
+@@29.92 inches Hg.
+29.29 inches Hg.
+29.00 inches Hg.
+The velocity of subsonic air as it flows through a convergent nozzle.(Level 2)
+remains constant.
+@@increases.
+decreases.
+A modular constructed gas turbine engine means that.(Level 2)
+all engines have a specific component layout.
+the engine is constructed by the vertical assembly technique.
+@@its major components can be removed and replaced without disturbing the rest of the engine.
+Which law relates to the kinetic, pressure, and potential energy in a fluid flow?.(Level 2)
+@@Bernoulli's theorem.
+Newton's laws.
+Charles's law.
+A divergent duct will cause subsonic flow to decrease in.(Level 2)
+@@velocity, increase pressure.
+velocity, pressure remains constant.
+pressure, increase velocity.
+Which of the following statements is true on a high bypass ratio turbofan?.(Level 2)
+Both the compressor and combustion system are larger than their turbojet equivalent.
+The compressor assembly is larger and combustion chamber smaller than their turbojet equivalent.
+@@Both the compressor and combustion chamber are smaller than the turbojet equivalent.
+In the dual axial flow or twin spool compressor system with a free power turbine, Nf would be an indication of. (Level 2)
+turbine thrust indication.
+first stage compressor speed.
+@@free power turbine speed.
+The 'core engine' or 'gas generator' is made up of the following components:.(Level 2)
+Inlet, compressor, combustion chamber, turbine, exhaust.
+@@Turbine, combustion chamber, compressor.
+Compressor, turbine, exhaust, propelling nozzle.
+The propulsive efficiency is.(Level 1)
+low, with a low mass flow acceleration.
+@@high, with a low mass flow acceleration.
+high, with a high mass flow acceleration.
+The RPM for maximum power would be.(Level 1)
+@@lower on a colder day.
+lower on a hotter day.
+greater on a colder day.
+With a fixed throttle in a climb.(Level 1)
+@@RPM will increase.
+RPM will remain constant.
+RPM will decrease.
+At constant RPM, the pressure ratio of the compressor and the temperature rise across the compressor.(Level 2)
+increases with height.
+@@remains constant irrespective of height.
+decrease with height.
+With the aircraft stationary, propulsive efficiency.(Level 2)
+depends on RPM.
+@@is minimum.
+is maximum.
+The efficiency of conversion of kinetic energy into propulsive work is a measure of.(Level 2)
+mechanical efficiency.
+@@propulsive efficiency.
+thermal efficiency.
+What effect does high atmospheric humidity have on the operation of a jet engine?.(Level 2)
+Decreases compressor and turbine RPM.
+Decreases engine pressure ratio.
+@@Has little or no effect.
+Power is adjusted in a gas turbine engine by.(Level 1)
+increasing fuel flow.
+@@increasing air and fuel flow.
+increasing airflow to the combustion chamber.
+The engine rating plug.(Level 1)
+is permanently connected to the E E C.
+is connected to the EPR transmitter.
+@@is permanently connected to the Engine casing.
+Flat Rated thrust is defined as.(Level 1)
+@@the thrust at the ambient temperature point above which thrust drops below 100%.
+that power achieved at idle RPM.
+that power achieved at maximum EGT.
+Thrust rating on an FADEC controlled engine can be changed by.(Level 2)
+varying the ballast resistor in the EGT system.
+@@changing the engine rating plug.
+varying the EPR datum plug.
+Propeller torque is analogous to.(Level 1)
+engine RPM.
+@@shaft horsepower.
+propeller RPM.
+The total power in a turboprop engine is the.(Level 1)
+SHP.
+BHP.
+@@E S HP .
+In a dive, with the throttles fixed, the EPR will.(Level 1)
+not change.
+increase.
+@@decrease.
+With an increase in forward speed, the engine thrust.(Level 1)
+@@decreases slightly but recover due to ram effect.
+increases.
+decreases.
+The main factor considered when designing an engine is.(Level 2)
+maximum fuel consumption.
+@@maximum turbine temperature.
+maximum tip speed.
+To ensure an engine maintains self sustaining speed.(Level 1)
+idle remains same for any density.
+@@idle increases with density decrease.
+idle increases with density increase.
+A factor that limits EGT is the.(Level 1)
+jet pipe.
+compressors.
+@@turbine.
+Thrust will.(Level 1)
+increase at high temperatures.
+decrease at low temperatures.
+@@increase at low temperatures.
+Across the turbines, there is.(Level 1)
+general temperature rise.
+@@general temperature drop.
+an isometric expansion.
+If the throttle position remains constant.(Level 2)
+@@with increasing OAT, RPM and TGT will increase.
+with decreasing OAT, RPM will increase.
+with increasing OAT, TGT will increase.
+Ram pressure recovery will generally take effect at aircraft speeds of.(Level 2)
+mach 1.
+@@mach 0.1 - 0.2.
+only when the aircraft is stationary with engines running.
+As the air is passed through the turbine, due to the convergent shape formed between adjacent blades.(Level 2)
+pressure decreases, velocity increases, temperature increases.
+pressure increases, velocity increases, temperature constant.
+@@pressure decreases, velocity increases, temperature decreases.
+To maintain the selected RPM of a gas turbine at altitude.(Level 2)
+the pilot will have to throttle back.
+more fuel will automatically be added.
+@@the fuel will automatically be reduced as the aircraft climbs.
+At higher then standard day ambient temperatures, compressor speed will be.(Level 2)
+lower than standard day speed.
+no different.
+@@higher than standard day speed.
+Most likely parameter limiting the height at which a jet engine powered aircraft can operate would be insufficient.(Level 2)
+lift to support the aircraft weight.
+mass airflow to maintain 15:1 air/fuel ratio.
+@@oxygen to support combustion.
+As air density changes the RPM of a gas turbine engine will change. How is RPM kept at a constant speed?.(Level 2)
+@@It is not.
+Automatically by a simple engine device.
+Manually by the pilot.
+With fixed throttle and increasing altitude, the fan on a high by-pass engine will.(Level 2)
+decrease RPM.
+@@increase RPM.
+stay the same RPM.
+The term 'Ram Ratio' in regard to air intakes is the relationship between.(Level 2)
+ambient pressure and ambient temperature.
+ambient temperature and compressor inlet temperature.
+@@ambient pressure and compressor inlet pressure.
+An increase in the Ram Ratio of an intake will.(Level 1)
+have no effect upon the temperature of the air.
+increase the temperature of the air.
+@@decrease the temperature of the air.
+As an aircraft approaches the transonic range, the aerodynamic efficiency of a Pitot type intake.(Level 2)
+increases due to the ram effect.
+@@decreases due to the shock wave.
+is not effected by forward speed.
+Inlet guide vanes are anti-iced with.(Level 1)
+rubber boots.
+thermal blankets.
+@@engine bleed air.
+Intake air turbulence.(Level 1)
+@@decreases the efficiency of the compressor.
+increases the efficiency of the compressor.
+has little effect on the efficiency of the compressor.
+What will be the effect of operating the intake anti-icing system of a gas turbine engine?.(Level 2)
+@@decrease in power.
+Increased power at altitude.
+Increased power for take off.
+A Pitot intake is divergent from front to rear because it.(Level 1)
+@@produces the maximum amount of ram compression.
+reduces ram compression and turbulence.
+speeds up the air before it hits the compressor face.
+With an electrical ice protection system, the heating elements operate.(Level 2)
+continuously.
+@@part continuous - part intermittent.
+intermittently.
+The purpose of a bellmouth compressor inlet is to.(Level 1)
+provide an increased ram air effect at low airspeeds.
+@@maximize the aerodynamic efficiency of the inlet.
+provide an increased pressure drop in the inlet.
+The vortex dissipators installed on some turbine-powered aircraft to prevent engine FOD utilize.(Level 2)
+variable geometry inlet ducts.
+variable inlet guide vanes (IGV) and/or variable first stage fan blades.
+@@stream of engine bleed air blown toward the ground ahead of the engine.
+Variable Ramp Intakes restrict airflow by.(Level 2)
+diverting the airflow around the intake.
+reducing the area of the intake.
+@@creating shock-waves in the intake.
+The inlet door of a variable geometry intake at supersonic speeds will be.(Level 2)
+@@closed.
+open.
+mid-Position.
+When operating an engine in icing conditions, care should be taken when the.(Level 2)
+@@temperature is below +10°Centigrade with visible moisture.
+temperature is below 10°Centigrade.
+temperature is below 0°Centigrade.
+Anti-icing for a turboprop is achieved by.(Level 2)
+bleed air supply from compressor.
+@@electric bonded heater mats.
+hot oil supply from lubrication system.
+A divergent intake is.(Level 1)
+@@divergent from front to rear.
+convergent/divergent from front to rear.
+divergent/convergent from front to rear.
+What purpose does the nose cone serve on the(N1) fan on a high bypass engine?.(Level 2)
+@@Streamlined fairing.
+Reduce and straighten any turbulent air.
+Assist in diffusing airflow.
+A variable geometry intake at subsonic speeds.(Level 1)
+jet pipe area is increased.
+throat	area is decreased.
+@@throat	area is increased.
+Electrical anti-ice.(Level 1)
+heats oil which is distributed around engine.
+@@heats elements, placed under mats around engine.
+heats air which is distributed around engine.
+The variable inlet guide vanes are operated.(Level 1)
+@@by fuel pressure.
+electrically from cockpit.
+using N1 fan speed.
+The intake of a gas turbine engine is designed to.(Level 1)
+protect compressor from FOD .
+@@provide turbulent free air.
+provide streamlined fairing for aircraft.
+How does a dual axial flow compressor improve the efficiency of a turbojet engine?.(Level 2)
+The velocity of the air entering the combustion chamber is increased.
+More turbine wheels can be used.
+@@Higher compression ratios can be obtained.
+What are the two main functional components in a centrifugal compressor?.(Level 2)
+Bucket and expander.
+@@Impeller and diffuser.
+Turbine and compressor.
+A bypass ratio of 5:1 indicates that the bypass flow is.(Level 1)
+equal to 1/5 of the hot stream.
+@@five times the hot stream.
+five times the cold stream.
+The stator vanes in an axial-flow compressor.(Level 1)
+direct air into the first stage rotor vanes at the proper angle.
+@@convert velocity energy into pressure energy.
+convert pressure energy onto velocity energy.
+What units in a gas turbine engine aid in stabilisation of the compressor during low thrust engine operations?.(Level 2)
+@@Bleed air valves.
+Stator vanes.
+Inlet guide vanes.
+What purpose do the diffuser vanes of a centrifugal compressor serve?.(Level 2)
+To convert pressure energy into kinetic energy.
+To increase the air velocity.
+@@To convert kinetic energy into pressure energy.
+During the high RPM range on an axial flow gas turbine engine, in what position are the variable intake guide vanes and bleed valves?.(Level 2)
+At maximum swirl position, bleed valves open.
+@@At minimum swirl position, bleed valves closed.
+At maximum swirl position, bleed valves closed.
+What is the purpose of the diffuser section in a turbine engine?.(Level 2)
+To convert pressure to velocity.
+To reduce pressure and increase velocity.
+@@To increase pressure and reduce velocity.
+The fan speed of a twin spool axial compressor engine is the same as the.(Level 2)
+@@low pressure compressor.
+forward turbine wheel.
+high pressure compressor.
+Bleed valves are normally spring loaded to the.(Level 2)
+closed position.
+@@open position.
+mid-position.
+What is the function of the stator vane assembly at the discharge end of a typical axial flow compressor?.(Level 2)
+To increase air swirling motion into the combustion chambers.
+To direct the flow of gases into the combustion chambers.
+@@To straighten airflow to eliminate turbulence.
+In a turbine engine with a dual spool compressor, the low speed compressor.(Level 2)
+always turns at the same speed as the high speed compressor.
+@@seeks its own best operating speed.
+is connected directly to the high speed compressor.
+What units in a gas turbine engine aid in guiding the airflow during low thrust engine operations?.(Level 2)
+Stator vanes.
+Bleed air valves.
+@@Inlet guide vanes.
+What is one purpose of the stator blades in the compressor section?.(Level 2)
+Increase the velocity of the airflow.
+Stabilize the pressure of the airflow.
+@@Control the direction of the airflow.
+Compressor stall is caused by.(Level 1)
+low angle of attack airflow through the first stages of compression.
+rapid engine deceleration.
+@@high angle of attack airflow through the first stages of compression.
+What is used to aid in stabilization of compressor airflow?.(Level 2)
+@@Variable guide vanes and/or compressor bleed valves.
+Pressurization and dump valves.
+Stator vanes and rotor vanes.
+What is the primary factor which controls the pressure ratio of an axial flow compressor?.(Level 2)
+Compressor inlet temperature.
+Compressor inlet pressure.
+@@Number of stages in compressor.
+The non-rotating axial-flow compressor airfoils in an aircraft gas turbine are known as.(Level 2)
+@@stator vanes.
+bleed vanes.
+pressurization vanes.
+The purpose of a bleed valve, located in the beginning stages of the compressor is to.(Level 2)
+@@vent some of the air overboard to prevent a compressor stall.
+control excessively high RPM to prevent a compressor stall.
+vent high ram air pressure overboard to prevent a compressor stall.
+During the low RPM range on an axial flow gas turbine engine, in what position are the variable intake guide vanes and bleed valves?.(Level 2)
+@@At maximum swirl position, bleed valves open.
+At maximum swirl position, bleed valves closed.
+At minimum swirl position, bleed valves closed.
+The energy changes that take place in the impeller of a centrifugal compressor are.(Level 2)
+pressure decrease, velocity decrease, temperature increase.
+pressure increase, velocity decrease, temperature increase.
+@@pressure increase, velocity increase, temperature increase.
+What is the primary advantage of an axial flow compressor over a centrifugal compressor?.(Level 2)
+High frontal area.
+@@Greater pressure ratio.
+Less expensive.
+Compression occurs.(Level 1)
+@@across stators and rotors.
+across rotors.
+across stators.
+Which of the following can cause fan blade shingling in a turbofan engine?.(Level 2)
+@@Large, rapid throttle movements and FOD.
+Engine over temperature, large, rapid throttle movements and FOD.
+Engine overspeed and large, rapid throttle movements.
+Severe rubbing of turbine engine compressor blades will usually cause.(Level 2)
+cracking.
+bowing.
+@@galling.
+Which two elements make up the axial flow compressor assembly?.(Level 2)
+@@Rotor and stator.
+Stator and diffuser.
+Compressor and manifold.
+The gas turbine Compressor Pressure Ratio is.(Level 1)
+Compressor inlet pressure divided by Compressor discharge pressure.
+Mass of air bypassing the combustion system divided by Mass of air going through the combustion system.
+@@Compressor discharge pressure divided by Compressor inlet pressure.
+The compression ratio of an axial flow compressor is a function of the.(Level 1)
+@@number of compressor stages.
+air inlet velocity.
+rotor diameter.
+Jet engine turbine blades removed for detailed inspection must be reinstalled in.(Level 1)
+@@the same slot.
+specified slot 180°away.
+specified slot 90°away in the direction of rotation.
+The two types of centrifugal compressor impellers are.(Level 1)
+impeller and diffuser.
+@@single entry and double entry.
+rotor and stator.
+Bleed valves are.(Level 1)
+closed at low RPM.
+always slightly open.
+@@closed at high RPM.
+If the LP compressor shaft severed.(Level 1)
+@@the LP turbine will speed up and the LP compressor will slow down.
+the LP compressor of cruise thrust.
+the HP compressor will slow down.
+An advantage of a centrifugal compressor is.(Level 1)
+it is dynamically balanced.
+it is unaffected by turbulence.
+@@it is robust and can stand some shock from icing-up.
+Variable inlet guide vanes prevent.(Level 1)
+compressor runaway.
+engine flame out at high speed.
+@@compressor stalling.
+A tubo-annular gas turbine combustion systemconsists of.(Level 1)
+@@number of flame tubes in an annular air casing.
+number of flame tubes each with its own air casing.
+an annular flame tube in an annular air casing.
+In a turboprop engine, combustion takes place at constant.(Level 1)
+@@pressure.
+density.
+volume.
+The air passing through the combustion chamber is.(Level 1)
+entirely combined with fuel and burned.
+@@used to support combustion and to cool the engine.
+speeded up and heated by the action of the turbines.
+The air used for combustion is.(Level 1)
+Primary and secondary.
+@@Primary.
+Secondary.
+Hot spots in the combustion section of a turbojet engine are possible.(Level 1)
+dirty compressor blades.
+@@malfunctioning fuel nozzles.
+faulty igniter plugs.
+Another name for a cannular combustion chamber is.(Level 1)
+turbo-annular.
+multiple can.
+@@can-annular.
+In the combustion chamber.(Level 1)
+static pressure and volume remains constant.
+@@static pressure decreases slightly and volume increases.
+static pressure and volume decreases.
+Which of the following types of combustion sections are used in aircraft turbine engines?.(Level 2)
+Annular, variable, and cascade vane.
+@@Multiple can, annular, and can-annular.
+Can, multiple can, and variable.
+Secondary air in the combustion chamber is used for.(Level 1)
+increasing axial velocity of gases.
+combustion.
+@@cooling.
+Duplex burners have.(Level 1)
+@@two calibrated outlets.
+variable orifices.
+spring.
+The overall air/fuel ratio of a combustion chamber can vary between.(Level 2)
+@@45:1 and 130:1.
+130:1 and 200:1.
+10:1 and 45:1.
+When light-up takes place.(Level 2)
+the nozzle guide vanes spread the heat to adjacent flame tubes.
+@@interconnectors spread the heat to adjacent flame tubes.
+each flame tube is isolated from its neighbours.
+Why do the holes in the body of the duple burner provide air to the shroud around the burner head?.(Level 2)
+To assist atomisation of the fuel at slow running.
+To reduce burner temperature.
+@@To minimise carbon formation on the burner face.
+The air passing through the combustion chamber of a jet engine is.(Level 2)
+entirely combined with fuel and burned.
+@@used to support combustion and to cool the engine.
+speeded up and heated by the action of the turbines.
+A toroidal vortex is.(Level 1)
+vapour trail visible in moist air conditions.
+@@region in the combustion chamber of low velocity re-circulation.
+bull-nosed cowling for deflecting air from the static.
+Why is it necessary to have a combustion drain system?.(Level 2)
+To prevent pressure build up in the combustion chamber.
+@@To prevent initial over-fuelling on start up or hot start.
+To allow water in the combustor to drain away.
+The flame temperature is approximately.(Level 2)
+1400°Centigrade.
+@@2000°Centigrade.
+500°Centigrade.
+How is the combustion chamber drain valve closed?.(Level 2)
+By 12th stage compressor air pressure.
+By a return spring.
+@@By combustion chamber gas pressure.
+Which statement is true regarding the air passing through the combustion section of a jet engine?.(Level 2)
+@@Most is used for engine cooling.
+Most is used to support combustion.
+small percentage is frequently bled off at this point to be used for air- conditioning and/or other pneumatic powered systems.
+How are combustion liner walls cooled in a gas turbine engine?.(Level 2)
+@@By secondary air flowing through the combustion chamber.
+By bleed air vented from the engine air inlet.
+By the pattern of holes and louvers cut in the diffuser section.
+The approximate percentage of the mass airflow which bypasses the flame tube snout is.(Level 2)
+8%.
+@@82%.
+18%.
+When heat is added to the combustion chamber.(Level 2)
+pressure increases rapidly volume remains constant.
+pressure changes slightly and volume increases.
+pressure rises at chamber outlet.
+Carbon forming on fuel spray nozzles will have the effect of.(Level 2)
+increasing the combustion chamber pressure ratio.
+producing turbulent air flow.
+@@changing the fuel spray angle.
+Combustor air that is not used to support combustion.(Level 2)
+@@will film cool the liner and dilute combustion chamber exit temperature.
+is by-pass air.
+is considered as the total air flow.
+At high rotational speed at sea level, a duple burner would be passing fuel via the.(Level 2)
+main nozzle.
+primary nozzle.
+@@primary and the main nozzle.
+The fabricated liner of a flame tube is achieved mainly by.(Level 2)
+@@argon arc process.
+electric resistance welding.
+oxyacetylene welding.
+Why is it necessary to have a combustion chamber drain?.(Level 2)
+@@To allow unburnt fuel to drain away.
+To prevent pressure build-up in the combustion chamber.
+To allow fuel to return to LP when H.P cock is closed.
+The purpose of the swirl vanes in the combustion chamber is to produce.(Level 2)
+flame re-circulation.
+@@gas re-circulation.
+adequate mixing of fuel and air.
+Turbine impulse blading forms a.(Level 1)
+@@constant area duct.
+divergent duct.
+convergent duct.
+The turbine section.(Level 1)
+increases air velocity to create thrust.
+uses heat energy to expand and accelerate the gas flow.
+@@drives the compressor section.
+Gas pressure through the turbine section will generally.(Level 1)
+increase.
+remain the same.
+@@decrease.
+A condition known as 'hot streaking' in turbine engines is caused by(Level 1)
+@@partially clogged fuel nozzle.
+excessive fuel flow.
+misaligned combustion liner.
+Shrouded blades allow.(Level 1)
+smaller inlets to be used.
+higher turbine inlet temperatures.
+@@thinner more efficient blade sections to be used.
+N.G.V's form.(Level 1)
+@@convergent ducts.
+parallel ducts.
+divergent ducts.
+Dirt particles in the air going into the compressor of a turbine engine will form a coating on all but which of the following?.(Level 1)
+@@Turbine blades.
+Casings.
+Inlet guide vanes.
+A purpose of the shrouds on the turbine blades of an axial flow engine is to.(Level 1)
+reduce air entrance.
+increase tip speed.
+@@reduce vibration.
+The forces driving a turbine round are due to.(Level 2)
+impulse only.
+reaction only.
+@@impulse and reaction.
+Nozzle guide vanes give a.(Level 1)
+pressure increase, velocity decrease.
+pressure increase, velocity increase.
+pressure decrease, velocity increase.
+Shrouding of stator blade tips is to.(Level 2)
+@@minimise vibration.
+ensure adequate cooling.
+prevent tip turbulence.
+Why are two or more turbine wheels coupled?.(Level 2)
+To keep turbine rotor diameter small.
+@@So power output is doubled.
+To simplify dynamic balancing.
+Running clearance on a turbine disk is kept to a minimum to reduce.(Level 2)
+temperature loss.
+aerodynamic buffeting.
+@@tip losses.
+Two basic types of turbine blades are.(Level 2)
+impulse and vector.
+@@reaction and impulse.
+tangential and reaction.
+Why are nozzle guide vanes fitted?.(Level 2)
+To decrease velocity of the gas flow.
+@@To increase velocity of the gas flow.
+To increase velocity of the air flow.
+A turbine disk is.(Level 1)
+@@disk at the core of the engine that the blades are attached to.
+segmented or complete shroud on blade tips that reduces leakage.
+shroud around the stators of the turbine.
+When carrying out a borescope the damage on turbine blades that would indicate a failure is.(Level 2)
+speckling.
+@@tip curl.
+colour changes.
+The active clearance control system aids turbine engine efficiency by.(Level 2)
+automatically adjusting engine speed to maintain a desired EPR.
+adjusting stator vane position according to operating conditions and power requirements.
+@@ensuring turbine blade to engine case clearances are kept to a minimum by controlling case temperatures.
+Turbine rear struts.(Level 1)
+@@straighten the gas flow.
+increase the velocity of the gas flow.
+increase the pressure of the gas flow.
+Bowing of turbine blades indicates an.(Level 1)
+@@over-temperature condition.
+over-speed condition.
+under-temperature condition.
+On an impulse-reaction turbine blade it is.(Level 1)
+@@impulse at the root and reaction at the tip.
+reaction at the root and impulse at the tip.
+impulse and reaction all the away along the blade.
+Turbine creep effects.(Level 1)
+@@turbine blades.
+turbine disks.
+N.G.Vs.
+How are turbine disks attached to the shaft in gas turbine engine?.(Level 2)
+Splined.
+Curvic couplings.
+@@Bolted.
+Impulse turbine blades run cooler than reaction blades because.(Level 2)
+impulse spin faster radially.
+@@temperature drop across N.G.V is greater.
+converging rotors increase velocity.
+Which of the following is most likely to occur in the turbine section of a gas turbine engine?.(Level 2)
+Pitting.
+Galling.
+@@Cracking.
+Aluminium deposits on the turbine show up as.(Level 2)
+@@white or silver speckles.
+white powder traces.
+black stains.
+What are blue and golden deposits evidence of, on a turbine blade?.(Level 2)
+@@Titanium.
+Aluminium.
+Magnesium.
+Impulse blades operate cooler than reaction blades because.(Level 2)
+impulse blades rotate at higher speeds.
+the N.G.V's cool the air.
+@@the airflow has a higher velocity through a impulse turbine N.G.V.
+The temperature and centrifugal loads which the turbine is subjected to during normal engine operation causes.(Level 2)
+fatigue failure.
+elastic stretching.
+@@creep loading.
+Impulse-reaction turbine blades form.(Level 2)
+@@tip half reaction, root half Impulse.
+1 stage impulse, 1 stage reaction.
+tip half Impulse, root half reaction.
+What is the maximum practical angle through which the gas flow can be turned during thrust reversal?.(Level 2)
+180°.
+50°.
+@@135°.
+A supersonic duct is.(Level 1)
+@@convergent then divergent along its length.
+divergent then convergent along its length.
+convergent duct that is choked at the largest end at mach 1.
+Noise from the jet wake when untreated by suppression is.(Level 1)
+high frequency, high decibel.
+low frequency, low decibel.
+@@low frequency, high decibel.
+Hot spots on the tail cone of a turbine engine are possible indicators of a malfunctioning fuel nozzle or.(Level 1)
+faulty igniter plug.
+an improperly positioned tail cone.
+faulty combustion chamber.
+An exhaust cone placed aft of the turbine in a jet engine will cause the pressure in the first part of the exhaust duct to.(Level 1)
+@@increase and the velocity to decrease.
+decrease and the velocity to increase.
+increase and the velocity to increase.
+A convergent-divergent nozzle.(Level 1)
+requires the aircraft to be travelling at supersonic speeds.
+@@makes maximum use of pressure thrust.
+produces a type of thrust known as kinetic thrust.
+The velocity of supersonic air as it flows through a divergent nozzle.(Level 2)
+decreases.
+@@increases.
+is inversely proportional to the temperature.
+The Jet Pipe of a gas turbine engine.(Level 2)
+@@protects the airframe from heat damage.
+has an inner cone to protect the rear turbine disc.
+is convergent in shape to increase the velocity as much as possible.
+For what purpose is the propelling nozzle of a gas turbine engine designed?.(Level 1)
+To increase the velocity and decrease the pressure of the gas stream leaving the nozzle.
+To decrease the velocity and increase the pressure of the gas stream leaving the nozzle.
+To increase the velocity and pressure of the gas stream leaving the nozzle.
+If the exit area of the nozzle was too large, the effect is.(Level 2)
+@@exit velocity lower causing loss of thrust.
+will choke at a lower gas temperature.
+exit velocity lower, negligible effect on thrust.
+A choked nozzle.(Level 1)
+@@increases thrust.
+decreases thrust.
+has no effect on the thrust.
+The exhaust section is designed to.(Level 1)
+increase temperature, therefore increasing velocity.
+decrease temperature, therefore decreasing pressure.
+@@impart a high exit velocity to the exhaust gases.
+Reverse thrust can only be selected when the throttle is.(Level 1)
+@@closed.
+75% power position.
+open.
+A Convergent-Divergent nozzle.(Level 1)
+@@makes maximum use of Pressure thrust.
+produces a type of thrust known as kinetic thrust.
+requires the aircraft to be travelling at supersonic speeds.
+Thrust reversers utilizing a pneumatic actuating system, usually receive operating pressure from.(Level 2)
+the engine bleed air system.
+high pressure air reservoirs.
+an on-board hydraulic or electrical powered compressor.
+The purpose of cascade vanes in a thrust reversing system is to.(Level 2)
+turn the exhaust gases forward just after exiting the exhaust nozzle.
+form a solid blocking door in the jet exhaust path.
+@@turn to a forward direction the fan and/or hot exhaust gases that have been blocked from exiting through the exhaust nozzle.
+The rearward thrust capability of an engine with the thrust reverser system deployed is.(Level 2)
+equal to or less than its forward capability, depending on ambient conditions and system design.
+@@less than its forward capability.
+equal to its forward capability.
+Which statement is generally true regarding thrust reverser systems?.(Level 2)
+Engine thrust reversers on the same aircraft usually will not operate independently of each other (must all be simultaneously).
+@@It is possible to move some aircraft backward on the ground using reverse thrust.
+Mechanical blockage system design permits a deployment position aft of the exhaust nozzle only.
+What is the proper operating sequence when using thrust reversers to slow an aircraft after landing?.(Level 2)
+Advance thrust levers up to takeoff position as conditions require, select thrust reverse, de-select thrust reverser, retard thrust levers to ground idle.
+@@Retard thrust levers to ground idle, raise thrust reverser levers as required, and retard thrust reverser levers to ground idle.
+Select thrust reverse, advance thrust reverser levers no higher than 75% N1, and retard thrust reverser levers to idle at approximately normal taxi speed.
+Thrust reversal on a high bypass engine is achieved by.(Level 2)
+@@blocker doors.
+clamshell configuration.
+bucket type doors.
+If damage is found to the reverse thrust cascade vanes and they need replacing, you can.(Level 2)
+replace damaged vanes with 45 degree vanes.
+@@only replace vanes with new ones that have the correct part as the originals removed.
+interchange the cascade vanes as they are interchangeable.
+When should thrust reversers be used?.(Level 2)
+@@At low RPM and low forward speed.
+At high RPM and high forward speed.
+At high RPM and low forward speed.
+If the area of the nozzle was too large the effect is.(Level 2)
+will 'choke' at mach 1.
+@@exit velocity lower causing loss of the thrust.
+exit velocity lower, negligible effect on thrust.
+What indication does the pilot receive that thrust reversers have deployed?.(Level 2)
+An audible warning.
+@@sequence of lights.
+feeling of rapid deceleration.
+What angle are the exhaust gasses turned through in a clamshell type thrust reverser?.(Level 2)
+180 degrees.
+@@135 degrees.
+45 degrees.
+Main bearing oil seals used with turbine engines are usually what type(s)?.(Level 1)
+Teflon and synthetic rubber.
+@@Labyrinth and/or carbon rubbing.
+Labyrinth and/or silicone rubber.
+If, during inspection at engine overhaul, ball or roller bearings are found to have magnetism but otherwise have no defects, they.(Level 2)
+are in an acceptable service condition.
+cannot be used again.
+@@must be degaussed before use.
+A carbon seal has which type of sealing arrangement?.(Level 1)
+@@Full contact with race.
+Full contact with casing.
+Full contact with labyrinth.
+The highest turbine bearing temperature takes place.(Level 2)
+all the time.
+at start-up.
+@@at shut-down.
+Indentations on bearing races caused by high static loads are known as.(Level 2)
+fretting.
+galling.
+@@brinelling.
+The function of a labyrinth seal is to create.(Level 2)
+@@restricted leakage of air between fixed and rotating components.
+an airtight seal between fixed and rotation components.
+an airtight seal between fixed adjacent casing surfaces.
+The bearings of a compressor rotor are usually.(Level 1)
+@@ball and roller.
+plain.
+sintered.
+Bearing seal failure would most probably cause.(Level 1)
+high oil temperature.
+@@high oil consumption.
+low oil pressure.
+Why are oil seals pressurised?.(Level 2)
+@@To ensure minimum oil loss.
+To ensure oil is forced into the bearings.
+To ensure that the oil is prevented from leaving the bearing housing.
+What bearing is used to take axial loads on a main rotation shaft of a gas turbine engine?(Level 2)
+Plain bearing.
+Roller bearing.
+@@Ball bearing.
+Seals on a gas turbine engine restrict leakage of oil by.(Level 1)
+spring pressure.
+closely tolerated contacting components.
+@@air pressure.
+An abradable lining in the fan case.(Level 1)
+prevents fan blade tip rub.
+produces less leakage at tips for anti-ice.
+@@provides acoustic medium.
+Squeeze film bearings are usually found on.(Level 1)
+H.P compressor section.
+the turbine section.
+@@LP compressor section.
+Taper roller bearings accept loads in which direction?.(Level 1)
+Axial loads only.
+Radial and axial in both directions.
+@@Radial and axial in one direction only.
+Some labyrinth seals.(Level 1)
+@@control the outflow of air at the turbine.
+are self lubricating.
+are spring loaded.
+The purpose of 'squeeze film' type bearing is to.(Level 2)
+increase the flow of oil to the rolling element.
+@@minimise the effect of vibration.
+improve outer race cooling.
+In a jet engine the rotating assembly oil seals are maintained oil tight by means of.(Level 2)
+garter seal.
+an annular expander ring.
+@@air pressure.
+When using Prist or Biopor.(Level 1)
+@@it is left and burnt with the fuel.
+it is diluted with water to a 3-1 mix.
+it is flushed out immediately.
+What is D.E.R.D 2494?.(Level 1)
+Oil.
+Wide cut gasoline.
+@@Kerosene.
+A high viscosity index means the oil viscosity.(Level 1)
+will vary greatly with temperature change.
+has a large index number.
+@@will not vary greatly with temperature change.
+A fuel system icing inhibitor is a fuel additive which.(Level 1)
+prevents both the water and the fuel freezing.
+prevents the fuel from freezing.
+@@prevents the water in the fuel freezing.
+The time in seconds required for exactly 60 cubic centimeters of oil to flow through an accurately calibrated orifice at a specific temperature is recorded as a measurement of the oil's.(Level 1)
+specific gravity.
+flash point.
+@@viscosity.
+Upon what quality or characteristic of a lubricating oil is its viscosity index based?.(Level 2)
+Its rate of flow through an orifice at a standard temperature.
+@@Its rate of change in viscosity with temperature change.
+Its resistance to flow at a standard temperature as compared to high grade paraffin base oil at the same temperature.
+Compared to reciprocating engine oils, the types of oils used in turbine engines.(Level 1)
+are required to carry and disperse a higher level of combustion by-products.
+@@have less tendency to produce lacquer or coke.
+may permit a somewhat higher level of carbon formation in the engine.
+If all other requirements can be met, what type of oil should be used to achieve theoretically perfect engine lubrication?. (Level 2)
+An oil that combines high viscosity and low demulsibility.
+@@The thinnest oil that will stay in place and maintain a reasonable film strength.
+An oil that combines a low viscosity index and a high neutralization number.
+In addition to lubricating (reducing friction between moving parts), engine oil performs what functions?.(Level 2)
+Cools, seals, prevents corrosion.
+@@Cools, seals, prevents corrosion, cushions shock loads.
+Cools and seals.
+The viscosity of a liquid is a measure of its.(Level 1)
+weight, or density.
+rate of change of internal friction with change in temperature.
+@@resistance to flow.
+Which of the following factors helps determine the proper grade of oil to use in a particular engine?.(Level 2)
+Adequate lubrication in various attitudes of flight.
+@@Operating speeds of bearings.
+Positive introduction of oil to the bearings.
+Specific gravity is a comparison of the weight of a substance to the weight of an equal volume of.(Level 2)
+oil at a specific temperature.
+mercury at a specific temperature.
+@@distilled water at a specific temperature.
+What advantage do mineral base lubricants have over vegetable oil base lubricants when used in aircraft engines?.(Level 2)
+Cooling ability.
+@@Chemical stability.
+Friction resistance.
+High tooth pressures and high rubbing velocities, such as occur with spur type gears, require the use of.(Level 2)
+@@an E.P lubricant.
+metallic ash detergent oil.
+straight mineral oil.
+Which of these characteristics is desirable in turbine engine oil?.(Level 2)
+High volatility.
+@@High flash point.
+Low flash point.
+What action is taken to protect integral fuel tanks from corrosion due to micro biological contamination?.(Level 2)
+Rubber liners are installed in the tank.
+@@biocidal additive is added to the fuel.
+The inside of the tank is coated with yellow chromate.
+What should be checked/changed to ensure the validity of a turbine engine performance check if an alternate fuel is to be used?.(Level 2)
+Maximum RPM adjustment.
+@@Fuel specific gravity setting.
+EPR gauge calibration.
+Calorific value is the.(Level 1)
+@@amount of heat or energy in one pound of fuel.
+vaporisation point of fuel.
+fuel boiling temperature.
+The specific gravity of fuel affects.(Level 1)
+thrust rating.
+@@aircraft range.
+engine efficiency.
+Oil used in a gas turbine engine is usually.(Level 1)
+mineral.
+natural.
+@@synthetic.
+What filters are used to protect oil pressure spray jets?.(Level 2)
+Felt/paper filters.
+@@In-line thread filters.
+Micronic filters.
+Oil picks up the most heat from which of the following turbine engine components?.(Level 2)
+Compressor bearing.
+Rotor coupling.
+@@Turbine bearing.
+In a jet engine which uses a fuel oil heat exchanger, the oil temperature is controlled by a thermostatic valve that regulates the flow of.(Level 2)
+both fuel and oil through the heat exchanger.
+@@oil through the heat exchanger.
+fuel through the heat exchanger.
+What is the purpose of the last chance oil filters?.(Level 2)
+To filter the oil immediately before it enters the main bearings.
+To assure a clean supply of oil to the lubrication system.
+@@To prevent damage to the oil spray nozzle.
+Which of the following is a function of the fuel oil heat exchanger on a turbojet engine?.(Level 2)
+Aerates the fuel.
+Emulsifies the oil.
+@@Increases fuel temperature.
+What will happen to the return oil if the oil line between the scavenger pump and the oil cooler separates?.(Level 2)
+Oil will accumulate in the engine.
+@@The scavenger return line check valve will close and force the oil to	bypass directly to the intake side of the pressure pump.
+The return oil will be pumped overboard.
+After making a welded repair to a pressurized type turbine engine oil tank, the tank should be pressure checked to.(Level 1)
+@@not less than 5 PSI plus the maximum operating pressure of the tank.
+not less than 5 PSI plus the average operating pressure of the tank.
+5 PSI.
+Possible failure related ferrous metal particles in turbine engine oil cause an (electrical) indicating type magnetic chip detector to indicate their presence by.(Level 2)
+@@bridging the gap between the detector center (positive) electrode and the ground electrode.
+generating a small electric current that is caused by the particles being in contact with the dissimilar metal of the detector tip.
+disturbing the magnetic lines of flux around the detector tip.
+What would be the probable result if the oil system pressure relief valve should stick in the open position on a turbine engine?.(Level 2)
+Increased oil pressure.
+@@Decreased oil temperature.
+Insufficient lubrication.
+What is the primary purpose of the oil to fuel heat exchanger?.(Level 2)
+De aerate the oil.
+@@Cool the oil.
+Cool the fuel.
+Low oil pressure can be detrimental to the internal engine components. However, high oil pressure.(Level 2)
+has a negligible effect.
+will not occur because of pressure losses around the bearings.
+@@should be limited to the engine manufacturer's recommendations.
+What is the primary purpose of the oil breather pressurization system that is used on turbine engines?.(Level 2)
+@@Prevents foaming of the oil.
+Allows aeration of the oil for better lubrication because of the air/oil mist.
+Provides a proper oil spray pattern from the main bearing oil jets.
+The type of oil pumps most commonly used on turbine engines are classified as.(Level 1)
+@@positive displacement.
+constant speed.
+variable displacement.
+A turbine engine dry sump lubrication system of the self contained, high pressure design.(Level 1)
+stores oil in the engine crankcase.
+has no heat exchanger.
+@@consists of pressure, breather, and scavenge subsystems.
+A full flow oil system has.(Level 1)
+single fixed minimum oil pressure.
+@@variable oil pressure dependant upon throttle setting.
+hot and cold oil pressure limit.
+A felt filter in an oil lubrication system should be.(Level 1)
+removed and cleaned in M.E.K.
+@@removed and replaced with a new filter element.
+removed and cleaned in a container of lead free petrol.
+A vane type oil pump output is controlled by.(Level 1)
+@@outlet pressure against spring pressure.
+outlet pressure controlling servo.
+output pressure controlling plate angle.
+The sump in a dry sump oil system.(Level 1)
+@@is used as a collecting point only.
+houses all the engine oil.
+provides lubrication for the main bearings.
+A jet engine gear box breather is prevented from leaking oil to atmosphere by the action of.(Level 1)
+air or oil valve.
+oil thrower ring and centrifugal force.
+@@impeller and centrifugal force.
+The air-cooled-oil-cooler has an anti-surge valve in order to.(Level 1)
+@@protect the cooler.
+restrict the engine max oil pressure.
+stop oil draining from the system when the cooler is removed.
+A thread type oil seal in a lubrication system.(Level 1)
+screws oil back into the bearing sump when the shaft rotates
+@@has a thread on a stationary portion to prevent fluid leaks.
+only seals when stationary.
+The oil system generally used on most modern turboprop engines is.(Level 1)
+@@dry sump type.
+wet sump type.
+low pressure system.
+What would be the effect on the engine if the B.P.C half ball valve in the servo line sticks open?.(Level 2)
+reduction of fuel flow, therefore a decrease in RPM .
+The B.P.C would be ineffective at sea level only.
+@@An increase of fuel flow, therefore an increase in RPM .
+Why is an A.C.U fitted to a gas turbine engine?.(Level 2)
+It increases the rate of acceleration of the engine.
+It controls the operation of the metering block during sudden acceleration.
+It limits the rate of increase in fuel flow during sudden acceleration.
+If fuel pump servo pressure is reduced, pump output will.(Level 2)
+increase.
+@@decrease.
+remain constant.
+Why is the B.P.C fitted in a gas turbine engine fuel system?.(Level 2)
+@@To vary pressure pump output in relation to the pressure variation at the intake.
+To proportion the fuel flow between primary and main burner lines.
+To decrease the fuel flow to the burners with increased air intake pressure.
+What must be done after the fuel control unit has been replaced on an aircraft gas turbine engine?.(Level 2)
+You must recalibrate the fuel nozzles.
+@@You must retrim the engine.
+You must perform a full power engine run to check fuel flow.
+What is the purpose of the attenuator fitted between the H.P fuel pump and the B.P.C in a fuel system?.(Level 2)
+It restricts the pressure feed top the B.P.C.
+It ensures a supply of fuel free from foreign matter to the BC half ball valve.
+@@It damps out pulsations in the fuel delivery to the B.P.C.
+Why is the hydromechanical governor fitted to a gas turbine engine fuel pump?.(Level 2)
+@@To enable the engine to operate over a wide range of fuel SGs.
+To enable efficient control of fuel flow to be maintained at altitude.
+To enable the engine to operate over a wide range of fuel flow.
+When considering a centrifugal type engine speed governor, an increase in fuel S.G. will cause.(Level 2)
+no change in maximum RPM .
+an increase in maximum RPM .
+@@reduction in maximum RPM .
+Which of the following influences the operation of an automatic fuel control unit on a turbojet engine?.(Level 2)
+Exhaust gas temperature.
+Mixture control position.
+@@Burner pressure.
+What is the purpose of the L.P. pump?.(Level 2)
+To ensure rapid acceleration when the throttle is opened.
+@@To prevent cavitation of the H.P Fuel pump.
+To ensure the engine will continue to run if the H.P. fuel pump fails.
+Which forces control the maximum RPM governor in a non- hydromechanical swashplate type of pump?.(Level 2)
+@@Rotor centrifugal pressure opposed to tension spring loading.
+Rotor centrifugal pressure plus tension spring loading opposed to pump delivery pressure.
+Rotor centrifugal pressure plus tension spring loading opposed to pump inlet pressure.
+With a decrease in fuel SG, what is the result when the engine is fitted with an uncompensated fuel governor?.(Level 2)
+No effect.
+Maximum RPM decrease.
+@@Maximum RPM increase.
+To what condition does the fuel flow respond during aircraft acceleration?.(Level 2)
+@@Mass airflow rate through the engine.
+The effect of 'ram-air' at altitude.
+The change in pressure at the compressor intake.
+If the swash plate of a positive displacement swash plate pump is perpendicular to the axis of the pump, the flow will be.(Level 2)
+@@zero.
+reversed.
+maximum.
+A FADEC consists of.(Level 1)
+@@Electronic controls, sensors and an H.M.U.
+Electronic control and throttle position transmitter.
+Electronic control only.
+During aerobatic manoeuvres, what prevents fuel from spilling out of fuel tank vents?.(Level 1)
+Booster pump differential pressure.
+Baffle plates in tanks.
+@@Float operated valves.
+After a bag tank replacement, where would you disconnect the system to carry out the flow checks?.(Level 1)
+@@At the engine.
+At tank outlet.
+Tank isolation cock.
+The basic concept of an H.P fuel control is.(Level 1)
+automatic adjustment of the fuel control unit by preventing excess fuel reaching the burners.
+the bleeding of excess fuel back to the input of the H.P pump swash plate piston.
+@@constant adjustment of the swash plate angle of the H.P fuel pump.
+Out of the following thrust lever resolver angles, which one is the forward idle setting?.(Level 1)
+5 degrees.
+85 degrees.
+@@40 degrees.
+Fuel boost pumps are cooled using.(Level 1)
+ram air.
+Fuel pumps do not require cooling.
+@@fuel.
+A fuel trimmer unit is adjusted at altitude.(Level 1)
+@@automatically, via a fuel trim unit.
+manually to compensate for propeller torque.
+manually to compensate for EGT change.
+Baffles in a rigid fuel tank.(Level 1)
+help prevent micro-biological corrosion.
+strengthen the tank structure.
+@@prevent surge.
+A FADEC system takes measurements from Engine Speed,.(Level 1)
+@@Temperature and Pressure.
+and Temperature.
+and Pressure.
+Main purpose of the fuel boost pumps is to provide.(Level 1)
+emergency dump jettison.
+cross-feed fuel from one tank to another.
+@@fuel pressure to both engine pumps.
+Engine anti-ice is taken from the.(Level 1)
+turbine.
+@@H.P compressor.
+LP compressor.
+In an axial flow turbine engine, compressor bleed air is sometimes used to aid in cooling the.(Level 1)
+inlet guide vanes.
+@@turbine, vanes, blades, and bearings.
+fuel.
+If air is taken from the compressor for air conditioning or anti-icing.(Level 1)
+thrust will increase EGT will increase.
+@@thrust will decrease EGT will increase.
+thrust will decrease EGT will decrease.
+Turbine case cooling utilizes.(Level 1)
+LP compressor air.
+@@fan air.
+H.P compressor air.
+Air for anti-icing is taken from the.(Level 1)
+accessory Gearbox.
+LP compressor.
+@@H.P compressor.
+As air is bled off the engine, EGT will.(Level 1)
+remain constant.
+decrease.
+@@increase.
+The heat absorbed by internal components can be detrimental to thrust and is prevented by.(Level 1)
+reducing fuel flow to reduce internal temperature.
+bleeding air off the compressor to heat the components.
+@@bleeding air off the compressor to cool the components.
+On a gas turbine engine, thermal wing de-icing system derives air.(Level 1)
+via air from the H.P turbine.
+@@through a pressure regulating shut-off valve (P.R.S.O.V).
+through a pressure relief system.
+If the engine fails to light-up, the starter cycle is canceled by.(Level 2)
+centrifugal switch.
+low pressure relay.
+@@time switch.
+On light up, the gas temperature will.(Level 2)
+rise slowly.
+@@rise rapidly, then fall as RPM increases to idle.
+rise rapidly.
+What type of turbine blade is most commonly used in air starter motors?.(Level 2)
+Reaction.
+@@Impulse.
+Impulse-reaction.
+When is ignition used?.(Level 2)
+@@For relight and start up.
+For continuous relight.
+At high altitudes.
+The spark in the High Energy igniter is supplied by.(Level 2)
+@@capacitor.
+contact circuit breaker.
+the AC busbar.
+Self sustaining speed is.(Level 1)
+V1 speed.
+@@the RPM at which the engine continues without external assistance.
+take off velocity.
+During normal running conditions.(Level 1)
+combustion is intermittently supported by ignition.
+@@combustion is self supporting
+combustion is continuously supported by ignition.
+High energy ignition is required because of the.(Level 2)
+@@high flash point of the fuel.
+absorbed moisture content.
+low flash point of the fuel.
+In the H.E.I.U. the discharge resistors.(Level 1)
+allow sufficient voltage to be stored to provide relight facilities up to 55,000 ft.
+@@allow the capacitors to discharge when the unit is switched off.
+protect the unit from excessive voltages.
+The rate of discharge of a H.E.I.U. is.(Level 1)
+4 discharges per revolution.
+60 - 100 per second.
+@@60 - 100 per minute.
+Why do turbine engine ignition systems require high energy?.(Level 2)
+Because the applied voltage is much greater.
+To ignite the fuel under conditions of high altitude and high temperatures.
+@@To ignite the fuel under conditions of high altitude and low temperatures.
+The type of ignition system used on most turbine aircraft engines is.(Level 2)
+low tension.
+@@capacitor discharge.
+high resistance.
+A safety feature usually employed in pneumatic starters that is used to prevent the starter from reaching burst speed if inlet air does not terminate on schedule is the.(Level 2)
+@@stator nozzle design that chokes airflow and stabilizes turbine wheel speed.
+drive shaft shear point.
+spring coupling release.
+A safety feature usually employed in pneumatic starters that is used if the clutch does not release from the engine drive at the proper time during start is the.(Level 2)
+spring coupling release.
+drive shaft shear point.
+@@flyweight cutout switch.
+Airflow to the pneumatic starter from a ground unit is normally prevented from causing starter overspeed during engine start by.(Level 1)
+preset timed cutoff of the airflow at the source.
+stator nozzle design that chokes airflow and stabilizes turbine wheel speed speed.
+@@activation of a flyweight cutout switch.
+Air turbine starters are generally designed so that reduction gear distress or damage may be detected by.(Level 1)
+@@inspection of a magnetic chip detector.
+characteristic sounds from the starter assembly during engine start.
+breakage of a shear section on the starter drive shaft.
+Inspection of pneumatic starters by maintenance technicians usually includes checking the.(Level 2)
+stator and rotor blades for FOD.
+@@oil level and magnetic drain plug condition.
+rotor alignment.
+Pneumatic starters are usually designed with what types of airflow impingement systems?.(Level 2)
+@@Radial inward flow turbine and axial-flow turbine.
+Centrifugal compressor and axial-flow compressor.
+Double entry centrifugal outward flow and axial-flow turbines.
+A clicking sound heard at engine coast-down in a pneumatic starter incorporating a sprag clutch ratchet assembly is an indication of.(Level 2)
+gear tooth and/or pawl damage.
+one or more broken pawl springs.
+the pawls re-contacting and riding on the ratchet gear.
+The primary advantage of pneumatic (air turbine) starters over comparable electric starters for turbine engines is.(Level 2)
+@@high power-to-weight ratio.
+reduction gearing not required.
+decreased fire hazard.
+Great caution should be exercised in handling damaged hermetically sealed turbine engine igniter transformer units because.(Level 1)
+some contain toxic chemicals.
+@@some contain radioactive material.
+compounds in the unit may become a fire or explosion hazard when exposed to the air.
+Generally, when removing a turbine engine igniter plug, in order to eliminate the possibility of the technician receiving a lethal shock, the ignition switch is turned off and.(Level 1)
+disconnected from the power supply circuit.
+the transformer exciter input lead is disconnected and the center electrode grounded to the engine after disconnecting the igniter lead from the plug and waiting the prescribed time.
+the igniter lead is disconnected from the plug and the center electrode grounded to the engine after disconnecting the transformer-exciter input lead and waiting the prescribed time.
+H.E.I.U ignitor plugs receive their electrical supply from.(Level 1)
+discharge inductor.
+starter system electrical circuit.
+@@discharge capacitor.
+An H.E.I.U is rated in.(Level 1)
+@@Joules.
+Watts.
+Amps.
+A glow plug operates.(Level 1)
+manually.
+@@by heat action.
+electrically.
+The resistor in a D.C. starter motor.(Level 1)
+prevents over speed.
+@@prevents current surge when motor is at low rpm.
+used when D.C. motor fails.
+The field of the D.C. starter motor used on gas turbine engine is.(Level 1)
+series only.
+shunt or compound.
+@@series or compound.
+After an unsuccessful start of an engine.(Level 1)
+the engine has to be left for some time before another start.
+unburnt fuel can be drained from fuel drainage lines.
+@@unburnt fuel can be evacuated by motoring the engine with H.P cock closed.
+A Bourdon tube instrument may be used to indicate.(Level 1)
+position and quantity.
+@@pressure and temperature.
+pressure, temperature, position and quantity.
+What instrument on a gas turbine engine should be monitored to minimize the possibility of a 'hot' start?.(Level 2)
+RPM indicator.
+@@Turbine inlet temperature.
+Torquemeter.
+Oil temperature thermocouples are usually constructed of.(Level 1)
+@@iron constantan.
+alumel constantan.
+chromel alumel.
+The RPM indication of a synchronous AC motor tachometer is governed by the generator.(Level 2)
+current.
+@@frequency.
+voltage.
+Instruments that measure relatively high fluid pressures, such as oil pressure gauges, are usually what type?.(Level 2)
+@@Bourdon tube.
+Vane with calibrated spring.
+Diaphragm or bellows.
+Instruments that provide readings of low or negative pressure, such as manifold pressure gauges, are usually what type?.(Level 2)
+@@Diaphragm or bellows.
+Vane with calibrated spring.
+Bourdon tube.
+In what units are gas turbine engine tachometers calibrated?.(Level 1)
+Percent of engine pressure ratio.
+@@Percent of engine RPM.
+Actual engine RPM.
+In a turbine engine, where is the turbine discharge pressure indicator sensor located?.(Level 1)
+At a location in the exhaust cone that is determined to be subjected to the highest pressures.
+@@Immediately aft of the last turbine stage.
+At the aft end of the compressor section.
+The exhaust gas temperature (E.G.T ) indicator on a gas turbine engine provides a relative indication of the.(Level 2)
+@@turbine inlet temperature.
+temperature of the exhaust gases as they pass the exhaust cone.
+exhaust temperature.
+Engine pressure ratio is determined by.(Level 1)
+dividing engine inlet total pressure by turbine outlet total pressure.
+multiplying engine inlet total pressure by turbine outlet total pressure.
+@@dividing turbine outlet total pressure by engine inlet total pressure.
+A red triangle, dot, or diamond mark on an engine instrument face or glass indicates.(Level 1)
+@@the maximum limit for high transients such as starting.
+restricted operating range.
+the maximum operating limit for all normal operations.
+What is the primary purpose of the tachometer on an axial compressor turbine engine?.(Level 2)
+Monitor engine RPM during cruise conditions.
+@@Monitor engine RPM during starting and to indicate overspeed conditions.
+It is the most accurate instrument for establishing thrust settings under all conditions.
+Engine pressure ratio is the total pressure ratio between the.(Level 1)
+front of the engine inlet and the aft end of the compressor.
+@@front of the compressor and the rear of the turbine.
+aft end of the compressor and the aft end of the turbine.
+On an aircraft turbine engine, operating at a constant power, the application of engine anti-icing will result in.(Level 2)
+an increase in E.P.R.
+@@noticeable shift in E.P.R.
+false E.P.R reading.
+The indicator of a tachometer system is responsive to change in.(Level 2)
+voltage.
+@@frequency.
+current flow.
+The fuel flow indication data sent from motor driven impeller and turbine, and motorless type fuel flow transmitters is a measure of.(Level 2)
+@@fuel mass flow.
+fuel volume flow.
+engine burner pressure drop.
+In addition to fuel quantity, a computerized fuel system (C.F.S) with a totalizer indicator provides indication of how many of the following?.(Level 1)
+@@Fuel flow rate, Fuel used since reset or initial start up, Fuel time remaining at current power setting.
+Fuel flow rate, Fuel used since reset or initial start up, Fuel time remaining at current power setting, Fuel temperature.
+Fuel flow rate, Fuel used since reset or initial start up, Fuel temperature.
+The fuel flow indicator rotor and needle for a motor impeller and turbine indicating system is driven by.(Level 2)
+direct coupling to the motor shaft.
+@@an electrical signal.
+mechanical gear train.
+Motor driven impeller and turbine fuel flow transmitters are designed to transmit data.(Level 1)
+@@using aircraft electrical system power.
+mechanically.
+by fuel pressure.
+What unit in a tachometer system sends information to the indicator?.(Level 2)
+The two phase AC generator.
+@@The three phase AC generator.
+The synchronous motor.
+Engine oil temperature gauges indicate the temperature of the oil.(Level 1)
+@@entering the oil cooler.
+entering the engine.
+in the oil storage tank.
+Thermocouple leads.(Level 1)
+may be repaired using solderless connectors.
+@@are designed for a specific installation and may not be altered.
+may be installed with either lead to either post of the indicator.
+Why do helicopters require a minimum of two synchronous tachometer systems?.(Level 2)
+One indicates engine RPM and the other tail rotor RPM.
+One indicates main rotor RPM and the other tail rotor RPM.
+@@One indicates engine RPM and the other main rotor RPM.
+If the thermocouple leads were inadvertently crossed at installation, what would the E.G.T gauge pointer indicate?.(Level 2)
+Moves off scale on the high side of the meter.
+@@Moves off scale on the zero side of the meter.
+Normal temperature for prevailing condition.
+A common type of electrically operated oil temperature gauge utilizes.(Level 1)
+@@either a wheatstone bridge or ratiometer circuit.
+thermocouple type circuit.
+vapour pressure and pressure switches.
+The indication on a thermocouple-type E.G.T indicator is produced by.(Level 2)
+resistance changes in two dissimilar metals.
+difference in the voltage between two dissimilar metals.
+@@current generated by the temperature difference between dissimilar metal hot and cold junctions.
+On an injection system.(Level 1)
+methanol is injected neat.
+town water/methanol is injected.
+@@demineralized water/methanol is injected.
+When using water methanol in an axial flow compressor, it is injected into the.(Level 1)
+@@compressor inlet or burner section.
+burner.
+intake.
+The main reason for adding methanol to the water is to.(Level 1)
+temper the cooling effect of the water to prevent distortion.
+supply the additional heat required.
+@@prevent mixture freezing.
+The primary purpose of water injection is to.(Level 1)
+decrease mass airflow.
+increase the calorific value of the fuel.
+@@cool the turbine.
+Water used in a thrust augmentation system should be demineralised to prevent.(Level 1)
+blocking the jet.
+carbon formation.
+@@fouling the blades and vanes.
+The quantity of water usually carried by an aircraft equipped with water injection is enough for.(Level 1)
+three take-offs.
+@@one take-off.
+two take-offs.
+Water methanol injection will increase thrust by up to.(Level 1)
+70%.
+50%.
+@@30%.
+Injection of water/methanol into compressor inlet causes.(Level 1)
+increase in power due to the burning of methanol alone.
+@@increase in power without the need for burning extra fuel.
+increased efficiency of the engine due to reduced icing in the airflow.
+Reheat is the term used to describe.(Level 1)
+@@adding fuel in the exhaust section.
+adding of fuel in the turbine section.
+adding of fuel in the compressor section.
+Water/methanol is injected.(Level 1)
+at high temperatures.
+at high temperature, at high altitudes.
+@@at high temperatures or high altitudes.
+The reheat ignition system which incorporates a platinum/rhodium element is known as.(Level 1)
+@@catalytic ignition.
+hot-shot ignition system.
+spark ignition system.
+Water or water/methanol injected into the combustion chamber inlet increases.(Level 1)
+@@mass airflow through the turbine.
+combustion chamber outlet temperatures.
+fuel to air ratio by up to 20%.
+Methanol is added to water when augmenting thrust in order to.(Level 1)
+reclaim lost pressure at the compressor.
+increase the density of air entering the compressor.
+@@reclaim lost heat at the turbines.
+Afterburning is initiated in order to.(Level 1)
+heat the exhaust to prevent choking at subsonic gas velocities.
+burn off the fuel that is not combusted in the combustion section.
+@@increase the local speed of sound at the jet nozzle.
+How is the flame stabilised in the reheat system of a gas turbine engine?.(Level 1)
+By creating a greater potential between inlet & jet pipe temperatures.
+@@By ensuring that the gas velocity is greater than the flame velocity.
+By ensuring that the flame velocity is greater than the gas velocity.
+A free turbine is usually found on a.(Level 1)
+turbo-jet.
+turbo-fan.
+@@turbo prop.
+A free turbine is.(Level 1)
+not directly connected to the power output shaft.
+connected directly to the propeller and compressor.
+@@connected directly to the power output shaft.
+The fuel flow in a turboprop engine within the constant speed range is controlled.(Level 2)
+@@automatically.
+manually.
+No Control.
+Torque measurement is taken from the.(Level 1)
+@@reduction gearbox.
+prop shaft.
+free turbine shaft.
+Electrical propeller de-icing pads are.(Level 1)
+@@at the root.
+at the tip.
+on the trailing edge.
+Fuel trimming on a turboprop engine is.(Level 1)
+pilot controlled.
+@@governor controlled.
+automatic.
+What controls the fuel trimmer on a turboprop engine?.(Level 2)
+The blade angle.
+Propeller Control Unit.
+@@Engine Speed Governor.
+What is the purpose of the reduction gear on a propeller driven engine?.(Level 2)
+To maintain a constant propeller blade speed.
+To enable torque measurement.
+@@To prevent the propeller tips reaching the speed of sound.
+If an E.P.R gauge is installed on turbofans as a measure of power output, what is used on a turboprop?.(Level 2)
+E.P.R gauge.
+@@Torque-meter.
+Thermocouples.
+What type of reduction gear is used on most turboprop modern engines?.(Level 2)
+Helical cut parallel spur gears.
+@@Epicyclic reduction gear.
+Straight cut parallel spur gears.
+A turbo-shaft engine has.(Level 1)
+mechanical connection between compressor and turbine.
+@@power shaft which is not connected to the compressor.
+none of the above.
+On a twin spool turbo-shaft engine, the free turbine is connected to the.(Level 1)
+@@output gearbox.
+L.P gearbox.
+H.P gearbox.
+In the majority of helicopters, the thrust generated by the gas generator is absorbed by the.(Level 1)
+L.P turbine.
+@@Free power turbine.
+H.P turbine.
+An A.P.U start cycle is completed at.(Level 1)
+100% RPM.
+75% RPM.
+@@95% RPM.
+An A.P.U power lever is located.(Level 1)
+behind the throttles.
+at the Flight Engineer Station.
+@@An A.P.U is fully automatic and does not require a power lever.
+An A.P.U consists of.(Level 1)
+@@power compressor and load compressor.
+power compressor and directly connected turbine.
+load compressor and free turbine.
+When necessary, A.P.U engine cooling before shutdown may be accomplished by.(Level 2)
+@@closing the bleed air valve.
+opening the bleed air valve.
+unloading the generator(s).
+Frequently, an aircraft's auxiliary power unit (A.P.U) generator.(Level 1)
+@@is identical to the engine-driven generators.
+has a higher load capacity than the engine-driven generators.
+supplements the aircraft's engine-driven generators during peak loads.
+Fuel scheduling during A.P.U start and under varying pneumatic bleed and electrical loads is maintained.(Level 1)
+@@automatically by the A.P.U fuel control system.
+manually through power control lever position.
+Jeppesen A&P Technician Propulsion Textbook 3-37.
+An A.P.U is usually rotated during start by.(Level 1)
+pneumatic starter.
+turbine impingement system.
+@@an electric starter.
+Usually, most of the load placed on an A.P.U occurs when.(Level 2)
+@@the bleed air valve is opened.
+an electrical load is placed on the generator(s).
+the bleed air valve is closed.
+The function of an A.P.U air inlet plenum is to.(Level 2)
+@@stabilize the pressure of the air before it enters the compressor.
+increase the velocity of the air before entering the compressor.
+decrease the pressure of the air before entering the compressor. .
+In a large commercial passenger transport aircraft the A.P.U supplies.(Level 2)
+@@pneumatics and electrics.
+electrics.
+pneumatics.
+When in operation, the speed of an A.P.U.(Level 2)
+@@remains at or near rated speed regardless of the load condition.
+remains at idle and automatically accelerates to rated speed when placed under load.
+is controlled by a cockpit power lever.
+Generally, when maximum A.P.U shaft output power is being used in conjunction with pneumatic power.(Level 2)
+electrical loading will be automatically modulated to maintain a safe E.G.T.
+temperature limits and loads must be carefully monitored by the operator to maintain a safe E.G.T.
+@@pneumatic loading will be automatically modulated to maintain a safe E.G.T.
+For an A.P.U to run 'unmanned' it must be equipped with.(Level 1)
+an automatic fire extinguishing system.
+@@both an audible fire warning and an automatic fire extinguishing system.
+an audible fire warning.
+When the A.P.U is running and pneumatics are on.(Level 2)
+bleed valve is closed, surge valve is open.
+@@bleed valve is open, surge valve is closed.
+bleed valve is open, surge valve is modulating.
+Pipes, electrical cables and associated components of a fire-detection system should be.(Level 2)
+@@fire resistant.
+fire proof.
+fire retardant.
+The minimum bend radius for a continuous loop type fire wire is.(Level 2)
+1/2 inch.
+1/8 inch.
+@@1 inch.
+Acoustic linings made from composite materials are used in what section of the engine?(Level 2)
+Not used to suppress noise.
+Hot section & Cold Section.
+@@Cold section only.
+Vibration mounts are used for.(Level 2)
+stopping vibrations entering the engines.
+@@preventing engine vibration loads being transmitted to the airframe structure.
+damping out vibration stresses on engine when being transported on an engine stand.
+An aircraft has a heavy landing and on inspection of the engine mounting bolts the bolts torque loading has reduced, you should.(Level 1)
+add washers to take up any gap or slackness and re-torque to correct value.
+@@remove bolt and carry out inspection as the bolt may have increased in length due to heavy landing.
+re-torque bolt up to correct torque value.
+Forward engine mounts take which loads?.(Level 1)
+@@Thrust, vertical and shear loads.
+Centrifugal, thrust and axial.
+Thrust, vertical and impact.
+Forward engine mounts take which form?.(Level 1)
+Castings.
+@@Forgings.
+Fabricated sheet steel.
+Pipes around engines are.(Level 1)
+aluminium.
+mild seamless steel.
+@@stainless steel.
+Fibrous metallic lining for noise suppression is used.(Level 1)
+for lobe type noise suppressors.
+in cold area.
+@@in hot area.
+Noise lining in the fan area is made from.(Level 1)
+layers of bonded resin.
+@@porous type Honeycomb and backing sheet.
+felt with aluminium sheet.
+A powerplant consists of.(Level 1)
+basic engine plus E.C.U.
+basic engine plus thrust reverser, exhaust system and gear box with accessories.
+@@the complete engine as it would be found on aircraft including all connections, controls, cowlings, intake etc.
+Acoustic blankets are installed to.(Level 1)
+@@reduce noise levels.
+increase thermal efficiency.
+aid the streamlining of the engine.
+When checking the effect of inertia on the engine after heavy landing you would first check the.(Level 2)
+thrust line.
+compressor shaft for distortion.
+@@module alignment.
+The purpose of spring back and cushion on an engine power lever is.(Level 2)
+used when friction builds up in a system.
+used to prevent the controls hitting the fuel control stops.
+@@used when full travel is used but slight movement is still required on the fuel control unit.
+What are sometimes installed in an engine mounting system to tune out the worst engine vibrations?.(Level 2)
+Spring cushioned mounting pads.
+Vibration absorbers of calibrated weight.
+@@Rubber encased wire-mesh vibration isolators.
+Where are the lifting points on a high bypass turbine engine?.(Level 2)
+On the fan and compressor casing.
+On the fan, turbine and compressor casing.
+@@On the fan and turbine casing.
+A fire wire is installed.(Level 1)
+@@to withstand inertia, vibration, etc, encountered during normal operation.
+vertically.
+horizontally.
+Resistive and capacitive type firewires are tested with.(Level 1)
+megger/voltmeter.
+@@megger/ohmmeter.
+multimeter.
+Fire wire clips have rubber in them to.(Level 1)
+stop heat transfer to the element.
+insulate the fire wire electrically.
+@@support the wire.
+Fire extinguishers work by.(Level 1)
+@@combining with remaining oxygen to get rid of it.
+creating more oxygen.
+reducing oxygen.
+Fire detection systems which are routed through another zone.(Level 1)
+must be protected by the use of heat sinks.
+@@must be protected from heat sources in the zone.
+are not allowed.
+What is the operating principle of the spot detector sensor in a fire detection system?.(Level 2)
+conventional thermocouple that produces a current flow.
+@@bimetallic thermoswitch that closes when heatedto a high temperature.
+Resistant core material that prevents current flow at normal temperatures.
+In a fixed fire-extinguishing system, there are two small lines running from the system and exiting overboard. These line exit ports are covered with a blowout type indicator disc. Which of the following statements is true?.(Level 2)
+When the red indicator disc is missing, it indicates the fire extinguishing system has been normally discharged.
+When the green indicator disc is missing, it indicates the fire extinguishing system has had a thermal discharge.
+@@When the yellow indicator disc is missing, it indicates the fire extinguishing system has been normally discharged.
+Two continuous-loop fire detection systems that will not test due to a broken detector element are the.(Level 2)
+thermocouple system and the Lindberg system.
+@@Kidde system and the Fenwal system.
+Kidde system and the Lindberg system.
+Which of the following fire detection systems measures temperature rise compared to a reference temperature?.(Level 2)
+Lindberg continuous element.
+@@Thermocouple.
+Thermal switch.
+A fire involving energized electrical equipment is defined as a.(Level 1)
+class B fire.
+class D fire.
+@@class C fire.
+How are most aircraft turbine engine fire extinguishing systems activated?.(Level 2)
+Manual remote control valve.
+Pushrod assembly.
+@@Electrically discharged cartridges.
+A fire detection system that operates on the rate of temperature rise is a.(Level 1)
+@@thermocouple system.
+thermal switch system.
+continuous loop system.
+Why does one type of Fenwal fire detection system use spot detectors wired in parallel between two separate circuits?.(Level 2)
+@@So that a single fault may exist in the system without sounding a false alarm.
+To provide an installation that is equal to two separate systems: a primary system and a secondary, or back-up system.
+So that a double fault may exist in the system without sounding a false alarm.
+How does carbon dioxide (CO2) extinguish an aircraft engine fire?.(Level 2)
+By lowering the temperature to a point where combustion will not take place.
+The high pressure spray lowers the temperature and blows out the fire.
+@@Contact with the air converts the liquid into snow and gas which smothers the flame.
+A fuel or oil fire is defined as a.(Level 1)
+@@class B fire.
+class C fire.
+class A fire.
+Which of the following is the safest fire extinguishing agent to use from a standpoint of toxicity and corrosion hazards?(Level 2)
+@@Bromotrifluoromethane (Halon 1301).
+Bromochlorodifluoromethane (Halon 1211).
+Dibromodifluoromethane (Halon 1202).
+The explosive cartridge in the discharge valve of a fire extinguisher container is.(Level 2)
+not a life dated unit.
+@@life dated unit.
+mechanically fired.
+A fire detection system operates on the principle of a buildup of gas pressure within a tube proportional to temperature. Which of the following systems does this statement define?. (Level 1)
+Thermal switch system.
+@@Lindberg continuous element system.
+Kidde continuous loop system.
+The most satisfactory extinguishing agent for an intake fire is.(Level 2)
+methyl bromide.
+@@dry chemical.
+carbon dioxide.
+How is the fire extinguishing agent distributed in the engine section?.(Level 2)
+@@Spray nozzles and perforated tubing.
+Spray nozzles and fluid pumps.
+Nitrogen pressure and slinger rings.
+What is the principle of operation of the continuous loop fire detector system sensor?.(Level 2)
+@@Core resistance material which prevents current flow at normal temperatures.
+bimetallic thermoswitch which closes when heated to a high temperature.
+Fuse material which melts at high temperatures.
+A continuous loop fire detector is what type of detector?.(Level 1)
+Rate of temperature rise detector.
+Spot detector.
+@@Overheat detector.
+For fire detection and extinguishing purposes, aircraft powerplant areas are divided into fire zones based on.(Level 1)
+the volume and smoothness of the airflow through enginecompartments.
+engine type and size.
+@@hot and cold sections of the engine.
+On checking a fault free fire detection system.(Level 1)
+use megger as per normal.
+megger is never to be used.
+@@use a megger only for a short while as it can polarise the element.
+3 ways to test serviceability of a fixed fire bottle in situ are.(Level 1)
+weigh, pressure, blow-out disc.
+weigh, pressure, pop up indicator.
+@@pressure, pop up indicator, blow-out disc.
+Omission of crushable washer on engine fire-wire connector will.(Level 1)
+@@allow moisture ingress.
+affect fire wire continuity.
+affect fire wire capacitance.
+A hung start is indicated by the.(Level 1)
+exhaust gas temperature exceeds specified limits.
+@@fails to reach idle RPM.
+RPM exceeds specified operating speed.
+A magnetic chip detector inspection should be carried out.(Level 1)
+@@within a specified time from shut down.
+with engine cold.
+with engine running.
+Foreign object damage on a compressor, when boroscoping, is indicated by.(Level 2)
+tip curl.
+@@nicks and scores.
+flats.
+Turbine blades are generally more susceptible to operating damage than compressor blades because of.(Level 2)
+@@higher temperature stresses.
+higher centrifugal loading.
+high pressure and high velocity gas flow.
+A magnetic chip detector detects.(Level 1)
+particles held in suspension.
+particles which are too small for the naked eye.
+@@ferrous particles only.
+A cool-off period prior to shutdown of a turbine engine is done to.(Level 1)
+prevent vapor lock in the fuel control and/or fuel lines.
+prevent seizure of the engine bearings.
+@@allow the turbine wheel to cool before the case contracts around it.
+A turbine engine hot section is particularly susceptible to which kind of damage?.(Level 1)
+Scoring.
+Galling.
+@@Cracking.
+If a turbine engine is unable to reach takeoff E.P.R before its E.G.T limit is reached, this is an indication that the.(Level 2)
+fuel control must be replaced.
+E.G.T controller is out of adjustment.
+@@compressor may be contaminated or damaged.
+With the engine running at idle, the E.P.R system reads just over 1.(Level 2)
+The system has failed and needs attention.
+The system needs re-calibration back to '1'.
+@@This is a normal condition and does not need attention.
+The recurrent ingestion of dust or other fine airborne particulates into an engine can result in.(Level 2)
+the need for less frequent abrasive grit cleaning of the engine.
+foreign object damage to the compressor section.
+@@erosion damage to the compressor and turbine sections.
+Run down time is indicative of.(Level 2)
+an F.C.U malfunction.
+compressor malfunction.
+@@the freedom of rotation of the compressor.
+A hung start or false start is one in which.(Level 1)
+@@light up' occurs, but the RPM does not increase.
+there is no 'light up'.
+the engine does not rotate.
+In regard to using a turbine engine oil analysis program, which of the following is NOT true?.(Level 2)
+It is best to start an oil analysis program on an engine when it is new.
+successful oil analysis program should be run over an engine's total operating life so that normal trends can be established.
+@@Generally, an accurate trend forecast may be made after an engine's first oil sample analysis.
+After shutdown, flames are present in the exhaust pipe. The probable cause is.(Level 1)
+defective fuel control unit (F.C.U).
+@@defective pressurizing and dump valve.
+defective H.P cock.
+If the L.P cock is used to shutdown an engine.(Level 2)
+the F.C.U will continue to function.
+flames will appear in the exhaust.
+@@the H.P fuel pump will run dry.
+A gas turbine engine is stopped by closing.(Level 1)
+L.P cock.
+@@H.P cock.
+throttle valve.
+A 'wet start' is indicated by.(Level 1)
+@@no temperature indication.
+low RPM.
+prolonged cranking period.
+The engine accelerates to idling by.(Level 2)
+gas flow.
+@@combined efforts of starter motor and gas flow.
+starter motor.
+Fuel system inhibiting oil is.(Level 1)
+@@mineral oil.
+light anti-freeze oil.
+kerosene.
+After placing an engine in an M.V.P envelope.(Level 1)
+check humidity indicator after 12 hours.
+@@check humidity indicator after 24 hours.
+check humidity indicator after 48 hours.
+On a vapour proof cocoon, there is a.(Level 1)
+temperature indicator.
+@@moisture indicator.
+humidifier.
+When an installed engine is not to be used for a period of up to 7 days.(Level 2)
+it is necessary to inhibit the engine.
+@@it is only necessary to blank off all apertures.
+run the engine as prescribed in the Flight Manual.
+Installed engines must be re-preserved after preservation at least every.(Level 2)
+six weeks.
+six days.
+@@six months.
+On storage of an engine, the desiccant is.(Level 1)
+looked at within 24 hrs if its blue its OK.
+@@looked at 24 hrs later if its blue its OK.
+looked at 24 hrs later if blue it should be replaced.
+After placing an engine into storage, details would be recorded in.(Level 1)
+Technical Log.
+@@Engine log book.
+Aircraft log book.
+When storing an engine the fuel system is to be inhibited. How is this done?.(Level 2)
+@@Remove plugs rotate engine then add oil.
+Rotate engine whilst adding oil then remove plugs.
+Add oil leaving plugs in.
+An engine in storage for 7 days should.(Level 1)
+have storage oil placed in engine.
+be run twice in that week.
+@@be fitted with covers and blanks and apertures covered.
+On a (VP) cocoon bag, if the humidity indicator turns pink/lilac.(Level 2)
+desiccant is effective and does not need changing.
+@@desiccant is ineffective and needs changing.
+desiccant is changed weekly.
+To inhibit the fuel system of an installed engine.(Level 1)
+pump oil into the engine when stationary.
+@@dry motor the engine.
+remove the ignitor plugs.
+When is the humidity indicator checked on a preserved engine?.(Level 2)
+@@1 Month.
+1 Year.
+6 Months.
+With an engine in storage, desiccant is used.(Level 1)
+as an insecticide.
+as a corrosion inhibitor.
+@@to remove moisture from the air.
+Small cuts in a M.V.P. engine storage bag can be repaired.(Level 2)
+@@with adhesive PVC tape.
+by vulcanising.
+by replacing M.V.P.
+When removing an engine for long-term storage, bleed valves should be.(Level 2)
+removed.
+locked closed.
+@@open but blanked.
+The types of water present in aviation fuel are.(Level 1)
+@@free and entrained both harmful.
+free that is harmful and entrained that is harmless.
+free that is harmless and entrained that is harmful.
+Oil pressure and scavenge pumps are usually.(Level 2)
+@@spur gear pumps.
+multi-plunger pumps.
+diaphragm pumps.
+The purpose of a pressure filter in a lubrication system is to.(Level 2)
+protect the pressure pump.
+@@protect the oil jets.
+protect the scavenge pumps.
+A curvic coupling.(Level 1)
+converts rotary motion to reciprocating motion.
+absorbs misalignment between the driving and driven shafts.
+@@accurately aligns the driving and the driven shafts.
+Feeders are.(Level 1)
+conduits used to carry electrical cable.
+fluid supply hoses.
+@@heavy duty electrical generator cables.
+High air humidity will.(Level 1)
+have no affect on thrust.
+@@reduce the thrust output.
+increase the thrust output.
+C.I.T sensor is made up of.(Level 1)
+Iron-constantan.
+Chromel-alumel.
+@@Platinum-rhodium.
+What is the maximum value of pressure with reference to a jet engine?.(Level 2)
+1 Bar.
+1 Kg/cm.
+@@1 Atmospheric Pressure.
+The hottest casing is the.(Level 1)
+@@H.PT.
+combustion chamber.
+L.PT.
+Centrifugal compressor maximum tip speed is.(Level 2)
+0.8 Mach.
+@@1.2 Mach.
+0.5 Mach.
+What type of oil is used in a gas turbine engine?.(Level 2)
+@@Synthetic.
+Phosphate Ester.
+Mineral.
+Thrust force is measured in (Level 1)
+N (Newton)
+KN (kilo Newton)
+@@Both N and kN
+Which engine sections use nickel base alloys as main material (Level 1)
+@@Pressure compressor, combustion section, high and low pressure turbines
+Pressure compressor, combustion section and low pressure turbines
+Pressure compressor, combustion section and high pressure turbines
+One disadvantage of turbojet engines is (Level 1)
+Use more fuel
+@@Very loud
+Only use on small A/C
+In Principles of Jet Propulsion, to accelerate air, the air pressure must be (Level 1)
+Decreased
+@@Increased
+Remain constant
+How many main environmental parameters that cause a change in the thrusts of a jet engine (Level 1)
+@@4
+3
+5
+If the airflow is constant and you decrease the diameter of the jet nozzle (Level 1)
+The outlet velocity does not change
+The outlet velocity decrease
+@@The outlet velocity increase
+The thrust is generated by (Level 1)
+Pushing against the atmosphere
+@@Acceleration of airflow
+Acceleration of airflow and pushing against the atmosphere
+With increasing altitudes (Level 1)
+@@The ambient pressure decreases and the temperature decreases
+The ambient pressure decreases and the temperature increases
+The ambient pressure increases and the temperature decreases
+There was no engine compressor before 1937 due to (Level 2)
+There was no one can invent it
+@@There was no material that was heat-resistant enough for continuous combustion.
+The engine without compressor has better performance
+Turboprop engines do not use on large A/C due to (Level 2)
+This engine is very loud
+This engine is not efficient
+@@It's hard to manage the rotation speed of propeller
+On modern turbofan engines the bypass ratio is between 4:1 and 9:1, that means the fan can produce more than 80% to …% of the total thrust (Level 2)
+@@0.9
+0.7
+0.95
+If the velocity of the air at the engine inlet increases, thrust force would be (Level 2)
+Stay the same
+Increased
+@@Decreased
+The higher the altitude, the…of the thrust a jet engine can produce (Level 2)
+More
+@@Less
+Equal
+The reduction gear is used on turboprop engine for what purpose? (Level 2)
+@@Reduce speed of propeller
+Increase speed of propeller
+Maintain speed of propeller
+The fans of turbofan engine are always driven by (Level 2)
+A turbine via two drive shafts
+A compressor via a drive shaft
+@@A turbine via a drive shaft
+Which engine has the greatest bypass ratio? (Level 2)
+Turbofan engine
+@@Propfans engine
+Turbojet engine
+Bernoulli's Theorem states that at any point in a flow of gas. (Level 1)
+The static pressure and dynamic pressure are equal.
+The static pressure is less than the dynamic pressure.
+@@The total energy remains constant.
+Which factors are NOT important for the combustion process? (Level 1)
+Minimum decrease in pressure
+Maximum increase of energy
+@@Minimum decrease fuel consumption
+The primary function of the turbine (Level 1)
+@@Supply the torque which is necessary to drive the compressor
+Increases the pressure of the incoming air
+Increases the velocity of the incoming air
+The fuel air mixture is burned in the combustion chamber (Level 1)
+@@The temperature, the volume of the air increases and the air pressure stays almost constant.
+The pressure, the volume and the temperature of the air increases
+The temperature, the pressure of the air increases and the volume stays almost constant.
+The term Pt5 means. (Level 1)
+The total pressure at station No.5.
+@@Pressure and temperature at station No.5.
+The total inlet pressure outlet No.5
+The external efficiency of engine mainly depends on (Level 2)
+The aircraft speed and the exhaust gas pressure
+@@The aircraft speed and the exhaust gas velocity
+The aircraft speed and the exhaust gas temperature
+A flat rated engine gives a constant thrust at (Level 2)
+@@All ambient conditions below this flat rate temperature.
+All ambient conditions above this flat rate temperature.
+All ambient conditions
+Which parameters are the engines used to measure the thrust? (Level 2)
+@@The engine pressure ratio or the RPM
+The engine pressure ratio or the engine burn temperature
+The engine fuel flow or the RPM
+The term thrust specific fuel consumption (TSFC) is (Level 2)
+The amount of fuel which an engine used at 100% speed for 1hour.
+The amount of fuel which an engine used at idle speed for 1hour.
+@@The amount of fuel which an engine needs to make 1kN of thrust for 1hour.
+The equation shows that 1lb of thrust equals 1 thrust horsepower (THP) at a speed of (Level 2)
+At a speed of 175mph
+At a speed of 275mph
+@@At a speed of 375mph
+The engine air intake has: (Level 1)
+@@The shape divergent
+The shape convergent
+The shape constant.
+This design employs an external oblique shock wave in supersonic engine inlet for (Level 1)
+Increase the supersonic airflow before the normal shock occurs.
+@@Slow the supersonic airflow before the normal shock occurs.
+Prevent the shock occurs.
+The engine anti −ice system also uses (Level 1)
+@@The hot air comes from either the pneumatic system or directly from the engine
+Electrical heating mats on lips skin panel.
+The hot air comes from directly from the engine only.
+You can lock the wing anti −ice valves (Level 2)
+In the opened position only
+@@In the closed position only
+In the closed or opened position
+The engine anti −ice valves you can lock (Level 2)
+In the opened position only
+In the closed position only
+@@In the closed or opened position
+The wing anti−ice valves (Level 2)
+@@Close automatically when the aircraft lands.
+Open when the wing anti−ice pushbutton pushed ON anytime.
+Fail safe at open position.
+Which two elements make up the axial flow compressor assembly? (Level 1)
+@@Rotor and stator.
+Stator and diffuser.
+Compressor and manifold.
+What is meant by a compressor stage? (Level 1)
+@@One rotor and one stator assembly.
+All rotors and stators.
+One rotor and one guide vane assembly.
+The ring of fixed blades at the intake of an axial flow compressor are called. (Level 1)
+@@Inlet guide vanes.
+First stage stator blades.
+First stage diffuser blades.
+The main components of a centrifugal flow compressor are: (Level 1)
+The rotor, the stator and the guide vane assembly.
+The rotor, the stator and the compressor manifold.
+@@The impeller, the diffuser and the compressor manifold.
+The velocity of the airflow through the compressor will be? (Level 1)
+increased
+Decreased
+@@Kept constantly
+Axial flow and centrifugal flow compressors have their own specific advantages and disadvantages. Which following statement is NOT correct? (Level 2)
+Centrifugal flow compressors have a very high pressure rise per stage.
+@@Axial flow compressors have a good efficiency over a wide speed range.
+Engines with axial flow compressors cause less drag than engines with centrifugal flow compressors
+The compression ratio of an axial flow compressor is a function of the. (Level 1)
+@@Number of compressor stages.
+Air inlet velocity.
+Rotor diameter.
+The used of bleed valves to avoid engine stall and surge. (Level 2)
+@@In the mid section and sometimes in the aft section of the engine compressor
+In the mid section and sometimes in the aft section of the engine turbine
+In the mid section and sometimes in the forward section of the engine compressor
+The advantage of the variable stator vanes (Level 2)
+Optimum velocity of airflow on the following rotor blades
+@@Optimum angle of attack on the following rotor blades
+Optimum pressure of airflow on the following rotor blades
+For basic compressor control the main engine control (MEC) uses (Level 2)
+The core engine speed N2 and the compressor inlet pressure.
+The compressor outlet temperature COT and the compressor inlet temperature CIT.
+@@The core engine speed N2 and the compressor inlet temperature CIT.
+The variable stator vane actuators operate by (Level 1)
+Aircraft hydraulic power.
+@@Engine fuel pressure power.
+Electrical motor power.
+The variable stator vanes (VSV) schedule open or close applies for (Level 2)
+@@Air inlet temperature only
+Air inlet pressure only
+Air inlet temperature and pressure.
+The FADEC calculates a variable stator vane (VSV) demand signal based on (Level 2)
+@@The actual engine speed and compressor inlet temperature.
+The actual engine speed and compressor inlet pressure.
+The compressor inlet temperature and pressure.
+The fan speed of a twin spool axial compressor engine is the same as the. (Level 1)
+@@Low pressure compressor.
+Forward turbine wheel.
+High pressure compressor.
+The non-rotating axial-flow compressor airfoils in an aircraft gas turbine are known as. (Level 2)
+@@Stator vanes.
+Bleed vanes.
+Pressurization vanes.
+What is used to aid in stabilization of high compressor airflow? (Level 2)
+@@Variable stator vanes and/or compressor bleed valves.
+Pressurization and dump valves.
+Stator vanes and rotor vanes.
+Combustion chamber flame temperature is in the order of. (Level 1)
+@@2000°Centigrade.
+2000°Fahrenheit.
+2000°K.
+The flame tube of annular combustion chamber has major parts: (Level 2)
+The air supply duct, the inner liner and the outer liner.
+The casing, the inner liner and the outer liner.
+@@The dome, the inner liner and the outer liner.
+What is a can-annular combustion system? (Level 2)
+One common flame tube closed in a common air casing.
+A set of flame tubes, each mounted in a separate air casing.
+@@A set of flame tubes, enclosed in a common air casing.
+The primary conditions are necessary for correct and safe combustion are: (Level 2)
+The ratio of air and fuel, the airflow pressure.
+@@The ratio of air and fuel, the airflow velocity.
+The ratio of air and fuel. the airflow temperature.
+The mainly airflow which comes from the compressor to combustion is (Level 1)
+The primary airflow,
+@@The secondary airflow.
+The burned airflow.
+The airflow that comes from the compressor is decreased by: (Level 2)
+@@The diffuser, the restrictors and by swirl vanes
+The diffuser, the restrictors and by guide vanes
+The diffuser, the restrictors and by supply ducts.
+An air fuel mixture burns best at (Level 1)
+@@A ratio of 15:1
+A ratio of 7.5:1
+A ratio of 24:1
+The flame tube is cooled by: (Level 1)
+The primary airflow
+@@The secondary airflow
+Cooling air system.
+A thin coating of ceramic material on the inner surface of the flame tube for (Level 1)
+Strengthen the inner liner.
+Seal air from the inner liner.
+@@Protect the inner line against heat.
+The combustion case has: (Level 2)
+@@An outer wall, an inner wall and a diffuser.
+A inner liner, a outer liner and a diffuser.
+An outer wall, an inner wall and a guide vane.
+What are the two main basic components of the turbine section in a gas turbine engine? (Level 1)
+@@Stator and rotor.
+Hot and cold.
+Impeller and diffuser.
+The turbine blades are prevented from corrosion of sulfuric acid by (Level 2)
+@@Using the correct kind of jet fuel.
+Using the correct ratio of air fuel mix.
+Using the ceramic coating.
+In convection cooling method, where does the cooling air escapes during cooling the turbine blades (Level 2)
+At the leading edges and at the blade tips
+At the leading edges and a the trailing edges of blades.
+@@At the trailing edges and at the blade tips
+On most modern gas turbine engines, a combination of all 3 cooling methods of convection, impingement and film cooling is used on? (Level 2)
+@@The first stage nozzle guide vanes and the first stage rotor blades
+The first stage nozzle guide vanes and The second stage nozzle guide vanes.
+The second stage rotor blades and the second stage nozzle guide vanes.
+Which does the engine use for the active clearance control of LP turbine? (Level 1)
+Compressor bleed air
+@@The engine fan air.
+The ram air.
+The clearance control valves are normally controlled by the engine control unit and actuated by (Level 1)
+Electric motor control valves.
+Pneumatic pressures from PS3 station.
+@@Fuel pressure from the engine fuel system
+In convergent exhaust nozzles, the maximum airflow at pressure ratios should be below of (Level 1)
+@@Approximately 2:1
+Approximately 3:1
+Approximately 1:1
+On a four engine aircraft the angle of the reverse stream can be matched by (Level 1)
+The correct arrangement of the thrust reverser actuators.
+@@The correct arrangement of the cascade vanes in the thrust reverser cowlings.
+The correct troke of the thrust reverser actuators.
+What indication does the pilot receive that thrust reversers have deployed? (Level 1)
+An audible warning.
+@@A sequence of lights.
+A feeling of rapid deceleration.
+In normal operation, the pneumatic reversers usually operate with (Level 1)
+Pneumatic pressure from aircraft pneumatic system.
+@@Pneumatic pressure from the engine’s HP compressor.
+Pneumatic pressure from the engine’s LP compressor.
+In maintenance operation, the pneumatic reversers usually operate with (Level 1)
+@@Pneumatic pressure from aircraft pneumatic system.
+Pneumatic pressure from the engine’s HP compressor.
+Pneumatic pressure from the engine’s LP compressor.
+Speed control of the pneumatic thrust reverse system is via (Level 2)
+The speed sensor of the air motor.
+The overspeed mechanism of the air motor.
+@@The cam mechanism on the feedback rod.
+How is the pneumatically operated reverser is latched in deploy position? (Level 2)
+By locking valve.
+By cam lock mechanism.
+@@By the brake in the pneumatic drive unit.
+The main components of the hydraulically operated thrust reverser system are: (Level 2)
+@@The reverser control valve module and the hydraulic actuators to deploy or stow the reverser.
+The reverser control valve module, gearboxes, ballscrew actuators.
+The reverser control valve module, gearboxes and the hydraulic actuators to deploy or stow the reverser.
+To avoid the jamming of the translating sleeve, the reverser system use: (Level 2)
+A directional control valve.
+A the synchronize control valve.
+@@The flexible drive shafts.
+There are 2 methods to deactivate hydraulically operated thrust reversers are: (Level 2)
+@@Mechanically lock the movable reverser components, or shut−off the hydraulic supply to the reverser actuators by a manually operated shut−off valve.
+Mechanically lock the movable reverser components, or disconnect the electrical connector at the solenoid of the directional pilot valve.
+Disconnect the electrical connector at the solenoid of the directional pilot valve, or shut−off the hydraulic supply to the reverser actuators by a manually operated shut−off valve.
+The accessory gearbox of a high bypass engine is. (Level 1)
+@@On the HP Compressor housing.
+In the forward bearing housing.
+Attached to the turbine casing.
+The accessory units are mounted in the ways of easy removal and installation of the accessory units are: (Level 2)
+Bolted to the accessory gear box or fitted by a V−clamp.
+Bolted to the accessory gear box or by a QAD-ring.
+@@Fitted by a V−clamp or by a QAD-ring.
+What bearing is used to take axial loads on a main rotation shaft of a gas turbine engine? (Level 2)
+Plain bearing.
+Roller bearing.
+@@Ball bearing.
+A floating bearing is usually (Level 2)
+Plain bearing.
+@@Roller bearing.
+Ball bearing.
+The type of seal between the drive shaft and the gearbox is: (Level 1)
+@@Carbon seals
+Labyrinth seals.
+Rubber seals.
+How are bearings lubricated? (Level 1)
+By greases.
+@@By engine oil system.
+By engine fuel system.
+Which are tasks of modern jet engines oil (Level 2)
+Lubricating only
+Cooling only
+@@Lubricating, corrosion protection, cleaning, cooling
+What dose mineral oil often use? (Level 1)
+@@Piston engine
+Turbojet engine
+Turbo fan engine
+What dose synthetic oil often use? (Level 1)
+Piston engine
+@@Turbojet engine
+Do not use for aviation engine
+How many type of synthetic oil? (Level 1)
+@@3
+2
+4
+How is oil viscosity change when oil temperature increases (Level 2)
+@@Oil viscosity decreases
+Oil viscosity increases
+Oil viscosity not change
+Why dose JET A1 mostly use for modern turbine engine? (Level 2)
+High flash point
+Low freezing point
+@@A high flash point of +38° C and a low freezing point of -47° C
+What is function of oil supply line filter? (Level 1)
+@@To remove any foreign particles from oil before it reaches to oil nozzle
+To remove any fuel from oil before it reaches to oil nozzle
+To remove any water from oil before it reaches to oil nozzle
+What kind of bearing seal? (Level 2)
+Labyrinth seal, dynamic seal
+@@Carbon seal, labyrinth seal
+Carbon seal, dynamic seal
+Which statement is correct? (Level 2)
+@@The scavenge system is part of every dry sump lubrication system. It returns the oil from the bearing compartments and the gearboxes to the oil tank
+The scavenge system is part of every dry sump lubrication system. It supplies the oil from the bearing compartments and the gearboxes to the oil tank
+The scavenge system is part of every dry sump lubrication system. It drains the oil from the bearing compartments and the gearboxes to outside.
+What is the most type pump using for oil system? (Level 1)
+Piston pump
+@@Gear pump
+Centrifugal pump
+Which are data that oil system monitors (Level 2)
+Oil pressure only
+@@Oil quantity, oil temperature, oil pressure
+Oil temperature only
+Which statement is correct? (Level 1)
+Magnetic chip detectors are small magnets which are in contact with the supply oil. They collect particles of magnetic metal which are passing through the oil.
+Magnetic chip detectors are small filter which are in contact with the scavenge oil. They collect particles of magnetic metal which are passing through the oil
+@@Magnetic chip detectors are small magnets which are in contact with the scavenge oil. They collect particles of magnetic metal which are passing through the oil
+The supply pump is driven by? (Level 1)
+The N1 rotor system
+@@The supply pump is driven by the N2 rotor system via the gearbox
+The supply pump is driven by the N1 rotor system via the gearbox
+The oil pressure is maintained constance by (Level 2)
+@@A pressure regulating valve
+Check valve
+Bleed valve
+Which is statement correct? (Level 1)
+@@Most large jet engines use fuel cooled oil coolers as the primary coolers because they are efficient and small.
+Most large jet engines use fuel cooled oil coolers as the secondary coolers because they are efficient and small.
+Some large jet engines use air cooled oil coolers as primary coolers to remove excessive heat from the oil
+The pressure switch is connected to (Level 2)
+The pressure switch is also connected to the oil return line.
+The pressure switch is also connected to the oil drain line and the oil tank vent line
+@@The pressure switch is also connected to the oil supply line and the oil tank vent line
+What are main tasks of the engine fuel distribution subsystem? (Level 1)
+Supply fuel to the engines
+Pressurize fuel sufficiently for vaporizing in combustion chamber
+@@Heat fuel for anti icing, supply fuel to the engines, pressurize fuel sufficiently for vaporizing in combustion chamber
+what is component using for measuring the actual fuel flow and transmits signals to the cockpit for the fuel flow and fuel used indication. (Level 1)
+Fuel regulator
+@@Fuel flow transmitter
+Fuel quantity probe
+What are kind of low pressure fuel pumps? (Level 1)
+@@The fuel pumps are usually impeller type pumps driven by the accessory gearbox
+The fuel pumps are usually gear type pumps driven by the accessory gearbox
+The fuel pumps are usually piston type pumps driven by the accessory gearbox
+What are kind of high pressure fuel pumps? (Level 1)
+The gear type pump and the impeller type pump.
+@@The gear type pump and the piston type pump.
+The impeller type pump and the piston type pump.
+What is statement correct? (Level 2)
+@@Low pressure filters usually have disposable paper filter elements, and high pressure filters have cleanable wire mesh filter elements.
+High pressure filters usually have disposable paper filter elements, and low pressure filters have cleanable wire mesh filter elements.
+Low and high pressure filters usually have disposable paper filter elements.
+What is function of relief valve of fuel filter (Level 2)
+@@Valve open by differential pressure to relief fuel pressure if the filter elements become clogged
+Valve open by differential pressure to relief fuel pressure if the filter elements become to hot
+Valve close by differential pressure to relief fuel pressure if the filter elements become clogged
+What does fuel manifold construction to prevent fuel leak (Level 2)
+There only have double sealed connections.
+There are shrouded connections and single sealed connections.
+@@There are shrouded connections and double sealed connections.
+What is main function of fuel nozzle? (Level 1)
+To heat the fuel so that it vaporizes and burns as quickly as possible.
+@@To atomize the fuel so that it vaporizes and burns as quickly as possible.
+To regulate the fuel pressure so that it vaporizes and burns as quickly as possible.
+What is main function of fuel control unit? (Level 1)
+@@To meter the fuel necessary for all operating conditions of the engine
+To meter the fuel necessary for take off operating conditions of the engine only
+To regulate the fuel pressure necessary for all operating conditions of the engine
+What is the idle speed? (Level 1)
+Midle speed is the lowest speed at which an engine operates
+@@Idle speed is the lowest speed at which an engine operates
+Idle speed is the high speed at which an engine operates
+What is FADEC stand for? (Level 1)
+Full Authority Data Engine Control
+Flight Authority Digital Engine Control
+@@Full Authority Digital Engine Control
+What are functions of ECU? (Level 2)
+@@It performs full power management and gives optimum thrust control for all operating conditions
+It performs full power management and gives minimum thrust control for all operating conditions
+It performs full power management and gives maximum thrust control for all operating conditions
+How does ECU perform fuel metering? (Level 2)
+ECU use N1 performs all the fuel metering and constant thrust control
+Hardware in the ECU performs all the fuel metering and constant thrust control
+@@Software in the ECU performs all the fuel metering and constant thrust control
+A fuel metering unit with all these additional servo valves is usually called the hydromechanical unit (HMU).What does hydromechanical unit comprise? (Level 2)
+@@It comprise A fuel metering unit with all these additional servo valves
+It comprise A fuel metering unit with some sensor.
+It comprise A fuel transmitter and all these additional servo valves
+What does EIU task? (Level 2)
+The engine interface unit (EIU) receives discrete from control switches and digitizes these inputs and sends them to the HMU
+@@The engine interface unit (EIU) receives discrete from control switches and digitizes these inputs and sends them to the ECU.
+The engine interface unit (EIU) receives discrete from control switches and digitizes these inputs and sends them to the Fuel metering valve.
+The engine air system can be divided into? (Level 1)
+2 subsystems.
+@@3 subsystems.
+4 subsystems.
+Purpose of the compressor control system? (Level 1)
+@@Protects the engine compressors against stall and surge in all operating conditions and it increases their efficiency.
+Optimizes the tip clearance between the rotor blades and the stator casing to increase the engine efficiency.
+Makes sure that the internal and external engine components are cooled sufficiently during operation and after engine shut down.
+Purpose of the clearance control system? (Level 1)
+Protects the engine compressors against stall and surge in all operating conditions and it increases their efficiency.
+@@Optimizes the tip clearance between the rotor blades and the stator casing to increase the engine efficiency.
+Makes sure that the internal and external engine components are cooled sufficiently during operation and after engine shut down.
+Purpose of The engine cooling system? (Level 1)
+Protects the engine compressors against stall and surge in all operating conditions and it increases their efficiency.
+Optimizes the tip clearance between the rotor blades and the stator casing to increase the engine efficiency.
+@@Makes sure that the internal and external engine components are cooled sufficiently during operation and after engine shut down.
+The subsystems of the compressor control system include: (Level 1)
+The LP compressor bleed valve system and the HP compressor bleed valve system.
+The variable stator vane system, the LP compressor bleed valve system.
+@@The variable bleed valve system, the variable stator vane system, the HP compressor bleed valve system.
+Clearance control systems are used to optimize the tip clearances in? (Level 1)
+Turbines only.
+Compressors only.
+@@Turbines and compressors.
+The engine cooling system can be divided into? (Level 1)
+The external cooling system only.
+The internal air system only.
+@@The external cooling system and the internal air system.
+Common tasks of the internal air system are? (Level 1)
+Thrust balancing and internal cooling.
+Internal sealing, vibration balancing and internal cooling.
+@@Internal sealing, pressure balancing and internal cooling.
+The subsystems of the compressor are controlled by? (Level 2)
+The hydromechanical fuel control unit only.
+The FADEC system only.
+@@The hydromechanical fuel control unit or by the FADEC system.
+The variable bleed valves are usually installed? (Level 2)
+@@In the fan frame behind the low pressure compressor.
+In the fan case behind the low pressure compressor.
+In the fan case before the low pressure compressor.
+The variable stator vanes control the incoming airflow into? (Level 2)
+The LP compressor.
+@@The HP compressor.
+The HP turbine.
+You can find the start bleed valve at? (Level 2)
+The mid of the LP compressor.
+The aft stages of the LP compressor.
+@@The mid or aft stages of the HP compressor.
+Turbine clearance control systems use cooling air that is blown on or into? (Level 2)
+@@The turbine stator cases.
+The turbine rotors.
+The turbine stator blades.
+How do Compressor clearance control systems work? (Level 2)
+They use cooling air on the compressor case.
+@@They do not use cooling air on the compressor case. They use warm air to heat the rotor instead.
+They use warm air to heat the compressor case.
+All the internal airflow is picked up from? (Level 2)
+@@The primary airflow at some points of the engine compressors or turbines.
+The secondary airflow at some points of the engine turbines.
+The secondary airflow at some points of the engine compressors or turbines.
+The core compartment is usually cooled and ventilated by? (Level 2)
+@@Fan air.
+Compressor air.
+Turbine air.
+The main engine controls are? (Level 1)
+The engine start controls, the forward thrust controls and speed governor controls.
+@@The engine start controls, the forward thrust controls and the reverse thrust controls.
+The forward thrust controls, the reverse thrust controls, speed governor controls.
+The mechanical thrust control system transmits? (Level 1)
+@@The thrust lever input signals to the fuel control unit on the engine.
+The start lever input signals to the hydraulic mechanical unit on the engine.
+The thrust lever input signals to the hydraulic mechanical unit on the engine.
+The forward thrust control system is used to? (Level 1)
+Accelerate, decelerate and shut down the engine.
+Accelerate and shut down the engine.
+@@Accelerate and decelerate the engine. It can not be used to shut down the engine.
+Electrical thrust control systems use? (Level 1)
+@@Electrical signals to transmit the thrust demand signal from the thrust control levers in the cockpit to the engines.
+Electrical signals to transmit the thrust demand signal from the start control levers in the cockpit to the engines.
+Mechanical signals to transmit the thrust demand signal from the thrust control levers in the cockpit to the engines.
+Electrical reverse thrust controls have? (Level 1)
+@@A reverse thrust lever, a mechanical and an electrical signal transmission, a reverser interlock system, a lever lock system and control switches.
+A reverse thrust lever, a mechanical and an electrical signal transmission, a reverser interlock system, two lever locks system and control switches.
+A reverse thrust lever, two mechanicals and an electrical signal transmission, a reverser interlock system, a lever lock system and control switches.
+The reverse thrust lever has? (Level 1)
+2 main positions.
+@@3 main positions.
+4 main positions.
+To generate high energy sparks the ignition system needs the following components? (Level 1)
+The ignition exciter and electrical power supply only.
+The ignition leads and the control switches only.
+@@The ignition exciter, the igniter plug, the ignition leads, the electrical power supply and the control switches.
+How many igniter plugs on each engine? (Level 1)
+One
+@@Two
+Three
+The position of low-pressure fuel shut−off valve is indicated by the fuel valve closed light. This light illuminates when? (Level 2)
+The valve is open and goes out when the valve is closed.
+The valve is in intermediate position.
+@@The valve is closed and goes out when the valve is open.
+The main positions of the forward thrust levers are? (Level 2)
+@@Idle and take−off thrust.
+Idle, take−off thrust, reverse idle.
+Idle, take−off thrust, reverse idle and full reverse thrust.
+The reverse thrust levers are located at? (Level 2)
+@@The top of the forward thrust levers. Forward thrust and reverse thrust use the same components.
+The bottom of the forward thrust levers. Forward thrust and reverse thrust use the same components.
+The top of the forward thrust levers. Forward thrust and reverse thrust use different components.
+The thrust lever lock system makes sure that? (Level 2)
+@@The forward thrust lever and the reverse thrust lever can not be activated at the same time.
+The forward thrust lever and the reverse thrust lever can be activated at the same time.
+The forward thrust lever and the reverse thrust lever can move at the same time.
+The ignition exciter? (Level 2)
+@@Generates a very high voltage.
+Produces the sparks from the high voltage.
+Transports the electrical energy from the ignition exciter to the igniter plug and last but not least.
+The igniter plug? (Level 2)
+Generates a very high voltage.
+@@Produces the sparks from the high voltage.
+Transports the electrical energy from the ignition exciter to the igniter plug and last but not least.
+The main purpose of the starting system is? (Level 2)
+To crank the engine for maintenance checks.
+To create the necessary conditions which are needed to start combustion in the combustion chamber.
+@@To create the necessary conditions which are needed to start combustion in the combustion chamber or crank the engine for maintenance checks.
+The starter motor operates? (Level 2)
+@@The engine compressor through the accessory gearbox.
+The engine turbine through the accessory gearbox.
+The engine compressor directly.
+Which are the indications give the engine thrust value? (Level 1)
+@@The rotational speed of the fan, called N1, or the engine pressure ratio.
+The rotational speed of high pressure turbine, called N2, or the engine pressure ratio.
+The rotational speed of the fan, called N1, or the rotational speed of high pressure turbine, called N2.
+Which types of sensor is normally used to measure the N1 rotor speed? (Level 2)
+The tachometer generator type sensor
+@@The variable reluctance type sensor.
+The inductive type sensor.
+Which types of sensor is normally used to measure the N2 rotor speed? (Level 2)
+The tachometer generator type sensor or The inductive type sensor.
+The inductive type sensor or the variable reluctance type sensor.
+@@The tachometer generator type sensor or the variable reluctance type sensor.
+On engine speed indication, the red line shows on N1 indication it mean: (Level 2)
+The reference of speed N1 target.
+The speed N1 limit.
+@@The exceedance of speed N1 before.
+How is the EPR corresponded to the engine thrust? (Level 1)
+It is a signal from EPR sensor to engine control unit.
+@@It is the ratio of the total pressure at the turbine outlet to the total pressure at the fan inlet.
+It is the ratio of the static pressure at the turbine outlet to the static pressure at the fan inlet.
+The highest heat to metal contact in a jet engine is the. (Level 1)
+Burner cans.
+@@Turbine inlet guide vanes.
+Turbine blades.
+The thermocouples for the EGT are (Level 2)
+@@Connected in parallel in order to measure the average exhaust gas temperature.
+Connected in serial in order to measure the average exhaust gas temperature.
+Directly to engine control unit in order to measure the average exhaust gas temperature.
+What does the engine vibration sensors measure? (Level 2)
+@@The radial acceleration of the rotor system.
+The axial acceleration of the rotor system.
+The axial and radial acceleration of the rotor system.
+Where are the magnetic chip detectors installed? (Level 1)
+On the pressure lines.
+@@On the scavenge lines.
+On the supply lines.
+The fuel flow transmitter measures (Level 1)
+The mass flow of fuel between the fuel pump and fuel control unit.
+The mass flow of fuel across the fuel boost pumps.
+@@The mass flow of fuel between the fuel control unit and the fuel nozzles.
+Which methods of cooling the air that passes through the core engine can be used? (Level 1)
+@@Engine with water sprayed system
+Engine with fan air cooling system.
+Engine with fluid cooling system.
+Possible methods are used to compensate power of engine: (Level 1)
+Increasing the airflow density
+Increasing the airflow temperature.
+@@Increasing the airflow pressure.
+Engine with water injection system can spray water: (Level 1)
+@@Into the engine air intake or into the front of the combustion chamber.
+Into the engine air intake or into the inside of combustion chamber.
+Into the front of the combustion chamber or into the inside of combustion chamber.
+What type of water can be used in engine water injection system? (Level 1)
+Plain water only.
+Water methanol mixture only.
+@@Plain water or water methanol mixture.
+What type of mixture water can be used in engine water injection system? (Level 1)
+Water fuel mixture.
+@@Water methanol mixture.
+Water ethanol mixture.
+Afterburning engine consists of the introduction and burning of fuel in: (Level 1)
+An area behind the high pressure turbine.
+@@An area behind the engine turbine.
+An area behind the main combustion chamber.
+Afterburning engine will accelerate the airflow of: (Level 1)
+The primary airstreams.
+Secondary airstreams.
+@@Both the primary and secondary airstreams.
+What type of afterburner exhaust nozzles are used? (Level 1)
+@@The variable−area exhaust nozzles.
+The divergent exhaust nozzles.
+The convergent exhaust nozzles.
+Which of the ignition system in aft burner engine has NOT the igniter plug? (Level 1)
+Catalytic ignition
+Spark ignition
+@@Hot shot ignition.
+Which of the ignition system in afterburner engine have the igniter plugs? (Level 1)
+Catalytic ignition and hot shot ignition.
+@@Catalytic ignition and spark ignition.
+Spark ignition and hot shot ignition.
+Which component control propeller speed in normal operating mode? (Level 2)
+@@Prop governor
+Control handle
+Fuel control unit
+Where does prop governor get signal to control propeller speed in Twin Lever Control engine? (Level 2)
+@@Condition lever
+Power lever
+Condition lever and Power lever
+RPM range in normal operating mode? (Level 2)
+60-90%
+@@95-100%
+70-85%
+Which component control power in Twin Lever Control engine? (Level 2)
+Power lever
+Condition lever
+@@Condition lever and Power lever
+In Single Lever Control engine, the lever system control? (Level 1)
+Propeller speed
+Engine power
+@@Propeller speed and engine power
+Propellers over-speed conditions cause damage to? (Level 1)
+Blades
+@@Blades and the blade supports
+Blade support
+First action of Overspeed Protection? (Level 1)
+Shutdown the engine
+@@Move the blades into a more coarse position
+Lock the blades from rotation
+One of Overspeed Protection Principle? (Level 1)
+@@Increase drag of the propeller
+Decrease drag of the propeller
+Lock the blades from rotation
+Which is back-up component in overspeed protection system? (Level 1)
+@@Over-speed governor
+Temperature sensor
+Oil pump
+One mean of Overspeed Protection? (Level 2)
+Increasing the fuel flow to the engine combustor
+@@Decreasing the fuel flow to the engine combustor
+Shutoff the fuel flow to the engine combustor
+On engines with a FADEC system and an electronic propeller control system (Level 2)
+There is electrical shutoff module to control overspeed condition
+There is no mechanical over-speed governor
+@@There is still a mechanical over-speed governor used as a back-up
+In Twin Lever Control engine, there are: (Level 1)
+@@1 power lever and 1 condition lever for each engine
+1 lever to control both power and speed for each engine
+No power lever
+How does power lever control engine power? (Level 1)
+Giving signal to the engine power module
+Giving signal to the engine power module and engine fuel control unit
+@@Giving signals to the engine fuel control unit.
+Range of blade angle in normal operating mode? (Level 1)
++25 degrees to +65 degrees
+@@+14 degrees to +40 degrees
++40 degrees to +60 degrees
+Position of power lever? (Level 2)
+@@Maximum, flight idle, ground idle, reverse
+Maximum, cruise, flight idle, ground idle, reverse
+Maximum, cruise, ground idle, reverse
+Components in TURBOPROP ENGINES (Level 2)
+@@Spinner, piston, cylinder, crosshead yoke, propeller
+Spinner, compressor, handling bleed valve, crosshead yoke, propeller
+Spinner, ACC valve, piston, cylinder, crosshead yoke, propeller
+Why turboshaft engine’s output is measured in horsepower instead of thrust? (Level 2)
+Power output is jet stream
+@@Power output is a turning shaft
+Power output contains jet stream and turning shaft
+What is primary purpose for turboshaft engines in aviation? (Level 1)
+@@Main powerplant for helicopters
+Main powerplant for gyroplanes
+Main powerplant for cargo aircraft
+What is purpose over-running clutches? (Level 2)
+Disengage to free turn in case of flame out
+Engage to lock shaft in case of overspeed
+@@Allow for autorotation in case of power loss
+What is purpose of helicopter transmission? (Level 2)
+@@Reducing turbine shaft rotation at 35000 rpm to helicopter rotors at 300-400 rpm.
+Increasing turbine shaft rotation at to 35000 rpm from helicopter rotors at 300-400 rpm.
+Reducing helicopter rotors at 35000 rpm to turbine shaft rotation at 300-400 rpm.
+What is shaft system most turbine helicopters use to deliver power to the transmission? (Level 1)
+Long shaft system
+Middle shaft system
+@@Short shaft system
+What is purpose of flexible coupling? (Level 2)
+Allows free movements between the engine(s) and the transmission.
+Annul movements between the engine(s) and the transmission.
+@@Allows for small movements between the engine(s) and the transmission.
+Where is over-running clutch? (Level 1)
+a)Located somewhere inside the engine
+@@Located somewhere between the engine and the main rotor shaft
+Located somewhere over the main rotor shaft
+What control power of helicopter engine? (Level 1)
+@@Hand throttle (twist grip) built into the side collective stick
+Power knob via control cable
+Throttle pedal on the floor
+What happen when raise collective stick? (Level 2)
+Decrease engine power
+Angle of attack of all rotor blades decrease at the same time
+@@Angle of attack of all rotor blades increase at the same time
+What happen when angle of attack of all rotor blades increase? (Level 1)
+@@The rotor assembly will tend to slow
+The rotor assembly will tend to fast
+The rotor assembly will remain speed
+What is purpose of APU? (Level 1)
+@@Supplies pneumatic bleed air and electrical power for the different aircraft systems
+Supplies reverse thrust and electrical power for the different aircraft systems
+Supplies pneumatic bleed air and hydraulic power for the different aircraft systems
+Which component driven by APU gearbox? (Level 2)
+The fuel pump, the oil pumps, the compressor, the AC−generator
+The fuel pump, the starter, the cooling fan, the AC−generator
+@@The fuel pump, the oil pumps, the cooling fan, the AC−generator
+What is main purpose of the compressor of the power section? (Level 1)
+Provide the air for the bleed system
+@@Provide the air for the combustion
+Drive gearbox
+Why APUs with load compressors are very fuel efficient? (Level 2)
+Because the load compressors always run at low power mode.
+@@Because the load compressors can be switched off if bleed load is not required by the aircraft.
+Because the load compressors only use electrical power for load mode.
+How inlet guide vanes work? (Level 2)
+They work like modulating valve
+They work like shutoff valve
+@@They work like modulating and shut-off valve
+Where is The APU compartment? (Level 1)
+Bulk cargo compartment
+@@Aircraft tail section
+Wing to body fairing
+What is purpose of air intake flap diverter? (Level 2)
+Makes sure that fluids, which creep along the fuselage, enter the APU air intake.
+Makes sure that fuel cannot enter the APU to prevent fire occur.
+@@Makes sure that fluids, which creep along the fuselage, cannot enter the APU air intake.
+What is main purpose of the air intake flap diverter? (Level 2)
+@@Increases the APU ram air into the air intake
+Decreases the APU ram air into the air intake
+Block air from go into air intake in case of fire
+What is function of the APU drain system? (Level 1)
+@@Catch and drain fluids and leakages from critical APU areas
+Drain water from air intake in ground maintenance
+Drain APU oil in the accessory gear box.
+How many mode APU operate? (Level 1)
+1
+2
+@@3
+Forward engine mounts take which loads? (Level 1)
+@@Thrust, weight and side loads.
+Centrifugal, thrust and axial.
+Thrust, weight and torque.
+Aft engine mounts take which loads? (Level 1)
+Thrust and side loads.
+@@Weight and side loads.
+Thrust and weight
+The attachment bolts of forward mount carry which loads? (Level 1)
+Thrust
+Side loads
+@@Weight
+Which approved engine change methods is the fastest ones? (Level 2)
+Bootstrap method
+Overhead crane supported sling method
+@@Uplift loader method
+Why bootstrap method is the most used? (Level 2)
+It is the fastest method
+@@It is not expensive
+It can be used for all mounted engines
+Where does the fuel leaks from the VSV actuator drains to? (Level 2)
+Overboard through Engine drain mask
+@@Overboard through pylon drain port
+Collector tank
+A fire detection system contains? (Level 1)
+Sensors, a control unit
+@@Sensors, a control unit and various warning
+Sensors, a control unit, various warning and fire extinguisher bottles
+Which sensing elements has an engine fire detection system? (Level 1)
+Fan elements
+Fan and core elements
+@@Fan, core and pylon elements
+When are the warning of engine fire generated? (Level 2)
+Loop A or Loop B detect a fire
+@@Loop A and Loop B detect a fire
+Loop A or Loop B is fault
+In jet aircraft, the fire extinguishing system is designed for? (Level 1)
+The engines, the APU, the THS compartment, the toilets
+The engines, the APU, the cargo compartment, the galley
+@@The engines, the APU, the cargo compartment, the toilets
+When an engine is running, you open the safety guard and press the engine fire push button. What is happen? (Level 2)
+@@The engine shutdown immediately
+The engine is still running
+The engine is cooling down for 5 minutes then shutdown
+The discharge light illuminates in the engine fire agent push button, it indicates? (Level 2)
+Pressure of fire extinguished bottle is normal
+Pressure of fire extinguished bottle is high
+@@Pressure of fire extinguished bottle is low
+How many fire extinguished bottles for an engine? (Level 1)
+1
+@@2
+3
+What is happen if you press the agent push button? (Level 2)
+The corresponding engine fire extinguished bottle will be discharged.
+@@The corresponding engine fire extinguished bottle will not be discharged.
+All engine fire extinguished bottle will be discharged.
+If the fire warning is still on after you discharge the first bottle, which is correct? (Level 1)
+@@You must discharge the second bottle
+The second bottle will be automatically discharged
+You cancel the fire warning because the fire was extinguished
+The loops of the fan elements are connected in? (Level 2)
+@@Parallel
+Series
+Independent
+A hung start is indicated by? (Level 1)
+Exhaust gas temperature exceeds specified limits.
+@@Fails to accelerate
+Oil pressure exceeds specified limits
+A hot start is indicated by? (Level 1)
+@@Exhaust gas temperature exceeds specified limits.
+Fails to accelerate
+Oil pressure exceeds specified limits
+When an engine is stall, EGT indication will? (Level 1)
+Increases
+Decreases
+@@Fluctuates
+What is true if an engine get wet start? (Level 2)
+Engine speed increases to IDLE speed longer than normal
+Engine speed increases to IDLE speed as normal
+@@Engine speed can not reach IDLE speed
+Which can causes an engine gets hung start? (Level 1)
+@@The bleed pressure is low or The starter cut out too early
+The bleed pressure is low or The starter cut out too late
+The bleed pressure is high or The starter cut out too early
+Which can causes an engine gets hung start? (Level 2)
+Starter valve opens too early
+@@Starter valve closes too early
+Starter valve closes too late
+When ECU detects a wet start, Starter valve will? (Level 1)
+@@Still opens
+Closes immediately
+Closes after 20 seconds
+When ECU detects a wet start, Ignition system will be? (Level 2)
+Energized
+De-energized
+@@De-energized then energized
+When ECU detects a wet start, Low pressure fuel valve will? (Level 3)
+Closes immediately
+Still opens
+@@Closes if the second start attempt also fails
+When an engine is stall in auto start sequence, what will happen? (Level 2)
+@@ECU aborts the start sequence
+ECU aborts the start sequence then does dry motoring
+ECU advises you to aborted the start sequence
+If a fan blade was damaged. Choose the correct statement. (Level 2)
+The fan blade would be rejected
+The fan blade would be used if the position of damage was in allowable area.
+@@The fan blade would be used if damage was in allowable limits.
+If a fan blade has a nick, the fan blade can still be used if? (Level 3)
+Length or depth of the damage is within limits after rework.
+Length and depth of the damage are within limits after rework
+@@Length, depth of the damage and the ratio between them are within limits after rework
+For the limit of the damage on a fan blade, Which is correct? (Level 2)
+The damage limit is equal in any areas of the blade
+@@The damage limit in the root is larger than in the tip
+The damage limit in the root is smaller than in the tip
+How can you insert a borescope into the combustion chamber of an engine? (Level 1)
+By opening of borescope ports on combustion chamber case
+@@By removing of igniter plugs
+By opening of borescope ports on turbine case
+How can a mechanic can see all the rotor blades of one compressor stage when he does borescope? (Level 2)
+By turning the borescope around
+By moving borescope to another borescope port
+@@By turning the corresponding rotor system
+To inspect the low pressure turbine blades. What should you do? (Level 2)
+@@Turn the N1 rotor by hand
+Turn the N1 rotor by cranking device
+Turn the N2 rotor by cranking device
+When are magnetic chip detectors inspected? (Level 1)
+@@Magnetic chip detectors are inspected at fixed intervals.
+Magnetic chip detectors are inspected when the engine is sent to shop
+Magnetic chip detectors are inspected when the engine oil filter was replaced
+Before install magnetic chip detector, you must? (Level 2)
+Replace all old seals
+Replace the damaged seals
+@@Replace old O-rings, the reusable seals are replaced if they were damaged
+The Aircraft will be turned by the asymmetric thrust if (Level 3)
+The nose gear steering bypass pin is installed and only one engine runs
+@@The nose gear steering bypass pin is installed and both engine run
+The nose gear steering bypass pin is removed and both engine run
+What do you have to check before start the engine for maintenance (Level 2)
+Chock in position, gear pins are in place
+Chock in position, gear pins are in place, check the engine inlet and exhaust
+@@Chock in position, gear pins are in place, check the engine inlet and exhaust, ramp area is clear
+Could you start the engine for maintenance if Pack 1 flow control valve was removed? (Level 3)
+Yes, because FCV is not a engine component
+@@No, because you do not have pneumatic power
+Yes, because FCV is in air conditioning system.
+Could you start the engine for maintenance if APU Generator was inoperative? (Level 2)
+No, because electric power of aircraft is lost
+Yes, electric power of aircraft is taken from batteries
+@@Yes, electric power of aircraft is taken from external power
+For engine with air starter, could you start the engine for maintenance if APU bleed valve was inoperative in closed position? (Level 3)
+@@Yes, because bleed power of aircraft is taken from ground power
+No, because bleed power of aircraft is not available
+Yes, because engine can start without bleed power.
+Could you start the engine for maintenance if engine fire warning was inoperative? (Level 2)
+Yes, because ground mechanic will inform you when the engine catches fire
+@@No, because the engine fire warning system must works properly.
+Yes, because you can use portable extinguisher in case of the engine catches fire
+Could you start the engine for maintenance if engine fire loop A was inoperative? (Level 3)
+@@Yes, because engine fire warning was still operative.
+No, because engine fire warning was inoperative.
+Yes, because engine fire warning can be inoperative on ground
+Could you manual start the engine for maintenance if one ignition system was inoperative? (Level 3)
+No, because both ignition systems must be activated in manual start
+Yes, because the only one ignition system will be activated in manual start
+@@Yes, because the other ignition system will be activated in manual start
+To do an engine wet motoring, what will you do? (Level 2)
+Do a wet motoring only
+Do a dry motoring only
+@@Do a wet motoring then a dry motoring.
+The preservation for a period up to 30 days of an operable engine. Which is correct? (Level 1)
+The thrust reverser operates cycle
+The thrust reverser does not operates
+@@The thrust reverser does not operates if it was done during last engine operation
+To preserve operable engine for period of up to 90 days, which is correct? (Level 1)
+Service the oil tank with engine oil
+@@Service the oil tank with engine oil and corrosion preventive oil
+Service the oil tank with engine oil and fuel
+To preserve operable engine for period of 30-365 days, which is correct? (Level 2)
+The fuel system need not be preserved
+@@The fuel system must be preserved
+The fuel system must be preserved if the Aircraft is not in the Hangar
+When you preserve fuel system to preserve operable engine for period of 30-365 days, which is correct? (Level 2)
+Preservation fluid are sprayed to HMU
+Preservation fluid are sprayed to combustion chamber
+@@Preservation fluid are sprayed to HMU and Combustion chamber
+To make an engine back to service after preservation for period of 30-365 days, which is correct? (Level 2)
+@@Service the oil tank with engine oil
+Service the oil tank with engine oil and corrosion preventive oil
+Service the oil tank with engine oil and fuel

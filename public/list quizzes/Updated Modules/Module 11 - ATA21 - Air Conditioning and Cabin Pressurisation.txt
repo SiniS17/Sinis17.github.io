@@ -1,0 +1,556 @@
+As an aircraft descends from cruising altitude (34,000ft), the cabin altitude must. (Level 1)
+stay the same.
+increase.
+@@decrease.
+When pressurising the aircraft on the ground for test purposes, internal doors, cupboards etc. must be. (Level 1)
+all closed.
+@@all open.
+removed.
+During a normal climb from aerodrome level with the pressurization system 'ON'. (Level 3)
+the cabin differential pressure is maintained constant.
+@@the atmospheric pressure decreases more quickly than the cabin pressure.
+the pressurization system does not control pressure until 10,000 ft is reached.
+One of the principles of cooling employed in an air cycle system is. (Level 3)
+by compression of ambient air across a turbine.
+by surface heat exchange in the C.A.U.
+@@conversion of heat energy to mechanical energy in the C.A.U.
+An aircraft has a maximum differential pressure of 8.5 PSI at cruising altitude. If the ambient pressure is 2.9 PSI, the pressure inside the cabin at cruising altitude would be. (Level 3)
+@@11.4 PSI.
+5.6 PSI.
+8.5 PSI.
+An aircraft cabin is air conditioned and pressurized in order to. (Level 3)
+@@maintain human efficiency and comfort during flights at high altitudes.
+ensure that the pressure within the fuselage is always less than the ambient pressure, thus increasing the fatigue life of the fuselage.
+ensure that the air density within the cabin is maintained at a lower figure than outside the cabin in order to prevent moisture precipitation during rapid decompression.
+An aircraft cabin is air conditioned and pressurized in order toIf the pilot selected a cabin height of 8000 ft. whilst taxiing and activated the pressurization system, the cabin pressure would. (Level 3)
+decrease to a pressure equivalent to about 500 ft.
+@@remain at ground level pressure.
+decrease to a pressure equivalent to 8000 ft.
+A silencer is installed in a pressurization system to reduce. (Level 3)
+the noise from the high speed of airflow within the system.
+engine noise coming through the ventilators.
+@@the noise from the blowers and/or compressors in the system.
+An inward relief valve will operate. (Level 3)
+@@when cabin pressure is lower than ambient pressure.
+when climbing with pressurization OFF.
+after an aircraft has landed, to restore ground level conditions is the cabin.
+If an aircraft is operating at 40,000 ft. the pressurization ensures that. (Level 3)
+@@the cabin pressure is equivalent to an altitude of less than 10,000 ft.
+the cabin pressure is progressively increased until the operational height is reached.
+sea level pressure is maintained in the cabin.
+When cruising near the operational ceiling, the flight altitude set on the pressurization control panel may be 500 ft. more than the actual flight altitude so as to prevent. (Level 3)
+safety valve operation.
+inward relief valve operation.
+@@pressure controller hunting.
+Which of the following can be used on the ground?. (Level 1)
+@@Turbo fan.
+Turbo compressor.
+Turbo brake.
+Air conditioning systems. (Level 1)
+increase and decrease the temperature of air.
+increase the temperature of air.
+@@decrease the temperature of air.
+When does a 'blower' air conditioning system produce the most air?. (Level 1)
+At high altitudes.
+At low altitudes.
+@@It is not affected by altitude.
+In an air conditioning system, before distribution, the air goes through the. (Level 1)
+flow control valve.
+@@TCV.
+TCV and mixer valve.
+What is the minimum cabin air mass flow?. (Level 1)
+@@0.5 lbs per minute per person.
+10 lbs per minute per person.
+1 lbs per minute per person.
+The mass flow delivery from engine driven blowers is controlled by. (Level 1)
+automatic control devices.
+engine speed variations.
+@@spill valves.
+Inward vent valves are fitted to. (Level 1)
+@@limit negative differentials.
+increase ventilation.
+limit positive differentials.
+Cabin rate of climb is shown by. (Level 1)
+warning lights.
+a special instrument.
+@@a double scale on the aircraft.
+Rate of change of cabin pressure is most noticeably shown on a. (Level 1)
+@@cabin V.S.I.
+cabin altimeter.
+cabin pressure gauge.
+A refrigerant is used in which of the following?. (Level 1)
+@@Vapour cycle.
+Air cycle machine.
+Pneumatic pump.
+Inwards relief valves usually open at a negative differential pressure not exceeding. (Level 1)
+@@0.5 p.s.i.
+1.2 p.s.i.
+0.16 p.s.i.
+The function of spill valves is to control. (Level 1)
+@@air supply to the cabin.
+cabin pressure differential.
+the rate of pressurisation.
+Pitot' and 'Static' lines during a cabin pressure test should be. (Level 1)
+cross connected.
+disconnected.
+@@connected.
+Would you operate the flying controls during a cabin pressure ground test?. (Level 1)
+@@Yes.
+No.
+Occasionally.
+To what position is the inward relief valve spring loaded?. (Level 1)
+@@Closed.
+Both position.
+Open.
+Conditioned air is. (Level 1)
+oxygen added.
+moisture removed.
+@@temperature and pressure adjusted.
+Which of the following sometimes inhibits an air conditioning pack?. (Level 1)
+Flap position switches.
+@@Throttle switches.
+Undercarriage switches.
+The ventilation air in the aircraft cabin must have a minimum humidity of. (Level 1)
+20 percent.
+60 percent.
+@@30 percent.
+The temperature within the cabin of the aircraft is normally maintained at. (Level 1)
+20ºC to 24ºC.
+12ºC to 18ºC.
+@@18ºC to 24ºC.
+The outflow of air from the cabin is regulated by. (Level 1)
+@@the outflow valves.
+the vent valves.
+the dump control valves.
+The basic system of cabin pressurisation is to arrange a constant. (Level 1)
+@@inlet and vary the outlet.
+outlet and vary the inlet.
+inlet and outlet.
+When air is pressurized, the oxygen content. (Level 1)
+decreases.
+remains constant.
+@@increases.
+A negative differential pressure is prevented by. (Level 1)
+a blow off valve.
+a spill valve.
+@@an inward relief valve.
+The inward relief valve is usually set to operate at a cabin differential of. (Level 1)
++0.5 PSI.
+@@-0.5 PSI.
++9.25 PSI.
+The humidity within a passenger cabin should. (Level 1)
+not be greater than 40%.
+@@be between 30% and 70%.
+not be less than 60%.
+The signal line between the controller and discharge valve is leaking. This will cause. (Level 2)
+@@the cabin pressure to increase.
+the cabin pressure to decrease.
+it will not effect on cabin pressure.
+A spill valve opens. (Level 2)
+@@to control the flow to the cabin.
+to control the air from the cabin to outside.
+to prevent an excessive pressure difference.
+A cabin altitude is protected against reaching an altitude of 13,000 ft. by. (Level 2)
+@@altitude sensor.
+cabin over pressure relief valve.
+bellows in the outflow valve.
+The purpose of the differential capsule in a pressure controller is to control. (Level 2)
+@@cabin differential pressure.
+the rate of pressurisation.
+cabin air flow.
+Control of rate of change of cabin pressure is. (Level 2)
+more important in ascent.
+equally important in ascent and descent.
+@@more important in descent.
+If the cabin altitude increases above the normal maximum. (Level 2)
+@@a warning light comes on in the cockpit.
+compressor delivery is automatically boosted.
+an inward relief valve opens.
+A water separator is located. (Level 1)
+downstream of heat exchanger.
+@@downstream of turbine.
+upstream of the turbine.
+Prior to conducting a ground pressurisation test, it is necessary to. (Level 2)
+set QFE.
+disconnect the emergency pressure relief valve.
+@@reset/disable the pressure controller.
+In an air conditioning system, heat is added to air by. (Level 2)
+@@restricting compressor outlet.
+restricting compressor inlet.
+restricting duct outlets.
+An air cycle machine turbine. (Level 2)
+@@drives compressor to increase temperature.
+drives compressor to decrease temperature.
+drives compressor to pressurise aircraft.
+In the flightdeck of a pressurised aircraft, there is a gauge that shows. (Level 2)
+@@cabin differential pressure.
+cabin pressure altitude.
+aircraft altitude.
+If the pressure controller is set to 0 ft. (Level 2)
+maximum differential is reached immediately after take-off.
+@@cabin will not pressurise.
+cabin remains at sea level untill maximum differential.
+Where is the water trap located in a bootstrap compressor?. (Level 2)
+At the outlet of the compressor.
+@@At the inlet of the turbine.
+At the inlet of the compressor.
+Where is the silencer located in a 'blower' air conditioning system?. (Level 2)
+At the inlet to the cabin.
+@@At the outlet of the blower.
+At the inlet of the blower.
+Cabin pressure is maintained by. (Level 2)
+controlling the output of the compressor.
+@@controlling the amount of air discharged from the cabin.
+controlling the supply of air to the cabin.
+Control of rate of change of cabin pressure is. (Level 2)
+most important in ascent.
+@@most important in descent.
+equally important in descent and ascent.
+Air supplied for pressurisation and conditioning is. (Level 2)
+@@hottest from an engine compressor bleed.
+hottest from a compressor driven by an engine gear box.
+the same for both the above sources.
+A comfortable rate of cabin altitude climb for passengers is. (Level 1)
+@@500 ft. per min.
+300 ft. per min.
+100 ft. per min.
+An air-to-air heat exchanger is provided to. (Level 2)
+@@reduce the air supply temperature.
+increase the air supply temperature.
+provide an emergency ram air supply.
+During normal pressurized climb following take-off. (Level 2)
+@@the cabin R.O.C. is less than ambient R.O.C.
+the cabin R.O.C. is more than ambient R.O.C.
+the differential pressure is constant.
+Inward vent valves will operate when. (Level 2)
+depressurising after descent.
+@@cabin altitude exceeds aircraft altitude.
+aircraft altitude exceeds cabin altitude.
+Cabin differential pressure is the difference between. (Level 2)
+@@cabin pressure and ambient pressure.
+8,000 ft and sea level.
+I.S.A. conditions and aircraft altitude.
+In pressurized aircraft, temperature conditioning is mainly achieved by. (Level 2)
+adding heat to the pressurising air.
+varying cabin pressure.
+@@extracting heat from the pressurising air.
+A cold air unit produces a drop in temperature by. (Level 2)
+@@reducing pressure and driving the units compressor.
+driving the units compressor.
+reducing pressure.
+Heating for pressure cabins is obtained from. (Level 2)
+@@air supply heated by the pressurising process.
+only by adding heat electrically to the air supplies.
+driving the units compressor.
+Failure of the normal maximum pressure differential control is allowed for by fitting. (Level 2)
+airport altitude selectors.
+inwards relief valves.
+@@safety relief valve.
+A cold air unit produces a drop in temperature by. (Level 2)
+@@expanding hot air across a turbine which is driving a compressor.
+directing compressed air into a heat exchanger.
+air supply to the cabin.
+If the cabin pressure fails to reach its maximum cabin pressure differential the. (Level 2)
+discharge valve should be adjusted.
+@@pressure controller should be adjusted.
+outward relief valve is inoperative.
+Before carrying out a ground pressure check,. (Level 1)
+set altimeter to QNH.
+@@check all pitot and static lines are fitted.
+turn on all instruments.
+When the aircraft has reached its maximum cabin pressure differential the. (Level 2)
+discharge valve closes.
+@@discharge valve opens.
+mass flow ceases through the cabin.
+Which component must be isolated when carrying out a ground cabin pressure test?. (Level 2)
+Pressure relief valve.
+@@Pressure discharge valve.
+Pressure regulator controller.
+A cabin pressure air leak from the front of the fuselage is. (Level 2)
+most desirable because it increases the air-flow.
+@@most undesirable because of the drag created.
+not effective in any way.
+When a 'muff' or air ducting is built around the engine exhaust system and air is directed around inside the muffler, this is an. (Level 2)
+thermal heater.
+@@exhaust heater.
+combustion heater.
+In a turbo fan cold air system, the heat exchanger cooling air is. (Level 2)
+air bled directly from engine or through blower.
+@@ram air from ambient conditions.
+bled from cabin air supply duct.
+A safety valve will normally relieve at. (Level 2)
+negative differential pressure.
+@@higher differential pressure than the discharge valve.
+lower differential pressure than the discharge valve.
+If cabin height is set lower than airfield height when the aircraft is on the ground with squat switches overridden, then the outflow valve will normally. (Level 2)
+@@remain closed.
+open.
+not operate.
+When carrying out a ground pressure test, you should use. (Level 2)
+a G.P.U. and A.P.U. combination.
+@@the aircraft engines because you can test the whole system.
+ground trolley and clean air.
+In a Boot-Strap Air Conditioning supply system the source of compressed air is from. (Level 2)
+ram air at the wing leading edge.
+gas turbine intake ram air.
+@@gas turbine compressor bleed air.
+In a Bleed Air air-conditioning system, the warm air supply is provided by. (Level 2)
+the gas turbine exhaust.
+@@the compressor of the gas turbine engine.
+the engine exhaust heat.
+On touch-down of aircraft. (Level 1)
+the outflow valve will be shut.
+the cabin pressure will be zero.
+@@the outflow valve will be fully open.
+The cabin altitude is. (Level 2)
+the actual height of the aircraft above sea level.
+@@the equivalent height of the aircraft above sea level.
+the difference between cabin pressure and atmospheric pressure.
+Cabin pressure differential is the difference between. (Level 2)
+ISA conditions and aircraft altitude.
+8000 ft. and sea level.
+@@cabin pressure and ambient pressure.
+If cabin pressure is increasing, the cabin rate of change indicator will show. (Level 2)
+zero, provided the rate of change is within the normally accepted limits.
+a rate of climb.
+@@a rate of descent.
+Rate of change of cabin pressure is. (Level 2)
+@@selected by the pilot and controlled by the pressure controller.
+selected by the pilot and controlled by the spill valve.
+automatic.
+Before filling a vapour cycle cooling system. (Level 2)
+flush the system with a solvent.
+@@apply suction to remove air and moisture.
+pre-heat the system to 100°F.
+Cabin differential is determined only by. (Level 2)
+the selected cabin height.
+the height at which the aircraft is flying.
+@@the height at which the aircraft is flying and by the selected cabin height.
+With a pressurised aircraft at maximum differential pressure and a cabin pressure increase occurs, the differential capsule in the pressure controller will. (Level 3)
+let pressurisation to be switched off until leaks cause a drop in pressure.
+@@let all pressurising air to be spilled overboard.
+have a constant mass flow.
+On an aircraft employing a heater system on the air conditioning system, after an overheat, how is the heater reset?. (Level 3)
+After it cools the pilot resets.
+@@On ground only by engineer.
+After cooling below 300°C it auto resets.
+In typical vapour cycle system, the sub-cooler. (Level 3)
+@@is a heat exchanger to superheat the vapour.
+delivers extra cooling effect when the aircraft is on ground.
+cools the vapour further to prevent slugging.
+Air exiting the compressor side of an ACM. (Level 3)
+will have decreased pressure and temperature.
+no change in temperature or pressure as it is a centrifugal compressor.
+@@will have increased pressure and temperature.
+The velocity of air from the cabin ventilation system should not exceed. (Level 1)
+40 feet per second.
+@@120 feet per second.
+20 feet per second.
+Cabin differential pressure is the pressure difference between. (Level 3)
+8,000ft and standard barometric pressure.
+sea level air pressure and indicated dynamic pressure in the cabin.
+@@the pressure inside the aircraft and the ambient air pressure.
+During a pressurisation check at maximum differential, if the engines are shut-down. (Level 3)
+@@cabin ROC indicator gives indication of cabin seal efficiency.
+aircraft remains pressurised until the dump valve opens.
+outflow valve opens immediately.
+The function of an air mass flow control valve is to. (Level 3)
+ensure that system differential pressure is not exceeded.
+@@maintain a reasonably constant air mass flow into the cabin at all altitudes.
+control the airflow out of the cabin.
+In a cabin air recirculation system, recirculated air and fresh air are supplied in the proportions. (Level 3)
+50% of fresh air, 50% of recirculated air.
+@@60% of fresh air, 40% of recirculated air.
+40% of fresh air, 60% of recirculated air.
+Temperature control of cabin air is achieved by. (Level 3)
+controlling the water vapour in the supply.
+@@regulating the amount of air by-passing the cooling system.
+varying the ambient airflow to the heat exchanger.
+Cabin altitude in pressurized flight is the. (Level 3)
+altitude at which cabin altitude equals outside air pressure.
+pressure altitude of the cabin as corrected to mean sea level I.S.A. conditions.
+@@altitude corresponding to cabin pressure irrespective of the altitude for the aircraft.
+If pressurisation air supplies come from an engine compressor, an internal oil leak will. (Level 3)
+@@contaminate the air.
+not affect the issue as it is automatically detected and vented overboard.
+not contaminate the air.
+A cold air unit allows for cabin temperatures to be. (Level 3)
+same as ambient temperature, despite compression heating.
+lower than ambient air temperature despite compression heating.
+@@a little more than ambient air temperature.
+When an aircraft has reached max. diff. and is at constant level (altitude) the system allows for. (Level 3)
+pressurisation to be switched off until leaks cause a drop in pressure.
+@@constant mass flow.
+all pressurising air to be spilled overboard.
+The control of ventilating and pressurising air released to atmosphere is achieved by a. (Level 3)
+discharge valve/inwards relief valve combination.
+pressure controller/dump valve combination.
+@@pressure controller/discharge valve combination.
+Ditching control is used to. (Level 1)
+achieve rapid depressurisation.
+@@close the outflow valves.
+maintain cabin pressure at sea level.
+Pressurisation control ensures that. (Level 3)
+@@at operational altitude the cabin altitude is below 10,000 ft.
+pressurisation does not start before aircraft is above 8,000 ft.
+the cabin is always maintained at sea level.
+The purpose of a 'Spill' valve in a cabin air supply system is. (Level 3)
+@@to spill overboard excess air delivered at S.L. and lower altitudes.
+to relieve the pressure in the air supply ducting to atmosphere.
+to give a heating effect.
+Inward relief valves are interconnected in pressurized aircraft. (Level 3)
+to achieve maximum pressure differential.
+@@to allow controlled pressure during descent.
+to relieve cabin pressure and allow outside pressure to be greater.
+The principle of cabin pressurisation is. (Level 3)
+@@whilst the aircraft climbs to altitude, the cabin climbs to a lower altitude.
+cabin altitude will always maintain a constant differential to that of aircraft altitude.
+cabin altitude climbs eventually to that of the aircraft.
+When the cabin differential pressure has reached the required value and the height is maintained. (Level 3)
+@@constant mass airflow is permitted through the cabin.
+the pressure system ceases to function until the cabin pressure is reduced.
+all pressurized air is spilled to atmosphere.
+The function of the mass airflow control valve is to. (Level 3)
+ensure that constant airflow out of the cabin is dictated by cabin altitude.
+@@maintain a reasonable mass flow of air into the cabin irrespective of aircraft altitude.
+ensure system operating pressure is not exceeded.
+Cabin pressure controller maintains a pre-set cabin altitude by. (Level 3)
+regulating the mass flow into the cabin.
+regulating the position of the inward relief valve.
+@@regulating the position of the outflow valve.
+The cabin differential pressure is. (Level 3)
+@@the difference between cabin pressure and atmospheric pressure.
+the equivalent height of the aircraft above sea level.
+the actual height of the aircraft above sea level.
+In a 'bootstrap' cooling system the supply of air is first. (Level 3)
+passed across an expansion turbine, then compressed and passed through a heat exchanger.
+@@compressed then passed through a heat exchanger and across an expansion turbine.
+passes across an expansion turbine, then directly to the heat exchanger.
+If an altitude of 8000 feet is selected on the cabin pressure controller and provided maximum cabin pressure differential is not exceeded. (Level 3)
+sea level cabin conditions will be maintained to 8000 feet aircraft altitude.
+@@8000 feet cabin conditions will be maintained at aircraft altitudes above 8000 feet.
+8000 feet cabin conditions will be maintained at all aircraft altitudes from sea level.
+How many modes does the cabin pressurization system usually work ? (Level 1)
+2
+@@3
+4
+The positive cabin rate should not exceed (Level 1)
+300 ft/min
+400 ft/min
+@@500 ft/min
+During the aircraft normal ground time of A/C, the outflow valves are (Level 1)
+@@Fully open
+Fully closed
+Partially open
+The temperature within the cabin of the aircraft is normally maintained at. (Level 1)
+18ºC to 24ºC.
+12ºC to 18ºC.
+@@18ºC to 30ºC.
+Conditioned air is. (Level 1)
+@@Temperature and pressure adjusted.
+Moisture removed.
+Oxygen added.
+On the ground, the Ram air doors are (Level 1)
+@@Fully open
+Fully closed
+Open or close depends on temperature demand
+The mixing unit lets (Level 1)
+The hot air from the packs mix with discharged cabin air
+@@The cold air from the packs mix with discharged cabin air
+The cold air from the packs mix with discharged cargo air
+For air conditioning, a A320 has 3 zones. They are: (Level 1)
+@@Cockpit, fwd zone, aft zone
+Cockpit, cabin, cargo
+Cockpit, cabin, avionic compartment
+In flight, if Pack 2 Inop then (Level 1)
+The outflow valves are driven to a more open position
+The outflow valves are stay the same
+@@The outflow valves are driven to a more closed position
+An air cycle machine turbine. (Level 1)
+@@Drives compressor to increase temperature.
+Drives compressor to decrease temperature.
+Drives compressor to pressurize aircraft.
+02 motors of outflow valve to be controlled by (Level 1)
+Digital signal
+@@Analog signal
+Both digital and analog signal
+In case of cargo fire, the cargo isolation valve are (Level 1)
+Open to stop the air flow
+@@Close to stop the air flow
+Open to add more air to cargo compartment
+Cabin pressure is maintained by. (Level 1)
+Controlling the output of the compressor.
+Controlling the supply of air to the cabin.
+@@Controlling the amount of air discharged from the cabin.
+An air-to-air heat exchanger is provided to. (Level 1)
+@@Reduce the air supply temperature.
+Increase the air supply temperature.
+Provide an emergency ram air supply.
+Cabin differential pressure is the difference between. (Level 1)
+8,000 ft and sea level.
+@@Cabin pressure and ambient pressure.
+I.S.A. conditions and aircraft altitude.
+What is/are the risk when carry out the cabin pressure leakage test? (Level 1)
+Drop out of oxygen mask
+Overheating in electrical and electronic equipment
+@@Drop out of oxygen mask and overheating in electrical and electronic equipment
+The equipment cooling system is (Level 1)
+A sub system of Air conditioning system
+@@Independent of Air conditioning system
+Semi-dependent of Air conditioning system
+Which method of cabin pressure leakage test requires people in cockpit for monitor the system (Level 1)
+@@Use APU and switch on packs
+Use special external equipment via the low pressure ground connector
+When use APU or external power
+Cockpit air supply uses (Level 1)
+@@Fresh air only
+Recirculation air only
+Mixed air
+If the cabin altitude increases above normal values, according to the flight altitude (Level 1)
+The passenger will get the oxygen mask first
+@@The flight crew will get the oxygen mask first
+The flight crew and passenger get oxygen mask at the same time
+When the cabin altitude increases, the volumetric flow (Level 1)
+Increases
+Decreases
+@@Keep constant
+A red warning light on the door flashing indicates (Level 1)
+Door is locked and armed
+Door is locked and dis-armed
+@@The cabin is pressurized
+At very end of the pack system, it is (Level 1)
+@@The check valve
+The pack sensor
+The water separator
+Air exiting the compressor side of an ACM (Level 1)
+Will have decreased pressure and temperature.
+No change in temperature or pressure as it is a centrifugal compressor.
+@@Will have increased pressure and temperature.
+If pressurization air supplies come from an engine compressor, an internal oil leak will. (Level 1)
+Not affect the issue as it is automatically detected and vented overboard.
+@@Contaminate the air.
+Not contaminate the air.
+How to check the position of the equipment cooling system (Level 1)
+By look at the valve position
+By check the indication on display unit in cockpit
+@@By look at the valve position and check the indication on display unit in cockpit
+Pressurization control ensures that. (Level 1)
+@@At operational altitude the cabin altitude is below 8,000 ft.
+Pressurization does not start before aircraft is above 8,000 ft.
+The cabin is always maintained at sea level.
+Cabin pressure controller maintains a pre-set cabin altitude by. (Level 1)
+Regulating the mass flow into the cabin.
+Regulating the position of the inward relief valve.
+@@Regulating the position of the outflow valve.
+For cargo ventilation, blower and extract fan operate when the isolations valve (Level 1)
+Fully closed
+@@Fully open
+Partially open
+For air conditioning equipment system, in flight the exhaust air goes (Level 1)
+Outboard to the atmosphere
+@@To the underfloor area or to the forward cargo compartment
+To the mixer to warm up pack air
+The bypass valve is fully opened and the ram air doors are nearly closed for what purpose? (Level 1)
+@@For maximum heating
+For maximum cooling
+For depressurizing cabin pressure

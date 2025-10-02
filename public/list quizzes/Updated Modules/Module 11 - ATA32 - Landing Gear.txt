@@ -1,0 +1,304 @@
+Spongy brakes are usually a result of. (Level 1)
+internal leakage.
+@@air in the system.
+external leakage.
+At what temperature does a yellow fuse plug melt at?. (Level 1)
+150°C.
+250°C.
+@@200°C.
+Aquaplaning' can be reduced by. (Level 1)
+increased flaring.
+lowering slats.
+@@an anti-skid device.
+A Maxaret is used in what system?. (Level 1)
+Tyre inflation.
+@@Skid control.
+Self centring landing gear.
+Nose wheel steering in a modern aircraft is by. (Level 1)
+rudder pedals.
+the control column.
+@@a separate pilot operated control.
+Ribbed tyres with marker tie bars may be worn to. (Level 1)
+@@the top of the tie bar.
+the base of the tie bar.
+1 mm from the rib base.
+A modulator is fitted in conjunction with. (Level 1)
+brake control valves.
+non-return valve.
+@@anti-skid units.
+When the landing gear is locked up, the cockpit indicator shows. (Level 1)
+red light.
+@@no indication.
+green light.
+Tyre creep could be caused by. (Level 1)
+overpressure.
+excessive wear.
+@@under pressure.
+Un-mounted tubeless tyres must be stored. (Level 1)
+@@vertically.
+horizontally.
+in the manufactures boxes.
+Tubeless tyres are stored. (Level 2)
+at 15 to 20 P.S.I.
+horizontally maximum of four high with smallest diameter tyre on top.
+@@vertically.
+Over inflated tyres may cause damage to the. (Level 1)
+brake drum.
+wheel hub.
+@@wheel flange.
+A badly corroded and pitted brake disk will. (Level 2)
+@@wear brake pads too quickly, and should be  replaced.
+be serviceable, and provide better grip.
+produce a loss of fluid.
+The type of fluid in an oleo strut will depend upon. (Level 2)
+type of fluid most readily available.
+the type of seal material.
+@@heat generated in operation of the system.
+A restrictor valve. (Level 2)
+speed up the flow in one direction.
+@@may be used to slow down undercarriage extension.
+restrict the extent of travel of the undercarriage.
+The function of the oil in a shock absorber is to. (Level 2)
+ensure the separator does not bottom.
+@@damp the rebound.
+absorb the landing shock.
+"After MLG down and securely locked, a red light is illuminated the flight deck. The possible causes are." (Level 2)
+shorted sensor.
+@@out of adjustment sensor.
+wiring problem.
+When checking for alignment of a MLG, check. (Level 2)
+@@symmetry, tracking, camber.
+symmetry, splay, tracking.
+symmetry, twist, tracking.
+A green/grey dot marking on aircraft tyre casing represents. (Level 2)
+@@breather points.
+the light part of the tyre.
+military reference.
+Fuse plugs in aircraft tyres are. (Level 2)
+for over temperature protection.
+@@for overpressure protection.
+to deflate the tyre before removal.
+A breaker strip in an aircraft tyre is. (Level 2)
+@@to provide strength.
+to provide a wear indication.
+to indicate the position for tyre levers.
+If fluid leaks along with air whilst oleo charging, this is. (Level 2)
+@@caused by a leaky seal.
+normal.
+due to excessive charging pressure.
+How much oxygen is in a tyre (as a maximum)?. (Level 1)
+5% by pressure.
+15% by volume.
+@@5% by volume.
+On selection of MLG down, the gear extends then begins to retract again. The cause is. (Level 2)
+@@a faulty selector valve.
+a faulty actuator.
+gear lowered at too high an airspeed.
+When an undercarriage is lowered, it tends to creep back up. The fault could be. (Level 2)
+the emergency system.
+@@a leaky selector valve.
+a stuck relief valve.
+What is tyre creep related to?. (Level 2)
+Horizontal movement of the tyre.
+Vertical movement of the tyre.
+@@Tyre moving around the wheel.
+What decides the type of oil used in an undercarriage leg?. (Level 2)
+The material of the leg.
+@@The types of seals the leg uses.
+Neither, any oil can be used.
+In an anti-skid system. (Level 2)
+@@brakes are modulated to give most efficient braking.
+brakes release on rising torque.
+brakes release on falling torque.
+If an undercarriage oleo has insufficient deflection, the likely cause is. (Level 2)
+oil level too high.
+loss of pressure/leakage.
+@@air pressure too high.
+If the shuttle valve was stuck in the normal position. (Level 2)
+neither system will be available.
+@@emergency braking will not be available.
+normal braking will not be available.
+The breaker strip of a tyre is fitted. (Level 2)
+between the apex strip and the casing piles.
+between the bead and the casing piles.
+@@between the tread rubber and the casing piles.
+Excessive wear in the shoulder area of an aircraft tyre is an indication of. (Level 2)
+@@under-inflation.
+over-inflation.
+excessive toe-in.
+On large aircraft, bogie type undercarriages are used to. (Level 2)
+@@spread the weight over a large area.
+absorb increased landing shock.
+prevent skidding.
+A tyre specification 32 x 10.75-14. What does the 10.75 refer to. (Level 1)
+@@Section Width.
+Bead diameter.
+Overall diameter.
+To position the bogie beam at a suitable angle for retraction and landing, a. (Level 2)
+castoring damper is used.
+snubber is used.
+@@hop damper is used.
+On large aircraft, braked wheel assemblies are normally inflated with. (Level 2)
+nitrogen.
+an argon and CO2 mixture.
+@@nitrogen and not more than 5% of air.
+Brake deboosters. (Level 2)
+increase the hydraulic pressure entering the brakes.
+@@reduce the hydraulic pressure entering the brakes.
+assist the operation of the anti-skid unit.
+A brake debooster valve is provided for. (Level 3)
+@@applying brake pressure slowly and releasing the the brakes quickly.
+increasing the pressure and applying the brakes rapidly.
+decreasing the pressure and slowly releasing the brakes.
+On a wheel bogie unit, positive camber is when the. (Level 3)
+@@bottom of the wheels are closer together.
+top of the wheels are closer together.
+front of the wheels are closer together.
+When servicing an oleo, fluid comes out of the air valve when the leg is depressurised?. (Level 3)
+@@The leg is serviceable - the separator has bottomed.
+Leaking air/oil seals.
+Separator plate stuck open.
+The purpose of the flutter plate in a shock absorber is to. (Level 3)
+@@permit free flow of oil during compression and restriction of oil during extension.
+restrict the compression of the air.
+separate the oil from the air.
+When fitting a tyre, the red dot should be positioned. (Level 3)
+on the other side of the wheel opposite to the charging valve.
+opposite the charging valve.
+@@adjacent to the charging valve.
+Composite brake units. (Level 3)
+weigh the same as normal brake units and fade away athigh temperatures.
+have less weight than normal brake units but fade away at high temperatures.
+@@have less weight than normal brake units and have  increased efficiency at high temperatures.
+A restrictor valve can be used. (Level 3)
+to increase the speed of undercarriage retraction.
+to increase the speed of the undercarriage extension.
+@@to reduce the speed of the undercarriage extension.
+Made up wheels should be stored. (Level 1)
+vertical at working pressure.
+@@vertical at 20/30 PSI charge.
+horizontal no more than 4 high.
+The cam plate in a nose undercarriage is. (Level 3)
+part of the shimmy damper.
+@@to align for nose wheel on nose undercarriage retraction.
+for alignment of the nose wheel steering on nose undercarriage extension.
+.Why is a hydraulic damper fitted to a nose wheel steering system?. (Level 3)
+@@To reduce vibration and shimmy.
+To centralise the nose wheel during an up selection.
+To centralise the nose leg assembly during an up selection.
+The pilot receives an audible warning on the flight deck as the aircraft is descending to land. The most likely reason for this warning is. (Level 3)
+the airspeed is too high.
+@@the landing gear is not locked down.
+the rate of descent is too high.
+A restrictor in the landing gear hydraulic retraction and lowering system is positioned in the. (Level 3)
+@@landing gear up line.
+landing gear down line.
+return line from the landing gear selector.
+Wheel speed information is used in auto speed brake systems. (Level 3)
+to stow the spoilers automatically when the aircraft has nearly stopped.
+@@to ensure the aircraft has touched down and to give a slight time lapse before spoiler deployment.
+to ensure the aircraft is still rolling.
+A fusible plug fitted to an aircraft wheel prevents. (Level 3)
+over inflation of tyres during servicing.
+brakes seizure, if brake stators and rotors weld together under excessive temperatures.
+@@tyre bursts due to high temperatures created by excessive braking.
+The fusible plugs installed in some aircraft wheel will. (Level 3)
+facilitate servicing of the wheel assembly.
+@@melt at a specified elevated temperature.
+eliminate the need to check air pressure
+In the case of pressurized aircraft, the nose-wheel bay. (Level 3)
+is pressurized to a value higher than ambient but  less than cabin pressure.
+is subject to cabin pressure.
+@@is not pressurized.
+The minimum aquaplaning ground speed is. (Level 3)
+9.6 times the root square of the tyre pressure in psi.
+@@8.6 times the root square of the tyre pressure in psi.
+8.6 times the tyre pressure in bar.
+Tubed tyres are stored. (Level 3)
+horizontally, up to 4 in total staggering them to  prevent distortion of beads.
+@@horizontally, up to 4 in total in a rack with supporting tubes so each tyre is supported at 2 points.
+horizontally, up to 4 in total with the smallest at the top.
+These markings are found on a tyre32 x 10.45 R 14.What does the number 32 mean?. (Level 1)
+@@Outer diameter.
+qwidth.
+Inner diameter.
+When inflating a tyre and you notice ice in the valve stem. (Level 3)
+heat the valve stem gently with a blow torch.
+@@wait for ice to melt before carrying on with inflation.
+carry on inflating as ice in the valve stem is no problem.
+In detachable flange type wheels, the flange is secured by. (Level 1)
+a retainer plate.
+@@a lock ring.
+bolts.
+A red dot / triangle mark on aircraft tyres means. (Level 1)
+military reference.
+@@the light part of the tyre.
+breather points.
+Vents holes are found on. (Level 1)
+tubeless tyres.
+tubed tyres.
+@@tubed and tubeless tyres.
+How many LDG with normal aircraft? (Level 1)
+@@3
+2
+4
+Why all jet aircraft have a nose wheel LDG than a tail wheel LDG? (Level 1)
+Bigger
+@@Directional stability
+Easy for take off
+Where is the CG of the A/C with nose wheel LDG? (Level 1)
+Near nose wheel LDG
+Behind of main wheels
+@@In front of main wheels
+Which is the most advantage of A/C with nose wheel LDG than a tail wheel LDG during landing? (Level 1)
+@@Landing at high speed without nosing over
+Absorb more force impact
+Landing with short runway
+Do a jet airplane have a brake in the nose LDG? (Level 1)
+Yes
+@@No
+Has brakes in all LDGs
+Does nose LGD structure is bigger than main LDG? (Level 1)
+Yes
+Same size
+@@No
+Where is the location of steering system in some old and slow aircrafts? (Level 1)
+@@Tail wheel
+Nose wheel
+Main wheels
+How many ways to steer A/C on ground (Modern A/C)? (Level 1)
+By the Pedal only
+@@By the Pedal & the Tiller
+By the Tiller only
+Which are the advantages with landing gears and doors retracted during flight? (Level 1)
+1. Decrease the noise. 2. Decrease the parasite drag. 3. Give higher airspeed.
+2. Decrease the parasite drag. 3. Give higher airspeed. 4. Lower fuel consumption.
+@@1. Decrease the noise. 2. Decrease the parasite drag. 3. Give higher airspeed. 4. Lower fuel consumption.
+What power supply to operate the LDGs (large A/C)? (Level 1)
+@@Hydraulic
+Electric
+Pneumatic
+How many ways to extension LDG? (Level 1)
+1
+@@2
+3
+What are purpose of the torsion (torque) links? (Level 1)
+1. Permit the inner cylinder to move up and down in the outer cylinder.
+2. Not permit the inner cylinder to rotate 90° in the outer cylinder.
+@@1. Permit the inner cylinder to move up and down in the outer cylinder. 2. Not permit the inner cylinder to rotate in the outer cylinder.
+Which components send signal to show LDG down and locked position? (Level 1)
+@@Downlock sensors
+Retraction sensors
+Uplock sensors
+For safety reason, what should mechanic do during working in LDG system on ground? (Level 1)
+Confirmed LDG down
+@@Installed the LDG safety pin (devices)
+Checked condition of hydraulic system
+After finishing work on LDG area, which step mechanic must check before A/C depart? (Level 1)
+Installed the LDG safety pins
+Connected the headset for standby
+@@Removed all LDG safety pins
+During Transit check, found hyd leaks over limit from shock struts, no spare, no time, what should CRS decides to do? (Level 1)
+@@Actives the spare gland seal
+Declares AOG
+Do nothing after cleaning

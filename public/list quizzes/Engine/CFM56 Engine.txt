@@ -1,0 +1,464 @@
+The air produced by the fan is known as: (Level 1)
+@@Secondary airflow or bypass airflow
+Primary airflow or bypass airflow
+primary and secondary airflow
+What is the purpose of the Burner Staging Valve (BSV)? (Level 1)
+A.To bleed the air downward LP compressor at low power engine condition.
+@@B.To close the second fuel nozzles, manifold at low power engine condition.
+C.To supply the bleed air for pneumatic system at low power engine condition.
+For maintenance or MEL dispatch the revers-er system: (Level 1)
+@@Can be inhibited following AMM procedures.
+Can not be inhibited on the ground.
+Can fly with Thrust reverser defect.
+The engine forward mount is carrying the: (Level 1)
+Anti-torque mount
+@@Thrust, Vertical and side loads.
+Thermal expansion loads.
+The engine drain mast is used to collect the: (Level 1)
+A.Unburnt fuels.
+Unused engine oil.
+@@Waste fluids and vaporise from engine systems and accessories.
+The Drains are provided at the pylon rear part is to: (Level 1)
+Remove any residual fluid like water, hydraulic, fuel.
+Remove air.
+@@Evacuate and vent overboard air and any residual fluids.
+Fluids drained from the power plant are: (Level 1)
+Fuel, oil or hydraulic
+Fuel, oil or water
+@@Fuel, oil hydraulic or water
+The FADEC system consists of: (Level 1)
+ A single Channel ECU with its peripherals for both engines
+@@Dual channel ECU with its peripherals per engine.
+Two computers for each engine.
+The function of the deactivation lever located on the HCU is to:  (Level 1)
+De-energize the isolation valve solenoid.
+@@Isolate hydraulic supply.
+Energized the isolation valve solenoid.
+The System that controls the Engines at all operating conditions is: (Level 1)
+@@A.Full Authority Digital Engine control (FADEC).
+B.Engine Vibration Monitoring Unit (EVMU).
+C.Engine Interface Unit (EIU).
+The Engine Starter oil level checked by:  (Level 1)
+Multipurpose Control& Display unit (MCDU)
+System Display Engine (SD-ENG) page.
+@@Detailed Visual Inspection (DVI)
+The CFM56-5B/P LP rotor (N1) is made of: (Level 1)
+The fan and the booster compressor driven by the five stage LP turbine.
+Four stage compressor driven by a two-stage turbine.
+@@Fan and a four-stage compressor driven by a four-stage turbine.
+The CFM56-5B/P HP (N2) rotor is made of (Level 1)
+@@A.9-stage compressor driven by a single stage turbine.
+B.10-stage HP compressor driven by a 2-stage HP turbine.
+C.12-stage compressor driven by a single stage turbine
+The CFM56-5B/P, the LP rotor assembly supported by: (Level 1)
+N01, N02 and N03 (dual bearing).
+N03 (dual bearing) and N04.
+@@N01, N02 and N05.
+The FADEC automatically selects a continuous relight: (Level 1)
+In case of Engine Interface Unit (EIU) failure only.
+@@If engine anti-icing is detected ON or EIU failure or engine flame-out.
+In case of Electronic Control Unit (ECU) failure.
+The purpose of the ENGINE MASTER SWITCH is: (Level 1)
+To open or close the HP fuel Shut-Off Valve.
+To command and reset the FADEC functions.
+@@To open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions.
+The ENGine MANual START push buttons to operate the corresponding start valves in: (Level 1)
+@@The manual start mode or during an engine cranking.
+The manual start mode.
+During an engine cranking.
+The compressor airflow control of the CMF56-5B/P includes: (Level 1)
+@@A.The Variable Bleed Valve (VBV) system and the Variable Stator Vane (VSV) system.
+B.The BSBV system, a VSV system and bleed valves at the 7th and 10th stages of the HPC.
+The booster stage bleed valve system and a Variable Stator Vane (VSV) system.
+Prior to perform maintenance on the thrust reverser: (Level 1)
+The yellow hydraulic system must be depressurized.
+@@Deactivate the thrust reverser by placing the lever in the inhibition position on the Hydraulic Control Unit (HCU).
+Deactivate the thrust reverser by disconnecting the hydraulic supply lines.
+The engine FADEC GND PWR is used to: (Level 1)
+A.Enable the pilots to start the engines automatically.
+@@B.Supply the computers dedicated to the engines when the engines are not running.
+C.Enable the pilots to start the engines manually.
+The purpose of the Fuel Return Valve (FRV) in the re-circulation system is: (Level 1)
+@@A.To maintain engine oil, IDG oil and fuel temperature within limits.
+B.To provide better fuel filtering.
+C.To depressurize the fuel system at engine shutdown.
+In maintenance, if the Inboard cowl opened for engine removal/Installation, the safety precaution to be followed is: (Level 1)
+@@The slats must be retracted and slat operation must be inhibited.
+The slats may be extended.
+Aircraft Electrical power must be removed.
+The master chip detector used for ground inspection which is of an. (Level 1)
+@@Electrical type and also has a visual pop-out indicator.
+Operates only in differential pressure type.
+Indicator with Red or Green flag.
+The A320/321 engines throttle control levers: (Level 1)
+@@Only be moved manually.
+Automatically in auto-thrust mode
+Can be moved manually or automatically.
+The Reverse Thrust is available only on the: (Level 1)
+Flight
+@@Ground after landing.
+Flight or Ground
+The Engine Vibration Monitoring Unit function (EVMU) are: (Level 1)
+@@Collects Vibration data from both engines and displayed on the ECAM.
+Collects Vibration data from both engines and displayed on the MCDU.
+Collects Vibration data from both engines, and displayed on the PFD.
+The annular combustion chamber has: (Level 1)
+1- igniter plug
+4-igniter plugs known as A1, A2 and B1, B2
+@@2-ignitor plugs known as A & B.
+The main source of aircraft bleed comes from: (Level 1)
+LP compressor
+@@HP compressor
+LP or HP as per customer demand
+CFM 56-5B designed using modular concept, advantage of this concept is: (Level 1)
+This engine is made of 4 primary modules.
+Easy maintenance
+@@Easy maintenance and Quicker return-to service
+The ONLY engine powers complete SA Family(A318/319/320/321) is: (Level 1)
+V2500
+@@CFM56-5B
+PW1100G
+What is the one of the safety precautions observed during Engine Ground Run: (Level 1)
+The entry corridor will be open when engine power is above the minimum.
+The entry corridor will be open/closed when engine power is above the minimum.
+@@The entry corridor will be closed when engine power is above the minimum.
+What is the safety precautions observed during opening the engine cowls: (Level 1)
+A.Always secure cowls with the hold-open rads and follow AMM wind limitations.
+B.Make sure that the slats are retracted and install Warning notices in cockpit
+@@AMM for reference information.
+The Engine Fuel system is designed to supply Fuel Flow into the: (Level 1)
+@@Combustion chamber, servo fuel for airflow control, engine clearance control and IDG cooling.
+Directly to Engines only.
+APU & Engines.
+When Engine Master S/W is set to off: (Level 1)
+HP and LP fuel shut off valves are closed.
+HP, LP and Fuel Return Valve (FRV) closed.
+@@HP/LP/closed and FRV closed by ECU.
+If the engine is running Above 15% (>15%) then the FADEC powered by: (Level 1)
+Aircraft Power supply.
+The PMA (Permanent Magnet Alternator) supplies only channel A of ECU.
+@@The PMA also called Control Alternator supplies ECU channels A & B
+For Maintenance FADEC Gnd Power P/B on in the Maintenance panel will supply the power for:  (Level 1)
+Five minutes.
+20 Minutes.
+@@As long as the GND PWR P/B is in the ON position. 
+During Engine Dry cranking or wet cranking sequences: (Level 1)
+@@Ignition Inhibited.
+Ignition Available.
+Only Ignitor A is available.
+The Variable Stator Vane (VSV) is located at: (Level 1)
+Rear of HP compressor.
+@@Front of the HP compressor.
+Middle of the HP compressor.
+The Electronic Control Unit (ECU) is cooled by: (Level 1)
+By a cooling fan built in.
+@@By Ram Air cooling.
+By Fan air cooling.
+The N1 rotational Speed indication is shown in the ECAM-EWD by a: (Level 1)
+Needle
+Digital Indication.
+@@Needle and an N1 digital display.
+The EGT is sensed and averaged by: (Level 1)
+Four thermocouple probes.
+Six Thermocouple probes
+@@Nine Thermocouple probes.
+The oil quantity XMTR is located in the: (Level 1)
+@@Oil Tank.
+Oil line.
+Oil filter assembly.
+The PS 12 sensor measures the: (Level 1)
+Dynamic pressure
+@@Static pressure from the fan inlet.
+Compressor pressure.
+The Thrust reverser system is of the: (Level 1)
+Static blockage type.
+@@Aerodynamic blockage type.
+Electrical blockage type.
+The directional valve in T/R system is operated to: (Level 1)
+@@Deploy only.
+Stow only.
+Deploy& Stow operation.
+To command the thrust reverser, the ECU needs an A/C on ground signal supplied by: (Level 1)
+Main Landing Gears.
+@@LGCIUs
+FMGC.
+The Engine oil system includes: (Level 1)
+A supply circuit.
+A vent circuit.
+@@A supply/Scavenge and Vent circuits.
+If Fluid leaks are found during transit operations: (Level 1)
+Clean it.
+@@Refer AMM ATA 70-00 & ATA 29-00 for allowable limits.
+Refer MEL.
+The good practice in maintenance for Fan cowl doors: (Level 1)
+@@Must remain either fully opened or fully closed and latched.
+Never open the cowls in transit.
+Never open the latches in transit.
+If an Engine was ferried or subjected to an In-Flight Shutdown (IFSD) then: (Level 1)
+That engine must be dried out.
+Re-lubricated within 7 days.
+@@The engine must be dried out and re-lubricated within 24 hours as per engine dry out procedure
+The thrust reverser “C” ducts is opened by: (Level 1)
+A.One electric actuator
+One pneumatic actuator.
+@@One hydraulic actuator.
+The thrust controlled during thrust reverser operation is: (Level 1)
+As function of EGT.
+@@As function of N1
+C.As function of N2
+The EIU input signal types are: (Level 1)
+Discrete and digital
+Analog and digital
+@@Discrete, analog and digital
+The Ignition system uses the electrical power: (Level 1)
+28 VAC from aircraft
+@@115 VAC from aircraft power supply.
+115 VAC from dedicated alternator
+The Permanent Magnet Alternator (PMA) also called Control Alternator supplies the ECU when: (Level 1)
+@@When engine is running and N2 speed> 15%.
+When engine is running and N2 speed> 50%.
+When engine is running and N2 speed> 75%.
+The CFM56-5B, the number of fan blades are: (Level 1)
+Thirty-two (32)
+Thirty-four (34)
+@@Thirty-six (36)
+The CFM56-5B/P, the HP rotor assembly supported by: (Level 1)
+@@A.Nº3 (dual bearing) and Nº4.
+B.Nº2 and Nº4.
+C.Nº2 and Nº3 (dual bearing).
+The purpose of the ENGINE MASTER SWITCH is (Level 1)
+To open or close the HP fuel Shut-Off Valve.
+To command and reset the FADEC functions.
+@@Both to open or close the HP fuel Shut-Off Valve and to command and reset the FADEC functions.
+During an engine manual start, "AB" ignition indication on the ECAM: (Level 1)
+A.Means that ignition systems A and B have failed.
+Means that system A has failed but system B is operational.
+@@C.Is the normal indication for dual ignition during engine manual start.
+Prior to performing maintenance on the thrust reverser: (Level 1)
+A.The yellow hydraulic system must be depressurized.
+@@Deactivate the thrust reverser by placing the lever in the inhibition position on the Hydraulic Control Unit (HCU) to prevent accident/damage.
+Deactivate the thrust reverser by disconnecting the hydraulic supply lines.
+The Engine FADEC GND PWR is used to: (Level 1)
+Enable the pilots to start the engines automatically.
+@@Supply the computers dedicated to maintenance when the engines are not running.
+Enable the pilots to start the engines manually.
+The engine rotors are supported by: (Level 1)
+@@5 bearings.
+4 bearings.
+3 bearings.
+The number of stages in The HPC compressor rotor is: (Level 1)
+A.7 stages.
+@@B.9 stages.
+C.11 stages.
+The purpose of a Variable Bleed Valve, located in the beginning stages of the HP compressor is to: (Level 1)
+@@A.Vent out some of the air overboard to prevent a compressor stall.
+Control excessively high RPM to prevent compressor stalls.
+Vent high ram air pressure overboard to prevent a compressor stall.
+The CFM56 HP (N2) rotor is made of: (Level 1)
+@@A.9 - stage compressor driven by a single stage turbine.
+B.10 - stage hp compressor driven by a 2-stage hp turbine.
+C.12 - stage compressor driven by a single stage turbine.
+In maintenance if the Inboard cowl open for engine removal/Installation the safety precaution to be followed is: (Level 1)
+@@The slats must be retracted and slat operation must be inhibited, Respect wind speed as per AMM.
+The slats may be extended.
+Aircraft Electrical power must be removed.
+The Tech Insertion in CFM56 engine signifies: (Level 1)
+@@The technology introduced by the manufacturer by re-designed HPC rotor blades to enhance HPC efficiency.
+Increase in by-pass ratio.
+Reduced engine total weight.
+The N2 shaft can be cranked from Accessory gear box from: (Level 1)
+HP pneumatic air source.
+@@A manual hand cranking drive provided on the front face.
+By removing the Air starter and using hand cranking.
+The HP fuel shutoff valve control priority is: (Level 1)
+@@The Master lever command has priority always over the ECU command.
+The EIU has priority over the Master lever command.
+The Auto thrust lever command has priority over the Master lever command.
+If there is a disagreement between control and position of HPSOV then: (Level 1)
+ECAM warning is triggered.
+Move to fail safe position.
+@@ECAM warning and ENG FAULT light comes on Eng Master CTL Panel.
+In case of emergency, the fire push-button is pressed then: (Level 1)
+@@A.The Fuel LP shut-off valve closes, and the engine is shutdown.
+B.The Fuel HP shut-off valve closes, and the engine is shutdown.
+C.The Fuel LP and HP shut-off valves closes and the engine run in low power.
+The ECU calculates the relationship between the Throttle Lever Angle (TLA) and Throttle Resolver Angle (TRA) linearly as: (Level 1)
+1-degree TLA is 3-degree TRA.
+@@1-degree TLA is 1.9 degrees TRA.
+1-degree TLA is 1 degrees TRA.
+The ECU is electrically supplied via the: (Level 1)
+APU power supply only.
+A/C main batteries supply only.
+@@EIU only when N2 is below 58%
+The power supply module from EIU supply electrical power to: (Level 1)
+@@The ECU and ignition systems.
+Start valve.
+C.OVHD ENG fire panel.
+If the EIU electrical power is lost the EIU fails and then: (Level 1)
+No ECAM indication.
+@@Engine start or restart is NOT possible.
+Cross engine start possible.
+The Bump -Thrust function can be availed by the operators: (Level 1)
+Operating the aircraft at High altitude airports only.
+Operating the aircraft at high outside temperatures regions.
+@@Operating the A/C at High altitude or high outside temperatures airports.
+Bump-Thrust function is only available for those CEO and NEO engines: (Level 1)
+All A320 family aircraft's.
+Only on A318/A319 aircraft.
+@@Only for A320 and A321 aircraft's.
+The Thrust Reverser system is controlled for the engines: (Level 1)
+@@Independently by the associated FADEC system.
+Simultaneously by FADEC No.1.
+By FADEC No.1 as Master & FADEC No.2 as Standby.
+To tell the crew that the thrust reverser system mechanically inhibited for dispatch: (Level 1)
+@@Amber caution message “ENG X REV INHIBITED is displayed on the ECAM.
+Green memo message “ENG X REV INHIBITED is displayed on the ECAM.
+White advisory message “ENG X REV INHIBITED is displayed on the ECAM.
+The master chip detector used for ground inspection which is of an: (Level 1)
+@@Electrical type and also has a visual pop-out indicator.
+Operates only in differential pressure (Delta P) type.
+Red or Green flange Visual Indicator
+During Engine preservation the engines are classified as: (Level 1)
+The Engines that can be started are considered operable.
+The engine that for any reason cannot be started is considered engine under maintenance.
+@@The Engines that can be started are considered operable and for any reason cannot be started are considered non-operable.
+The ONLY engine powers the entire SA Family(A318/319/320/321) is: (Level 1)
+V2500 series
+@@CFM 56 series
+PW 1100 G series
+To change the Thrust Rating of CFM 56 engines as per operational requirements: (Level 1)
+All engines are basically different and cannot change the thrust rating.
+Different A320 Family requires different thrust rated CFM56 engines.
+@@All the CFM56-5B engines are basically the same, a programming plug on the Electronic Control Unit (ECU) changes the available thrust & carried out by an approved engineer.
+What is the one of the safety precautions observed on Engine ignition system: (Level 1)
+Do not do maintenance on the ignition system while the engines operate.
+You can do maintenance on the ignition system while the engines operate.
+@@Do not do maintenance on the ignition system while the engines operate, wait more than 10 minutes after the engine shut down very high voltage can seriously damage the personal.
+The engine anti-ice air overboard discharge grill is located? (Level 1)
+A.On the right-side fan cowl door.
+@@B.On the lower right side of the inlet cowl.
+C.At the bottom (5 o’clock position) of fan cowling
+The engine oil servicing panel is located? (Level 1)
+A.On the outboard side of the inlet cowl.
+@@B.On the left side fan cowl door.
+C.On the left side of the inlet cowl.
+When the engine is running: (Level 1)
+A.No person is allowed to get access to the engine.
+@@B.Access to the engine is permitted within the Entry/ Exit corridor if power do not exceed min idle.
+C.Access to the engine is permitted within the Entry/Exit corridor at all power rating.
+The engine run up at Min idle can be carried out with: (Level 1)
+@@A.Fan cowls opened and secured.
+B.Both Reverser and Fan cowls opened and secured.
+C.Non engine cowl opened.
+Features of CFM-56-5B4 engine are: (Level 1)
+A.Two spools, radial flow, high fan bypass ratio and mixed exhaust.
+@@B.Two spools, axial flow, high fan bypass ratio and separated exhaust.
+C.Two spools, axial flow, high fan bypass ratio and mixed exhaust.
+Select the correct type of combustion chamber for CFM-56-5B4 engine? (Level 1)
+@@A.Annular combustor.
+B.Tubular combustor.
+C.Reverse flow combustor.
+The engine gear boxes are driven by which shaft? (Level 1)
+A.N1 rotor.
+@@B.N2 rotor via the transfer gear box.
+C.N2 rotor.
+CFM-56-5B4 engine comprise of: (Level 1)
+@@A.9 HPC stages and 1 HPT stage
+B.9 HPC stages and 2 HPT stage
+C.10 HPC stages and 2 HPT stage
+The hand cranking drive connects to? (Level 1)
+A.LP rotor.
+@@B.HP rotor.
+C.Both LP and HP rotors.
+How does the starter operate? (Level 1)
+A.Electrically
+B.Hydraulically
+@@C.Pneumatically
+The type is Engine ignition system? (Level 1)
+A.Low voltage, high energy.
+B.High voltage, low energy.
+@@C.High voltage, high energy.
+Which components provide the selection of ignition channel A/B? (Level 1)
+@@A.The ECU.
+B.The engine control panel.
+C.The ECAM control panel.
+When is the ignition inhibited? (Level 1)
+A.During dry crank sequence.
+B.During wet crank sequence.
+@@C.During wet and dry crank sequences.
+Each engine is equipped with: (Level 1)
+A.One ignition system with two igniters.
+B.Two ignition systems, each has two igniters.
+@@C.Two ignition systems with two igniters.
+Ignition system power supply is: (Level 1)
+@@A.115 V from the aircraft.
+B.115 V from engine generator.
+C.28 V from the FADEC PMA.
+What is the purpose of the Active Clearance Control (ACC) system? (Level 1)
+A.To improve compressor efficiency
+@@B.To improve and maintain engine performance.
+C.To reduce overall engine thermal growth
+What is used to cool the ECU? (Level 1)
+@@A.Ram air taken from dedicated air intake scoop.
+B.Fan air taken from dedicated air intake scoop.
+C.Fan air taken from nacelle cooling system.
+What is used to cool the fan and core compartments? (Level 1)
+A.Ram air for both compartments
+B.Fan air for both compartments.
+@@C.Ram air for fan compartment and Fan air for core compartment.
+The engine primary parameters are displayed on? (Level 1)
+A.The lower ECAM engine page.
+@@B.The upper ECAM.
+C.Both The lower ECAM engine page and the upper ECAM.
+The engine page is selected: (Level 1)
+@@A.Manually or automatically depending on flight phases.
+B.Manually only.
+C.Automatically only depends on flight phases.
+The engine vibration parameter is displayed on: (Level 1)
+A.The Upper ECAM.
+B.The Lower ECAM engine page.
+@@C.The Lower ECAM engine page or Cruise page.
+The engine oil quantity parameters are displayed on? (Level 1)
+A.The Upper ECAM.
+B.The Lower ECAM engine page.
+@@C.The Lower ECAM engine page or Cruise page.
+The engine oil pressure parameters are displayed on? (Level 1)
+A.The Upper ECAM.
+@@B.The Lower ECAM engine page.
+C.The Lower ECAM engine page or Cruise page.
+The fuel used indication is reset to Zero: (Level 1)
+A.Five minutes after the engine shutdown.
+B.Through the MCDU
+@@C.At each engine start
+The engine thrust indicated on ECAM via what parameter? (Level 1)
+@@A.N1 speed.
+B.N2 speed
+C.EGT
+Which important safety procedure should be performed before any maintenance work on or near the ‘C’ ducts or reverser system? (Level 1)
+A.Lock out the translating sleeves.
+@@B.Deactivate and pin the lever on the HCU.
+C.Deactivate and pin the lever on the HCU and lock out translating sleeves.
+The oil tank content can be checked by? (Level 1)
+@@A.Opening a dedicated servicing access panel in the LH fan cowl.
+B.Opening an access panel on the LH “C’ duct.
+C.Opening the RH fan cowl
+How is the main cooling of the oil system achieved? (Level 1)
+A.By an air-cooled oil cooler.
+B.By a fuel cooled oil cooler in the HP fuel system.
+@@C.By a fuel cooled oil cooler in the LP fuel system. 
+Engine oil MCD is on? (Level 1)
+A.The oil supply circuit.
+@@B.The oil scavenge circuit.
+C.The oil ventilation circuit.
+Engine oil temperature indication is measured on? (Level 1)
+@@A.The oil supply circuit. 
+B.The oil scavenge circuit.
+C.The oil ventilation circuit.
+How can you assure that the oil servicing of starter is accomplished? (Level 1)
+A.Checking the engine oil sign glass.
+B.Check ECAM indication.
+@@C.Check the oil flows though the overflow port.
+What is the best wind direction for engine STARTING? (Level 1)
+A.Side wind.
+B.Tail wind.
+@@C.Front wind.

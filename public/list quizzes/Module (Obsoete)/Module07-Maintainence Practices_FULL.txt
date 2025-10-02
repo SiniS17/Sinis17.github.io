@@ -1,0 +1,3684 @@
+A dry powder extinguisher is coloured. (Level 2)
+green.
+red.
+@@blue.
+Acetylene gas forms an explosive compound with. (Level 2)
+tin and silver.
+tin and copper.
+@@copper and silver.
+When mixing acid and water. (Level 2)
+@@the acid should always be added to the water.
+it does not matter which way the two are mixed.
+the water should always be added to the acid.
+You are involved with a fire caused by titanium swarf. What type of extinguishant should you use to deal with the fire?. (Level 2)
+@@Dry asbestos wool and chalk powder.
+CO2.
+Chemical foam.
+An aircraft should not be refueled when. (Level 2)
+the APU is running.
+navigation and landing light in operation.
+@@within 10 metres (30 feet) of radar operating.
+The minimum 'no smoking' zone around an aircraft when refuelling is. (Level 2)
+15m.
+10m.
+@@6m.
+A CO2 extinguisher is used on. (Level 2)
+solid, liquid, hot metal and electrical fires.
+@@solid, liquid and electrical fires.
+solid and liquid fires.
+In an oxygen system, if the pressure drops to 500 PSI, it. (Level 2)
+causes anoxia.
+begins to overheat.
+@@blocks the oxygen system regulator.
+After working with epoxy resins, how is natural oil returned to the skin?. (Level 2)
+Epoxy removing cream.
+Refatting cream.
+@@Acetone/lanolin mixture.
+Neither oil nor grease should be used as a lubricant on couplings or pipelines carrying. (Level 2)
+@@Oxygen.
+Kerosene.
+Nitrogen.
+Which type of extinguisher can be used for an electric fire?. (Level 2)
+Foam.
+Water.
+@@CO2.
+The colour of CO2 type fire extinguisher is. (Level 2)
+red.
+@@black.
+green.
+Which type of extinguisher can be used for engine fire?. (Level 2)
+@@CO2.
+BCF.
+Water.
+Fire on landing gear brake should be extinguished with. (Level 2)
+@@dry powder extinguisher.
+carbon dioxide extinguisher.
+water extinguisher.
+Which type of fire extinguishers can be used in the cabin?. (Level 2)
+C.T.C.
+@@water or B.C.F.
+M.B.
+Risk assessments should only be carried out on. (Level 2)
+@@all tasks and processes that are performed.
+tasks using hazardous chemicals.
+tasks carried out above the height of 6 foot.
+The most appropriate fire extinguisher for an aircraft wheel and brake fire would be. (Level 3)
+carbon dioxide.
+@@dry powder.
+water.
+Once a person has been disconnected from the source of an electrical shock the next step should be. (Level 3)
+seek assistance immediately.
+@@check for breathing start AR if necessary.
+check for pulse start cardiac massage if necessary.
+What can cause dermatitis?. (Level 3)
+@@Washing hands in solvents.
+Not wearing eye protection when using solvents.
+Inhalation of paint fumes.
+If an oxygen cylinder pressure falls below 500 PSI. (Level 3)
+the diluter stick will stick.
+the oxygen will degrade and cause anoxia.
+@@condensation will cause corrosion.
+On a hollow tube where would a small indentation normally be unacceptable?. (Level 3)
+Nowhere on the tube is an indentation acceptable.
+@@In the mid 1/3 section.
+In either of the outer 1/3 portion of the tube.
+What type of grinding wheel would you sharpen an HSS drill bit on?. (Level 3)
+green wheel.
+course wheel.
+@@fine wheel.
+When using a reamer. (Level 3)
+use no lubricant.
+@@use the same lubricant as was used on the drill bit.
+use lard oil.
+How many teeth per inch are used on a hacksaw blade for cutting hard metal?. (Level 3)
+54
+36
+@@26
+How many strokes per minute are used on a hacksaw when cutting thick metal?. (Level 3)
+30
+65
+@@55
+When lifting a bulky component with a wire rope sling, the component can be protected from damage by the sling by. (Level 3)
+fabricating alternative lifting points.
+using a suitably shaped sling.
+@@using spreader bars and packing.
+Gas bottles for CO2 air and acetylene are coloured. (Level 3)
+grey, maroon, green.
+@@black, grey, maroon.
+green, grey, maroon.
+To drill a 1/4 inch hole in titanium, the correct starting procedure would be. (Level 3)
+@@to centre drill.
+to centre punch.
+to drill 1/4 inch hole direct.
+In a torque wrench of handle length, L = 12 in. and an extension E = 3 in, the desired torque value is 300 lbs.in. the dial should read. (Level 3)
+@@240 lb.ins.
+375 lb.ins.
+280 lb.ins.
+When a torque loading is specified for a castellated or slotted nut on an undrilled new bolt. (Level 3)
+the bolt should be pre-drilled, the torque applied and the nut eased back, if necessary, to allow the split pin to be fitted.
+the bolt should be pre-drilled and the torque increased if necessary to allow the split pin to be fitted.
+@@the torque should be applied and the bolt suitably drilled for the split pin.
+A reamer with spiral flutes is removed. (Level 3)
+@@clockwise.
+straight.
+anticlockwise.
+The difference between high and low limits of a size for a dimension is known as the. (Level 3)
+deviation.
+@@tolerance.
+fit.
+Rubber components should be stored. (Level 3)
+in warm and humid conditions.
+in a well lit room.
+@@in a cool dark area.
+When comparing the machining techniques for stainless steel sheet material to those for aluminium alloy sheet, it is normally considered good practice to drill the stainless steel at a. (Level 3)
+higher speed with less pressure applied to the drill.
+@@lower speed with more pressure applied to the drill.
+lower speed with less pressure applied to the drill.
+When drilling stainless steel, the drill used should have an included angle of. (Level 3)
+@@140° and turn at a low speed.
+90° and turn at a low speed.
+118° and turn at a high speed.
+When stop drilling a crack, what is the typical drill size used?. (Level 3)
+0.025 inch.
+0.250 inch.
+@@0.125 inch.
+When degreasing aluminium alloys, and no trichloroethylene is available, a suitable alternative is. (Level 3)
+dilute sulphuric acid.
+M.E.K.
+@@white spirit and naphtha.
+A grinding wheel is normally refaced by. (Level 3)
+@@dressing with a special tool.
+grinding through using another grinding wheel.
+holding a hard wood scraper against the rotating wheel.
+How many strokes per minute should generally be used with a hacksaw?. (Level 3)
+60
+30
+@@55
+What type of drill would you use on carbon fibre?. (Level 3)
+Diamond tipped.
+Carborundum.
+@@Tungsten carbide.
+A micro-shaver is used to. (Level 3)
+cut rivets to length prior to forming.
+@@mill the rivet head after forming.
+trim the shank diameter prior to forming.
+How many teeth per inch are there on a fine hacksaw blade?. (Level 3)
+64
+16
+@@32
+What is the normal cutting angle of a drill?. (Level 3)
+@@59°.
+130°.
+12°.
+When using a moving coil as an ammeter the greatest amount of current flows through the. (Level 3)
+bushes.
+coil.
+@@shunt.
+When using the old style vernier caliper for taking internal measurements. (Level 3)
+@@add the nib measurements.
+subtract the nib measurements.
+the nib size has no relevance and can be ignored.
+To carry out an insulation test on a wire rated at 115 volts you would use. (Level 3)
+@@250 volt megger.
+115 volt megger.
+500 volt megger.
+The normal drill angles are. (Level 3)
+@@cutting angle 59°, web angle 130° and clearance angle 12°.
+cutting angle 130°, web angle 59° and clearance angle 12°.
+cutting angle 12°, web angle 130° and clearance angle 130°.
+The abbreviation 'A/F' means. (Level 3)
+American Fine.
+@@Across Flats.
+Associated Fine.
+A rivet shaver is used to. (Level 3)
+@@mill the head flush.
+mill the tail after cutting.
+mill the tail after setting.
+A drill and wire gauge has holes numbered. (Level 3)
+10 to 60.
+@@1 to 80.
+1 to 50.
+A 250 volt megger should not be used. (Level 3)
+@@on electronic equipment.
+in fuel tanks.
+on radio aerials.
+If the leads of a megger are held apart. (Level 3)
+the spring will return the needle to infinity.
+the spring will return the needle to the zero stop.
+@@if the handle was turned the meter would read infinity.
+One megohm is equal to. (Level 3)
+1,000 ohms.
+@@1,000,000 ohms.
+100,000 ohms.
+Reamers are used to. (Level 3)
+drill accurate holes.
+to make holes oversize.
+@@enlarge holes to accurate dimensions.
+The pitch of a hacksaw blade is. (Level 3)
+its length.
+the number of teeth on the blade.
+@@the number of teeth per inch.
+The web angle of a normal twist drill is. (Level 3)
+59°.
+12°.
+@@130°.
+The leads of a bonding tester. (Level 3)
+are interchangeable, one 60 foot long having two prongs and a 6 foot one with a single prong.
+@@have critical lengths and the resistance of the leads is accounted for.
+are supplied in 60 foot and 6 foot lengths but can be varied due to wear.
+Expanding reamers are used to. (Level 3)
+@@ream holes of different diameters by adjusting the position of the blades.
+ream tapered holes.
+ream holes in metal that has been heated.
+The main scale on a 24/25 vernier caliper is divided into. (Level 3)
+inches, tenths and twentieths.
+@@inches, tenths and fortieths.
+inches, tenths and thousandths.
+The vernier height gauge uses the same principle as the. (Level 3)
+@@vernier caliper.
+bevel protractor.
+micrometer.
+One revolution of the thimble of the English micrometer produces a linear movement of the spindle of. (Level 3)
+0.001 inch.
+@@0.025 inch.
+0.040 inch.
+The pitch of a metric micrometer screw thread is. (Level 3)
+0.02 mm.
+1.0 mm.
+@@0.5 mm.
+When torque loading, a wrench should be selected where the required value falls. (Level 3)
+@@at the top end of the range.
+in the middle of the range.
+at the bottom end of the range.
+The test equipment normally used to carry out a continuity test on an electrical cable is. (Level 3)
+high tension circuit tester.
+an ammeter.
+@@low reading ohmmeter.
+If all three prongs on a bonding tester were shorted together, the metre would read. (Level 3)
+FSD.
+@@zero.
+off-scale high.
+The pitch of the screw thread on an English micrometer is. (Level 3)
+0.0001 inches.
+0.050 inches.
+@@0.025 inches.
+The vernier scale on an English caliper is divided into. (Level 3)
+50 equal divisions.
+40 equal divisions.
+@@25 equal divisions.
+The thimble of a metric micrometer is divided into. (Level 3)
+@@50 equal divisions.
+40 equal divisions.
+25 equal divisions.
+How would you test a mach switch in-situ?. (Level 1)
+@@Use built in test equipment.
+Use an external test kit.
+It is not possible to test a mach switch in situ.
+The maximum value of bonding of a secondary structure is. (Level 1)
+1 megohm.
+@@1 ohm.
+1 kilohm.
+Circuit tests on aircraft should be carried out in the following order: (Level 1)
+@@bonding, continuity, insulation, functional.
+continuity, bonding, functional, insulation.
+functional, bonding, continuity, insulation.
+Before using a dead weight tester you would. (Level 1)
+calibrate the tester using a standard weight.
+@@pressurize the tester to the required pressure.
+replace the oil.
+How should a dead weight tester be used?. (Level 1)
+The pressure increasing handle should be screwed in before the addition of fluid and screwed out when fluid is added.
+@@The outlet should not be connected to the instrument until the required weights are raised by the platform.
+The platform should be removed and fluid poured into the hole.
+When testing thermocouples using a test set the ambient temperature. (Level 1)
+never needs to be considered.
+@@is considered every time.
+is only considered when temperatures of 20°C or above.
+Electronic test equipment for fuel tank contents systems usually incorporate variable. (Level 1)
+resistors.
+inductors.
+@@capacitors.
+Before using a bonding tester, the 6 foot lead has the two prongs shorted together with a piece of metal. What would the indicator read?. (Level 1)
+Full scale left.
+@@Full scale right.
+Zero at the centre.
+When using a megger to test insulation resistance, capacitive filters should be disconnected for what reason?. (Level 1)
+Remove the risk of damage to the megger.
+Remove the spurious readings caused by the capacitors charging and discharging.
+@@Prevent damage to the filters.
+When carrying out a serviceability check on a bonding tester - short together the three prongs of both probes and ensure which of the following?. (Level 1)
+The meter reads 0.1 ohm.
+@@zero reading.
+full scale reading is obtained.
+If an insulation resistance tester is operated and the leads are suspended in free air, what will the meter read?. (Level 1)
+Zero.
+Mid scale - it is a ratiometer movement and there is no current flowing in the external circuit.
+@@Infinity.
+When using a digital meter to test a diode, a correct operation of the diode is indicated by a volt drop of. (Level 1)
+@@0.3V to 0.7V.
+2.5V to 2.8V.
+1.5V to 2V.
+To check that the ident pulse is being generated from an ATC transponder,. (Level 1)
+select an ATC channel and check the morse code.
+select ident and check the indication on the instrument panel.
+@@press the ident and monitor the indication on the ramp test set.
+A pressure gauge is fitted to a Dead Weight Tester. The piston area is 0.25 sq.in. and the total mass of the mass carrier and masses is 5lb. If the pressure gauge is accurate what pressure in pounds per square inch (PSI) will it read?. (Level 1)
+1.25 psi.
+@@20 psi.
+200 psi.
+When testing a fuel metering unit, how is it checked?. (Level 2)
+@@With the meter in series with the unit.
+With the unit disconnected.
+With the meter in parallel with the unit.
+When using a bonding tester. (Level 2)
+@@ensure prongs penetrate anodised layer.
+ensure prongs do not penetrate anodising layer.
+an anodised component cannot be tested.
+On a static leak tester, pressure is released by. (Level 2)
+an internal balance valve in the tester.
+@@slowly opening the release knob for 3 minutes.
+bleed valve in the tester.
+A fuel calibration test set when used to check an aircraft with half a fuel load is connected. (Level 2)
+to gauge with fuel level in parallel.
+to gauge with fuel level capacitance.
+@@to gauge with fuel level in series.
+A capacitive fuel contents system should be tested with. (Level 2)
+ratiometer.
+@@Wheatstone bridge.
+decade box.
+Continuity of a fibreoptic cable is tested with a. (Level 2)
+light source and optometer.
+multimeter.
+@@calibrated light generator and opto-power meter.
+When using transistorized test equipment, what should the output be?. (Level 2)
+Not affected by impedance.
+High impedance.
+@@Low impedance.
+To read the transponder coding from an aircraft's transponder you. (Level 2)
+use the code signal and a chart to determine the signal.
+@@use a ATC600 test set.
+use the output on the flight deck.
+Bonding lead testers are attached with. (Level 2)
+@@60 feet lead is connected to the main earth and a 6 foot test lead is connected to check the resistance between selected points.
+6 feet test lead is connected to the main earth and a 60 feet lead is connected to check the resistance between selected points.
+either of the leads can be connected anywhere.
+On a Bonding Tester the number of probes on the 60 ft and 6ft leads respectively are. (Level 2)
+@@1 and 2.
+2 and 2.
+2 and 1.
+The damping force in a meter. (Level 2)
+@@prevents oscillation of the pointer.
+returns the pointer to zero.
+assists the pointer to move over the scale.
+On a VOR/ILS test set the 'Tone Delete' function. (Level 2)
+functionally checks that the glideslope pointer moves down-scale.
+@@functionally checks that the glideslope failure flag operates.
+functionally checks that the glideslope pointer moves up-scale.
+What is third angle projection?. (Level 1)
+each view represents the side of the object furthest from the adjacent view.
+@@each view represents the side of the object nearest to it in the adjacent view.
+each view is at an angle of 30 degrees to the plane of projection.
+This drawing indicates. (Level 1)
+countersunk hole.
+@@blind tapped hole.
+counterbored hole.
+The width of a visible outline on a drawing is. (Level 1)
+0.3 mm.
+@@0.7 mm.
+0.5 mm.
+What does GA stand for on a drawing?. (Level 1)
+General assembly.
+@@General arrangement.
+Gradient Axis.
+Design drawings of aircraft components are produced by organizations approved by. (Level 1)
+SBAC.
+British Standards Institute.
+@@CAA in accordance with the BCARs.
+Which pictorial projection shows one face in true elevation and line of depth normally draw at 30° or 45° to the horizontal?. (Level 1)
+@@Oblique.
+Perspective.
+Isometric.
+If a design amendment is made on a drawing. (Level 1)
+@@new issue number and date must be allocated to the drawing.
+the old issue number is retained, with the amendment date added.
+no change in issue number or date is necessary.
+The British Standard for Engineering Drawings is. (Level 1)
+@@BS 308.
+BS 306.
+BS 307.
+P.C.D. is an abbreviation for. (Level 1)
+@@Pitch Circle Diameter.
+Pitch Cord Diameter.
+Precision Circle Dimension.
+Drawing numbers are. (Level 1)
+the same as serial numbers.
+changed after each drawing amended after May 28, 1999.
+@@unique to each drawing.
+Hatching lines are usually drawn at:. (Level 1)
+60°.
+30°.
+@@45°.
+The scale of an engineering drawing is shown as 1 : 4. This indicates it is. (Level 1)
+@@drawn to a quarter.
+drawn to scale.
+drawn four times larger.
+An orthographic projection usually shows. (Level 1)
+one, three-dimensional view of an object.
+pictorial view of the object.
+@@three, two-dimensional views of an object.
+When dimensioning a drawing, the dimension lines should be. (Level 1)
+@@the minimum number of dimensions necessary to enable the component to be manufactured.
+as many dimensions as possible.
+only size dimensions.
+PFD' on an engineering drawing would indicate. (Level 1)
+@@dye penetrant check.
+ultra-sonic test.
+repair and recondition.
+S.W.G. is an abbreviation for. (Level 2)
+@@Standard Wire Gauge.
+Screw Width Gauge.
+Standard Water Gauge.
+If you are unable to identify a structure 'classification' as either primary or secondary, what action should you adopt?. (Level 2)
+Grade it as 'secondary'.
+@@Upgrade it to ‘primary’.
+Paint it red and stamp it as 'tertiary'.
+What colour is used to indicate a tertiary structure on a diagram or drawing?. (Level 2)
+Red.
+@@Green.
+Yellow.
+Which parts of the aircraft are classified secondary structures?. (Level 2)
+@@Highly stressed parts but if damaged will not cause failure of the aircraft.
+Highly stressed parts and if damaged may cause failure of the aircraft and loss of life.
+Lightly stressed parts such as fairings, wheel shields and minor component brackets etc.
+Where are correct layout, dimensioning, numbering and reference procedures for engineering drawing are to be found?. (Level 2)
+BS 31.
+BS 1916.
+@@BS 308.
+10 : 1 on an engineering drawing indicates. (Level 2)
+the drawing is full size.
+the drawing is one tenth full size.
+@@the drawing is ten times full size.
+Lines known as short dashes (thin) are used on drawings to indicate. (Level 2)
+@@hidden detail.
+visible outlines.
+cutting revolved.
+Break lines are used. (Level 2)
+to show where components are expected to break.
+in sectional drawing.
+@@where it would be inconvenient (because of limited space) to draw long lengths of the same section.
+An oblique projection. (Level 2)
+is the same as an isometric projection.
+has one view looking directly at one face with the lines representing depth drawn at 90°.
+@@has one view looking directly at one face with the lines representing depth drawn at a constant angle.
+A drawing in which the subassemblies or parts are shown as brought together on the aircraft is called. (Level 2)
+@@an installation drawing.
+detail drawing.
+sectional drawing.
+A thread on a drawing is labeled ½-20 UNF – 1B. The thread is (Level 2)
+either external or internal, depending on the application.
+external.
+@@internal.
+NTS on a drawing stands for. (Level 2)
+Not True Scale.
+No Tolerance System.
+@@Not To Scale.
+A hydraulic system schematic drawing would indicate the. (Level 2)
+type and quantity of the hydraulic fluid.
+specific location of the individual components within the aircraft.
+@@direction of fluid flow through the system.
+Which statement is true regarding an orthographic projection?. (Level 2)
+There are always at least two views.
+It could have as many as eight views.
+@@One-view, two-view, and three-view drawings are the most common.
+A line used to show an edge which is not visible is a. (Level 2)
+break line.
+phantom line.
+@@hidden line.
+One purpose for schematic diagrams is to show the. (Level 2)
+size and shape of components within a system.
+@@functional location of components within a system.
+physical location of components within a system.
+What type of line is normally used in a mechanical drawing or blueprint to represent an edge or object not visible to the viewer?. (Level 2)
+Alternate short and long light dashes.
+@@Medium-weight dashed line.
+Light solid line.
+A specific measured distance from the datum or some other point identified by the manufacturer, to a point in or on the aircraft is called a. (Level 2)
+zone number.
+@@station number.
+specification number.
+In a first angle orthographic projection the plan view is placed. (Level 2)
+above the front elevation.
+below the side elevation.
+@@below the front elevation.
+When a cutting plane on a drawing cuts a web longitudinally, the web is. (Level 2)
+sectioned the same as the rest of the view.
+@@not sectioned.
+sectioned with different direction of hatch.
+The letter A.F.D. in a circle stamped on a material indicates that it has. (Level 2)
+@@been anodic flaw detected.
+been annealed fired and doped.
+an across flats diameter bolt.
+Where would Zone 324 be found in ATA 100?. (Level 2)
+Between rear spar of wing and trailing edge of wing.
+Tip of horizontal stabilizer.
+Fwd of the wing rear spar.
+The latest drawing is identified by the. (Level 2)
+@@issue number.
+amendment number.
+date.
+Tolerances are classified in two ways, these are. (Level 1)
+Dimensional and isometric.
+Upper and lower.
+@@Dimensional and geometric.
+The maximum permissible bow in a steel tube is. (Level 1)
+0.319444444444444
+0.180555555555556
+@@0.458333333333333
+The equipment required to carry out a run-out check on a shaft would be. (Level 1)
+@@DTI and 'V' blocks.
+ball bearing and a micrometer.
+surface plate and a three leg trammel.
+What is the maximum bow allowed in a strut?. (Level 1)
+1 in 200.
+1 in 500.
+@@1 in 600.
+Which of the following shafts would you use to obtain a clearance fit in a bush 0.750 inch diameter?. (Level 1)
+0.752 inch.
+@@0.748 inch.
+750 inch.
+Which of the following is checked when using a 'GO / NO -GO' gauge?. (Level 1)
+Clearance.
+@@Tolerance.
+Allowance.
+Which of the following is a 'Bilateral Tolerance'?. (Level 1)
+2 inches -0.002.
+2 inches +0.002.
+@@2 inches ±0.002.
+A tolerance is. (Level 1)
+permitted difference between new and worn dimensions.
+@@permitted variation on a dimension to allow for inaccuracy of equipment.
+required difference in dimension between mating parts to obtain a certain class of fit.
+A transition fit is one in which the shaft is. (Level 1)
+larger than the hole.
+smaller than the hole.
+@@the same size as the hole.
+The length of a blended repair of corrosion should be no less than. (Level 1)
+10 times its depth.
+@@20 times its depth.
+5 times its depth.
+If there is a positive allowance between the smallest possible hole and the largest possible shaft, the fit is known as. (Level 2)
+transition fit.
+@@clearance fit.
+an interference fit.
+After mechanical removal of corrosion on an aluminium alloy casting, the length of the blended recess should be. (Level 2)
+no less than ten times the depth.
+@@no less than twenty times the depth.
+no more than twenty times the depth.
+A press fit requires. (Level 2)
+@@some sort of driving force.
+the shaft to be shrunk by cooling.
+the hole to be expanded by heat.
+What is the typical acceptable limit of a dent on a frame member?. (Level 2)
+One and a half times the skin thickness.
+Twice the skin gauge and 0.75 inch diameter.
+@@One gauge depth and 0.75 inch diameter.
+A light drive clearance between 3/4 inch diameter bolt and hole, on a drawing would be shown as. (Level 2)
+0.005 Inches.
+@@0.0015 Inches.
+0.0025 Inches.
+In a front release connector the pin will be. (Level 3)
+released from rear and extracted from the front.
+released from the front and extracted from the front.
+@@released from the front and extracted from the rear.
+A wire clamped vertically at one end and horizontally at the other end should have a bend radius of no less than. (Level 3)
+@@3 times the diameter of the wire.
+5 times the diameter of the wire.
+10 times the diameter of the wire.
+Glycol deicer fluid in contact with a silver cable can cause. (Level 3)
+@@fire.
+disintegration of the cable insulation.
+corrosion.
+With a rear release connector, the pin will be. (Level 3)
+released from the front and extracted from the rear.
+released from the rear and extracted from the front.
+@@released from the rear and extracted from the rear.
+The maximum operating temperature for a nickel plated copper or aluminium connector is. (Level 3)
+@@260°C.
+135°C.
+200°C.
+What gauge of pin would a yellow plastic insert/extract tool be used on?. (Level 3)
+16 - 14.
+@@12 - 10.
+22 - 18.
+Can the insulation grip be adjusted on a PIDG crimp tool?. (Level 3)
+No.
+Yes by turning a knob.
+@@Yes by adjusting the pins.
+What gauge of pin would a red plastic insert/extract tool be used on?. (Level 3)
+12 - 10.
+@@22 - 18.
+16 - 14.
+What cable would you use where temperatures are going to exceed 200°C?. (Level 3)
+Tinned copper or aluminium.
+Silver plated copper or aluminium.
+@@Nickel plated copper or aluminium.
+How long should a fireproof cable last in a fire?. (Level 3)
+5 minutes.
+50 minutes.
+@@15 minutes.
+What gauge of pin would a blue plastic insert / extract tool be used on?. (Level 3)
+12 - 10.
+@@16 - 14.
+22 - 18.
+The insulation resistance for wiring in undercarriage wheel-wells should normally be not less than. (Level 3)
+10 megohms.
+5 megohms.
+@@2 megohms.
+What causes knuckling on older type electrical cables?. (Level 3)
+Over-temperature soldering.
+Applying cable ties too tightly.
+@@Excessive pull through forces.
+To find a high resistance or open circuit, carry out. (Level 3)
+milli-volt drop test.
+@@continuity check.
+bonding check.
+The maximum bonding resistance on an aircraft primary structure should be. (Level 3)
+0.01 ohms.
+0.001 ohms.
+@@0.05 ohms.
+Before effecting a crimp, the bare ends of a cable should be. (Level 3)
+tightly twisted.
+@@twisted lightly in the direction of the lay.
+straightened out.
+The number of the dots impressed on the insulation of the pre-insulated connectors during crimping indicates that. (Level 3)
+the correct connector has been used.
+@@the correct tool was used to effect the connection.
+the crimp is properly formed.
+The pressure of the insulation crimp jaws on the PIDG crimping tool can be changed by. (Level 3)
+varying the torque applied to the handles.
+using different coloured crimping pliers and terminations.
+@@changing the position of the pins.
+When referring to fuses, HRC means. (Level 3)
+@@high rupture capacity.
+hot running capacity.
+high running current.
+When wiring an electrical component to a plug, the live wire is coloured. (Level 3)
+blue.
+green and yellow.
+@@brown.
+A hole is placed in the lowest point of electrical cable conduit. (Level 3)
+to allow for pull-through of the cables.
+to secure the conduit to a piece of aircraft structure.
+@@to allow for drainage of moisture.
+The minimum distance between electrical cable splices is. (Level 3)
+3 feet.
+12 inches.
+@@500 mm.
+A fire resistant cable is proof tested by exposure to a standard fire for. (Level 3)
+30 minutes.
+@@5 minutes.
+15 minutes.
+When fitting coaxial cable connectors it is important to. (Level 3)
+fit the correct lock nuts.
+make sure the outer cup is fitted the correct way round.
+@@not damage any seals fitted.
+When inserting pins into a front release connector the inserting tool should be used with the gap facing which direction?. (Level 3)
+The centre of the connector.
+Either direction.
+@@The outside of the connector.
+When using a hydraulic crimping tool, after completing the crimping operation, the crimp is formed when when. (Level 3)
+@@the bypass valve opens and the ram returns to neutral.
+the foot pedal force is at maximum.
+the bypass valve closes and the ram returns to neutral.
+The type of binding tape used for cables in temperatures above 260°C is which of the following?. (Level 3)
+Nomex.
+@@Teflon.
+Nylon.
+What is the minimum bend radius of a loom adequately supported at a terminal block?. (Level 3)
+10 * diameter.
+8 * diameter.
+@@3 * diameter.
+How are front release pins removed?. (Level 3)
+The tool is inserted from the front and the pin is removed from the front.
+The tool is inserted from the rear and the pin Is removed from the front.
+@@The tool is inserted from the front and the pin is removed from the rear.
+If a co-axial cable clamp is over tightened so as to compress the dielectric, how will the capacitance change?. (Level 3)
+Stay the same.
+@@Increase.
+Decrease.
+What is the minimum bend radius of a single co-axial cable?. (Level 3)
+10 * diameter.
+8 * diameter.
+@@6 * diameter.
+What is wet arc tracking?. (Level 3)
+@@fault caused by hot stamp printing.
+fault caused by insulation damage.
+fault caused by 'knuckling through'.
+When using a heat shrink gun, what should the temperature of the gun be set to?. (Level 3)
+100° below the heat shrink temperature.
+15° below the heat shrink temperature.
+@@100° above the heat shrink temperature.
+In an electrical cable 1EF6B22NMS, what does the letter E represent?. (Level 3)
+@@Circuit function.
+Cable size.
+Segment letter.
+On a coaxial cable, cable impedance is. (Level 3)
+proportional to length.
+@@not effected by length.
+inversely proportional to length.
+A secondary earth is. (Level 3)
+not less than 0.5mm cross sectional area.
+@@18 AWG.
+22 AWG.
+E' on a wire, under ATA 100 is a. (Level 3)
+phase indication.
+@@system ID code.
+cable size.
+To prevent wet arc tracking. (Level 3)
+cable grips should be tight.
+@@ensure hot stamp printing is controlled.
+cables should not be stretched.
+When splicing a cable with a soldered joint, the operation is finished when. (Level 3)
+the solder has melted.
+the solder sleeve disappears.
+@@the solder and insulation have formed.
+When manufacturing an electrical connector the unused holes are. (Level 3)
+filled with connectors.
+@@filled with connectors and blanked.
+covered with blanks.
+Co-axial cable is preferred to airframe cable in which application?. (Level 3)
+@@Where the diameter of cable is not important.
+High frequency interference.
+Low frequency interference.
+Forward release electrical connectors are removed by the wire being. (Level 3)
+pushed forwards.
+twisted to the right.
+@@pulled backwards.
+When crimping wires, the wires should be. (Level 3)
+straight.
+@@lightly twisted.
+twisted.
+Why are copper wires used in electrical systems?. (Level 3)
+They have high permeability.
+They do not give off a magnetic field.
+@@They have a low resistance to current.
+When crimping wires, the wire should. (Level 3)
+be flush with the crimp.
+@@extend 0.8 mm beyond the crimp.
+be beneath the crimp.
+1EF6B22 NMSV. What does the B mean?. (Level 3)
+@@Segment letter.
+Cable number.
+Circuit function.
+A white/blue insertion-extraction tool would be used on a cable of what size?. (Level 3)
+10
+22
+@@16
+The value of the insulation resistance of an electric motor compared to its supply leads is. (Level 3)
+greater.
+same.
+@@smaller.
+According to ATA 100, a symbol code 'X' on a wiring number denotes. (Level 3)
+warning circuit.
+ground circuit.
+@@AC power.
+When securing wire after it leaves an LRU, cable bundle bends should be not less than?. (Level 3)
+minimum radius of five times the outside diameter of the cable, or cable bundle.
+minimum radius of three times the outside diameter of the cable, or cable bundle.
+@@minimum radius of eight times the outside diameter of the cable, or cable bundle.
+When terminating an aluminium cable, what preparations would be carried out before crimping?. (Level 3)
+Degrease stripped cable.
+Just terminate.
+@@Apply a mixture of 50% petroleum jelly and zinc oxide.
+An in-line splice should be positioned on the. (Level 3)
+terminal of the loom.
+outside of the loom.
+@@outer surface of the loom for easy inspection.
+A conductor after being crimped. The maximum amount of conductor which protrudes from the terminal end should be (Level 3)
+@@1/32 inch.
+1/8 inch.
+1/16 inch.
+Two or more operations should be performed to strip wire with hand operated wire stripper if the total stripping length exceeds. (Level 3)
+0.50 in.
+@@0.75 inch.
+0.25 in.
+A cable loom should be protected by conduit when fed through the. (Level 3)
+main equipment centre.
+@@wheelwell door.
+cargo compartment ceiling.
+The size of proper conduit for electrical wires must be. (Level 3)
+75% larger than the maximum diameter of wires.
+@@25% larger than the maximum diameter of wires.
+100% larger than the average diameter of wires.
+Blue metal extract tool would be used with contacts sized. (Level 3)
+@@16
+12
+22
+A Silver coated conductor in an unpresurised area is subject to moisture and has a damaged coating would be likely to cause. (Level 3)
+Wet Arc Tracking.
+Knuckling Through.
+@@Red Plague.
+When riveting, the distance from the edge to the rivet (land) should not be less than. (Level 1)
+1D.
+@@2D.
+4D.
+The strength of a riveted joint compared to that of the original metal is. (Level 1)
+@@75%.
+100%.
+125%.
+A repair has a double riveted joint. The shear strength would be. (Level 1)
+125%.
+@@75%.
+100%.
+The standard minimum rivet row spacing is. (Level 1)
+2 1/4 D.
+3 D.
+@@4 D.
+What is the normal spacing between rivets?. (Level 1)
+2 D.
+@@4 D.
+3 D.
+In British rivets (solid) what is the length grading unit?. (Level 1)
+@@1/16.
+1/10.
+1/32.
+If the thickness of a single sheet of material, about to be joined by riveting was 1/16 of an inch thick what would be the approximate diameter of the rivets to be used?. (Level 1)
+1/16 inch.
+@@3/16 inch.
+1/8 inch.
+Regarding riveting, which of the following is correct?. (Level 1)
+@@Both of the above are correct.
+The length of a countersunk rivet (flush head) is measured from the end of the rivet to the top of the countersunk head.
+The length of a round head or flat head is measured from the end of the rivet to underside of rivet head.
+When riveting, a certain clearance must exist between the rivet and the hole in which it is fitted, to allow for shank expansion. If the clearance is too large, what could be the result?. (Level 1)
+Indentations by rivet head on the material.
+@@Separation of the sheets may occur.
+Sheet may tend to buckle.
+To replace one 1/8 inch rivet. (Level 1)
+three 1/16 inch rivets would be required.
+two 1/16 inch rivets would be required.
+@@four 1/16 inch rivets would be required.
+If treated rivets have not been used within the prescribed time they can be re- treated. What is the maximum number of times that they can be heat-treated?. (Level 1)
+If no more in Stores, as many times as required.
+Twice only.
+@@Three times.
+Rivets kept at a temperature of between –15°C and –20°C are usable for. (Level 1)
+150 days.
+150 minutes.
+@@150 hours.
+Avdel rivets are closed by. (Level 1)
+@@broaching process.
+tapered mandrel.
+squeezing process.
+What is the purpose of the Avdel pin tester?. (Level 1)
+@@To test the tightness of the pin in the rivet.
+To test the tightness of the rivet in the hole.
+To test the shear strength of the pin.
+The stems of an Avdel rivet are. (Level 1)
+removed with the riveting tool.
+@@nipped off and milled flush with the head.
+removed with a taper punch.
+What is the pressure range for the Avdel Riveter Type F?. (Level 2)
+40 to 60 lbs per sq. in.
+20 to 60 lbs per sq. in.
+@@60 to 80 lbs per sq. in.
+When countersinking rivet holes in a material. (Level 2)
+@@special countersinking bit with a pad to prevent drilling too deep should be used.
+plain countersinking bit should be used.
+the rivet head should stand 1/32 of an inch above the surface.
+Rivet allowance is. (Level 2)
+the distance the rivet is positioned from the edge of the repair plate.
+@@the amount of material required to form the rivet on installation.
+the distance between rivets in the same row.
+What is the approximate distance of the sphere of influence of a rivet?. (Level 2)
+4 D.
+2 D.
+@@5 D.
+Rivet clearance is. (Level 2)
+the distance between rivets in the same row.
+@@the amount that the rivet hole diameter exceeds the rivet diameter.
+the distance between rows of rivets.
+The minimum rivet pitch is. (Level 2)
+2 1/2 * the rivet diameter.
+@@3 * the rivet diameter.
+2 * the rivet diameter.
+The ‘grip’ of a rivet is. (Level 2)
+the length of rivet left to form the head.
+@@the thickness of plates which can be fastened.
+the area of the plates held firmly together.
+The strength of a riveted joint is determined by. (Level 2)
+@@shear strength and pitch of rivet.
+pitch and tensile strength of rivet.
+shear strength of rivet and material it is made of.
+If the bearing strength of a metal is greater than the shear strength of the rivet, what will occur?. (Level 2)
+@@Rivet will joggle.
+Rivet will show incorrectly installed.
+Rivet will pull through the metal.
+When carrying out a pressure test on a pipe it should be. (Level 1)
+twice the working pressure for two minutes.
+@@1.5 times the working pressure.
+three times the working pressure for five minutes.
+When checking a hose after installation it should be checked for freedom of movement. (Level 1)
+@@by flexing through the normal operating range plus 15°.
+by flexing through the normal operating range only.
+by flexing +/-15° either side of the neutral position.
+If the outer cover of a flexible hose is found to be cracked. (Level 1)
+it is unserviceable since it may have a restricted flow.
+@@it may still be serviceable.
+it is unserviceable since it may leak.
+A rigid hydraulic pipe requires shaping. It should be carried out. (Level 1)
+after annealing.
+after age hardening.
+@@as supplied.
+Fretting corrosion on a braided pipe would mean it was. (Level 1)
+@@unserviceable and should be replaced.
+not necessarily unserviceable.
+only unserviceable if the corrosion penetrates the braids.
+Pipe flaring is carried out. (Level 1)
+@@as supplied.
+in the annealed state.
+after normalizing.
+To allow for shrinkage, vibration and whip all straight hoses must be. (Level 1)
+5% longer than the distance between the fittings.
+2% longer than the distance between the fittings.
+@@3% longer than the distance between the fittings.
+A flexible hose that cannot be internally inspected by eye or introscope can be ball tested by suspending from one end at a time to check. (Level 1)
+ball of 95% of bore of hose can be pushed through with a metal rod.
+ball of 98% of bore of end fittings passes freely under own weight.
+@@ball of 90% of bore of end fittings passes freely under own weight.
+Hoses are normally pressure tested to. (Level 1)
+maximum working pressure.
+2 times maximum working pressure.
+@@1½ times maximum working pressure.
+A fluid line marker with a skull & crossbones is. (Level 1)
+fluid line carries toilet waste.
+@@warning symbol.
+radioactive symbol.
+The international marking for a water injection pipeline is a series of. (Level 1)
+@@chevrons.
+squares.
+dots.
+The international marking for a fire protection pipe line is a series of. (Level 1)
+circles.
+squares.
+@@diamonds.
+To prevent corrosion where aluminium alloy pipelines are supported by rubber cleats, the pipe should be treated over the area of contact with. (Level 1)
+french chalk.
+@@varnish.
+petroleum jelly.
+The international marking for an instrument air pipe line is a. (Level 1)
+series of dots.
+@@zig zag line.
+wavy band.
+The maximum distance between end fittings to which a straight hose assembly is to be connected is 50 inches. The minimum hose length should be. (Level 1)
+51 inches.
+@@51½ inches.
+3 inches.
+The length of a hose assembly with elbowed end fittings is taken from. (Level 2)
+the maximum length of the straight portion of hose.
+@@the centre of the bore at the nipple extremity.
+the extreme overall length.
+The international marking for a breathing oxygen pipe line is a series of. (Level 2)
+dots.
+diamonds.
+@@rectangles.
+The resistance between a flexible hose and a component should not exceed. (Level 2)
+1 ohm.
+0.5 ohm.
+@@0.05 ohm.
+Bore tests of flexible hoses are carried out using a suitable ball or bobbin of. (Level 2)
+@@90% of the diameter of the end fittings.
+85% of the diameter of the end fittings.
+25% of the diameter of the end fittings.
+The 'Lay Line' on a flexible hose is. (Level 2)
+an arrow painted on the hose to show the direction of fluid flow.
+@@white line painted the full length of the hose to indicate any twist in the hose.
+white line painted the full length of the hose to indicate any stretch in the hose.
+Aluminium alloy pipe used for hydraulics systems is flared. (Level 2)
+normalized.
+@@as supplied.
+annealed.
+Identify the parts required to make up a flared-tube fitting?. (Level 2)
+@@Sleeve and nut.
+Ferrule and nut.
+Body, sleeve and nut.
+The flare angle on an AGS pipe is. (Level 2)
+90 degrees.
+45 degrees.
+@@32 degrees.
+Repair to aluminium pipe can be done using burnishing. (Level 2)
+if damage is surface only.
+if damage is no more than 5%.
+@@if damage is no more than 10%.
+Rigid pipes are designed with bends to. (Level 2)
+@@allow for expansion and contraction due to heat and absorb vibration.
+absorb vibration.
+fit to the aircraft structure.
+You find a pipe with a flare end fitting of 74°. What specification has it been manufactured to?. (Level 2)
+A.G.S.
+@@A.N.
+S.A.E.
+Bonding connections between flexible and rigid pipes are achieved by. (Level 2)
+ti-wrapping the bonding lead to the pipes.
+@@using a corrugated strip.
+tucking the bonding leads between the flexible and rigid pipes.
+Springs are manufactured from. (Level 2)
+@@high carbon alloy steel with high strength requirements.
+low carbon alloy steel with high strength requirements.
+high carbon alloy steel with low strength requirements.
+A wear check on a cylinder head valve spring should include. (Level 2)
+@@length under load.
+diameter and length.
+length off-load.
+Material used for springs is. (Level 2)
+@@High carbon or alloy steel with low working stresses.
+Low carbon steel or alloy steel with high working stresses.
+Low carbon steel or alloy steel with low working stresses.
+Needle roller bearings. (Level 1)
+@@are susceptible to brinelling.
+can accept a small amount of misalignment.
+are designed to carry axial loads.
+When rotating a ball bearing by hand, a regular click indicates. (Level 1)
+damage to the balls.
+intergranular corrosion in the outer ring.
+@@cracked ring.
+Brinelling of a wheel bearing could be caused by. (Level 1)
+rotation of the outer race in the wheel housing.
+@@heavy landing.
+overheating of the brakes.
+Brinelling of a bearing is. (Level 1)
+bluing of the bearing due to overheating.
+@@shallow smooth depressions caused by the rollers being forced against the cup, due to overtorquing.
+indentations in the race surface caused by continual static vibration.
+A tapered roller bearing is designed to take. (Level 1)
+radial loads only.
+@@both radial and axial loads.
+axial loads only.
+Small indentations in the race of a ball bearing indicate. (Level 1)
+overtorquing.
+corrosion.
+@@brinelling.
+When fitting a ball bearing to a shaft it should be carefully positioned using. (Level 1)
+steel drift with light blows.
+copper or aluminium tube drift.
+@@soft steel or brass tube drift.
+Graphite prevents seizure and conducts heat. It is normally used in. (Level 1)
+lithium based greases.
+@@sodium based greases.
+copper based greases.
+False Brinelling of a bearing is. (Level 1)
+movement of the outer ring relative to its housing.
+@@indentations on the race-way due to load transferred through the bearing when static.
+scoring of the race-way surfaces due to ball or roller skidding.
+On completion of assembly the bearing housing. (Level 1)
+should be examined for end float.
+packed fully with grease.
+@@lightly packed with grease.
+When checking a ball bearing for corrosion and foreign matter. (Level 2)
+rotate at operational speed and check for roughness.
+make a strip down inspection.
+@@oscillate and rotate slowly to listen for roughness.
+What type of load is a journal load?. (Level 2)
+@@Radial.
+Axial.
+Centrifugal.
+Bearings to be cleaned for further examination should be wiped free of all grease on outer surfaces with the aid of dry compressed air for cages and rolling parts. The bearings should then be soaked in. (Level 2)
+M.E.K.
+lead free gasoline.
+@@white spirit.
+After cleaning a bearing should be dried with. (Level 2)
+left in free air to dry naturally.
+@@clean, warm, dry compressed air.
+lint free rags.
+Thrust bearings transmit. (Level 2)
+@@thrust loads, thus limiting axial movement.
+radial loads, thus limiting axial movement.
+thrust loads, thus limiting radial movement.
+Chipping of a ball bearing indicates. (Level 2)
+brinelling.
+chattering.
+@@spalling.
+A Hardy Spicer coupling has what type of bearings?. (Level 2)
+Ball Bearings.
+@@Needle bearings.
+Plain bearings.
+Graphite greases are used for. (Level 2)
+medium temperature applications.
+@@high temperature applications.
+low temperature applications.
+If during an engine overhaul, ball or roller bearings are found to have magnetised but otherwise have no defects, they. (Level 2)
+are in an acceptable service condition.
+@@must be degaussed before use.
+cannot be used again.
+Ball and roller bearings are made from a combination of low carbon steel and a percentage of. (Level 2)
+Chromium.
+@@Nickel.
+Nickel chrome.
+On inspection a bearing is found to have distortion, what action should be taken?. (Level 2)
+@@Reject bearing.
+No action required. Some distortion is normal.
+Blend out distortion and re-grease bearing.
+On inspection a bearing is found to show signs of overheating, what action should be taken?. (Level 2)
+@@Reject bearing.
+No action required. Some overheating is normal.
+clean up bearing and repack with grease.
+When a bearing has 2 parts and the inner ring and outer ring is installed. (Level 2)
+neither of the practices are allowed.
+the inner ring can be removed from its inner shaft for cleaning.
+@@the outer ring can be removed from its housing for inspection.
+A chain removed for routine inspection, it. (Level 1)
+@@does not need proof loading.
+must be proof loaded to 50%.
+must be proof loaded to 150%.
+An aircraft control chain is connected using. (Level 1)
+@@nuts and bolts.
+quick release pins.
+split link and spring clip.
+If a control chain can be lifted clear of a tooth, it should be. (Level 1)
+rejected as unserviceable.
+@@removed and an elongation check carried out.
+cleaned, re-tensioned and inspected after a period of time.
+To check a chain for articulation. (Level 1)
+@@it should be run over the finger through 180° and checked for smoothness and kinks.
+move each link individually and check for tightness.
+lay on a flat surface and check for kinks.
+How do you remove a tight link from a chain which is to be used on an aircraft control system?. (Level 1)
+Dismantle, inspect, rectify and re-assemble the chain.
+If the chain has a tight link, the chain has to be removed from service.
+@@You may be able to remove the tight link by applying a light tap with a hammer.
+The initial lubricant on a new chain. (Level 1)
+must be replaced with grade altitude grease.
+should be removed and replaced with the approved oil.
+@@should not be removed.
+Control chains should be fitted in an aircraft. (Level 1)
+@@with the minimum of slack in the chain.
+so that the chain can be removed easily.
+with as much slack as possible to allow for contraction.
+Backlash is a type of wear associated with. (Level 1)
+@@gears.
+rivets.
+bearings.
+After a chain has been cleaned in paraffin it should be. (Level 1)
+hung up to drip dry.
+@@dried in hot air.
+washed in soapy water then hung to drip dry.
+What fraction of the minimum breaking load should be the proof load for a chain?. (Level 1)
+0.1.
+@@1/3.
+0.1%.
+If corrosion is found on a chain. (Level 2)
+@@replace the chain.
+clean off the corrosion and if acceptable re-fit the chain.
+lubricate the chain.
+The three principle dimensions specified for a chain is the diameter of the rollers and. (Level 2)
+pitch and chain length.
+@@the pitch and width between the inner plates.
+the pitch and width across the outside of the plates.
+The distance between the centres of the rollers of a chain is called. (Level 2)
+@@pitch.
+crest.
+length.
+Which of the following formulas should be used to calculate the percentage extension of an aircraft control chain? Note: M = Measured length under load in inches X = Number of pitches measured P = Pitch of chain in inches. (Level 2)
+M + (X * X) * 100 / P * M.
+X-(M * P) * 100 / M * P.
+@@M-(X * P) * 100 / X * P.
+The maximum allowable extension of a chain assembly over a nominal length is. (Level 2)
+3%.
+5%.
+@@2%.
+A feather key locates a gear on a shaft and permits. (Level 2)
+positive drive with the gear firmly locked.
+positive and strong drive transmission.
+@@positive drive and axial movement.
+A chain is removed by. (Level 2)
+@@nuts and bolts.
+spring clips.
+removing chain links on an endless chain.
+The box unit in a Teleflex control run which is not suitable for heavily loaded controls is called. (Level 2)
+Double entry.
+Single entry.
+@@Straight lead.
+How do you check a chain for elongation?. (Level 2)
+Hang chain up, check sight line and measure.
+Adjust the end fittings.
+@@Lay flat on a table, apply tensile load and measure.
+Proof testing after cable installation is. (Level 1)
+sometimes required.
+@@not required.
+always required.
+A control cable that has been contaminated with acid should be. (Level 1)
+cleaned.
+@@rejected.
+cleaned, inspected, and reinspected after a period of time.
+A balance cable is installed in a control system to. (Level 1)
+allow the aircraft to be flown 'hands off'.
+correct for wing heaviness.
+@@enable the cable to be tensioned.
+How would you use a Pacific T5 tensiometer?. (Level 1)
+@@Use correct chart and correct riser.
+Use a standard riser and use the chart to correct for different sized cables.
+Use a load meter to apply the correct load.
+What is the purpose of an aileron balance cable?. (Level 1)
+Allows for hands off flying.
+@@Equalizes control cable tension.
+Relieves pilot loads.
+How would you inspect a cable for fraying?. (Level 1)
+Run your fingers the full length of the cable.
+Operate the controls and feel for stiffness.
+@@Run a rag the full length of the cable.
+When manufacturing aircraft control cables, the cable can be cut by. (Level 1)
+using a hacksaw with the cable under tension.
+using an oxy-acetylene torch.
+@@using a chisel on a flat metal surface.
+The check for a cable pulling out of a swaged fitting is by. (Level 1)
+seeing that the cable is still past the safety holes in the swage.
+@@looking for a shiny surface on the cable near the fitting.
+seeing that there are no broken wires near the fitting.
+A 'Reel' used to hold an aircraft cable in storage should have a minimum diameter of. (Level 1)
+at least 25 times that of the cable diameter.
+at least 50 times that of the cable.
+@@at least 40 times that of the cable diameter.
+Large control cables (45 to 120 cwt) may have tension loads that can break the locking wire or lease lock nuts. How is this overcome?. (Level 1)
+The cable is kept slightly slack.
+Duplicating the number of cables to cut down on individual tensile loads.
+@@tube is fitted over the turnbuckle assembly and drilled to take up to 3 bolts, to prevent independent rotation of any part.
+To correctly tension cables it can help. (Level 1)
+to use a cable with turnbuckles at least every eight feet.
+to take up initial slack by additional pulleys.
+@@to have control surface locks in to support weight and adjust turnbuckles equally.
+A cable is replaced. (Level 1)
+when a shiny portion is found.
+when each strand is worn to limits.
+@@if a chemical spillage is suspected.
+What is the proof loading for cables after swaging?. (Level 1)
+1/3 minimum breaking strain.
+2/3 minimum breaking strain.
+@@50% minimum breaking strain.
+The best way to check control cables for broken wires is to. (Level 1)
+@@run a rag along the cable in both directions.
+examine them visually.
+increase the tension and check with a magnifying glass.
+If the turnbuckles in a control system are tightened excessively the result will be. (Level 1)
+the cable will break.
+the cables will vibrate excessively and cause failure of controls.
+@@the aircraft will be heavy on controls.
+A control cable is proof loaded to ensure that. (Level 2)
+@@the end fittings on the cable are secure.
+it will not stretch after fitting in an aircraft.
+it will not break after fitting in an aircraft.
+British turnbuckles are checked for safety by. (Level 2)
+looking through the hole and checking for threads showing.
+@@attempting to pass a hardened pin probe through the inspection hole.
+attempting to push locking wire through the hole.
+A suspected chemical spillage on a cable, you should. (Level 2)
+clean, inspect and refit immediately.
+@@replace the cable.
+clean the cable and inspect 24 hours later.
+HTS aircraft control cables are protected from corrosion by. (Level 2)
+@@Galvanising.
+cadmium coating.
+zinc plating.
+What is the purpose of the hole in the swaged end fitting on a swaged cable?. (Level 2)
+@@To ensure the cable end passes the inspection hole on drilled through type fittings but leaves the locking wire hole clear.
+To allow trapped air to escape.
+To allow a split pin to be inserted.
+The inspection hole in a turnbuckle is. (Level 2)
+to allow the locking wire to pass through for the purpose of locking.
+to ensure that the locknuts are adequately tightened.
+@@to ensure that the turnbuckle is in safety.
+Swaging of a cable end fitting is checked by. (Level 2)
+measuring the length of the barrel before and after swaging.
+@@using a go / no-go gauge on the barrel.
+looking for cracks on the swage indicating poor swaging.
+A flight control cable is replaced if. (Level 2)
+@@single wires are blended together.
+wire is 20% worn.
+the protective fluid coating is missing.
+In aircraft control cables, when a lock is fitted to the control surface. (Level 2)
+it will prevent the control surface movement but not the control column movement.
+@@it will prevent the control surface and the control column movement.
+it will not prevent the control surface movement but will lock the control column.
+When checking cable tensions you are looking for. (Level 2)
+free movement only.
+@@full and free movement.
+artificial feel.
+A cable should be replaced when individual wires are worn greater than. (Level 2)
+@@40%.
+60%.
+20%.
+The purpose of a joggle is. (Level 1)
+to act as a tear stopper.
+to make the holes for a rivet line up.
+@@to produce a flush fit at a metal joint.
+Caustic soda applied to a metal turns black. This would indicate the metal is. (Level 1)
+magnesium alloy.
+@@duralumin.
+aluminium.
+Removal of a scratch from a sheet of metal requires. (Level 1)
+polishing.
+blending.
+@@burnishing.
+When dimpling a sheet of metal you would require. (Level 1)
+an oversized rivet and special reaction block.
+@@male and female die.
+male die only.
+The skin on an aircraft is normally manufactured from. (Level 1)
+@@2024 aluminium alloy.
+7075 aluminium alloy.
+2117 aluminium alloy.
+The mold point is. (Level 1)
+the mid point in the thickness of a sheet of metal to which the radius dimension is calculated.
+the centre of curvature of a radiused corner in a metal fabricated component.
+@@an imaginary point from which real base measurements are provided.
+Relief holes are. (Level 1)
+holes drilled in a battery container to provide drainage.
+@@holes drilled in the corner of a metal box to prevent cracking.
+holes drilled to stop a crack.
+The 'setback' is. (Level 1)
+the distance from the edge of the metal to the bend tangent line.
+@@the distance from the mold point to the bend tangent line.
+the distance from the bend tangent line to the setback line.
+Faying surfaces are. (Level 1)
+@@surfaces that are in contact with each other.
+surfaces that are stressed.
+surfaces that have been treated with anti-corrosion compound.
+In sheet metal bending, how would you measure the bend radius to calculate the bend allowance?. (Level 1)
+@@Measure to the inside of the bend radius.
+Measure to the outside of the bend radius.
+Measure to the inside of the bend radius plus half the metal thickness.
+When dimpling sheet with a squeeze dimpling tool. (Level 1)
+the jaws are not adjustable.
+@@adjust the jaws to accommodate different material gauges.
+use a lubricant.
+Bend radius on sheet metal is. (Level 1)
+inside radius + ½ thickness.
+@@inside radius.
+outside radius.
+Aircraft skin is joggled to. (Level 1)
+@@Provide smooth airflow at faying surfaces.
+Make a frame lighter but stronger.
+Conform with the 'Area Rule'.
+DZinc Chromate applied between faying surfaces will. (Level 1)
+improve adhesion thus relieving the amount of riveting necessary.
+improve bonding between them.
+@@inhibit dissimilar metal (electrolytic) corrosion.
+If a non-ferrous metal being examined by chemical test turns black when caustic soda is applied to the surface, the metal is. (Level 1)
+@@duralumin.
+alclad.
+aluminium.
+To aid marking out on Fe metals use. (Level 2)
+graphite grease.
+@@copper sulphate solution.
+engineer's blue.
+The sight line on a sheet metal flat layout to be bent in a cornice or box brake is measured and marked. (Level 2)
+one-half radius from either bend tangent line.
+@@one radius from the bend tangent line that is placed under the brake.
+one radius from either bend tangent line.
+If copper sulphate is used on magnesium alloy it will. (Level 2)
+effervesce to a copper colour.
+have no effect.
+@@effervesce to a black colour.
+If it is necessary to compute a bend allowance problem and bend allowance tables are not available, the neutral axis of the bend can be. (Level 2)
+@@found by adding approximately one-half of the stock thickness to the bend radius.
+found by subtracting the stock thickness from the bend radius.
+represented by the actual length of the required material for the bend.
+The formula for setback for a 90° bend is. (Level 2)
+(½R + T).
+@@(R + T).
+(R + ½T).
+Caustic soda placed on the edge of alclad will turn. (Level 2)
+@@white – black – white.
+all white.
+black – white – black.
+In marking a light alloy. (Level 2)
+the scriber must be held at an angle to give a smooth line where bending is required.
+caustic soda is used.
+@@pencil is used to mark the material and all marks removed after bending.
+When assembling metals of different potential, corrosion may be inhibited by application of. (Level 2)
+zinc or chromic acid & assemble while wet.
+@@zinc or barium chromate & assemble while wet.
+nothing - assemble bare.
+Steel wire brushes or steel wool should. (Level 2)
+be used to clean magnesium alloys.
+be used to clean aluminium sheet.
+@@never be used on light alloys.
+When a piece of metal is bent, the surface of the metal on the outside of the bend is. (Level 2)
+in compression.
+neither in tension or in compression.
+@@in tension.
+The sight line of a bend is. (Level 2)
+at the tangent line.
+half a radius from the tangent line.
+@@one radius from the tangent line.
+The sharpest bend that can be placed in a piece of metal without critically weakening the part is called the. (Level 2)
+maximum radius of bend.
+@@minimum radius of bend.
+bend allowance.
+Scribers are used to. (Level 2)
+produce an accurate finish.
+make centre pop marks for drilling.
+@@mark guide lines on material.
+A hole drilled at the intersection of two bends in a fabricated sheet metal component is called. (Level 2)
+drain hole.
+crack stopper.
+@@relief hole.
+Dissimilar metal diffusion bonding gives. (Level 2)
+high strength and ductility.
+@@high strength and stiffness.
+high strength and brittleness.
+Marking out on stainless steel can be clarified by application of. (Level 2)
+ammonia.
+@@copper sulphate.
+sal ammoniac.
+When drawing lines on aluminium alloy sheet prior to bending. (Level 2)
+@@thin coat of zinc chromate primer should be used, ready for pencil lines.
+scriber should be used.
+wax pencil should be used.
+After solution treatment of aluminium alloy, the effect of immediate refrigeration at a temperature with the range -15°C to -20°C is. (Level 2)
+@@to suspend natural ageing for a limited period.
+to permanently soften the metal to retard the onset of fatigue.
+to increase the rate of artificial ageing.
+Diffusion bonding and superplastic forming provides. (Level 2)
+high strength and high ductility.
+high strength and high stiffness.
+@@high stiffness and high ductility.
+In a composite repair lay-up, how much should each layer extend beyond the layer below it?. (Level 1)
+2 - 3 inches.
+@@1 - 2 inches.
+3 - 4 inches.
+To enable a composite panel to dissipate static charge it would be sprayed with. (Level 1)
+polyurethane paint.
+ferrous paint.
+@@aluminium paint.
+A mechanic has completed a bonded honeycomb repair using the potted compound repair technique. What non-destructive testing method is used to determine the soundness of the repair after the repair has cured?. (Level 1)
+Eddy current test.
+@@Metallic ring test.
+Ultrasonic test.
+A non-destructive testing technique which is suitable for inspecting for delamination in Redux bonded structure of light aluminium alloys is. (Level 1)
+@@ultrasonic.
+eddy-current.
+magnetic flow.
+Why is an extra layer of fibreglass added to a composite repair?. (Level 1)
+To provide additional flexibility.
+For sacrificial sanding.
+@@To increase the strength of the repair.
+How do you reduce or remove electrostatic charges which may build up on fibreglass surfaces?. (Level 2)
+No special treatment is necessary because fibre glass is an insulator.
+@@The surface is treated with a special conductive paint.
+The surface is impregnated with copper strips.
+Prior to aluminium alloy bonding we use. (Level 2)
+alkaline etch.
+@@acid etch.
+solvent wipe.
+Glass reinforced panels are bonded by. (Level 2)
+@@special conductive paint.
+wire mesh.
+bonding strips to conductors.
+What solvents could you use to clean tools used for fibreglass repairs?. (Level 2)
+Trichloroethylene or acetone.
+Lead free petrol/kerosene.
+@@acetone or MEK.
+Chopped strand mat is a good general purpose mat because. (Level 2)
+it has short fibres.
+@@it gives equal properties in all directions.
+it is a stiffer than woven cloth.
+Before soldering stainless steel it must be. (Level 1)
+@@pickled.
+cleaned with emery cloth.
+sand papered.
+Insufficient heat used in soldering will cause. (Level 1)
+the joint to oxidize.
+@@high resistance joint potential.
+contamination of the joint.
+A dry joint when soldering is caused by. (Level 1)
+too large an iron.
+too much flux.
+@@too little heat.
+The oxyacetylene flame for silver soldering should be. (Level 1)
+oxidizing.
+carbonising.
+@@neutral.
+A flux is used in soldering to. (Level 1)
+@@to dissolve oxides.
+etch the metals surface for more adhesion.
+to prevent solder spikes.
+Plumbers solder is grade. (Level 1)
+C.
+@@D.
+B.
+Why is it necessary to use flux in all silver soldering operations?. (Level 1)
+To increase heat conductivity.
+To prevent overheating of the base metal.
+@@To chemically clean the base metal of oxide film.
+When making a small soldered electrical connection, using flux-cored solder. (Level 1)
+the connection should be heated first and then solder applied.
+@@the soldering iron and solder should be applied simultaneously to the connection.
+the soldering iron should be loaded with solder and then applied to the connection.
+The type of flux to be used when soft soldering on aircraft is. (Level 1)
+active.
+@@non-active.
+either active or non-active.
+The operational temperature of soldering irons is. (Level 1)
+fjust above the melting point of solder.
+below the melting point of the base metal.
+@@60°C above the melting point of solder.
+What elements is solder made from?. (Level 1)
+Tin, lead and copper.
+@@Tin and lead only.
+Tin, lead and silver.
+General purpose solders are graded by. (Level 1)
+colour coding.
+@@letter coding.
+numerical coding.
+What solder should be used to solder aluminium?. (Level 1)
+D.T.D. 685 lead-silver-tin solder.
+90% tin and 10% zinc.
+@@wire flux cored solder.
+Solder can be used to join. (Level 1)
+@@some dissimilar metals.
+only copper based metals.
+similar metals only.
+On completion of soldering a non-activated flux. (Level 2)
+must be cleaned off with an acid solution.
+need not be cleaned off.
+@@must be cleaned off with a selected solvent.
+A dry joint in soldering is most likely to be caused by. (Level 2)
+flux not used.
+@@components not hot enough.
+wrong solder used.
+What action is taken when soldering flux residue may have lodged in deep crevices of an assembly?. (Level 2)
+@@It must be immersed in a weak solution of hydrochloric acid and rinsed thoroughly in running water.
+It must be immersed in a weak solution of phosphoric acid and rinsed in water.
+It must be thoroughly rinsed with a weak solution of sulphuric acid and washed in cold water.
+A phosphate based flux paste is for soldering. (Level 2)
+aluminium.
+brass.
+@@stainless steel.
+The soldering method where molten solder is pumped from the bottom of a bath through a slot so that a stationary wave of solder appears on the surface is known as the. (Level 2)
+rotary bath method.
+stationary wave method.
+@@standing wave bath method.
+Solders are available in two forms:. (Level 2)
+stick solder with a rosin core and solder in a wire form having a rosin core.
+Solder in a wire form needing a separate flux and stick solder needing no flux at all.
+@@stick solder needing a separate flux and solder in wire form having a rosin core.
+A resurfaced soldering iron cannot be used effectively until after the working face has been. (Level 2)
+fluxed.
+polished.
+@@tinned.
+High temperature solder is used where the operating temperature is high. It is an alloy of. (Level 2)
+lead / copper / antimony.
+tin / zinc / antimony / silver.
+@@tin / lead / antimony / silver.
+Soft solder is suited for joints, which are. (Level 2)
+subjected to fatigue.
+subjected to strong forces.
+@@subjected to small forces.
+Silver solder melts within the range. (Level 2)
+400°C - 550°C.
+200°C - 400°C.
+@@600°C - 850°C.
+The term 'dry joint' is usually applied to. (Level 2)
+metal being lightly heated.
+@@defect associated with a soldered joint.
+water tight joint.
+Silver soldering is suited for. (Level 2)
+electronic component soldering.
+@@high temperature applications.
+general soldering work.
+Silver solder is made from. (Level 2)
+tin, copper and zinc.
+copper, tin and silver.
+@@copper, zinc and silver.
+The materials most commonly soldered in soft soldering are. (Level 2)
+@@brass and mild steel.
+stainless steel and titanium.
+aluminium and magnesium.
+What purpose does flux serve in welding aluminium?. (Level 1)
+Ensures proper distribution of the filler rod.
+Removes dirt, grease, and oil.
+@@Minimises or prevents oxidation.
+The shielding gases generally used in the Tungsten Inert Gas (TIG) welding of aluminium consist of. (Level 1)
+nitrogen or hydrogen, or a mixture of nitrogen and hydrogen.
+mixture of nitrogen and carbon dioxide.
+@@helium or argon, or a mixture of helium and argon.
+Which items listed below is the most important consideration when selecting a welding rod?. (Level 1)
+Thickness of the metal to be welded only.
+Type of torch.
+@@Type and thickness of the metal to be welded.
+What is a good weld?. (Level 1)
+Build up by 1/8 inch in the middle of the weld.
+An oxide coating on the base metals.
+@@Sides sloping to the base metals.
+Brazing material is made from. (Level 1)
+@@copper zinc and silver.
+copper and tin and lead.
+copper, silver and tin.
+Filing or grinding a weld bead. (Level 1)
+may be necessary to avoid adding excess weight or to achieve uniform material thickness.
+may be performed to achieve a smoother surface.
+@@reduces the strength of the joint.
+The primary reason for using flux when welding aluminium is to. (Level 1)
+@@prevent oxides from forming ahead of the weld.
+prevent molten metal from flowing too widely.
+promote better fusion of the base metal at a lower temperature.
+In Gas Tungsten Arc (GTA) welding, a stream of inert gas is used to. (Level 1)
+lower the temperature required to properly fuse the metal.
+@@prevent the formation of oxides in the puddle.
+concentrate the heat of the arc and prevent its dissipation.
+After welding you would normalise to. (Level 1)
+remove oxidation from the welded joint.
+remove carbon build up from the welded joint.
+@@release the stresses from the material.
+The flux used during brazing is a mixture of water and. (Level 1)
+zinc chloride.
+hydrochloric acid.
+@@borax powder.
+Oxides form very rapidly when alloys or metals are hot. It is important, therefore, when welding aluminium to use a. (Level 2)
+solvent.
+filler.
+@@flux.
+Which statement concerning a welding process is true?. (Level 2)
+In the oxyacetylene welding process, the filler rod used for steel is covered with a thin coating of flux.
+In the metallic-arc welding process, filler material, if needed, is provided by a separate metal rod of the proper material held in the arc.
+@@The inert-arc welding process uses an inert gas to protect the weld zone from the atmosphere.
+When inspecting a butt-welded joint by visual means. (Level 2)
+@@the penetration should be 100 percent of the thickness of the base metal.
+the penetration should be 25 to 50 percent of the thickness of the base metal.
+look for evidence of excessive heat in the form of a very high bead.
+What is undesirable in a good weld?. (Level 2)
+@@oxides mixed in with the filler material.
+fusing the edges of materials to be joined.
+100% penetration by filler material.
+In selecting a torch tip size to use in welding, the size of the tip opening determines the. (Level 2)
+temperature of the flame.
+melting point of the filler metal.
+@@amount of heat applied to the work.
+The most important consideration(s) when selecting welding rod is/are. (Level 2)
+@@material compatibility.
+current setting or flame temperature.
+ambient conditions.
+When inspecting a weld, you should make sure that. (Level 2)
+@@the parent (or basis) materials are fully fused together.
+the weld has inclusions inside the bead.
+there are voids either side of the weld.
+Fore and aft limits of the CG. (Level 1)
+are determined by the pilot when calculating the loading data.
+@@are specified by the manufacturer.
+are determined by the licensed engineer after a major check and weighing.
+What angle of turn will double the weight of the aircraft?. (Level 1)
+30°.
+@@60°.
+45°.
+The basic equipment of an aircraft is. (Level 1)
+@@that equipment which is required for every role of the aircraft for which the aircraft is operated plus unusable fuel.
+all equipment including fuel and oil necessary for a particular flight.
+the crew equipment, and other equipment including fuel and oil necessary for a particular flight.
+Aircraft measurements aft of the datum are. (Level 1)
+either positive or negative.
+@@positive.
+negative.
+A Weight and Centre of Gravity Schedule is required by. (Level 1)
+@@all aircraft above 2730 kg MTWA.
+all aircraft not exceeding 2730 kg MTWA.
+all aircraft regardless of weight.
+Aircraft below 5700kg not used for commercial air transport purposes are required to be reweighed. (Level 1)
+every 2 years.
+every 5 years.
+@@as required by the CAA.
+Variable load is weight of. (Level 1)
+@@crew, their baggage and equipment relevant to role.
+fuel, oil and non-expendable equipment relevant to role.
+basic weight plus operating weight.
+The term 'reaction' used in weighing an aircraft refers to. (Level 1)
+the sum of the loads on the main landing gear only.
+@@the individual loads on each landing gear.
+the sum of the loads on all of the landing gear.
+Aircraft must be reweighed. (Level 1)
+after two years from manufacture only.
+@@after two years from manufacture then at periods not exceeding five years.
+at periods not exceeding five years.
+For purposes of calculating weight and C of G position, an adult male (with baggage) is considered to have a mass of. (Level 1)
+@@85 kg.
+65 kg.
+75 kg.
+Points forward of the datum point are. (Level 1)
+@@negative.
+neutral.
+positive.
+Where would you find documented, the fore and aft limits of the C of G position?. (Level 1)
+In the aircraft Maintenance Manual.
+@@In the Flight Manual (or the documentation associated with the C of A).
+In the technical log.
+Previous weighing records are. (Level 1)
+retained for 2 yrs only.
+@@are kept with aircraft records.
+destroyed after 5 yrs.
+A Load Sheet is compiled in the order of. (Level 1)
+Variable Load, Fuel Load, Disposable Load, Basic Weight.
+@@Basic Weight, Variable Load, Disposable Load, Fuel Load.
+Basic Weight, Variable Load, Fuel Load, Disposable Load.
+A Weight and Centre of Gravity Schedule must be signed by. (Level 1)
+the CAA.
+the pilot.
+@@Licensed aircraft engineer.
+An aircraft which has its C of G forward of the Forward Limit. (Level 2)
+the take-off run will not be affected.
+@@will have a longer take-off run.
+will have a shorter take-off run.
+The basic weight of an aircraft is. (Level 2)
+the pilot, flight crew and their luggage.
+the passengers, baggage and fuel.
+@@the aircraft, minimum equipment, unusable fuel and oil.
+When an aircraft has been reweighed under JAR OPS, what should be done to the old Weight and Balance Report?. (Level 2)
+Kept in the aircraft logbook.
+@@Destroyed after 3 months.
+Kept in the weight and balance schedule.
+If the C of G of an aircraft with a full complement of fuel is calculated. Then. (Level 2)
+the C of G will always be within limits if it was within limits with full fuel tanks.
+@@the C of G must be recalculated with zero fuel to ensure it will still be within limits.
+the C of G will only need to be recalculated if the fuel weight is behind the aircraft C of G position.
+Cargo placed aft of the datum will produce a. (Level 2)
+neutral moment.
+negative moment.
+@@positive moment.
+A load sheet. (Level 2)
+need not be carried on the aircraft if one remains at base.
+@@is always carried on the aircraft.
+is never carried on the aircraft.
+The Datum point on an aircraft, for measuring C of G position could be. (Level 2)
+the front bulkhead.
+@@anywhere on the aircraft.
+the nose of the aircraft.
+Increasing the weight of an aircraft. (Level 2)
+increases the glide range.
+@@has no affect on the glide range.
+decreases the glide range.
+A load Sheet must be signed by. (Level 2)
+licensed aircraft engineer.
+@@the Commander of the aircraft.
+the Loading Officer.
+What is meant by empty weight?. (Level 2)
+Basic weight only.
+Basic weight minus unusable fuel plus oil.
+@@Basic weight plus unusable fuel plus oil.
+A Weight and Centre of Gravity Schedule is to be raised. (Level 2)
+in triplicate, for the CAA, the operator and the maintenance organisation.
+@@in duplicate, for the CAA and the operator.
+once only, for the CAA.
+Where would you find the information on the conditions for weighing the aircraft?. (Level 2)
+@@Maintenance Manual.
+Technical Log.
+Flight Manual in conjunction with the documents associated with the CofA.
+In aeronautical weighing terms. (Level 2)
+all arms for forward of the reference datum are positive (+) and all arms aft of the reference datum are negative (-).
+all reference datum are as per company procedures.
+@@all arms for forward of the reference datum are negative (-) and all arms aft of the reference datum are positive (+).
+Details on recording of weight and C of G position can be found in. (Level 2)
+@@BCAR section A.
+Air Navigation Order.
+Airworthiness Notices.
+If a new Weight and Centre of Gravity Schedule is issued, the old one must be retained for. (Level 2)
+one year.
+two years.
+@@six months.
+A weighing cell is based on the variation of. (Level 2)
+induced voltage with displacement.
+@@resistance with strain.
+differential currents with stress.
+When weighing an aircraft using elastic load cells, the load cells go. (Level 2)
+@@as a single unit or combination of units under the aircraft wheels.
+between undercarriage and aircraft.
+between top of jack and the aircraft.
+When weighing an aircraft with load cells. (Level 2)
+only the main wheels are weighed.
+@@the aircraft is jacked.
+a load cell should be placed under each set of wheels.
+When weighing an aircraft, the hydrostatic weighing units are positioned. (Level 2)
+either under or on top of each jack.
+one under each jack.
+@@one on top of each jack.
+When weighing an aircraft, the hydraulic system should be. (Level 2)
+empty.
+completely full.
+@@filled to 'maximum level' mark.
+When weighing an aircraft by the weighbridge method, the aircraft is. (Level 2)
+only levelled laterally.
+jacked and levelled.
+@@resting on the wheels.
+When mooring an aircraft what type of rope should be used?. (Level 2)
+@@Nylon.
+Fibre, tied tight due to stretch when wet.
+Fibre, with some slack due to shrinkage when wet.
+Removal of ice by the use of deicing fluid on the aircraft, before flight. (Level 2)
+must be 1 hour before flight to enable fluid to be cleaned from aircraft.
+will provide sufficient prevention of ice formation until take off.
+@@may remove ice for a period of time depending on the airfield conditions.
+When deicing an aircraft with pressure deicing fluid, the sensors on the outside of the aircraft should. (Level 2)
+have their heating switched on.
+@@be fitted with blanks or bungs.
+not be blanked.
+When Ground Power is connected to aircraft, the generators are. (Level 2)
+paralleled to supply.
+paralleled to supply for ground starting only.
+@@never paralleled.
+If ice and snow is found on the wings of an aircraft. Before flight the. (Level 2)
+snow should be removed but ice can remain because it has no appreciable affect on the airflow.
+@@all snow and ice must be removed.
+ice should be removed but snow can remain because the airflow will remove it.
+There is ice and snow on a helicopter blade. You. (Level 2)
+wipe off excess snow and leave ice.
+leave a layer of ice.
+@@remove all traces of ice and snow.
+Why is the last part of towing an aircraft, done in a straight line?. (Level 2)
+@@To relieve side pressure from the main wheels.
+To relieve hydraulic pressure from the steering mechanism.
+To allow nose wheel chocks to be placed at 90 degrees to the aircraft.
+Aluminium clad alloy sheet should not be polished with mechanical buffing wheels as this. (Level 2)
+will cause large static charges to build up.
+@@may remove the aluminium coating.
+may remove the alloy coating.
+An aircraft should be cleared of snow. (Level 2)
+@@using air blast.
+using cold fluid.
+using hot fluid.
+When refueling an aircraft from a tanker, why are the aircraft and tanker bonded together?. (Level 2)
+To discharge static electricity from the aircraft to the tanker.
+@@To maintain the aircraft and tanker at the same electrical potential.
+To enable the aircraft re-fuel pumps to be operated from the tanker electrical supply.
+When turning and towing an aircraft, why should sharp radiuses be avoided?. (Level 2)
+Power steering leaks could occur.
+@@Scrubbing of main-wheel tyres could occur.
+Scrubbing of nose-wheel tyres could occur.
+When an aircraft is pulled out of soft ground, the equipment should be attached to. (Level 2)
+the tail cone.
+@@the main gear.
+the nose gear.
+When a helicopter lands, how does the pilot signal to ground staff when it is safe to approach the aircraft?. (Level 2)
+@@Turn the anti collision lights off.
+Flash the landing lights.
+Flash the Nav lights.
+When the park brake has been applied on an aircraft which has a pressurized hydraulic system and is reading maximum system pressure, the brake gauges to the left and right main wheels will read. (Level 2)
+no indication.
+@@full system pressure.
+full scale deflection.
+De-icing fluid Type 1 is used. (Level 2)
+@@for short holdover times.
+where the ambient temperature is below -10degrees Centigrade.
+where holdover times are long.
+When picketing a helicopter you. (Level 2)
+tie down one blade.
+fit sleeves to the blades to protect them if they strike the ground.
+@@fit sleeves and tie off all blades.
+Which is bad practice for removing the ice and snow in the cold weather?. (Level 2)
+@@Dry snow by hot air.
+Deep ice by de-icing fluid.
+Use brush for deep wet snow.
+Taper pins resist what loads. (Level 3)
+compression.
+@@shear.
+tension.
+What test do you do on a bonded join?. (Level 3)
+Shear.
+@@Peel.
+Tension.
+What would you use to check the run-out on a control rod?. (Level 3)
+Micrometer + ball bearing.
+@@DTI + V blocks.
+3 leg trammel + feeler gauge.
+Taper pins are used in which of the following applications?. (Level 3)
+To take compression loads.
+@@To take shear loads.
+To take compression and shear loads.
+When using a D.T.I. to check the run-out of a shaft, readings of -15 to +25 would indicate a run-out of. (Level 3)
+0.025 inches.
+@@0.020 inches.
+0.040 inches.
+A dent is measured in a tubular push-pull rod by. (Level 3)
+passing a ball down its bore.
+callipers and feeler gauges.
+@@steel ball and micrometer.
+What is used on Magnesium to re-protect it?. (Level 3)
+@@Selenious Acid.
+Deoxidine.
+Chromic Acid.
+In the procedure to be followed after spillage of battery acid, neutralizing is carried out. (Level 3)
+by washing with distilled water.
+by applying a coating of Vaseline.
+@@with a dilute solution of sodium bicarbonate.
+After carrying out an identification test of aluminium alloy with caustic soda, the caustic soda should be neutralized with. (Level 3)
+@@Chromic anhydride solution.
+Copper sulphate solution.
+Phosphoric acid.
+To neutralize spilled battery acid on aluminium alloy, use. (Level 3)
+sulphuric acid.
+@@bicarbonate of soda.
+caustic soda.
+Hydrogen embrittlement of high tensile steel is caused if it is treated with. (Level 3)
+Zinc Chromate.
+Nitric acid.
+@@Phosphoric acid.
+Dents in a tubular push-pull rod are not allowed. (Level 3)
+anywhere on the rod.
+@@in the middle third of the rod.
+in the end thirds of the rod.
+When checking a diode forward bias function, the positive lead of the ohmmeter should be placed on the. (Level 3)
+cathode and the negative lead to the anode.
+@@anode and the negative lead to the cathode.
+cathode and the negative lead the earth.
+The bonding resistance of primary structure must not exceed. (Level 3)
+@@0.05 ohms.
+0.005 ohms.
+0.5 ohms.
+What is the maximum resistance between the main earth system and a metal plate on which the earthing device (tyre) is resting?. (Level 3)
+100 megohms.
+1 megohm.
+@@10 megohms.
+The three electrical checks carried out on aircraft are (1) continuity (2) bonding (3) insulation. What is the order in which they are executed?. (Level 3)
+2-3-1.
+1-2-3.
+@@2-1-3.
+When an earth-return terminal assembly has to be replaced which of the following checks must be carried out?. (Level 3)
+Bonding and continuity tests.
+@@Bonding and millivolt drop tests.
+Bonding and insulation resistance tests.
+When carrying out millivolt drop checks on a circuit, what is an approximate guide for a correct reading?. (Level 3)
+10 millivolts for every 15 amps flowing.
+10 millivolts for every 5 amps flowing.
+@@5 millivolts for every 10 amps flowing.
+Effective continuity is not possible unless which of the following conditions exists?. (Level 3)
+All circuit earths are disconnected.
+@@The portion of the circuit under test must constitute a simple series circuit with no parallel paths.
+All manually operated switches must be off.
+Why is a low voltage supply used for continuity testing?. (Level 3)
+To prevent fuses 'blowing' and lamps burning out.
+To avoid damage to the wiring.
+@@To avoid breaking down a high resistance film that might exist between contacting surfaces.
+When replacing a bonding connection and the original conductor cannot be matched exactly, which of the following replacements would you use?. (Level 3)
+@@One manufactured from the same type of material, but of greater cross sectional area should be selected.
+One manufactured from any piece of Nyvin cable having the correct current capacity may be used.
+One manufactured from any conducting material of the same cross sectional area be used.
+What is a typical minimum insulation resistance value for an aircraft undercarriage bay?. (Level 3)
+10 megohms.
+5 megohms.
+@@2 megohms.
+The recommended insulation resistance of a DC motor is. (Level 3)
+2 megohms.
+@@0.5 megohms.
+5 megohms.
+Bonding value for secondary structure is a maximum of. (Level 3)
+0.05 ohms.
+@@1 ohm.
+0.5 ohms.
+Wrinkling of an aircraft skin will. (Level 3)
+@@cause rivets to pull.
+weaken the skin.
+increase drag on the aircraft.
+You have removed a bolt from a critical bolted joint for inspection and rectification. What action should you take prior to inspection?. (Level 3)
+Before any inspection is carried out, the nut/bolt and hole must be cleaned with a solvent such as trichloroethylene.
+Clean the bolt shank and thread and re-grease and replace bolt and check for side-play.
+@@preliminary inspection should be made before the hole is cleaned.
+On inspection of a critical bolted joint you witness black or grey dust or paste. What type of corrosion has taken place and what type of material is involved?. (Level 3)
+Exfoliation corrosion in magnesium alloys.
+Galvanic corrosion in magnesium alloys.
+@@Fretting corrosion in aluminium alloys.
+What is indicated by the wrinkling of the underside of an aircraft skin?. (Level 3)
+@@Hogging.
+Fretting.
+Sagging.
+What is used to re-protect magnesium?. (Level 3)
+@@Selenious acid.
+Deoxidine.
+Chromic acid.
+What is used on magnesium to remove corrosion?. (Level 3)
+Strontium chromate.
+@@Chromic acid / sulphuric acid solution.
+Selenious acid.
+Damaged chromate film should be repaired by using. (Level 3)
+phosphoric acid 10% by weight in water.
+@@selenious acid 10% by weight in water.
+selenious acid 20% by weight in water.
+Stop Drilling' is the process of. (Level 3)
+@@drilling holes to stop a crack at the crack ends.
+drilling holes in a metal prior to riveting.
+drilling a rivet head to remove it from the metal.
+When inserting a helicoil insert, which way does the tang face?. (Level 3)
+Away from the hole.
+@@Towards the hole.
+Towards the mandrel.
+On a patch repair you should use. (Level 3)
+material one gauge thicker than the original structure.
+@@the same rivet spacing as the original structure.
+only aluminium alloy rivets.
+What tap do you use when fitting a Helicoil?. (Level 3)
+The same as the original thread size.
+The next size up from the original tap size.
+@@The tap supplied with the Helicoil kit.
+When fitting a thread insert. (Level 3)
+the insert should be tapped in using a hammer.
+@@the hole should be expanded using a tap supplied by the insert manufacturer.
+thread the next size up from the original should be tapped.
+A stud broken off below the surface is removed by. (Level 3)
+using a stud box.
+@@stud remover tool fitted into a drilled hole.
+cutting a slot in it and removing with a screwdriver.
+A thread insert is made from. (Level 3)
+white metal.
+aluminium alloy.
+@@stainless steel.
+On a composite repair the vacuum should be. (Level 3)
+above required level.
+below required level.
+@@at the required level.
+If bridging strips or bonding cords are fractured, what action may be taken?. (Level 3)
+The broken ends can be repaired with an “in-line” splice.
+@@new conductor should be fitted.
+The broken ends can be soldered.
+A UNF threaded wire thread insert may be identified. (Level 3)
+@@by a black painted tang.
+by a red painted tang.
+by an unpainted tang.
+Transducers used in ultrasonic testing exhibit which of he following effects?. (Level 3)
+Hyper-acoustic.
+Ferromagnetic.
+@@Piezoelectric.
+The eddy current method of N.D.T. uses. (Level 3)
+AC or DC.
+Direct current.
+@@Alternating current.
+To measure the thickness of a paint finish, what type of NDT inspection is used?. (Level 3)
+woodpecker.
+@@Ultrasonic.
+Radiographic.
+When carrying out a dye penetrant test, after the developer has been applied it should be inspected. (Level 3)
+after 30 minutes.
+@@as soon as the developer is dry and again after approximately 10 minutes.
+after 1 hour.
+During a colour contrast test the penetrant time should be. (Level 3)
+@@longer for a small crack.
+shorter for a small crack.
+longer for a wide crack.
+How should a dye penetrant field kit be stored?. (Level 3)
+At a cold temperature in a darkened room.
+In direct sunlight.
+@@At room temperature away from direct sunlight.
+When carrying out a colour contrast test on a pressure vessel. (Level 3)
+the dye should be applied to the outside and the developer to the inside.
+@@the dye should be applied to the inside and the developer to the outside.
+both the dye and the developer should be applied to the outside.
+When leak testing with a colour contrast field kit, the soak time for a component less than 1/8 in. (3mm) thick would be. (Level 3)
+at least twice the normal soak time.
+@@at least 3 times the normal soak time.
+at least the normal soak time.
+When using a colour contrast dye penetrant kit, and a small crack is suspected in the material. (Level 3)
+less developer should be used.
+less inhibitor should be used.
+@@magnifying glass is recommended.
+What NDT method would you use to detect delamination?. (Level 3)
+Colour contrast dye penetrant.
+@@Ultrasound.
+Eddy current.
+Magnetic particle testing detects faults. (Level 3)
+@@transverse.
+longitudinally.
+longitudinal and transverse.
+Dye penetrant in a cold climate. (Level 3)
+@@takes longer to work.
+is not affected.
+works more quickly.
+If after spraying the developer, red blotches appear, the part. (Level 3)
+has sub-surface defects.
+was not cleaned properly.
+@@is porous.
+What is the purpose of the developer in a dye penetrant inspection?. (Level 3)
+@@It acts a s a blotter to draw out the penetrant that has seeped into the crack.
+It is drawn to the crack by electrostatic attraction.
+It seeps into the crack and makes it show up.
+The main advantage of dye penetrant inspection is. (Level 3)
+the part to be inspected does not require cleaning.
+the defect must be opened to the surface.
+@@the penetrant solution works on any non-porous material.
+To detect a minute crack using dye penetrant inspection usually requires. (Level 3)
+the surface to be highly polished.
+@@longer than normal penetrating time.
+that the developer be applied to a flat surface.
+Where would you disconnect a chain?. (Level 3)
+@@At a bolted joint.
+At an riveted joint.
+At a spring clip joint.
+How many times can a locking plate be used?. (Level 3)
+3 times, then discarded.
+@@indefinitely providing it is a good fit around the component to be locked.
+once, then discarded.
+A hi-lock collar should be. (Level 3)
+@@not lubed or washed because they are lubed at manufacture.
+washed in solvent before fitting.
+lubricated before fitting.
+When drilling out a rivet, use a drill. (Level 3)
+larger than the hole.
+@@same size as the hole.
+smaller than the hole.
+When riveting two dissimilar sheets of metal together the joint should be protected with. (Level 3)
+@@jointing compound.
+paint.
+grease.
+The maximum temperature for Nyloc nuts is. (Level 3)
+@@120°C.
+100°C.
+160°C.
+What type of rivet would you use when there is access to only one side of the work?. (Level 3)
+@@Blind.
+Pop.
+Hilok.
+Torque loading is carried out to provide. (Level 3)
+as tight a joint as possible.
+@@sufficient clamping without over-stressing.
+flexibility.
+What is generally the best procedure to use when removing a solid shank rivet?. (Level 3)
+Drill through the manufactured head and shank with a drill one size smaller than the rivet and remove the rivet with a punch.
+Drill through the manufactured head and shank with a shank size drill and remove the rivet with a punch.
+@@Drill to the base of the manufactured rivet head with a drill one size smaller than the rivet shank and remove the rivet with a punch.
+What action is taken with a common circlip removed from a component?. (Level 3)
+It is replaced with a new item on assembly.
+@@It is checked for springiness.
+It is examined for distortion.
+The maximum bolt diameter for which a 1/16 split pin may be used is. (Level 3)
+7/16.
+1/4.
+@@3/8.
+Why is a shouldered stud used?. (Level 3)
+@@To provide a rigid assembly.
+To decrease weight without loss of strength.
+As a replacement for a damaged stud.
+A thread insert is removed by. (Level 3)
+once fitted, a thread insert must not be removed.
+using a drill the major diameter of the thread insert.
+@@a special drill provided by the thread insert manufacturer.
+When fitting Rivnuts into position, how are they secured and prevented from rotating?. (Level 3)
+Locknut at the rear.
+@@A locating key.
+Peened.
+Hi-loks are installed with the. (Level 3)
+@@thread and shank not lubricated.
+shank lubricated when fitting.
+thread lubricated when fitting.
+Immediately after carrying out an insulation check, which of the following applies?. (Level 3)
+A continuity check must be carried out before switching on the circuit for the first time.
+@@The readings observed and the atmospheric conditions at the time should be noted and compared to previous readings.
+The observed readings should be noted and an independent check carried out by another engineer.
+An Insulation test is carried out on a group of cables and a low reading obtained. What action would you take?. (Level 3)
+A low reading would be expected because the cables are in parallel.
+Change or renew all the cables involved in the test.
+@@Break the circuit down and carry out further checks.
+BITE systems to be used on the ground only are deactivated by. (Level 3)
+@@on take off.
+the parking break.
+by the undercarriage retraction.
+After the normal function test of an individual circuit has been completed and the circuit switched off. (Level 3)
+a second function test must be carried out to verify the first.
+@@the fuse should be removed and the circuit again switched on to check the isolation of the circuit concerned.
+a duplicate check must be carried out in accordance with AWN 3.
+A millivolt drop check is to be carried out on a heavy duty relay. The Millivoltmeter would be connected to the relay. (Level 3)
+@@when contacts closed and power is on.
+when contacts open and power off.
+when contacts are open and power is on.
+Electrical cables installed on aircraft. What is used to indicate a fault?. (Level 3)
+Bonding test.
+@@Continuity test.
+Resistance test.
+When checking resistance of a cable to the starter motor what test is carried out?. (Level 3)
+@@Millivolt drop test.
+Safety Ohmmeter.
+Time Domain Reflectometer.
+When inspecting an aircraft after a lightning strike, you should observe. (Level 1)
+entry damage.
+@@all signs of burning.
+entry and exit damage.
+To ensure protection against HIRF affecting audio and navigation aids. (Level 1)
+@@ensure that all audio and navigation equipment is adequately screened.
+inspect and check all bonding leads to ensure their serviceability and replace if defective.
+ensure that the correct number of static wicks are fitted.
+Which of the following is a preventive process against HIRF?. (Level 1)
+Monitoring HIRF on the communication system.
+@@Visual inspections.
+Periodically checking aircraft bonding.
+How do you prevent aquaplaning during landing?. (Level 1)
+Reduce flare.
+@@Use reverse thrust.
+Put flaps up.
+Skin wrinkling on the lower surface of a wing is caused by. (Level 1)
+@@hogging.
+tension.
+sagging.
+After a report of flight through heavy turbulence, you would. (Level 1)
+@@check the aircraft symmetry.
+carry out a major overhaul.
+not carry out any checks.
+After a heavy landing you should check. (Level 1)
+engine compressor shaft alignment.
+@@engine thrust alignment.
+engine module alignment.
+A lightning strike on an aircraft would show. (Level 1)
+@@the entry and exit point.
+the entry point only.
+the exit point only.
+When an engine is not in direct electrical contact with its mounting, how should it be bonded?. (Level 1)
+With at least one primary conductor.
+With at least two primary conductors on one side of the engine.
+@@With at least two primary conductors, one each side of the engine.
+On a composite aircraft, large items are bonded. (Level 1)
+by use of large copper strips.
+Don't need to be bonded because they are made of an insulating material.
+@@by primary bonding leads attached to a cage.
+HIRF interference occurs when. (Level 2)
+in use on mid frequencies.
+in use on low frequencies.
+@@in use on all frequencies.
+Non metallic parts of the aircraft. (Level 2)
+do not require to be bonded because they are non conductive.
+must be bonded by bonding leads.
+@@must be bonded by application of conductive paint.
+Whenever possible a functional test should be carried out on an aircraft using which power supply?. (Level 2)
+The aircraft battery.
+The aircraft generators.
+@@An external supply.
+How many primary bonding conductors are required on an engine?. (Level 2)
+1 only.
+2 on one side.
+@@1 on each side.
+What is the primary purpose of bonding of metallic parts of an aircraft?. (Level 2)
+To provide a return path for electrical two-wire system.
+@@To prevent high potential differences between metallic parts from building up.
+To prevent lightening strikes.
+In order to maintain HIRF protection, bonding checks between airframe and electrical components carrying voltages greater than 50V RMS or dc should not exceed. (Level 2)
+0.05 ohm.
+@@1 ohm.
+1 M ohm.
+Ribbon cables affected by mutual impedance and current loop leakage should be protected by. (Level 2)
+@@earthing each alternate conductor to separate points.
+connecting all conductors to a common earth.
+shielding each individual conductor.
+An aircraft with under-wing mounted engines has a heavy landing, where would you expect to see wrinkling of the skins?. (Level 2)
+Bottom skin caused by engine inertia.
+Top skin only.
+@@On the top and bottom skins.
+Which of the following could be a primary cause of HIRF protection failure?. (Level 2)
+Corrosion on bonding leads.
+Broken or missing static wicks.
+@@Unserviceable radio filters.
+What is the reason for a primary bonding connection’s large cross-sectional area?. (Level 2)
+To carry the static discharge current to the conducting nose wheel.
+@@To carry lightening discharge current should the need arise.
+To maintain the airframe at the same potential throughout.
+When an aircraft has been struck by lightning. (Level 2)
+@@control surface bearings and hinges should be checked for stiffness in operation.
+control surface freedom of movement need not be checked provided skin punctures are less than 3/16 inch diameter.
+control surface freedom of movement need not be checked providing the bonding is undamaged.
+On an aircraft which has had a heavy landing, on the lower wing you may see. (Level 2)
+sagging.
+hogging.
+@@wrinkling.
+After a reported lightning strike. (Level 2)
+@@the flight controls should be checked for full and free movement before the next flight.
+the flight controls need to be checked for full and free movement only if a bonding lead to one of the control surfaces is found to be burned or broken.
+the aircraft and its systems must have a major overhaul before the next flight.
+Mandatory Warning Plaques and symbols. (Level 1)
+@@must be displayed on all flights.
+must be displayed in the cabin only if they are legible.
+need not be displayed if they are incorporated in the flight manual.
+Following a major defect the C of A. (Level 1)
+@@is not affected, however may run out on a time basis.
+will be invalidated and needs renewing.
+Nothing will happen.
+When storing parts you should use. (Level 1)
+monitor the temperature.
+@@silica gel.
+place in a sealed container.
+ATA specification 100 is. (Level 1)
+the procedures which must be complied with before an aircraft can be given a Certificate of Airworthiness in the Transport Category (Passenger).
+@@the International standardization of maintenance manuals, illustrated parts catalogues, overhaul and repair manuals, service bulletins and letters.
+the American FAA specification controlling the manufacture of aluminium and its alloys.
+An aircraft should carry at least the following number of spare fuses:. (Level 1)
+10
+3
+@@3 or 10%, whichever is greater.
+Maintenance Schedules are issued. (Level 1)
+in a folder with the operators name on the cover.
+with an approval certificate by the CAA.
+@@by the operator with CAA approval.
+After a mandatory inspection has been carried out by a Licensed Engineer, what is issued. (Level 1)
+Certificate of Maintenance Review.
+@@Certificate of Release to Service.
+Flight Release Certificate.
+A hard time engine inspection involves. (Level 1)
+@@replacement with a new or overhauled component.
+an in-situ function test.
+removal of an engine component, its inspection and refitting.
+Who approves Maintenance Manuals?. (Level 1)
+@@The CAA.
+The Department of Trade and Industry.
+The Board of Trade.
+A Certificate of Release to Service must be issued after. (Level 1)
+@@repair has been carried out in accordance with an approved repair scheme.
+re-fuel has been done.
+engine runs.
+If the operator varies the content of the maintenance schedule, what action must be taken?. (Level 1)
+Amend the Maintenance Schedule and seek the CAA approval.
+@@Await CAA approval before amending the Maintenance Schedule.
+Amend the Maintenance Schedule.
+When is an EASA Permit to Fly conditions required?. (Level 1)
+To allow an unregistered aircraft to fly for air test.
+@@To allow an aircraft to fly on air test to check out a modification.
+After a Certificate of Maintenance Review has been signed.
+When there is an overlap of responsibility, how is the CRS signed?. (Level 1)
+@@Appropriate Type Rated Licensed Aircraft Engineers must each certify the parts appropriate to their license coverage.
+Only one appropriate Type Rated Licensed Aircraft Engineer may sign the CRS as he assumes responsibility for the operation, the other engineers must sign the paperwork.
+An appropriate Type Rated Licensed Aircraft Engineer and an ATPL holder sign the CRS when the aircraft is away from base.
+Information contained in the ANO is. (Level 1)
+@@of a legal nature in all sections and is therefore mandatory.
+of a mandatory nature where safety is concerned.
+written in compliance of the Civil Aviation Act of 1943 ratifying the ICAO Convention.
+An 'On Condition' Inspection involves. (Level 1)
+program of inspections used to increase the life of lifed components.
+@@an inspection of a component with a view to continued operation if its condition warrants such action.
+replacement of life expired components for new ones.
+Air Navigation General Regulations are to be found in. (Level 2)
+Airworthiness Requirements CAP 455.
+British Civil Airworthiness Requirements Section A.
+@@CAA Printed Manual CAP 393.
+The information in the ANO is given in the form of. (Level 2)
+@@Articles of Law, some of which are further clarified by Schedules.
+Chapters, each one dealing with a different aspect of Civil Aviation, these chapters being backed up by the schedules.
+Regulations, each one covering a different aspect of Civil Aviation and as such is mandatory.
+British Civil Airworthiness Requirements. (Level 2)
+form the Technical requirements for the design and operation of aircraft and their equipment.
+@@interpret the ANO and form the Technical requirements for the design.
+are printed by the CAA and are of an advisory nature.
+A CMR is raised after. (Level 2)
+defect rectification.
+@@scheduled servicing at specified intervals.
+major overhaul.
+Compliance with the ANO is restricted to. (Level 2)
+@@aircraft and their equipment which are on the UK Civil Register only.
+aircraft and their equipment which are on the UK & Commonwealth Civil Registers.
+All civil aircraft and their equipment on the international Civil Register.
+A Certificate of Release to service states that. (Level 2)
+@@task has been carried out in accordance with the ANO.
+an operator has satisfied the CAA of his competence.
+the aircraft has been maintained to an approved schedule.
+Technical and Administrative information is officially circulated to L.A.M.E.S. in. (Level 2)
+B.C.A.R.s.
+@@A.W.N.s.
+CAIP.s.
+Vital point inspections are carried out. (Level 2)
+@@after an area is disturbed.
+on a 'C' check.
+on an 'A' Check.
+What colour is used to identify a 'primary structure' when using the aircraft Maintenance Manual?. (Level 2)
+Yellow.
+Green.
+@@Red.
+Which of the following NDT methods can be carried out and certified by a mechanic not approved specifically for NDT inspections. (Level 2)
+Ultrasonic.
+Magnetic Particle.
+@@Neither of the above.
+B.C.A.R’s. (Level 2)
+@@contain minimum requirements to be met.
+are issued by Ministry of Trade and Industry.
+detail mandatory requirements for aircraft design and construction.
+The purpose of the CRS is. (Level 2)
+to ensure that the log book entry is complete.
+@@to turn a log book or job card entry into a legal document and to ensure that the signatory takes full responsibility for the work done.
+to comply with article 15 of the ANO which states that an aircraft must not fly unless it is properly equipped for the intended flight.
+Duplicate inspections are. (Level 2)
+inspections which have to be duplicated but which can finally be certified by one LAE or approved signatory.
+@@inspections certified by one approved signatory or LAE and then certified by a second approved signatory or LAE.
+inspections signed by a mechanic and countersigned by an approved signatory or licensed engineer.
+When related to aeronautical engineering, the term 'Inspection' is defined in the publication. (Level 2)
+@@Airworthiness Notice (AWN) 3.
+ANO article 11.
+BCAR Section L.
+The technical laws relating to Civil Aviation are contained in. (Level 2)
+the Civil Aircraft Inspection Procedures.
+@@the Air Navigation Order.
+the Civil Aviation Act 1971.
+Civil aircraft manufactured in the UK are constructed from parts that have been. (Level 2)
+@@manufactured to approved drawings.
+manufactured by British Aerospace.
+tested to destruction.
+Design drawings of aircraft components are produced by organisations approved by. (Level 2)
+@@C.A.A. in accordance with BCAR.
+British Standards Institute.
+S.B.A.C.
+Civil Aircraft Airworthiness Information Procedures. (Level 2)
+contain information of a mandatory nature.
+contain approved inspection schedules.
+@@are a guide to the general maintenance of aircraft.
+What work has to be recorded and signed for?. (Level 2)
+Only work which entails a duplicate inspection.
+Only work involving replacements.
+@@All work carried out.
+Are CAAIP. mandatory?. (Level 2)
+Only selected parts which are in B.C.A.R.
+Yes, but only for six months at a time.
+@@No, nothing in CAAIPs is mandatory.
+With a serviceable chain not required for use, how should you store it?. (Level 2)
+Lay the chain flat in full length , lubricate and wrap in brown paper to exclude all dirt and moisture.
+Clean, lubricate, wrap the chain in grease proof paper and suspend.
+@@Carefully coil, lubricate, lay flat and wrap in grease proof paper.
+What is the licensed engineer responsible for when fitting a new component to an aircraft?. (Level 2)
+That the paperwork is signed by an approved signatory.
+That is has a green serviceable tag.
+@@The correct part number, the modification state and the serviceability of the component.
+If an aircraft exceeded the RVSM, when shall the crew report the incident in the appropriate channels. (Level 2)
+48 hrs.
+24 hrs.
+@@72 hrs.
+If the aircraft is away from base who may certify the second part of the duplicate inspection?. (Level 2)
+@@pilot with a licence for the aircraft type.
+pilot with a licence for any similar aircraft type.
+any licensed engineer.
+Block cumulative maintenance means that. (Level 2)
+all the checks require the same man hour input except for the major inspections.
+@@each check usually involves an increased aircraft down time.
+all the maintenance is carried out in blocks.
+A separate modification record book is required for. (Level 2)
+@@passenger aircraft exceeding 2730 kgs MTWA.
+all aircraft.
+passenger aircraft exceeding 3600 kgs MTWA.
+Sector record pages from the Tech Logs, must be. (Level 2)
+@@at least duplicated.
+retained for two years from the date of issue.
+retained for four years from the last effective date.
+Minimum equipment to be carried is listed in. (Level 2)
+JAR 145.
+@@JAR OPS.
+JAR 25.
+What should be checked before a licensed engineer signs a CRS?. (Level 2)
+@@That he/she has worked for 6 months on the aircraft type within the previous 2 years.
+That he/she has worked for 4 months on the aircraft type within the previous 2 years.
+That he/she has had continuation training within the previous 2 years.
+Rubber components should be stored. (Level 2)
+@@in a cool dark area.
+in warm and humid conditions.
+in a well lit room.
+Storage of components to prevent corrosion is helped. (Level 2)
+@@by using silica gel.
+by wrapping in grease proof paper.
+by placing them in a plastic box.
+Dye penetrant kits should be stored. (Level 2)
+@@out of sunlight in a dry place.
+in direct sunlight to keep it dry.
+in a dark damp cupboard.
+When receiving new parts it is the responsibility of the engineer to check. (Level 2)
+it has a green serviceable label attached.
+@@it is of the correct modification state and is serviceable.
+it was designed to acceptable standards.
+For airworthiness purposes, aircraft structural parts are graded as. (Level 2)
+@@primary, secondary and tertiary.
+class A, B and C.
+1, 2 and 3.
+If an unauthorized repair is carried out (Level 2)
+the aircraft can fly with a Certificate of Fitness for Flight.
+@@the Cof A is invalidated until an authorized repair has been done.
+the Cof A is not invalidated providing a CRS is issued.
+A C.of A. for export. (Level 2)
+@@does not give authority by it self for the aircraft to fly.
+gives authority for the aircraft to fly.
+is required before aircraft registration in a foriegn country.
+A fitness for flight is issued for an aircraft after a major modification by. (Level 2)
+the pilot, type rated on that particular aircraft.
+@@appropriate licensed aircraft engineer.
+CAA surveyor or person approved within the CAA.
+An unauthorised repair has been carried out. (Level 2)
+sign a CRS for the repair.
+apply for it as a modification.
+@@carryout an approved repair.
+A Part-66 licensed engineer, when signing a CRS for a non-Part-145 company would need to have. (Level 2)
+@@maintenance experience for 6 months within the last 24 months.
+an aircraft type refresher in the last 24 months.
+maintenance experience for 4 months within the last 24 months.
+A National UK licensed engineer, when signing a CRS would need to have. (Level 2)
+an aircraft type refresher in the last 24 months.
+maintenance experience for 4 months within the last 24 months.
+@@maintenance experience for 6 months within the last 24 months.
+Vital point inspections. (Level 2)
+are points which require special certifying LAEs.
+@@are components which involve duplicate inspections.
+are lifed components.
+On a pre flight check you notice an instrument glass is cracked. You should. (Level 2)
+enter into technical log.
+@@check MEL.
+tell oncoming captain.
+The sawing movement is done with (Level 2)
+Return stroke under pressure
+@@Forward stroke under pressure
+Return stroke under pressure and Forward stroke under pressure
+For soft materials, the hacksaw blade shol haveteeth per 25 mm (Level 2)
+@@14
+24
+32
+A file removes the metal during (Level 3)
+Return stroke
+Both forward and return strokes
+@@Forward stroke
+The back countersinking tool. The operation of smoothing and squaring the surface around a hole is known as: (Level 3)
+@@Spotfacing
+Counter boring
+Countersinking
+To tighten the bolts and nuts with a specified torque which of the following tool is used (Level 1)
+Speed handle
+Ratchet
+@@Torque wrench
+The least count of a Vernier calliper is (Level 2)
+0.01 mm
+0.001 mm
+@@0.02 mm
+The instrument used to measure external and internal diameter of shaft, thickness of parts and depth of holes, is (Level 1)
+Outside-Inside micrometer
+@@Vernier calliper
+Depth gauge micrometer
+How can "velocity factor" be defined? (Level 1)
+The relation between the speed of light and current
+@@The relation of the propagation speed to the speed of light
+The relation between the speed of light and voltage
+When operating Air Data Test process, which function will be allowed? (Level 1)
+@@Altitude/ air speed specifications
+Flap/Slat operation
+RAT test
+Where can we find the specifications for air data systems? (Level 1)
+@@FAR 25.1325 as well as in the FAR 43 Appendix E
+Technical Logbook
+AMM
+Who will state the "velocity factor"? (Level 1)
+Aircraft manufacturer
+CRS B Engineer
+@@Cable Manufacturer
+Which factor damages the conductor material in aircraft wiring? (Level 1)
+High voltage lead to high heat
+Lightning strike
+@@Vibration or frequent bending (doors/panels)
+When using a current clamp meter, which method can be used to measure direct current? (Level 2)
+Classic method
+@@Hall effect sensor method
+Measuring with a coil
+When measuring high currents, the devices is connected in (Level 2)
+@@Series
+Parallel
+Perpendicular
+Purpose of insulation measurement (Level 2)
+@@Enhancing connection between conductors or conductors and ground potential
+Measuring the potential difference
+Anti fire burning
+The condition of coaxial cable can be tested by (Level 2)
+Potentiometer
+Thyristor
+@@Impulse reflectometry tester
+How can we know shortened coaxial wire during test (Level 2)
+@@A negative impulse is reflected.
+A reflection with the same polarity as the input impulse indicates an open line
+Afaultless line with correct terminating resistance will not cause any reflections.
+Which type of line in Engineering drawing show the Hidden outlines and edges (Level 1)
+Chain (thin)
+@@Dashed (thin)
+Continuous (thin)
+The standard views in the European drawings are (Level 1)
+@@Front view, side view and top view
+Top view, left side view and right view
+Top view, left side view and rear view
+The standard views in the American drawings are (Level 1)
+Top view, left side view and right view
+@@Top view, left side view and rear view
+Front view, side view and top view
+What is tolerance? (Level 2)
+@@The difference between these high and low limits of size
+The difference from zero value to highest value
+The difference from the lowest value to zero value
+If the word ”assembly” or ”Installation” does not appear in the title, the drawing is (Level 2)
+Repair drawing
+@@Detail drawing
+Assembly drawing
+In drawing, simple symbols such as circles, pitch circles, triangles, squares etc. are used, and every single symbol represents for: (Level 2)
+@@One fastener type
+Diameter of fastener
+Material of fastener
+What is clearance fit? (Level 1)
+@@The difference between the diameters of a shaft and a hole if the hole diameter is larger then the shaft diameter
+The difference between the diameters of a shaft and a hole if the shaft diameter is larger then the hole diameter
+The upper limit of diameter of shaft is higher than the lower limit of diameter of hole in the production
+What is interference fit? (Level 1)
+The difference between the diameters of a shaft and a hole if the hole diameter is larger then the shaft diameter
+@@The difference between the diameters of a shaft and a hole if the shaft diameter is larger then the hole diameter
+The upper limit of diameter of shaft is lower than the lower limit of diameter of hole in the production
+What is transition fit? (Level 1)
+@@This is a range of fits which can be either clearance or interference. Here the tolerance fields of hole and shaft are overlapping
+In this assembly there is a space between the two parts, e.g. bearings
+The upper limit of diameter of shaft is lower than the lower limit of diameter of hole in the production
+What is upper limit? (Level 1)
+@@The highest allowed size in the production. You can calculate it from the basic size and the upper deviation
+The lowest allowed size and can be calculated from the basic size and the lower deviation
+Is calculated by the base line and the tolerance
+What is lower limit? (Level 1)
+The highest allowed size in the production. You can calculate it from the basic size and the upper deviation
+@@The lowest allowed size and can be calculated from the basic size and the lower deviation
+Is calculated by the base line minor the tolerance
+D= +0.009 30mm -0.004. The upper limit is? (Level 2)
+@@30.009 mm
+30.004 mm
+29.006 mm
+D= +0.009 30mm -0.004. The lower limit is? (Level 2)
+30.004 mm
+30.009mm
+@@29.006mm
+D= +0.009 30mm -0.004. The tolerance is? (Level 2)
+0.005 mm
+@@0.013 mm
+0.006mm
+What type of fit as below: HOLE with dimension diameter 30 MM, UPPER DEVIATION 0.09MM, LOWER DEVIATION -0.02MM. SHAFT with dimension diameter 29.8mm, UPPER DEVIATION 0.05MM, LOWER DEVIATION -0.06MM (Level 2)
+@@CLEARANCE FIT
+TRANSITION FIT
+INTERFERENCE FIT
+What type of fit as below HOLE with dimension diameter 30 MM, UPPER DEVIATION 0.09MM, LOWER DEVIATION -0.02MM SHAFT with dimension diameter 30MM, UPPER LIMIT 0.01MM, LOWER LIMIT -0.05 MM (Level 2)
+CLEARANCE FIT
+@@TRANSITION FIT
+INTERFERENCE FIT
+What type of fit as below HOLE with dimension diameter 30 MM, UPPER DEVIATION 0.06MM, LOWER DEVIATION -0.02MM SHAFT with dimension diameter 30.5MM, UPPER DEVIATION 0.08MM, DEVIATION LIMIT 0.02 MM (Level 2)
+CLEARANCE FIT
+TRANSITION FIT
+@@INTERFERENCE FIT
+In case of clearance fit, what is maximum clearance is (Level 2)
+@@Result if a shaft at the lower limit diameter is joined with a hole at the upper limit diameter
+Result through a combination of upper limit diameter shaft and lower limit diameter hole.
+The difference between the diameters of a shaft and a hole if the shaft diameter is larger then the hole diameter
+In case of clearance fit, what is minimum clearance is (Level 1)
+In case of clearance fit, what is minimum clearance is (page 4)
+@@Result through a combination of upper limit diameter shaft and lower limit diameter hole.
+The difference between the diameters of a shaft and a hole if the shaft diameter is larger then the hole diameter
+How many types of fit does the components joined together? (Level 1)
+2
+@@3
+4
+Which type of stress often occur if shafts and bearings absorb and transmit loads through the flight operation? (Level 1)
+@@WEAR
+TENSION
+BEARING
+Depending on the application, the joined components are produced with a specific clearance or interference. Therefore it is made a difference between the types of fits: (Level 2)
+@@Interference fit, clearance fit, transition fit
+Interference fit, transition fit
+Clearance fit, transition fit
+What requirements and general selection criteria for repair work with a splice are correct? (Level 1)
+@@As a general rule, replacement should always be preferred to repair
+A maximum of four repair splices are permitted in one wire, the ones mounted during aircraft construction are not relevant.
+Whenever more than one splice assembly is necessary during repair, the separation minimum of the splices is 0.5 inches.
+Refer to the repair classification and select the repair depending on the repair grade, What does the grade 2 mean? (Level 2)
+No repair is necessary (permitted damage).
+Permanent repair.
+@@A check of the repair is necessary at each C-check.
+What is tool for testing crimping tool? (Level 1)
+Hydraulic crimping tool
+@@Go/No-go testing tool
+Turret
+Refer to the repair classification and select the repair depending on the repair grade, What does the grade 0 mean? (Level 2)
+@@No repair is necessary (permitted damage).
+Permanent repair.
+A check of the repair is necessary at each C-check.
+Refer to the repair classification and select the repair depending on the repair grade, What does the grade 1 mean? (Level 2)
+No repair is necessary (permitted damage).
+@@Permanent repair.
+A check of the repair is necessary at each C-check.
+Refer to the repair classification and select the repair depending on the repair grade, What does the grade 3 mean? (Level 2)
+No repair is necessary (permitted damage).
+@@Temporary repair only, replace with new wire in accordance with the basic definition within 20 months but preferably at subsequent C check.
+A check of the repair is necessary at each C-check.
+How to bend the insulated terminal for installation in restricted spaces? (Level 3)
+@@A maximum angle is 90 degrees
+A maximum angle is 60 degrees
+A maximum angle is 30 degrees
+How to bend the insulated terminal for installation on a terminal block? (Level 3)
+A maximum angle is 90 degrees
+A maximum angle is 60 degrees
+@@A maximum angle is 30 degrees
+How many types of pressure seals are used? (Level 1)
+1
+@@2
+3
+Hot gas area are? (Level 3)
+@@Engines, Pylons/Struts, APU Compartments, Air-condition Bay, Front Spar and everywhere where bleed ducts are located
+Engines, APU Compartments, Air-condition Bay, Front Spar and everywhere where bleed ducts are located
+Engines, Pylons/Struts, APU Compartments, Front Spar and everywhere where bleed ducts are located
+Types of riveted joints include? (Level 1)
+@@Lap Joint single shear, Butt Joint single shear, Butt Joint double shear.
+Butt Joint single shear, Butt Joint double shear.
+Lap Joint single shear, Butt Joint single shear.
+The margin between the rivet and the edge of the element has a major influence on the fatigue strength of the riveted joint as recorded in which of the following documents? (Level 1)
+IPC Chapter 51
+AMM Chapter 51
+@@SRM Chapter 51
+How to calculate the rivet diameter? (Level 1)
+@@Rivet diameter of 2,5-4 times the thinnest sheet thickness is selected.
+Rivet diameter of 4-5,5 times the thinnest sheet thickness is selected.
+Rivet diameter of 4,5-6 times the thinnest sheet thickness is selected.
+Edge margin depends only on which rivet size? (Level 1)
+Rivet length
+@@Rivet diameter
+Rivet material
+Edge Margin is the distance between? (Level 1)
+@@Distance between rivet centre and the element’s edge.
+Distance between rivets rows
+Distance between rivets and edge of the element
+The selection of rivets with regard to material, head and diameter is affected by which of the following factors? (Level 1)
+Material type of the to be connected elements, Amount of transmitted loads, Material thickness of the structural element
+@@Material type of the to be connected elements, Installation location of the component, Amount of transmitted loads, Material thickness of the structural element
+Material type of the to be connected elements, Installation location of the component, Material thickness of the structural element
+How to calculate the bolt and pin hole pitch value? (Level 1)
+@@4-5 times the rivet diameter
+4-5 times the rivet length.
+4-6 times the rivet diameter.
+Spacing or Row Spacing of solid rivets is the distance between fastener rows, taken from the hole centres. How to calculate the spacing? (Level 1)
+4 to 8 diameter of rivet
+@@4 to 5 diameter of rivet
+6 to 8 diameter of rivet
+The Edge Margin/Edge Distance for the solid rivets hole edge distance values are from the centre of one fastener hole to the nearest edge of the component. How to calculate them? (Level 1)
+@@Normally 2 to 2,5 times the rivet diameter.
+Normally 2 to 2,2 times the rivet diameter.
+Normally 3 to 4 times the rivet diameter.
+The rivet length allowance depends on (Level 1)
+Head of rivet
+@@Rivet material
+Rivet diameter
+The strength of a riveted joint compared to that of the original metal is (two-row lap joint)? (Level 1)
+20% of the load
+40% of the load
+@@50% of the load
+The strength of a riveted joint compared to that of the original metal is ( three-row joint the outer rows)? (Level 1)
+20% of the load
+@@40% of the load
+50% of the load
+The strength of a riveted joint compared to that of the original metal is ( three-row joint the inner row)? (Level 1)
+@@20% of the load
+40% of the load
+50% of the load
+When install Hi-lock, how to calculate the length of Hi Lok/Hilite? (Level 2)
+@@Body shank of rivet with type universal head, head and body shank of rivet with CSK
+Body shank and thread of rivet
+Body shank, thread and diameter of rivet
+Installation type of Flush Head Fastener (Level 2)
+100 degree countersink
+90 degree countersink
+@@Normally a 100 degree countersink is used, but there can be exceptions depending on the fastener.
+If the flush head height is larger than the material thickness of the part, the cylindrical remaining hole will has alway to stay(AIRBUS) (Level 2)
+Min. 0,5mm
+Min. 0,4mm
+@@Min. 0,2mm
+The forming of the upset head also the hitting time is important for the later lifetime of the rivet joint noticed in the Airbus SRM? (Level 2)
+@@Upset head in 3-4 sec. is optimal, but has to be finished not later than 7 sec.
+Upset head in 3-4 sec. is optimal, but has to be finished more than 7 sec.
+Upset head in 3-4 sec. is optimal, but has to be finished not later than 10 sec
+What is the minimum rivet upset for nominal 4mm ( 0.157 in.) diameter rivet ( applicable 2017A, 2024,2117, 7050, 3.1124 and 3.1324 rivets )? (Level 2)
+5mm ( 0.157 in.)
+7.3mm ( 0.287 in.)
+@@6mm ( 0.236 in.)
+The size and the punch of the rivet gun and the mass of the dolly depend: (Level 2)
+The rivet material and the accessibility of the structure.
+The rivet diameter and the accessibility of the structure.
+@@The rivet diameter, The rivet material and the accessibility of the structure.
+The mass of the dolly depends on the following factors: (Level 2)
+@@The rivet diameter and the rivet material
+The rivet diameter and the rivet length.
+The rivet length and the rivet material
+How much weight should be used when riveting 4 mm (5/32 inch ) diameter rivets? (Level 2)
+0.75 to 1.5 kg
+@@1.5 to 2 kg
+2,25 to 3 kg
+Some common defects/causes of damage in upset head rivet. Which statement is most correct? (Level 2)
+Too small upset head, Too large upset head, Rivet shaft drops during squeezing, Cracks in upset head.
+Too small upset head, Too large upset head, Die head does no set right, Rivet shaft drops during squeezing.
+@@Too small upset head, Too large upset head, Die head does no set right, Rivet shaft drops during squeezing, Cracks in upset head.
+The removal of rivets is described in SRM chapter: (Level 2)
+SRM chapter 51-43
+@@SRM chapter 51-40
+SRM chapter 53-40
+The process of removal rivets follows the following steps: (Level 2)
+Step 1: Drill heat only as for as shown below in dotted line. Step 2: Center punch rivet heat to provide location for drill tip. Step 3: Remove the heat of the rivet with a tight-fitting parallel drift which is moved at an angle to one side. Step 4: Remove the remainder of the rivet with the parallel drift used before.
+Step 1: Center punch rivet heat to provide location for drill tip. Step 2: Drill heat only as for as shown below in dotted line. Step 3: Remove the remainder of the rivet with the parallel drift used before. Step 4: Remove the heat of the rivet with a tight-fitting parallel drift which is moved at an angle to one side.
+@@Step 1: Center punch rivet heat to provide location for drill tip. Step 2: Drill heat only as for as shown below in dotted line. Step 3: Remove the heat of the rivet with a tight-fitting parallel drift which is moved at an angle to one side. Step 4: Remove the remainder of the rivet with the parallel drift used before.
+Cracks are NOT permitted in the upset heats rivet? (Level 2)
+Aluminum or monel rivets
+@@Titanium or monel rivets
+Titanium or Aluminum rivets
+Adjustment of the Punch, proceed as follows: (Level 2)
+1. Set in the rivet set with the locking feather into the rivet gun and lock the feather. 2. Slowly pull the trigger entirely and at the same time adjust the punch to the desired level with the controller.
+1. Set in the rivet set with the locking feather into the rivet gun and lock the feather. 2. Connect the rivet gun to the air source and put it perpendicular on a wooden plate.
+@@1. Set in the rivet set with the locking feather into the rivet gun and lock the feather. 2.  Connect the rivet gun to the air source and put it perpendicular on a wooden plate. 3.  Slowly pull the trigger entirely and at the same time adjust the punch to the desired level with the controller.
+Tube line must not be bent back for correction (Level 2)
+@@TRUE
+FALSE
+Depends on the application
+Before bending of tube, it is advised that the tube’s pre-cut isthe desired length (Level 2)
+The same
+Shorter than
+@@Longer than
+Bending of the first 90° Bend, If the tube is aligned, the tube is pulled with a constant force by the swivel handle around the form wheel until the 0° marking of the guide matches with marking of the form wheel (Level 1)
+The 45°
+@@The 90°
+The 60°
+After Installation of fluid tubes. The system are normally pressure tested to (Level 2)
+Maximum working pressure.
+2 times maximum working pressure.
+@@1½ times maximum working pressure.
+The clamps most commonly-encountered are (Level 1)
+The metal cushioned clamps
+The nylon clamps
+@@The rubber cushioned clamps and the plain clamps
+When installing a bonded clamp, ensure any paint or anodizing isfrom the line where the clamp is fitted for electrical continuity (Level 1)
+@@Removed
+Covered
+Restored
+Fitted hoses must meet the following requirements: (Level 2)
+Tensile stress on the fittings is permitted.
+They must twist when the end-fittings are tightened.
+@@Tensile stress on the fittings is not permitted and they must not twist when the end-fittings are tightened
+The bend radius required increases when the hose has to carry out movements in the operating condition (Level 1)
+@@TRUE
+FALSE
+Depends on the application
+Hose Installation IAW AMM A380, Minimum distance between hose and structure: (Level 1)
+6 mm
+@@12 mm
+18 mm
+To ensure that pipe and hose assemblies do not leak due to loose connections (Level 2)
+Position the torque wrench on the sleeve nut
+@@Position the countertorque wrench on the fitting
+Position the torque wrench on the sleeve nut and Position the countertorque wrench on the fitting
+Springs are elastic devices variously used for (Level 1)
+Storing and furnishing energy; Creating shocks
+Sustaining the pressure between contacting surfaces; Extending tensional or compressional stress
+@@Storing and furnishing energy; Absorbing shocks and Sustaining the pressure between contacting surfaces; Resisting tensional or compressional stress
+What type of spring is used for stores energy? (Level 2)
+A helical (or coil) spring
+@@A torsion spring
+A disk spring
+The springs are commonly used for the same purpose in motor cars, as are leaf springs that consist of flat bars clamped together (Level 2)
+Disk springs
+Balancing springs
+@@Coil springs
+When Checking Springs for Wear, the special care should be given to (Level 2)
+@@The hooks where they connect to their mounting points
+The tension of springs
+The extension springs
+Measuring the Spring Tension, The way to do this is to compress or pull that depends on (Level 1)
+The material
+@@The spring type
+The radius of spring
+The spring tension should then be within the limits given in the manufacturers datasheet. If a spring is out of limit, the spring has to be (Level 1)
+@@Replaced
+Adjusted
+Repaired
+How many basic types of anti-friction bearings (Level 1)
+3
+4
+@@5
+Sliding bearings are resistant to push forces, they create a lot of noise (Level 2)
+@@They create very less noise
+Yes
+Depends on the application
+A tapered roller bearing is designed to take (Level 2)
+Axial loads only
+@@Both radial and axial loads
+Radial loads only
+Which of the following bearings carry thrust load in one direction? (Level 2)
+Spherical roller thrust bearings and Tapered roller bearings
+@@Spherical roller thrust bearings
+Tapered roller bearings
+Which of this is not an anti friction bearing? (Level 1)
+@@Solid bearing
+Ball bearing
+Roller bearing
+A potentially fire hazard is typically caused by (Level 2)
+Lubricating bearings
+@@Over-grease bearings
+High-speed bearings
+Overheating Symptoms are discoloration of the rings, balls and cages from (Level 1)
+@@Gold to blue
+Blue to gold
+Blue to red
+Angular contact bearings are designed to accept an axial load in one direction only. The result of opposite loading is (Level 2)
+Excessive stress only
+An increase in temperature only
+@@Excessive stress and an increase in temperature
+What are symptoms of corrosion? (Level 1)
+Red/brown areas on balls only
+Cages or bands of ball bearings only
+@@Red/brown areas on balls; and cages or bands of ball bearings
+Bearing defects and their causes, what are symptoms of tight fits? (Level 1)
+Bent shafts
+Outer ring slippage caused
+@@Discoloured, wide ball path at bottom of raceways
+A chain drives is used for (Level 1)
+A short distances between the connected axes exist
+A medium distances between the connected axes exist
+@@A large distances between the connected axes exist
+After installation in the aircraft, the chains should be further (Level 2)
+@@Lubricated
+Cleaned
+Tensioned
+The wheel or pulley mountings should be examined to ensure that (Level 1)
+The wheels or pulleys are firmly loosen to the shafts or spindles
+They are not correctly located and running freely
+@@They are firmly secured to the shafts or spindles and correctly located and running freely
+When should chain assemblies be inspected for serviceability? (Level 1)
+Monthly
+@@At the relevant Maintenance Schedule
+Weekly
+Where is the tension of the chain performed at (Level 2)
+Turnbuckles
+Screwed end connectors
+@@Turnbuckles and screwed end connectors
+If the chain is worn so that the links are loose and can be lifted away from the wheel teeth, it should be removed and checked for (Level 1)
+@@Excessive elongation
+Excessive tension
+Excessive twist
+Checking Elongation, if the extension is in excess of 2% on any section of the chain (Level 2)
+The specific section should be replaced
+@@The whole chain run should be replaced.
+The specific section should be adjusted
+Main types of damage in roller chain are (Level 2)
+Cracks and wear
+@@Corrosion and pitting
+Cracks; wear; corrosion and pitting
+What can affect the amount of the backlash in a pair of mating gears (Level 2)
+@@Changes in centre distance; variance in tooth thickness; temperature ranges
+Temperature ranges only
+Variance in tooth thickness only
+What is the purpose of backlash? (Level 1)
+To help gears from jamming and making contact on both sides of their teeth simultaneously.
+To prevent for lubricant space and differential expansion between the gear components and the housing.
+@@To prevent gears from jamming and making contact on both sides of their teeth simultaneously. Also it provides for lubricant space and differential expansion between the gear components and the housing.
+All cables in an aircraft, especially control cables, require careful inspection at (Level 1)
+Airlines request
+Pilots request
+@@Regular intervals
+Which statement is correct? (Level 2)
+@@Check no broken wires, move a cloth along the cable, in two directions.
+Check no broken wires, make a special inspection to find the broken wires
+Check no broken wires, move a plastic along the cable, in any direction.
+Installed cable lines have to be tightened to a certain tension depending on (Level 1)
+Location only
+Purpose only
+@@Cable lines's location and purpose
+What is function of a turnbuckle? (Level 1)
+To replace the cable
+@@To adjust the cable tension
+To examine and adjust the cable tension
+The Cable tension values to be adjusted for the individual aircraft types are specified in (Level 1)
+The respective Cables Manufacture
+@@The respective AMMs
+The respective CMMs
+What is statement correct? (Level 2)
+The tensiometer is a precision instrument
+The tensiometer must be calibrated
+@@The tensiometer is a precision instrument and must be calibrated annually.
+Cleaning of contaminated Cables, What is statement correct? (Level 2)
+@@Possible pollution on cable lines must only be removed with a clean and dry cloth.
+Possible pollution on cable lines must only be removed with degreasing
+Possible pollution on cable lines must only be removed with solvent agents
+A suspected chemical spillage on a cable, you should (Level 2)
+@@Replace the cable
+Clean the cable and inspect 24 hours later
+Clean, inspect and refit immediately
+Teleflex control system, the cable is designed for transmitting both pull and push. How many type of cable in use? (Level 1)
+1
+@@2
+3
+For transmitting light loads over short distances, which cable system is used for? (Level 2)
+@@Bowden control systems
+Teleflex control systems
+Teleflex control and bowden control systems
+The least bend radius varies depending on (Level 2)
+Material and thickness of plate only
+Direction of plate only
+@@Material and thickness of plate and direction of plate
+Defining the minimum bend radius (Level 2)
+@@So it has to be checked before bending if the component is adequate, in regard to the material, the section, the bending radius and the bending angle. The guide is the minimum bend radius.
+The outside of the bend radius.
+Which means you use the smallest punch nose radius you have available to work with
+In sheet metal bending, how would you measure the bend radius to calculate the bend allowance? (Level 1)
+Measure to the outside of the bend radius.
+@@Measure to the inside of the bend radius.
+Measure to the inside of the bend radius plus half the metal thickness.
+Bend radius on sheet metal is (Level 1)
+Inside radius + ½ thickness.
+Outside radius.
+@@Inside radius.
+Bending Process. It is advisable to perform straight line bending at a constant and …....... speed to enable the material to flow, without a damage of the material (Level 1)
+Slow
+Fast
+@@Moderate
+The surface has always to be protected against any damages. Surface markings are only allowed to be made with (Level 1)
+A punch
+@@A soft lead pencil
+A pen
+When bending titanium it is even necessary to the edges of the sheet, because otherwise cracking may occur at the bending radius area. (Level 1)
+Cut
+Saw
+@@Polsh
+Before the bending the outer, inner and neutral fibre have the same length. After the bending the outer fibre is elongated and the inner fibre is(Level 2)
+@@Compressed
+Extended
+Not change
+The bend allowance is (Level 2)
+Determined with the help of the neutral fibre
+@@Caused by the bending radius
+Not the length reduction
+The bend allowance (V) is changed by influencing factors: (Level 1)
+Only the Bend radius R, Material thickness S
+Only material thickness S, Bending angle α
+@@The Bend radius R, Material thickness S, Bending angle α
+The bend allowance (V) is negative, if the bending angle is: (Level 1)
+@@Α“ = 0° upto 115°
+Α“ = 115° upto 145°
+Α“ = 115° upto 180°
+About Folding Machine. The edge rail: (Level 2)
+Holds the sheet between the adjustable clamping bar and the fixed lower leaf.
+Carries the radius bar
+@@Moves the sheet around the radius of the radius bar
+Adjust the distance between the bending line and the sheet edge via (Level 1)
+A square set
+@@A vernier calliper
+A angle meter
+About spring back. The spring back factor: (Level 2)
+@@Allows you to determine the bend’s actual inside radius
+Tells you how far past 90 degrees you need to bend to compensate for spring back
+Helps predict spring back.
+Bending by hammering, The application area is mostely limited to (Level 1)
+@@Thin sheets and soft materials.
+Soft materials.
+Thin sheets
+When working with composite materials, where is the correct safety precautions on (Level 1)
+Vendor website
+@@Material safety data sheets
+Vendor Information
+Fibre Reinforced Composites are composed of fibres embedded inmaterial (Level 1)
+@@Matrix
+Plastic
+Metallic
+Following is (are) the reinforcement form of composites (Level 1)
+Fibre reinforced composites only
+Laminar composites only
+@@Fibre reinforced composites and laminar composites
+Which of the following require heat to cure the composite (Level 1)
+Glass fibre
+@@Resin and hardener
+Aramid fibre
+A room temperature curing is done between (Level 1)
+@@18° - 25°C.
+10° - 15°C.
+15° - 30°C.
+During the hot bonding process, Overheating can also result (Level 1)
+Debonding only
+Delamination only
+@@Debonding and delamination
+Which of the following can be used with vacuum bagging to hold the heat directly onto the surface. (Level 1)
+Heat Lamps
+@@Heating Blankets
+Heat Guns
+A hot patch bonding machine performs the following function: (Level 1)
+It applies pressure
+It applies heat
+@@It applies pressure and heat
+Defining the soak curing (Level 1)
+@@Once the repair has been heated that this temperature be held for a specific amount of time.
+Once the repair has been heated that the temperature be reached at a slow, constant rate of change from room temperature at 4°C per minute
+Once the repair has been heated that the temperature climbs are done in certain time intervals
+What does "NDT" stand for (Level 2)
+Non-driving test
+@@Non-destructive test
+Non-dry test
+Which of the following is a NDT method (Level 2)
+Stress testing
+Hardness testing
+@@Radiography
+Tap-testing is widely used for the quick evaluation of any accessible aircraft surfaces to detect presence of (Level 2)
+Debonding only
+Entrapped water
+@@Debonding and delamination
+Which of the these optical aids can be used in direct visual examination? (Level 2)
+Cameras
+@@Mirrors
+Optical tool (rigid or flexible)
+Borescope are typically use in (Level 2)
+@@Remote visual examination
+Translucent visual examination
+Direct visual examination
+Ultrasonic inspection is done in materials to determine (Level 2)
+@@Cracks below the surface
+Yiels strangth
+Ultimate tensile strangth
+Ultrasonic Testing, the time delay of the reflected pulse is related to the depth of defects in: (Level 2)
+@@The composite part
+The metal part
+The wood part
+A term used to describe the ability of an ultrasonic testing system to distinguish between the entry surface response and the response of discontinuities near the entry surface is: (Level 2)
+Sensitivity
+@@Resolution
+Penetration
+Short wavelength electromagnetic radiation produced during the disintegration of nuclei of radioactive substances is called: (Level 2)
+X-Radiation
+Scatter radiation
+@@Gamma radiation
+What differentiate the soldering types? (Level 1)
+@@Working temperature
+Voltage applied
+Material
+What is used to remove chromium oxides? (Level 1)
+@@Fluxes containing fluorine
+Fluxes containing chlorua
+Fluxes containing sulfur
+Oxides from which materials are hard to remove? (Level 1)
+Copper, aluminium, iron
+@@Titanium, chromium, maganese
+Silicon, iron, cadmium
+The temperature for soft soldering can not exceed (Level 1)
+@@450 degree Celsius
+550 degree Celsius
+750 degree Celsius
+What is the range of normal soldering gap? (Level 1)
+@@0.05 to 0.5mm
+0.5 to 1.5mm
+5 to 10mm
+What is the most common bad-wetting material? (Level 1)
+Glass
+@@Mercury
+Copper
+A flux is used in soldering to (Level 1)
+Etch the metal surface for more adhesion
+@@Remove or dissolve unwanted oxides or residues
+Prevent corrosion
+The minimum temperature for brazing high temperature solder material is (Level 1)
+@@950
+500
+750
+Aluminium-silicon solders can be removed by (Level 1)
+Using acetone
+Using cold milk
+@@Using hot water
+In resistance brazing, how is the heat taken from? (Level 1)
+@@Created by electrical resistance of the soldering area in the electrical circuit
+The voltage applied through the circuit
+By the potential difference
+What are used as heat sources for soldering process of infrared brazing? (Level 2)
+Batteries
+Magnets
+@@Quartz lights
+What makes embrittlement in nickel and certain nickel alloys? (Level 2)
+Subject to the cold air
+In contact with acid
+@@Heated in the presence of sulphur or substances containing sulphur.
+Which method of solder cannot be used for iron or nickel-base alloy (Level 2)
+Nickel Solders
+@@Copper-Phosphate Solders
+Silver solders
+How to know the solder connection area is clean (Level 2)
+@@No visible signs of residual flux remain
+Hold tightly in hand
+Can rework properly
+Which is considered as inert gases? (Level 2)
+Hydrogen, Oxygen, CO2
+@@Argon, Helium, Nitrogen
+Argon-Helium, Argon-CO2
+At which angle are substances classified as substances with bad or no wetting ability? (Level 2)
+@@Opening angle less than 90 degree
+Opening angle more than 120 degree
+Opening angle at 180 degree
+Drawbacks of bonded joints? (Level 2)
+@@Low heat resistance
+Lower concentration of mechanical loads
+Lower manufacturing costs
+A period of time needed for cure of cold age-hardening epoxy adhesives (Level 2)
+48 hours
+72 hours
+@@26 hours
+Which metal or alloy properties are to be used as solder for soldering? (Level 2)
+It must melt and flow easily to ensure the distribution of the solder via capillary action
+Its composition must be homogeneous and stable to prevent the separation of solid and fluid parts whilst soldering
+@@It must melt and flow easily to ensure the distribution of the solder via capillary action. Its composition must be homogeneous and stable to prevent the separation of solid and fluid parts whilst soldering
+What is Function of Flux? (Level 2)
+@@The Flux supports the melting and bonding process of solder and base material during the soldering process.
+The Flux supports the reduced temp and bonding process of solder and base material during the soldering process.
+Flux supports the rapid cooling of articles and facilities during welding.
+For weight and balance, which one is the most important parameter? (Level 1)
+Speed
+@@CG
+Strength of materials
+Where you can find the W & B limitation? (Level 1)
+MEL
+FCOM
+@@AOM
+Who made the actual datum location? (Level 1)
+@@Manufacturer
+Pilot
+Engineer
+Which one is the prime concern between the lateral and longitudinal balance? (Level 2)
+None
+Lateral
+@@Longitudinal
+If the CG is too far aft (behind the stability limit of the aircraft manufacturer), what happen? (Level 2)
+Nothing
+A/C still Balance
+@@Unstable related to the lateral-axis
+If the CG is too far forward (forward the stability limit of the aircraft manufacturer), what happen? (Level 2)
+A/C still Balance
+Nothing
+@@A/C would be uncontrollable
+Formula for computation of CG? (Level 1)
+CG=ΣM/ΣT
+@@CG=ΣM/ΣW
+CG=ΣM*ΣW
+Where you can find the empty weight CG? (Level 1)
+AMM
+@@WBR
+LMM
+Basic empty mass includes Water portable, it is right? (Level 2)
+@@No
+Yes
+Not mentioned
+Load capacity includes Pax, Pilots,…, it is right? (Level 2)
+No
+@@Yes
+Not mentioned
+To find out the CG, A/C must be … (Level 2)
+@@Level
+Jack at both Main LDGs
+In Flight
+On large A/C (B747), How many method (ways) are used to level A/C? (Level 2)
+1
+@@2
+3
+Weighing of Airplanes in accordance with EU-OPS-1 with which Subpart? (Level 2)
+@@Subpart J
+Subpart A
+Subpart E
+For single A/C, how often a periodically weighing should be done? (Level 1)
+3 years
+@@4 years
+5 years
+Preparation before weighing, which are the environment conditions require? (Level 2)
+@@Clean and dry
+Clean and clear
+Clean only
+With modern airplanes, does the lubricant consumption affected to change of mass or CG during the flight? (Level 1)
+Yes
+@@No
+Not mentioned
+A/C can do weighing process at outside Hangar? (Level 2)
+Yes
+@@No
+Yes, if no rain.
+A/C can do weighing process at inside Hangar? (Level 2)
+Yes, with Hangar's doors opened
+No
+@@Yes, with all Hangar's doors closed
+Can you find out some parameters for weighing in TCDS? (Level 2)
+No
+@@Yes
+Only CG range
+Who issued TCDS (Type Certificate Date Sheet)? (Level 2)
+Manufacturer
+@@FAA
+Operator
+Do we need re-calculate and record the W&B after modification or additional equipment on aircraft? (Level 1)
+@@Yes
+No
+Do not record
+The lever is balanced when the algebraic sum of the moments about the Datum is (Level 1)
+Positive
+Negative
+@@Zero
+What is stand for MAC? (Level 1)
+Measure Air Condition
+@@Mean Aerodynamic Chord
+Moment of Aircraft
+Where is MAC located? (Level 1)
+@@Parallel to the longitudinal axis
+Parallel to the vertical axis
+Vertical to the wings
+Who calculate the length of the MAC? (Level 1)
+Engineer
+@@Manufacturer
+Operator
+Dry operating Mass includes …. (Level 1)
+Usable Fuel
+Traffic load
+@@Potable water
+Which is the most important thing have to care during taxi (Level 1)
+@@Hazard zone
+Wing walkers
+Headset man
+During taxi in Maintenance area, do we need a headset man to communicate to pilot? (Level 1)
+Yes
+@@No
+Wing walker do
+During taxi/towing, what is a requirement for the brake man in cockpit? (Level 1)
+Standing and watching
+Seating without the seatbelt fastened
+@@Seating with the seatbelt fastened
+During towing A/C with the tractor, can we make a turn angle without care? (Level 2)
+Yes
+No
+@@The max turning angle must care
+What is the max speed during normal towing by the tow bar tractor? (Level 2)
+@@25 km/h
+20 km/h
+10 km/h
+What is the max speed during normal towing by the towbarless tractor? (Level 2)
+25 km/h
+@@32 km/h
+10 km/h
+Generally all types of damages are checked for, but essentially the main types of defect being inspected for are: (Level 1)
+@@Corrosion and metal fatigue
+Crack
+Metal fatigue only
+Any cleaning fluids used should have been approved by? (Level 1)
+Technical department
+Base maint. center
+@@The aircraft constructor
+For cleaning the use of air jets should be: (Level 1)
+@@Avoided
+Mandatory
+Recommended
+General visual inspection (GVI) is made from within? (Level 2)
+200 cm
+100 inch
+@@Touching distance unless otherwise specified
+General visual inspection may require removal or opening of? (Level 2)
+Fairings
+Doors and fairings
+@@Access panels and doors
+For detailed inspection aids such mirrors, magnifying lenses, etc. may be used and what may be required else? (Level 2)
+Surface cleaning only
+Elaborate access only
+@@Surface cleaning and elaborate access
+What are Aids for Visual Examination? (Level 1)
+Torches only
+@@Torches, Mirrors, Loupes, Borescope/Endoscope
+Borescope/Endoscope only
+Which equipment may be required to gain proximity to the area being checked (Level 1)
+Seat
+@@Stands, ladders, platforms
+Table
+What may be required for special detailed inspection (SDI) (Level 2)
+@@Intricate cleaning and substantial access
+Intricate cleaning only
+Substantial access only
+Application of a visual Examination is only suitable for (Level 2)
+Surface damages
+Defects which move to the parts surface
+@@Surface damages or defects which move to or along the parts surface
+Causes/Main Groups of structural Damage (Level 1)
+Mechanical only
+@@Mechanical, Chemical/electrochemical, Thermal, Inner metallurgical characteristics.
+Thermal only
+A structural damage report information have to be considered about: (Level 2)
+@@Location of damage, type of damage and extent of damage.
+Location of damage only
+Extent of damage only
+Types of Damage at metal Structures (Level 1)
+Scratch, crack, dent, corrosion, debonding
+@@Scratch, crack, dent, corrosion, gouge, burn mark
+Scratch, crack, dent, corrosion, delamination
+Types of Damages at Composite Structures (Level 1)
+@@Scratch, crack, debonding, abrasion, burn mark
+Scratch, crack, dent, corrosion, gouge, nick
+Scratch, crack, dent, corrosion, delamination
+Serious corrosion have been found: (Level 1)
+Only in exposed parts of aircraft structures
+Only in closed parts of aircraft structures
+@@Both in closed and exposed parts of aircraft structures
+All corrosion found must be immediately and completely removed because corrosion which remains will cause: (Level 3)
+@@new corrosion and further decrease the strength of the structure
+Paint damage
+Sealant damage
+Corrosion can be found by the following methods of inspection: (Level 2)
+Visual, dye penetrant and ultrasonic only
+@@Visual, dye penetrant, ultrasonic, eddy current, X-ray
+Visual only
+How is a corrosion area on a metallic surface looked like (Level 1)
+Dulled area
+Darkened area
+@@A dulled or darkened area; white, grey or red dust or particles may also be observed.
+Paint bulging, paint peeling and a bulging in a gap between adjacent components are signs of (Level 2)
+@@Corrosion
+Paint damage
+Sealant damage
+Two methods of paint removal are possible (Level 1)
+@@Mechanical and chemical
+Mechanical and electrical
+Chemical and electrical
+The use of paint strippers is recommended where (Level 1)
+The corrosion is heavy
+The corrosion is light
+@@The corrosion is heavy and covers a large area
+The use the mechanical method (e.g. grinding) is suitable where (Level 1)
+The corrosion covers a large area
+The corrosion is heavy and covers a large area
+@@The corrosion is light and contained within a small area
+Any fasteners located within the area of corrosion and affected by the corrosion must be (Level 3)
+@@Removed
+Not removed
+Removed if its head paint damaged
+Any fasteners located within the area of corrosion and affected by the corrosion must be removed due to (Level 3)
+@@Possible corrosion under the fastener head or in the countersink has to be detected and removed
+Possible corrosion under the fastener head has to be detected and removed
+Possible corrosion under the countersink has to be detected and removed
+Any rivets located within the area of corrosion and affected by the corrosion must be (Level 3)
+@@Replaced
+Repainted if its paint damaged
+Inspected on its manufactured head and upset head
+Corrosion removal grinding tools on aluminium components can be identified by: (Level 2)
+Their black colour
+@@Their red-brown colour
+Their blue colour
+What is mandatory/ important when using motor driven grinding wheels for corrosion removal on aluminium components (Level 2)
+@@The use of safety goggles or face shield; no high temperatures on the component surface are created
+The use of safety goggles or face shield
+no high temperatures on the component surface are created
+What is important for heavy corrosion removal by wire brushing on aluminium components (Level 2)
+@@The wires have to be made out of corrosion resistant steel (CRES) and a grinding rework must be performed after brushing
+A grinding rework must be performed after brushing
+A grinding rework must be performed after brushing
+Which document specifies limits of remained thickness of component after corrosion removal? (Level 1)
+@@SRM
+CDL
+CDL and SRM
+On which metal component is found red iron rust (Level 1)
+@@Carbon steel
+Stainless steel and nickel chromium alloys
+Stainless steel
+What are suitable abrasives for steel/ titanium corrosion removal (Level 2)
+@@Carbon silicide in green- blue colour
+Aluminium oxide in brown red colour
+Aluminium oxide in green colour
+Corrosion on titanium alloy when it does occur is recognized: (Level 2)
+Red oxide
+@@A black or white coloured oxide
+Green oxide
+Why are some component of stainless steel and nickel chromium alloys painted? (Level 2)
+Due to corrosion protection
+@@Due to matching colour schemes of the surrounding structure
+Due to identification
+Purpose of checks after corrosion removal? (Level 2)
+Complete corrosion removal,
+Hidden corrosion
+@@Complete corrosion removal, hidden corrosion, potential paths of cracks and remaining thickness
+What are functions of anodizing process on aluminium alloys (Level 1)
+@@To increase the corrosion resistant properties of the metal and to give a good surface for the adhesion of the subsequent paint coats
+To give a good surface for the adhesion of the subsequent paint coats
+To give a good surface for the adhesion of the subsequent paint coats
+What are type of pretreatment on steel alloys (Level 2)
+@@Cadmium plating, hard chromium or-nickel plating, phosphatisation
+Chromic or sulphuric anodizing
+Chemical conversion coating
+What is Boeing two layer system (Level 2)
+Primer and wash primer
+Topcoat and pretreatment
+@@Topcoat, primer and pretreatment
+What is Airbus three layer system (Level 2)
+Topcoat, wash primer and pretreatment
+Topcoat, primer and pretreatment
+@@Topcoat, primer, wash primer and pretreatment
+What is primary function of wash primers FCR ( Filiform Corrosion Resistant ) in the interior structure? (Level 2)
+@@As corrosion protection
+As adhesion contact
+As adhesion contact and corrosion protection
+What is primary function of wash primers FCR ( Filiform Corrosion Resistant ) in the outer structure? (Level 2)
+As adhesion contact and corrosion protection
+@@As adhesion contact
+As corrosion protection
+How does curing time of primers FCR ( Filiform Corrosion Resistant ) change when temperature increases? (Level 2)
+@@Decreases
+Increases
+Does not change
+What layer is applied to wash primer (Level 2)
+@@Intermediate primer
+Topcoat
+Nil
+Which characteristics of corrosion inhibitors are important for their effectiveness: (Level 2)
+A good wetting ability only
+Penetrating properties
+@@A good wetting ability and penetrating properties
+How does corrosion inhibitor work? (Level 3)
+@@To make the surface in susceptible areas water-repellent
+To make the surface in susceptible areas cleaned
+To make the surface in susceptible areas water absorbing
+Where are corrosion inhibitors applied: (Level 2)
+Electrical connections, oxygen component
+Silicon parts, piston rods
+@@Landing gear well, under cargo floor interior
+Why does sealant ( sealing compound ) prevent corrosion on aircraft structure (Level 3)
+Working like corrosion inhibitor
+@@Filling of gaps between riveted or bonded parts, to prevent the penetration of moisture and therefore corrosion
+Working like temperature insulating material
+Where are sealants used mainly on aircraft structure? (Level 2)
+@@To seal fuel tanks and maintain cabin pressure
+To seal fuel tanks only
+To seal water tanks only
+Why are sealants used on the aircraft exterior? (Level 3)
+Sealing the wing
+@@Smoothing in order to increase the aerodynamic performance of wings or fuselage
+Sealing the fuselage
+Cure Time of sealant is (Level 3)
+Same as its tack free time
+Less than its tack free time
+@@approximately 2 to 3 times the tack free time
+How do the wetting ability and therefore the adhesion of sealant change during tack free time (Level 2)
+@@Both start to decrease
+Both start to increase
+The adhesion increases
+How long is a storage time of sealant e.g. PR 1422 (Level 2)
+@@6 months in the original packing under temperatures of 26C
+6 months under temperatures of 18C
+12 months
+B M S stands for (Level 2)
+@@Business Material Specification
+Boeing Material Specification
+Boeing Material Service
+Wet Installation for rivet with Protruding head means: (Level 3)
+Apply sealant to the underside of the head 10 minutes prior to installation
+Apply sealant to the aboveside of the head immediately prior to installation
+@@Apply sealant to the underside of the head immediately prior to installation
+Sealant removal or cutting tools should be made of (Level 2)
+@@Hardwood, plastic
+Hard materials and hard metals
+Plastic and hard metals
+All affected sealings in paint stripping area must be (Level 3)
+Inspected
+Repainted
+@@Renewed
+During repair of damaged sealant why remaining sealant to be tapered (Level 3)
+@@The tapered surface allows a good adhesion of the new sealant
+The tapered surface requires less quantity of the new sealant
+The tapered surface requires less time
+Why must the repaired surface be absolutely clean and degreased before applying new sealant (Level 2)
+@@Due to providing a good adhesion of the new sealant
+Due to inspection easier
+Due to tack time shorter
+Where does mixing of sealing compound take a place (Level 3)
+@@A well ventilated room
+Inside the airplane
+Any place
+Why is use rubber gloves and a respiratory protection required for mixing sealant (Level 2)
+Sealing compounds are dirty
+@@Sealing compounds are poisonous and can lead to personal injury
+Sealing compounds are sticky
+Mix the sealing compound in a well ventilated room because (Level 3)
+Sealing compounds are poisonous
+Most sealing compounds are highly flammable in the unmixed form
+@@Most sealing compounds are highly flammable in the unmixed form, Sealing compounds are poisonous
+What must be checked before sealing compound mixing process (Level 3)
+@@The activator and the base compound is not over-aged
+The activator and the base compound is not over-aged and from the same repair kit or batch
+The activator and the base compound is not from the same repair kit or batch
+Steps of hand mix process generally (Level 3)
+@@Stir accelerator thoroughly, add the entire accelerator to the base container and mix thorough until a uniform blend
+Stir accelerator thoroughly, add the entire base to the accelerator container and mix thorough until a uniform blend
+Put the entire accelerator to the base container and mix thorough
+Cartridge Hand Mixing requires (Level 3)
+Rotating dasher rod 90° in a spiral clockwise motion with each stroke
+The total number of 50 strokes
+@@The total number of 50 strokes and rotating dasher rod 90° in a spiral clockwise motion with each stroke
+What chapter you will find out some abnormal events happen? (Level 1)
+@@Chapter 5
+Chapter 7
+Chapter 10
+What chapter you find out related information after lightning strike? (Level 1)
+Chapter 27
+@@Chapter 5
+Chapter 32
+What chapter you find out maintenance procedures after hard landing? (Level 1)
+Chapter 12
+Chapter 24
+@@Chapter 5
+After severe or unusual Turbulence happened, which task you have to perform? (Level 2)
+@@The structural inspection
+Electrical Ops. Test
+Steering ope. Test
+Avoid the Overweight landing, what procedures captain will do first? (Level 2)
+Request divert and Landing at bigger airport
+@@Dump Fuel
+Request emergency fire car
+Which is the main cause of A/C damage after bird strike? (Level 2)
+Altitude
+Wind
+@@High speed of A/C
+The regular maintenance carried out is based on the documents issued by the aircraft and equipment manufacturers. They can be as follow: (Level 2)
+Maintenance Review Board Report (MRBR) and Maintenance Planning Data (MPD)
+@@Maintenance Review Board Report (MRBR), Maintenance Planning Data (MPD) and Regulatory Requirements
+Maintenance Review Board Report (MRBR), Maintenance Planning Data (MPD), Maintenance Organization Exposition (MOE) and Regulatory Requirements
+What does the maintenance schedule specify (Level 1)
+@@Maintenance requirements for the aircraft as well as the maximum operating hours for aircraft components as required by regulatory authorities
+Maintenance requirements for the aircraft
+Maximum operating hours for aircraft components as required by regulatory authorities
+How does the aircraft operator ensure the effectivity of the maintenance procedures (Level 1)
+Base on daily notification of aircraft manufacturer.
+@@Continuously checking the maintenance schedule
+Aircraft operator don't need to ensure the effectivity of the maintenance procedures
+Which program are flight-hour sensitive (Level 2)
+Structural Inspection Program
+@@Systems Maintenance and Zonal Inspection Programs
+Structural Inspection, Systems Maintenance and Zonal Inspection Programs
+In what are task intervals expressed (Level 1)
+Hours, cycles, calendar time, flight day
+Hours, cycles, calendar time
+@@Hours, cycles, calendar time or a letter check
+Which rating authorizes to carry out maintenance work on aircraft and aircraft components (including engines / APU), provided those aircraft components are built in the aircraft. (Level 2)
+@@A-Rating
+B-1 / 3 -Rating
+C-Rating
+What kind of information does the Component Capability List (CCL) provide (Level 1)
+List of the component that are installed on aircraft and Maximum operating hours of those components
+Maximum operating hours for aircraft components
+@@List of the part numbers (P/Ns) of parts that have to be maintained in the respective shop.
+Concerning modification, from what can complementary maintenance measures result (Level 1)
+Requirements from authorities (AD, LTA, etc.) only
+@@Requirements from authorities (AD, LTA, etc.) and recommendations from the design / production organizations.
+Recommendations from the design / production organizations only
+Who take decision on the accomplishment of Service Bulletin (SB. (Level 2)
+@@Aircraft / aircraft component owner unless the SB accomplishment is explicitly prescribed by an authority
+Aircraft / aircraft component owner
+Approved maintenance organization
+What happen to an aircraft or aircraft component if it is not accomplished an effective Authority directives before deadline (Level 1)
+Aircraft or aircraft component is allowed to be used for three month.
+@@Aircraft or aircraft component is not allowed to be used in normal operation anymore
+Aircraft or aircraft component is allowed to be used in normal operation
+How must Serviceable material and unserviceable material be stored. (Level 2)
+@@Serviceable material must be stored separately from unserviceable material
+Serviceable material can be stored with unserviceable material provided they is labeled with appropriate tag
+No requirement
+What is rotable component (Level 1)
+Semi-finished products which are not used until processed
+Non-repairable aircraft components with part number, which have to be disposed of depending on the usage
+@@Components for which maintenance documents are released.
+When is a release certificate required (Level 2)
+After every flight
+Prior to every flight of an aircraft which underwent maintenance
+@@Prior to every flight of an aircraft which underwent maintenance and after the production of an aircraft component
+Concerning release certificates for component, when can a release certificate be not required (Level 2)
+After the production of an aircraft component
+@@After maintenance on components that instantly installed in an aircraft without intermediate storage,
+Release certificates must always be issued after any maintenance on components.
+Within one work package, might a different release certificate be required than for the overall release (Level 2)
+No, a workpack always required only an overall release.
+@@Yes
+Yes, providing the workpack is for letter check
+What is Hard time (Level 1)
+A preventative process in which information on items gained from operational experience is collected, analyzed and interpreted on a continuing basis as a means of implementing corrective procedures
+@@A preventative process in which known deterioration of an item is limited to an acceptable level by the maintenance actions which are carried out at periods related to time in service
+A preventive process but one in which the item is inspected or tested at specified periods, to determine whether it can continue in service
+Who is responsible for the airworthiness of the aircraft (Level 2)
+@@The operator
+Approval maintenance organization provided operator have a contract with them
+Authority that overseen the aircraft
+Concerning Components Operating and Storage Limits (COSL), how is time tracking taken place for a component that is stockpiled in the storage and subject to the operating and storage limits (Level 1)
+Continuously for one month
+Time tracking is not required
+@@Continuously

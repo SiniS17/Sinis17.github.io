@@ -1,0 +1,192 @@
+The pneumatic system pump is a. (Level 1) 
+centrifugal type. 
+rotor vane type. 
+piston type. 
+High pressure pneumatic source is a. (Level 1) 
+reciprocating pump. 
+centrifugal Compressor. 
+butterfly pump. 
+High pressure pneumatic pump is a. (Level 1) 
+reciprocating pump. 
+spur gear. 
+butterfly pump. 
+Aircraft pneumatic energy is used for: (Level 1) 
+Engine starting, cabin pressurization and air conditioning wing anti—icing. 
+Water reservoir pressurization and hydraulic reservoir pressurization. 
+Engine starting, cabin pressurization and air conditioning wing anti—icing and Water reservoir pressurization and hydraulic reservoir pressurization. 
+What is meant by the term Bleed Air? Does it mean that… (Level 1) 
+The pneumatic system is pressurized with external connector from ground air cart. 
+There is a leakage which lets air bleed. 
+Air is bled from the engines. 
+Where does the cooling air come from? (Level 1) 
+The air conditioning system is used to cool the engine bleed air. 
+Fan air is used to cool the bleed air.
+Ram air is used to cool the engine bleed air. 
+What is the main reason for monitoring the ducts? (Level 1) 
+This is simply a standard on aircraft. 
+A leakage can cause damage to its environment. 
+The pneumatic pressure may break down. 
+In flight, The pneumatic system can be supplied with: (Level 1) 
+Engines and external air . 
+Engines and APU. 
+Engines,APU and external air. 
+6.Compressed air is bleed form: (Level 1) 
+Engine compressor. 
+Engine combustion. 
+Engine turbine. 
+Is it possible to operate the pneumatic system if an engine bleed air system failure occurs and the APU is not available? (Level 1) 
+Yes, it is, only the cross-bleed valve has to be opened. 
+No, if APU is not available, the system can’t be operated. 
+Yes, the consumers are operational in every situation no matter what the switch positions are. 
+The unit of duct pressure shown in air synoptic page is (Level 1) 
+psid 
+psig 
+Milibar 
+Can you control the high pressure valve from the cockpit: (Level 1) 
+Yes, directly 
+No 
+Yes, by alternate mode 
+At high engine speed the high pressure valve is: (Level 1) 
+Regulating a pressure 
+Fully closed 
+Fully open 
+At high engine speed the high pressure valve is: (Level 1) 
+Regulating a temperature 
+Fully closed 
+Fully open
+At high engine speed the high pressure valve is: (Level 1) 
+Regulating a pressure 
+Fully closed 
+Regulating a temperature 
+In a pneumatic system, the maintainer valve will be fitted in supply lines to. (Level 2) 
+essential equipment. 
+all equipment. 
+non-essential equipment. 
+Two compressors driven by separate engines use. (Level 2) 
+Interconnected to share loads. 
+NRVs to prevent compressors driving each other. 
+PRVs. 
+What is important about the air entering a dry air pump?. (Level 2) 
+It must be filtered. 
+It must be pressure controlled. 
+It must be temperature controlled. 
+What type of compressor is used on a pneumatic system?. (Level 2) 
+Rotary vane type. 
+Spur gear type. 
+Positive displacement type. 
+Aircraft pneumatic energy is used for: (Level 2) 
+Engine starting, cabin pressurization and air conditioning wing anti—icing. 
+Fuel reservoir pressurization and hydraulic reservoir pressurization. 
+Engine starting, cabin pressurization and air conditioning wing anti—icing and Water reservoir pressurization and hydraulic reservoir pressurization. 
+What is meant by the term Bleed Air? Does it mean that… (Level 2) 
+The pneumatic system is pressurized with external connector from ground air car. 
+There is a leakage which lets air bleed. 
+Air is bled from the engines. 
+Where does the cooling air come from? (Level 2) 
+The air conditioning system is used to cool the engine bleed air. 
+Fan air is used to cool the bleed air.
+Air is used to cool the engine bleed air. 
+What is the main reason for monitoring the ducts? (Level 2) 
+This is simply a standard on aircraft. 
+A leakage can cause damage to its environment. 
+The hydraulic pressure may break down. 
+In flight, The pneumatic system can be supplied with: (Level 2) 
+Engines and external air . 
+Engines and APU. 
+Engines,APU and internal air. 
+6.Compressed air is bleed form: (Level 2) 
+Engine compressor. 
+Engine combustion. 
+Engine hight turbine. 
+Is it possible to operate the pneumatic system if an engine bleed air system failure occurs and the APU is not available? (Level 2) 
+Yes, it is, only the cross-bleed valve has to be opened. 
+No, if ENG is not available, the system can’t be operated. 
+Yes, the consumers are operational in every situation no matter what the switch positions are. 
+The unit of duct pressure shown in air synoptic page is (Level 2) 
+psid 
+psig 
+pascal 
+Can you control the high pressure valve from the cockpit: (Level 2) 
+Yes, directly by used 
+No 
+Yes, by alternate mode 
+At high engine speed the high pressure valve is: (Level 2) 
+Regulating a pressure 
+Fully closed 
+Fully open 
+At high engine speed the high pressure valve is: (Level 2) 
+Regulating a temperature 
+Fully closed 
+Fully open
+At high engine speed the high pressure valve is: (Level 2) 
+Regulating air pressure 
+Fully closed 
+Regulating a temperature 
+The purpose of check air valve is: (Level 2) 
+To regulate fuel pressure 
+To prevent backflow 
+To prevent backflow and regulate air pressure 
+On the ground,the pneumatic system can be supplied with: (Level 2) 
+APU. 
+Engines and external air 
+Engines,APU and external air 
+When the moisture separator is purged in a pneumatic system, it dumps. (Level 3) 
+just the moisture trap. 
+the whole system. 
+the system between compressor and regulator valve. 
+If the pneumatic water drain trap is left open for a long time it will drain. (Level 3) 
+between the compressor and the PRV. 
+just the moisture trap. 
+all the system. 
+On a high pressure pneumatic system, if the drain plug for oil and water is left open for long periods of time, the system would. (Level 3) 
+lose pressure from the compressor side only. 
+lose pneumatic pressure partially. 
+lose all pressure. 
+Which statement is correct? (Level 3) 
+Air pressure is bled at a lower compressor stage through a bleed port then the bleed air pressure is lower and when it is bled at a higher compressor stage then the bleed air pressure is higher. 
+Air pressure is bled at a lower compressor stage through a bleed port then the bleed air pressure is higher and when it is bled at a higher compressor stage then the bleed air pressure is lower.
+Air pressure is bled at a highter compressor stage through a bleed port then the bleed air pressure is higher and when it is bled at a higher compressor stage then the bleed air pressure is lower. 
+The role of the pneumatic controller is: (Level 3) 
+To monitor pressure, temperature, leaks, the operation of the engine components. 
+To monitor pressure, temperature, leaks, the operation of the pneumatic & engine components. 
+To monitor pressure, temperature, leaks, the operation of the pneumatic components 
+A high pressure bleed air port is only needed at (Level 3) 
+High engine speed 
+Low engine speed 
+Low and high engine spee 
+A fan air valve is used: (Level 3) 
+To allow more fan air to pass the precooler 
+To allow less fan air to pass the precooler 
+To allow more or less fan air to pass the precooler 
+A built-in precooler is used: (Level 3) 
+To heat the engine bleed air 
+To cool the engine bleed air. 
+To cool or heat the engine bleed air depend on engine speed. 
+Which statement is correct? (Level 3) 
+Air pressure is bled at a lower compressor stage through a bleed port then the bleed air pressure is lower and when it is bled at a higher compressor stage then the bleed air pressure is higher. 
+Fuel pressure is bled at a lower compressor stage through a bleed port then the bleed air pressure is higher and when it is bled at a higher compressor stage then the bleed air pressure is lower. 
+Air pressure is bled at a highter compressor stage through a bleed port then the bleed air pressure is higher and when it is bled at a higher compressor stage then the bleed air pressure is lower. 
+Which statement is correct? (Level 3) 
+Air pressure is bled at a lower compressor stage through a bleed port then the bleed air pressure is lower and when it is bled at a higher compressor stage then the bleed air pressure is higher. 
+Air pressure is bled at a lower compressor stage through a bleed port then the bleed air pressure is higher and when it is bled at a higher compressor stage then the bleed air pressure is lower.
+Fuel pressure is bled at a highter compressor stage through a bleed port then the bleed air pressure is higher and when it is bled at a higher compressor stage then the bleed air pressure is lower. 
+The role of the pneumatic controller is: (Level 3) 
+To monitor temperature, leaks, the operation of the engine components. 
+To monitor pressure, temperature, leaks, the operation of the pneumatic & engine components. 
+To monitor pressure, temperature, leaks, the operation of the pneumatic components 
+A high pressure bleed air port is only needed at (Level 3) 
+High APU speed. 
+Low engine speed. 
+Low and high engine speed. 
+A fan air valve is used: (Level 3) 
+To not allow more fan air to pass the precooler 
+To allow less fan air to pass the precooler 
+To allow more or less fan air to pass the precooler 
+A built-in precooler is used: (Level 3) 
+To heat the engine bleed fuel. 
+To cool the engine bleed air. 
+To cool or heat the engine bleed air depend on engine speed. 
+When the moisture separator is purged in a pneumatic system, it dumps. (Level 3) 
+just the moisture trap. 
+the whole system. 
+the system between air compressor and regulator valve. 

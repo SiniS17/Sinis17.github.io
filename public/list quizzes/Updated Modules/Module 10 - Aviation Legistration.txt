@@ -1,0 +1,1904 @@
+A register of Vietnamese airlines operating on an AOC is maintained by the.  (Level 1)
+ICAO.
+@@CAAV.
+FAA.
+What category of aircraft are required to be painted or affixed with nationality markings of Vietnam? (Level 1)
+All public transport aircraft above 2300Kg.
+All public transport aircraft above 5700Kg.
+@@All aircraft registered in Vietnam.
+To facilitate a repair, a drawing can be taken from.  (Level 1)
+the local authority.
+the manufacturer.
+@@the approved design organization.
+Documents to be carried on a specific aircraft for a specific purpose is given in.  (Level 1)
+VAR Part 5
+@@VAR Part 10
+AOC
+Safe operation of the aircraft is the responsibility of the.  (Level 1)
+VAR Part 5 approved organisation.
+CAAV.
+@@Operator.
+Which set of letters and numbers below can be the marks of Vietnam nationality aircraft? (Level 1)
+VN A221, VN B221, VN C221, VN D221, VN E221.
+VN A221, VN B221, VN C221, VN E221, VN F221.
+@@VN A221, VN B221, VN C221, VN D221.
+How many times must the nationality and registration marks appear on fixed-wing aircraft?.  (Level 1)
+@@4 times.
+3 times.
+5 times.
+Aviation safety Advisory Circulars (Advisory Circulars)  (Level 1)
+are explained in more detail by the VAR Parts.
+explain in more detail subparts of the VAR Parts.
+@@provide specific technical safety requirements in support the Vietnam Civil Aviation Law and supporting legislation.
+For aircraft in commercial air transport, how many radio communications equipment is required? (Level 1)
+at least 01 equipment.
+@@at least 02 independent equipment.
+at least 02 main equipment and 01 backup.
+Details of placards and markings on aircraft will be found in.  (Level 1)
+@@ATA Chapter 11 of the AMM.
+Operations Manual.
+Approved Maintenance Manual.
+How long is the Maintenance Review required for aircraft with a maximum take-off weight of less than 2,730 kg?.  (Level 1)
+@@12 months.
+6 months.
+4 months.
+If a defect is raised and deferred.  (Level 1)
+It is recorded in Technical Manual
+@@It is attached to or aligned with the aircraft technical log
+It is recorded in Deferred Defect Manual
+For CAAV registered aircraft, when maintenance is not carried out by an approved maintenance organization, who shall the maintenance release be completed and signed?: (Level 1)
+@@a person appropriately licensed in accordance with VAR Part 7
+a person appropriately licensed in accordance with regulatory requirements of State of Registry other than Vietnam that complied with Annex 1
+a person appropriately trained in accordance with VAR Part 9
+The responsibility to keep and maintain aircraft logbooks belongs to  (Level 1)
+the owner.
+@@the operator.
+the VAR Part145 organisation maintaining the aircraft.
+As required in VAR Part 12, what logbooks (records of maintenance, check, inspections, repair, and modification activities performed on the aircraft) are required for an AOC holder?  (Level 1)
+Technical logbook.
+Aircraft logbook.
+@@Aircraft/Engine/APU/Modification Logbooks
+AOC holder’s maintenance control manual  (Level 1)
+provides how to maintain a component on an aircraft.
+@@provides the use and guidance of maintenance and operational personnel concerned
+provides when to overhaul a component.
+A major repair/ major modification is carried out  (Level 1)
+without the permission of CAAV
+without need of report to CAAV after the completion
+@@in accordance with technical data approved by the CAAV
+Which statement below is correct (Level 1)
+Documents to be carried on aircraft do not include certificate of Registration, Airworthiness, Insurance and Radio License.
+Documents to be carried on aircraft do not include C of A, Noise certificate
+@@Documents to be carried on aircraft include but not limit to Certificate of Registration, C of A, Noise certificate, License of use of radio devices, Technical Log, AFM or RFM, Normal, abnormal and emergency checklists.
+One of the contents is described in Air operator certificate, which answer is correct ? (Level 1)
+Name and location of AMO
+@@The type(s) of aircraft(s) authorised for use, specific authorizations, conditions and limitations.
+Stamped and signed by Operator
+For all aircraft registered in the Vietnam, the document to be carried on aircraft for all operations described in which VAR’s part?  (Level 1)
+VAR Part 5.
+@@VAR Part 10
+VAR Part 21
+Flight time for aeroplane are record from.  (Level 1)
+take off to touch down.
+first passenger on board to last passenger left.
+@@first moves to taxi to finally come to rest.
+To operate an aircraft in commercial air transport in Vietnam, operators must:  (Level 1)
+@@hold an AOC approved by CAAV.
+hold a DOA Certificate.
+nonspecific requirement.
+Where to find information as record of all servicing of fuel and oil, defects on aircraft during operation?  (Level 1)
+@@Technical logbook.
+Flight manual.
+Aircraft Logbook.
+Amendments to VAR Parts are by way of.  (Level 1)
+orange pages.
+grey pages.
+@@red letters.
+Deferred defects are recorded in.  (Level 1)
+the Deferred defect manual.
+@@the Technical Log.
+the Technical Manual.
+Which of the following mandatory documents must be carried on an aircraft when flying within territory of Vietnam?  (Level 1)
+@@Certificate of Registration.
+Maintenance Manual
+Engine Logbook.
+The Aircraft Maintenance Schedules are produced by.  (Level 1)
+manufacturer with CAAV approval.
+@@operator.
+CAAV Safety Regulation Group.
+What operations do the requirements in VAR Part 17 apply to ?  (Level 1)
+Military aircraft operations
+General aviation operations by light aircraft
+@@Commercial air transport operations and General aviation operations, by Turbojet airplane and large airplane
+VAR Part 17 covers.  (Level 1)
+maintenance.
+instruments and equipment.
+@@mass, balance and performance
+VAR Part 21 Subpart G applies to.  (Level 1)
+@@Manufacture approval
+Maintenance Organization approval
+Air Operator approval
+Which of the following information is not a part of the aircraft Technical Log?  (Level 1)
+Fuel and oil uplift column.
+@@List of approved maintenance organization contracted for aircraft maintenance AOC holder.
+Airport entry column including the departure and arrival airport.
+Requirement about registration marks can be found in.  (Level 1)
+@@VAR Part 2.
+VAR Part 4.
+AC-02-001.
+Documents to be carried on an aircraft include?  (Level 1)
+Tech log, full Operations Manual and Flight Manual.
+Tech Log and parts of the Operations Manual.
+@@Technical Log, C of R, C of A, Noise certificate, License of use of radio devices, AFM or RFM, Normal, abnormal and emergency checklists.
+Who is responsible for approving contents, layout of aircraft Technical Log?  (Level 1)
+The AMO.
+The Operator.
+@@the CAAV
+The mandatory documents to be carried on an aircraft are stated in the.  (Level 1)
+VAR Part 21
+VAR Part 5
+@@VAR Part 10
+By CAAV requirement, the passengers carrying operations by air are unacceptable conduct, what behavior is not acceptable? By CAAV requirement, the passengers carrying operations by air are unacceptable conduct, what behavior is not acceptable? (Level 1)
+may smoke while the no-smoking sign is lighted.
+may smoke if the flight crews accept.
+@@may not smoke while the no-smoking sign is lighted and in any aircraft lavatory.
+Which VAR’s Part requires Vietnam registered aircraft to be maintained in accordance with an Approved Aircraft Maintenance Programme?  (Level 1)
+VAR Part 21.
+@@VAR Part 12.
+VAR Part 7.
+As described in VAR Part 12: Aircraft maintenance programme. How to build a maintenance programme?  (Level 1)
+Based on maintenance programme information made by AMO and any additional applicable experience
+Based on maintenance programme information made by EASA, FAA.
+@@Based on maintenance programme information made by the State of Design or by the organization responsible for the type design and any additional applicable experience.
+How to check the due date of Certificate of Maintenance Review?  (Level 1)
+In the maintenance schedule.
+@@On the CMR.
+In the maintenance statement.
+An operator adds a new aircraft to its fleet.  (Level 1)
+An amendment to its Approved Aircraft Maintenance Schedule (AMS) must be applied for, only if the aircraft differs in any way to the aircraft already in its fleet.
+An amendment to its Approved Aircraft Maintenance Schedule must be applied for, only if the aircraft is a totally different Type to any of the aircraft already in its fleet.
+@@An amendment to its Approved Aircraft Maintenance Schedule must be applied for, even if the aircraft is identical to the aircraft already in its fleet.
+Scheduled maintenance can be extended by authority written into the.  (Level 1)
+@@Approved Aircraft Maintenance Schedule.
+Aircraft Maintenance Manual.
+Approved Maintenance Document.
+Which aircraft type of the aircraft with the registration number VN-Bxxx?  (Level 1)
+Aircraft with jet engines (Turbofan/ Turbojet).
+@@aircraft with turboprop engines (Turboprop).
+aircraft with piston engines.
+What would be a modification?  (Level 1)
+A change has not previously been approved by FAA.
+A change has previously been approved.
+@@A change to the type design of an aircraft, engine or propeller.
+A licenced engineer who is convicted to a drug or alcohol-related offense may be denied any license for a period of up to: (Level 1)
+06 months.
+@@12 months.
+24 months.
+Certificate of Aircraft Registration of an aircraft for international flight on transport aircraft.  (Level 1)
+@@must be carried aboard.
+must not be flown with aircraft.
+does not have to be carried aboard.
+What does MEL stand for? (Level 1)
+Manufacturer Equipment List.
+@@Minimum Equipment List.
+Maximum Equipment List.
+An aircraft operator's MEL.  (Level 1)
+@@can be more restrictive than the MMEL.
+can be less restrictive than the MMEL.
+can be more restrictive with certain limitations.
+An Airworthiness Directive contains.  (Level 1)
+a list of maintenance tasks to be carried out on a particular aircraft as approved by the International Civil Aviation.
+information concerning the airworthiness of aircraft and are distributed by the CAAV.
+@@a list of maintenance tasks to be carried out on a particular aircraft/ aircraft component, required to be done in order to prevent endangering the safety incidents.
+Main definitions are applicable to any VAR Part could be found in?  (Level 1)
+@@VAR Part 1
+VAR Part 4
+VAR Part 5
+The information contained in the VAR Part 21 are (Level 1)
+Air Operator Certification and Administration.
+Issuance, Recognition, Renewal of the Certificate of Airworthiness.
+@@Issuance of Certificate for Aircraft and Products, Equipment’s of Aircraft.
+Exemption or deviation from the Aviation Regulations of Vietnam can be granted by:  (Level 1)
+@@CAAV.
+VAR Part 12 approved Operator.
+VAR Part 5 approved maintenance organization.
+The aircraft owner's Name Plate must be fixed.  (Level 1)
+@@near the main entrance of the aircraft.
+on the instrument panel.
+on the rear fuselage.
+Who is responsible to register the aircraft nationality (Level 1)
+@@the owners or the lessee or the aircraft operators.
+AMO.
+CAMO.
+TSO (Technical Standard Order) authorization holder must  (Level 1)
+comply with VAR Part 7
+comply with VAR Part 10
+@@provide all maintenance, overhaul and repair manual to operators
+Each manufacturer of aircraft’s parts must legibly and permanently mark the following information on the part (Level 1)
+@@trademark, name or symbol of the holder and Part number (P/N) as stated in model designation
+trademark, name of the holder only
+part number and serial number only.
+The requirements for approval a design organization is specified in  (Level 1)
+@@VAR Part 21.
+maintenance manual.
+VAR Part 18.
+Can a person not employed by an approved organisation sign the CRS?  (Level 1)
+@@Only in certain situations.
+No.
+Yes.
+Maintenance of large aircraft must be carried out by  (Level 1)
+a part 12 approved organisation.
+@@a part 5 approved organisation.
+a part 9 approved organisation.
+In normal operation, signing of a CRS within a VAR Part 5 approved company  (Level 1)
+can be done by a suitably licensed engineer not employed by the company.
+@@must be done by a suitably licensed engineer employed by the company.
+can be done by an unlicensed engineer providing they are employed by the company.
+The technical log is a requirement of (Level 1)
+VAR Part 5.
+@@VAR Part 12.
+VAR Part 21.
+Which of the following is not contained in a Tech Log?  (Level 1)
+List of acceptable deferred defects.
+@@Weight and C.G. Schedule.
+A separate provision for the current release to service .
+The operator of an aircraft used for commercial air transport (Level 1)
+@@need not be approved under VAR Part 5 providing they are contracted to a VAR Part 5 organisation.
+must be approved under VAR Part 12 only.
+must be approved under VAR Part 5.
+Who produces and prints maintenance schedules?  (Level 1)
+@@The owner/ Operator.
+Manufacturer.
+The VAR Part 5 approved organisation.
+Which of the following documents forms part of a tech log? (Level 1)
+@@Maintenance Statement.
+Air Operators Certificate.
+Type certificate data sheet.
+Continued airworthiness is the responsibility of.  (Level 1)
+@@the owner or lessee.
+VAR part 9 approved organization.
+VAR part 5 approved organization.
+A prefight inspection.  (Level 1)
+can be carried out only by an A, B1 or B2 licensed, type rated and VAR Part 5 company approved engineer.
+can be carried out only by an A or B1 licensed, type rated and VAR Part 5 company approved engineer.
+@@does not require VAR Part 5 approval for carrying out.
+Under CAAV how long does the Technical Log have to be retained?  (Level 1)
+5 years after the last entry.
+@@2 years after the last entry.
+3 years after the last entry.
+Approval of Design Organization is described in. (Level 1)
+VAR Part 21 – Subpart G.
+@@VAR Part 21 – Subpart J.
+VAR Part 21 – Subpart Q.
+For an aircraft registered in Vietnam, who may sign for maintenance release?  (Level 1)
+@@A suitably licensed engineer employed by a VAR Part145 organisation.
+A member of VAR Part-21 organisation.
+An unlicensed member of a VAR Part145 organisation.
+In the case CAAV issues Airworthiness Directive relating to safety occurrence that required to have specific inspection  (Level 1)
+the proposal of corrective action or inspection or both must be proposed by operator.
+@@Proposal of corrective action or inspection or both by TC/ STC holder must be approved by CAAV.
+the proposal of corrective action or inspection or both must be followed by operator
+What modifications are recorded in the aircraft logbook?  (Level 1)
+@@Modifications on the aircraft only.
+Modifications on Engine, propeller and aircraft.
+Modifications on engine and propeller.
+A repair or modification results in any change in the aircraft operating limitations is found in the (Level 1)
+@@Flight manual.
+Maintenance manual.
+Maintenance schedule.
+The Export Certificate of Airworthiness is: (Level 1)
+@@used for an aircraft that is being exported to registry of another Contracting State.
+export all airworthiness these are being applicable on those aircrafts.
+issued by the Operator to selling that Aircraft.
+If a major modification is carried out on an aircraft, the performed organisation. (Level 2)
+@@Execute the modification form prescribed by CAAV in duplicate, one to aircraft owner/operator, one to CAAV.
+Complete maintenance record as normal work.
+Execute the modification form prescribed by organisation and send to CAAV to notify.
+Vital points are.  (Level 2)
+@@parts of the aircraft where a single malfunction could cause catastrophic failure.
+a check on every maintenance schedule input.
+when an engine/fuel system is disturbed.
+The VAR Part 4 provides standards for continuing airworthiness for:  (Level 2)
+Aircraft is operating inside of Vietnam.
+@@Aircraft registered in Vietnam, whether operating inside or outside the borders of Vietnam.
+Aircraft is operating inside or outside the borders of Vietnam.
+An MMEL is compiled by.  (Level 2)
+an air operator and approved by the state of design.
+the manufacturer and the AOC company.
+@@the design organization.
+CAAV Airworthiness Directive shall cover  (Level 2)
+@@Vietnam registered civil aircraft of the type identified in that airworthiness directive.
+civil aircrafts.
+aircraft above and below 5700Kg MTWA and equipment fitted to them.
+Who issues a C of A for Vietnam registered aircraft?  (Level 2)
+@@CAAV.
+The manufacturer.
+VAR Part 5 approved organisation.
+The validity of noise certificate is  (Level 2)
+06 months
+01 year
+@@the same with the validity of airworthiness certificate
+CAAV may issue a special flight permit to an aircraft that is capable of safe flight, but unable to meet applicable airworthiness requirements for a specific purpose in accordance with  (Level 2)
+VAR Part 7
+VAR Part 9
+@@VAR Part 4
+The validity of Certificate of Airworthiness issued by CAAV is.  (Level 2)
+24 months.
+@@06 months for the first issuance and 12 months after renewal.
+09 months
+Standard Airworthiness Certificates will be issued by CAAV (Level 2)
+for aircraft operated in Vietnam by foreign operator.
+@@for aircraft operated by Vietnam operator, in the specific category and model designated by the State of Design in the type certificate.
+for aircraft registered in Vietnam with the restriction or special flight permission
+The definition of overhaul.  (Level 2)
+@@the restoration of an aircraft using methods, techniques, and practices acceptable to CAAV, including disassembly, cleaning, and inspection, repair and reassembly; and tested in accordance with approved standards and technical data.
+The examination of an aircraft or aircraft component to establish conformity with a standard approved by the CAAV.
+is specified in VAR Part 7.
+The owner of an aircraft or the lessee must keep maintenance record of the entire aircraft:  (Level 2)
+in a period decided by operator, even removing right after the work completed.
+@@to include the total time in service of the aircraft and all life limited parts and appropriate details of modifications and repairs.
+as required in VAR Part 7.
+A modification to an aircraft is recorded in:  (Level 2)
+The Engine Logbook.
+@@The modification record book.
+The Aircraft Logbook.
+Scheduled Maintenance can be extended by.  (Level 2)
+No, the scheduled maintenance could not be extended by any reason.
+@@procedure which is prescribed in the documents of the aircraft maintenance schedule (AMS) approved by CAAV.
+procedure which is approved by Operator.
+Requirements for continuing airworthiness of aircraft is prescribed in.  (Level 2)
+@@VAR Part 4
+VAR Part 5
+VAR Part 7
+A modifications is considered as Major described in  (Level 2)
+@@VAR Part 4
+VAR Part 5
+VAR Part 12
+A repairs is considered as Major described in.  (Level 2)
+@@VAR Part 4
+VAR Part 21
+VAR Part 5
+An Airworthiness Directive carried out on an engine is recorded in.  (Level 2)
+@@the Engine Logbook.
+the Aircraft Logbook.
+the Modification Record Book.
+If an Airworthiness Directive has not been complied with within the flying hour limitations given on the directive, what effect would this have on the engine ?  (Level 2)
+The aircraft can be certified fit for flight and continue operation for the period of validity of the certificate.
+@@The engine and thus the aircraft is grounded until the directive has been complied with.
+The manufacturer can award an extension to the compliance time to enable the engine to remain in operation.
+The term 'inspection' is defined as meaning.  (Level 2)
+correct installation and operation of the task.
+general visual check the condition of the component or system.
+@@examination of an aircraft or aircraft component to establish conformity with a standard approved.
+A hard time engine inspection involves.  (Level 2)
+@@replacement with a new or overhauled component.
+removal of an engine component, it's inspection and refitting.
+an inside function test.
+Who is responsible for developing methods to implement maintenance inspection as required and assign inspectors for required inspection (RII)? (Level 2)
+@@Aircraft operator
+AMO
+CAAV
+Nuts, bolts are classified as.  (Level 2)
+Class I Product.
+@@Standard parts.
+Class II Product.
+Rectification of defects is entered in.  (Level 2)
+@@Technical Log.
+Quality assurance records.
+Dangerous goods transport document.
+The repair is.  (Level 2)
+@@The restoration of an aircraft/aircraft component to a serviceable condition in conformity with an approved standard .
+The alteration of an aircraft/component in conformity with an approved standard .
+The examination of an aircraft or aircraft component to establish conformity with an approved standard.
+After a modification to an aircraft, what must be raised?  (Level 2)
+@@Certificate of Release to Service.
+Certificate of Modification.
+Certificate of Maintenance Review.
+What maintenance work must be recorded and signed for?  (Level 2)
+Only work involving replacements.
+@@All maintenance work carried out.
+Only work which entails a duplicate inspection.
+Who can sign the Certificate of Release to Service for aircraft with maximum take-off weight 5700 kg more?  (Level 2)
+An ARS licensed engineer.
+@@An AMT licensed engineer.
+The holder of an Inspection Authorization.
+Airworthiness Directive (AD) applicable for Vietnam registered aircraft is issued by.  (Level 2)
+The TC holder.
+ICAO.
+@@CAAV and Competent Authority of the State of Design.
+Which aircraft part must be listed and time controlled.  (Level 2)
+@@life limited parts and parts subject to a mandatory overhaul life.
+standard parts.
+ESDS parts.
+Which is definition of modification.  (Level 2)
+The examination of an aircraft or aircraft component to establish conformity with a standard approved by the CAAV.
+@@The alteration of an aircraft/component in conformity with an approved standard.
+The restoration of an aircraft/aircraft component to a serviceable condition in conformity with an approved standard.
+Aircraft Class I Product is.  (Level 2)
+@@A complete aircraft, aircraft engine, or propeller that has been type-certificated in accordance with the applicable regulations, and for which approved Specifications or TC data sheets have been issued.
+A major component (e.g., wings, fuselages, empennage assemblies, landing gears, power transmissions, or control surfaces, etc.).
+A part manufactured in complete compliance with an established Government or industry - accepted specification which includes design, manufacturing, and uniform identification requirements.
+Unsalvageable Parts.  (Level 2)
+Can be re-used.
+@@Should be mutilated and disposed.
+Sold as serviceable parts.
+What is airworthy status of an aircraft engine, propeller or part.  (Level 2)
+when it conforms to its approved design.
+@@when it conforms to its approved design and is in a condition for safe operation.
+The status of an aircraft engine, propeller or part when it be maintained.
+When an unserviceable component is removed from an aircraft and replaced with a different component to carry out the same function it is classified as.  (Level 2)
+a repair.
+a modification.
+@@a replacement.
+All maintenance tasks for the aircraft shall be certified to confirm the maintenance completion and recorded into the aircraft record system, in not later than:  (Level 2)
+@@30 days since the date of accomplishment of the maintenance tasks.
+7 days since the date of accomplishment of the maintenance tasks.
+15 days since the date of accomplishment of the maintenance tasks.
+What happens to a life-limited component when removed from an aircraft?  (Level 2)
+@@Replaced for rejection.
+Placed in quarantine store.
+Inspected and if serviceable can be replaced.
+Where would you find the authority and responsibility of the Pilot in command?  (Level 1)
+VAR Part 7
+VAR Part 9
+@@VAR Part 10
+The 'Threshold Time' approved by CAAV for an aircraft diverting from point on a route to a suitable alternate aerodrome is (Level 1)
+90 minutes
+@@60 minutes or a threshold time approved by the CAAV .
+120 minutes.
+Additional documents applicable to international flights includes (Level 1)
+@@An aircraft radio licence and an English translation noise certificate
+General declaration for customs and original noise certificate (without translation into English)
+An aircraft radio licence only
+Record of emergency and survival equipment carried on aircraft shall include  (Level 1)
+Type and frequencies of radio equipment
+@@Number, colour and type of life rafts and pyrotechnics, details of emergency medical supplies, Water supplies, and type and frequencies of the emergency portable radio equipment.
+Type of life rafts and pyrotechnics
+For ELT-equipped aircraft operation, it is required to be  (Level 1)
+checked within the past 24 calendar months
+checked within the past 06 calendar months
+@@checked within the past 12 calendar months
+A decision height of CAT I approach and landing is not lower than (Level 1)
+@@60 m (200ft).
+40 m (130ft).
+30 m (100ft).
+A decision height of CAT II approach and landing is  (Level 1)
+30m (100ft) or less.
+60m (200ft) or more.
+@@lower than 60m (200ft) but not lower than 30m (100ft)
+A runway visual range of CAT IIIA approach and landing is  (Level 1)
+@@175m (700ft) and more
+175m (700ft) and less
+550m (1800ft) and less
+In CAT III operation, decision height is recognized by.  (Level 1)
+a sonar altimeter.
+a barometric servo altimeter.
+@@a radar altimeter.
+Aircraft of mass greater than 5700 kg are weighed.  (Level 1)
+at manufacture and at the annual inspection.
+at manufacture and then at 2 years and then at periods not exceeding 5 years.
+@@at manufacture and then at periods not exceeding 4 years
+Management system of aircraft maintenance:  (Level 1)
+is prepared by operator and no need to be approved by CAAV
+includes MEL for each type of aircraft and technical service promotion policies
+@@includes procedures for issuing CMR and CRS.
+The minimum equipment list (MEL) is compiled by.  (Level 1)
+the manufacturer and the air operator after joint consultation.
+@@the AOC holder.
+the manufacturer.
+Each page of aircraft technical logbook should be numbered at least:  (Level 1)
+@@three copies.
+four copies.
+two copies.
+To determine the load rate and distribution of goods does not exceed the limit on mas and balance of the aircraft. When the operator must complete weight and balance documentation?  (Level 1)
+any time when base maintenance is carried out.
+as specified in the Maintenance Schedule.
+@@prior to each flight to sort and distribute goods
+Where are the conditions allowing the operation of an aircraft with certain systems or equipment inoperative provided an acceptable level of safety is maintained stated? (Level 1)
+MMEL prepared by operator
+@@MEL approved by CAAV
+Maintenance Schedule
+The minimum equipment list is approved by.  (Level 1)
+@@CAAV.
+The Operator.
+The manufacture.
+Based on maintenance programme information made available by the State of Design, the operator will prepare the aircraft maintenance programme. Who is responsible for approving the Aircraft Maintenance Programme:  (Level 1)
+@@CAAV.
+The Operator.
+The AMO.
+How long is the Maintenance Review required for aircraft with a maximum take-off weight of more than 2,730 kg?  (Level 1)
+1 year.
+@@6 months.
+4 months.
+When a modification is carried out on an aircraft, details are entered in.  (Level 1)
+the Aircraft Logbook.
+the Modification Record Book.
+@@both the Aircraft Logbook and the Modification Record Book.
+How long are the logbooks retained by the AOC Holder after the aircraft has been destroyed or permanently withdrawn from service?  (Level 1)
+Until the CAAV has given authorisation for them to be destroyed.
+Two (2) years
+@@One (1) year.
+An AOC is issued by the CAAV for aircraft in the.  (Level 1)
+transport and Aerial Work.
+@@commercial air transport.
+military transport.
+The legal responsibility for ensuring that the aircraft load rate and distribution goods does not exceed the limit on mass and balance of the aircraft.  (Level 1)
+@@Commander of the aircraft.
+Load Master.
+CRS staff.
+Deferred defect pages are kept in the.  (Level 1)
+maintenance schedule.
+maintenance logbook.
+@@aircraft technical log.
+How to track the deferred defects?  (Level 1)
+Tech Log and Cabin Defect Logbook.
+Tech Log and maintenance records.
+@@Tech Log and maybe include a separate page or pages in the front or back of the technical log.
+To operate aircraft in commercial air transport in Vietnam, which statement is correct? An Air Operators Certificate must be issued by the CAAV. before an airline can.  (Level 1)
+@@No person may operate an aircraft in commercial air transport operations that are not authorised by the terms and conditions of its AOC.
+Person may operate an aircraft in commercial air transport operations without AOC issuance.
+The AOC holder only operates military aircraft and the operations being conducted.
+Air Operator Certificate is issued by  (Level 1)
+@@CAAV
+AOC
+The manufacture
+Who is responsible for continuing airworthiness of aircraft?  (Level 1)
+CAAV
+@@The owner of an aircraft or, in the case of a leased aircraft, the lessee
+Approved maintenance organization
+Who is responsible for composing the reliability program for aircraft/ engine?  (Level 1)
+Manufactures
+@@Operators
+CAAV
+Who is responsible for approval the reliability program for aircraft/ engine?  (Level 1)
+Manufactures
+Operators
+@@CAAV
+The AOC holder shall maintain, on each aircraft, a technical log that contains the record of all servicing of fuel and oil, defects, trend monitoring and maintenance tasks and tests on that aircraft during.  (Level 1)
+@@the course of its operation.
+02 years.
+03 years.
+A Technical Log is originated by.  (Level 1)
+Manufacturer.
+CAA.
+@@Operator.
+To operate aircraft in commercial air transport, what certificate does the CAAV issue to persons and organizations (VAR Part 12)? (Level 1)
+Aerial Application Certificate.
+Aerial Dealers Certificate.
+@@Air Operators Certificate.
+How long shall AOC holder keep the maintenance record for aircraft maintenance after aircraft has been permanently withdrawn from service or destroyed?  (Level 1)
+@@for a minimum of 12 months .
+for a minimum of 18 months.
+for a minimum of 24 months.
+An Air Operator Certificate is effective for:  (Level 1)
+6 months.
+36 months.
+@@12 months.
+In an operator, a Certificate of maintenance Review may be signed by.  (Level 1)
+any employee holding an appropriate licence.
+qualified persons nominated by the company.
+@@The aircraft maintenance review staff (AMT-IA) is authorised by the CAAV.
+AMO is.  (Level 1)
+@@Approved Maintenance Organization.
+Aircraft Maintenance Organization.
+Air Maintenance Organization.
+To be approved the approved maintenance organizations and persons working for this organization, which VAR’s Parts shall the organization comply with?  (Level 1)
+@@VAR Part 4, Part 5, Part 7.
+VAR Part 7, Part 9, Part 21
+VAR Part 4, Part 7, Part 9
+Who signs maintenance release or approval for return to service an aircraft, airframe, aircraft engine, propeller, appliance, or component part after it has undergone maintenance, preventive maintenance, rebuilding, or modification? (Level 1)
+A type rated engineer authorized by a VAR Part 5 AMO.
+A VAR Part 7 licensed Aviation maintenance technician (AMT).
+@@A VAR Part 7 Licensed Aviation maintenance technician (AMT) or Aviation repair specialist (ARS) authorized by VAR Part 5 Approved Maintenance Organization (AMO).
+The competent authority of VAR Part 5 Approved maintenance organisation is: (Level 1)
+the CAA.
+the NAA of the country it is located in.
+@@the CAAV.
+Maintenance release shall contain?  (Level 1)
+@@The identity of the person or persons signing the release.
+The identity of AMO Account Manager.
+The identity of AMO appropriately nominated manager.
+A large VAR Part 5 AMO with more than 500 maintenance employees needs to have an audit team that  (Level 1)
+@@only performs the audit, reporting deficiencies and monitoring corrective action.
+can be combined with maintenance part of the organization.
+can be contracted out to another company.
+Maintenance record held by a VAR Part 5 AMO is kept for at least  (Level 1)
+3 years after they were raised.
+5 years after they have expired.
+@@2 years from the date that the maintenance work was released.
+A maintenance release shall be issued by appropriately authorised certifying staff. (Level 1)
+@@when satisfied that all required maintenance of the aircraft or aircraft component has been properly carried out by the AMO holder in accordance with the maintenance procedure manual.
+when satisfied that the maintenance has been carried out without the need of compliance to maintenance procedure manual
+only when an aircraft part is replaced with a modified part.
+For a VAR Part 5 approved maintenance organisation, who is responsible for ensuring all necessary resources are available to accomplish maintenance required to support the AMO's approval?  (Level 1)
+The Base Maintenance Manager.
+The Safety and Quality Assurance Manager.
+@@The Accountable Manager.
+Shall the Vietnam-registered aircrafts be maintained and released to service? (Level 1)
+by a Maintenance Organization Approved by the CAA
+under equivalent system of maintenance recognized by the CAA.
+@@by a Maintenance Organization Approved by the CAAV or under an equivalent system of maintenance approved by the CAAV in accordance with VAR Part 5 of CAAV regulations.
+Who is allowed to sign certifying completion of maintenance after implementation maintenance work planned on aircraft at VAR Part 5 AMO?  (Level 1)
+the Category B certifying staff.
+@@the Category C certifying staff.
+the Accountable Manager.
+A VAR Part 5 approval is not required to carry out  (Level 1)
+base maintenance.
+defect rectification.
+@@prefight inspection.
+VAR Part 5 AMO shall record all details of the maintenance work performed in a form and manner acceptable to  (Level 1)
+EASA
+@@CAAV
+FAA
+The VAR Part 7 AMT license holder will not be allowed to carry out the rating specified in the license unless.  (Level 1)
+he/she has received continuation training as required in VAR Part 7.
+he/she has worked on the aircraft type for at least 12 months within the last 2 years.
+@@he/ she complies with the requirements prescribed for an approved maintenance organization in accordance with VAR Part 5 and during the previous two years, he/she must have a minimum of 6 months of maintenance experience directly under the rating granted AMT license or evidence met the conditions for licensing related.
+An approved VAR Part 5 organisation is one which complies to  (Level 1)
+the requirements of the FAA.
+the requirements of the ICAO.
+@@the requirements of the CAAV.
+How long does a licensed engineer have to produce his/her authorisation certification if asked by the CAAV inspector?  (Level 1)
+immediately.
+7 days.
+@@within a reasonable time of the request.
+A VAR Part145 approved maintenance organisation is authorised to.  (Level 1)
+approve major modifications.
+@@perform maintenance, preventive maintenance or modifications on an aircraft.
+originate repair schemes and manufacture parts.
+VAR Part 5 AMO shall ensure the availability of necessary equipment, tool and materials to perform approved scope of work and  (Level 1)
+no need to calibrate testing and measuring equipment
+AMO can use tool other than which manufacturer specifies without equivalent confirmation
+@@these items shall be under full control of the AMO
+Any identified condition that could present a serious hazard to the aircraft while it is undergoing maintenance by a VAR Part 5 organisation. must be reported to CAAV within  (Level 1)
+2 working days.
+1 working day.
+@@3 working days.
+Certifying staff is required to carry authorization document  (Level 1)
+all times
+no need to carry all times but shall produce it within 24 hours of the request from CAAV inspector
+@@no need to carry all times but shall produce it within a reasonable time of the request from CAAV inspector.
+How long does a VAR Part 5 AMO have to retain certifying staff record?  (Level 1)
+at least 5 years after that person has ceased employment with the AMO
+@@At least 2 years after that person has ceased employment with the AMO or upon withdrawal of his/her authorisation.
+At least 4 years after that person has ceased employment with the AMO.
+Except in the case where a computer maintenance release system is used, the person who issues maintenance release  (Level 1)
+@@shall use the full signature and preferably a certification stamp
+uses the full signature only.
+writes the name without signature
+In the case A VAR Part 5 organisation finds a condition on an aircraft which could be seriously hazardous, the AMO must inform the aircraft design organisation within.  (Level 1)
+@@3 working days.
+24 hours.
+7 days.
+In a VAR Part 5 company, who is responsible for controlling record of certifying staff?  (Level 1)
+Tech Records.
+@@Quality Department.
+Human Recourse Department.
+Who monitors how a noncertificated CAAV, FAA or EASA person contracted to VAR Part 5 AMO is adhering to the requirements?  (Level 1)
+Base Maintenance Manager.
+Accountable Manager.
+@@Quality Manager.
+Except to Prefight inspection, Vietnam registered aircraft must be maintained and released to service by:  (Level 1)
+@@A VAR Part 5 AMO or equivalent system of maintenance that is approved by the CAAV in accordance to VAR Part 5
+System of maintenance that is approved by the CAAV in accordance to VAR Part 12
+Noncertificated CAAV person
+CAAV approval of a VAR Part 5 organisation to undertake base maintenance of a particular aircraft type can be found in.  (Level 1)
+the company’s AOC data sheet.
+the company operations manual.
+@@the company’s Operation Specification.
+A VAR Part 5 company is required to have a person who is acceptable to CAAV and has corporate authority for ensuring that it is in compliance with the requirements for an AMO.  (Level 1)
+a technical director.
+a licensed engineer.
+@@an accountable manager.
+Serviceable aircraft part should be stored.  (Level 1)
+in serviceable store without control of the organization.
+@@segregated from unserviceable part
+anywhere in hangar.
+Under the VAR Part 5 Approval System, an A1 rating relates to aircraft.  (Level 1)
+in base maintenance only.
+@@of 5700 kg maximum certificated take-off weight or less.
+exceeding 5700 kg maximum certificated take-off weight
+Line maintenance under VAR Part 5 is defined as typically.  (Level 1)
+C and D checks.
+component maintenance.
+@@Any unscheduled maintenance resulting from unforeseen events
+The responsibility for immediately reporting incidents and accidents occurring within Vietnam airspace with Vietnam-registered aircraft is of.  (Level 1)
+@@The air operator
+The approved maintenance organization
+The approved training organization
+By requirement of VAR Part 5, in the case of serious hazard to the aircraft, to whom the AMO holder shall report to? By requirement of VAR Part 5, in the case of serious hazard to the aircraft, to whom the AMO holder shall report to? (Level 1)
+CAAV.
+Operator.
+@@CAAV, the aircraft design organization and AOC Holder that the AMO Holder is contracted by.
+The minimum distribution of the Authorised Release Certificate CAAV Form 1 is.  (Level 1)
+to remain with the component to which it refers.
+@@one for the aircraft operator and one for AMO holder.
+to be retained by the originator.
+The Authorised Release Certificate CAAV Form 1 can be issued for.  (Level 1)
+several items entered onto it providing they are identical part numbers.
+@@several items with different part numbers.
+only one item entered onto it.
+In the case of satisfactory aircraft component replacement, which of the followings is issued? (Level 1)
+Certificate of maintenance review.
+@@Maintenance Release.
+A maintenance statement.
+The authorised release certificate CAAV form 1 is.  (Level 1)
+issued from the tech log prior to the flight.
+@@an CAAV approved aircraft parts release document issued by approved organisations.
+used to return or release unserviceable components from the aircraft.
+Aviation accidents, incidents and occurrences are classified into  (Level 1)
+2 levels
+4 levels
+@@5 levels
+On completion of the overhaul of an aircraft component by an VAR Part5 organization.  (Level 1)
+@@the maintenance records with a certified CRS are retained by the AMO and a copy of CAAV Form 1 is issued to the customer.
+the Worksheets with a certified CRS are placed in the aircraft file with the log books.
+the Worksheets are retained by the overhaul organization in their own files.
+The statement of a Maintenance release issued by a VAR Part5 organisation can be found in. (Level 1)
+the MOE.
+VAR Part 4, 4.
+@@Appendix 1 to VAR Part 5, 5.150(b).
+The scope of authorisation of a VAR Part 7 AMT licence holder in VAR Part 5 AMO is issued by? (Level 1)
+The competent authority.
+@@VAR Part 5 AMO.
+VAR Part 9 ATO.
+The validity of VAR Part 5 AMO Certificate is  (Level 1)
+@@12 months
+24 months.
+36 months
+After a mandatory inspection has been carried out by a Licensed Engineer, what is issued?  (Level 1)
+@@Maintenance release.
+A Flight Release Certificate.
+A Certificate of Maintenance Review.
+A maintenance release is required for:  (Level 1)
+@@At the completion of any maintenance on an aircraft component when off the aircraft
+At the completion of any maintenance on an aircraft component when installed on the aircraft
+Before the completion of any package of maintenance scheduled by the approved aircraft maintenance programme on the aircraft
+Aircraft rating issued for an AMO with Class 1 is for aircraft.  (Level 1)
+over 13610 kg MTOM.
+over 2730 kg MTOM.
+@@less than 5700 kg MTOM.
+The privileges of VAR Part 7 licensed AMT level B2 is.  (Level 1)
+@@sign completion of maintenance after performing maintenance work on electronic and electric system
+sign completion of maintenance after performing maintenance work on electronic system
+sign completion of maintenance after performing maintenance work on the aircraft structure, systems and propulsion systems engine and electric
+A VAR Part 5 approved organisation may contract a maintenance function to.  (Level 1)
+any noncertificated CAAV companies.
+any noncertificated EASA companies.
+@@any nonapproved companies that is listed in AMO Maintenance Organisation Exposition
+The VAR Part 5.  (Level 1)
+@@prescribes the requirements for AMO.
+applies to all Vietnam Aircraft.
+prescribes the requirements for training organization.
+Aircraft and aircraft component records must be retained by a VAR Part 5 approved organization for a period of.  (Level 1)
+three years after the aircraft component is permanently removed from service or destroyed.
+@@two years from the date the aircraft or aircraft component was released from the VAR Part 5 approved maintenance organization.
+5 years after the aircraft or aircraft component has been destroyed or permanently removed from service.
+The requirements of personnel for an organization approved to undertake maintenance on commercial transport aircraft are to be found in.  (Level 1)
+@@VAR Part 5.
+VAR Part 7.
+VAR Part 9.
+On a Certificate of Release to Service, an examination of an aircraft component to confirm conformity with a standard approved by CAAV is recognized as  (Level 1)
+replacement.
+@@inspection.
+overhaul.
+To comply with VAR Part – VAR Part 5  (Level 1)
+the Acceptable Means of Compliance can be used.
+any additional national directives must be used.
+@@Advisory Circulars - AC 05 can be used.
+The privileges of VAR Part 7 licensed AMT level B1 is.  (Level 1)
+sign completion of maintenance after performing maintenance work on electronic and electric system
+sign completion of maintenance after performing maintenance work on electronic system
+@@sign completion of maintenance after performing maintenance work on the aircraft structure, systems and propulsion systems engine and electric
+VAR Part 7 AMT must be.  (Level 1)
+@@not less than 18 years of age.
+There is no Age limitation.
+not less than 21 years of age.
+A VAR Part 5 organisation's accountable manager is responsible for.  (Level 1)
+ensuring that all line maintenance procedures are carried out.
+@@ensuring that all necessary resources are available to accomplish maintenance.
+ensuring that all base maintenance procedures are carried out.
+The requirement for VAR Part 5 AMO facilities  (Level 1)
+hangar with no specific requirement
+no need to have office, all work can be performed in hangar
+@@Storage facilities for serviceable aircraft components shall be clean, well ventilated and maintained at an even dry temperature to minimise the effects of condensation
+The requirement for having a Quality Assurance System to a maintenance organisation are set out in.  (Level 1)
+VAR Part 21.
+VAR Part 4.
+@@VAR Part 5
+An Authorised certifying staff will sign a CRS when.  (Level 1)
+he is happy that all physical aspects of the job are finished.
+he is qualifying for company approval.
+@@the required maintenance is properly carried out IAW the maintenance procedure manual.
+Specific class or limited ratings, special approval and limitations of an organisation can be found in.  (Level 1)
+front of the maintenance schedule.
+VAR Part145 list of companies.
+@@the Operations Specifications.
+A CAAV approved capability list of the VAR Part 5 AMO gives.  (Level 1)
+details of the operational restrictions placed on an aircraft with a C of A.
+details of the scope & extent of a type rated engineer’s license.
+@@details of the article which the organisation is approved to perform maintenance, preventive maintenance or modifications.
+The Base Maintenance manager of VAR Part 5 AMO shall be responsible for  (Level 1)
+@@ensuring that all maintenance required to be performed in the hangar is carried out to specified design and quality standards
+only ensuring that defect rectification is carried out to specified design and quality standards
+Monitoring the AMO's compliance with VAR Part 5
+VAR Part 5 prescribes the requirements of CAAV for  (Level 1)
+@@Approved aircraft maintenance organization.
+Air Operator Certification
+Approved Training Organization
+VAR Part 5 AMO certificate is signed by.  (Level 1)
+@@CAAV.
+The manufacture.
+The operator.
+AMO Operations Specifications will contain.  (Level 1)
+@@The terms of approval, including specific class or limited ratings, special approvals and limitations issued.
+The date of issue and period of validity.
+The name and location of AMO holder.
+AMO certificate will contain.  (Level 1)
+@@The certificate number specifically assigned to the AMO holder and the date of issue and period of validity.
+Accountable manager and Authority signatures.
+The terms of approval, including specific class or limited ratings, special approvals and limitations issued.
+A maintenance release shall be issued by.  (Level 1)
+@@appropriately authorised certifying staff.
+AMO engineer.
+Technician staff.
+AMO certificate includes.  (Level 1)
+@@A one page certificate and a multi-page Operations Specifications.
+A one page certificate signed by AMO.
+A one page certificate signed by Operator.
+VAR Part 5 AMO shall have production man-hour plan that  (Level 1)
+@@relates to aircraft hangar visit plan in the case AMO is approved for base maintenance
+is made one time for permanently using
+does not contain the quality monitoring compliance function man-hour
+A maintenance release certificate shall contain (Level 1)
+@@Basic details of the maintenance carried out; The date such maintenance was completed; The identity, including the authorisation reference, of the AMO; and the identity of the person or persons signing the release.
+Description the maintenance carried out.
+identify areas or components subject to timed life.
+AMO shall report to CAAV about un-airworthy conditions that could present a serious hazard to the aircraft within.  (Level 1)
+@@3 working days
+2 working days.
+1 working day.
+Where does the airworthiness technical data for an AMO holder come from?  (Level 1)
+@@The aircraft/aircraft component design organization.
+CAMO.
+AMO.
+According to CAAV Var Part 5, the ratings issued for an AMO are specified in.  (Level 1)
+@@AMO Operations Specification
+AMO Caplist.
+AMO roster.
+Which part is applicable to the approved organizations and persons working for those organisations that provide maintenance services for aircraft registered in Vietnam ?  (Level 1)
+@@VAR Part 5
+VAR Part 4
+VAR Part 7
+According to CAAV VAR Part 5, how many classes are the aircraft rating divided into?  (Level 1)
+@@7
+6
+5
+Which aircraft rating class is aircraft composed primarily of composite material, over 5,700 kg maximum certificated take-off weight?  (Level 1)
+@@Class 7
+Class 6
+Class 5
+Which rating on a maintenance organization certificate that permits maintenance organization to perform maintenance, preventive maintenance, or modifications of powerplants?  (Level 1)
+@@Powerplant ratings
+Propeller ratings
+Aircraft ratings
+Which following case is required a maintenance release?  (Level 1)
+@@Before flight at the completion of any package of maintenance scheduled by the approved aircraft maintenance programme on the aircraft, where such maintenance tool place as base or line maintenance.
+Before the completion of any package of maintenance scheduled.
+Before the completion of any maintenance work.
+Maintenance Organization Procedure Manual of a CAAV approved maintenance organisation is approved by.  (Level 1)
+@@CAAV.
+AMO.
+The Operator.
+Accountable Manager of a CAAV approved maintenance organisation is accepted by.  (Level 1)
+@@CAAV.
+AMO.
+The Operator.
+The capability list of a CAAV approved maintenance organisation is approved by.  (Level 1)
+@@CAAV.
+AMO.
+The Operator.
+What are the most suitable requirements for storage condition of an AMO? (Level 1)
+Storage conditions shall be provided security for serviceable parts
+Storage conditions shall be segregated of serviceable /unserviceable parts, and prevent deterioration of and damage to stored items
+@@Storage conditions shall be provided security for serviceable parts, segregation of serviceable /unserviceable parts, and prevent deterioration of and damage to stored items
+Which following answer is correct? (Level 1)
+A maintenance release shall be issued by CRS cat A or cat B or cat C and carried out by the AMO holder in accordance with the maintenance procedure manual
+A maintenance release shall be issued by CRS cat A, cat C
+@@A maintenance release shall be issued by appropriately authorised certifying staff, when satisfied that all required maintenance of the aircraft or aircraft component has been properly carried out by the AMO holder in accordance with the maintenance procedure manual
+When found any identified condition that could present a serious hazard to the aircraft (un- airworthy conditions), AMO holder shall report to?  (Level 1)
+CAAV, Aircraft operator
+The aircraft design organization.
+@@CAAV, aircraft operator, the aircraft design organization.
+When does the AMO holder send the reporting of un-airworthy conditions to the CAAV? (Level 1)
+@@as soon as practicable, but in any case, within 3 working days
+in any case within 4 working days.
+in any case within 2 working days.
+All airworthiness technical data used by the AMO holder be.  (Level 1)
+@@kept current and made available to all personnel who require access to that data to perform their duties.
+not backed-up.
+used any revision by personnel who perform their duty.
+The holder of an AMO certificate shall.  (Level 2)
+No need to display its approved certificate.
+Display approved certificate in CEO office.
+@@Display approved certificate in a place in the facilities that is normally accessible to the public and that is not obscured.
+In a CAAV approved maintenance organisation, A Certificate of Release to Service must be retained for.  (Level 2)
+two years after expiry of period of validity.
+@@two years after date of issue.
+six months after date of issue.
+What is Aircraft rating class 1 of an AMO.  (Level 2)
+@@Aircraft (other than rotorcraft and aircraft composed primarily of composite material) of 5,700 kg maximum certificated take-off weight or less.
+Reciprocating engines.
+Aircraft computer systems.
+The AMO holder shall have available the necessary equipment, tools, and material to perform the approved scope of work and these items shall be under full control of the AMO holder. The availability of equipment and tools means.  (Level 2)
+@@Permanent availability except in the case of any tool or equipment that is so rarely needed that its permanent availability is not necessary.
+Necessary tool or equipment can be ordered during performing the related work.
+Necessary tool or equipment can be rented and no need to be controlled.
+Storage conditions.  (Level 2)
+Can be accessed by anyone.
+Can be unsecured.
+@@Be provided security for serviceable parts, segregation of serviceable from unserviceable parts, and prevent deterioration of and damage to stored items.
+The CAAV approved certificate for an AMO is effective for:  (Level 2)
+@@12 months.
+18 months.
+24 months.
+How long shall the AMO keep the record of a certifying person, as required by CAAV?  (Level 2)
+@@24 calendar months after that person has ceased employment with the AMO or upon withdrawal of his or her authorisation.
+12 calendar months after that person has ceased employment with the AMO or upon withdrawal of his or her authorisation.
+36 calendar months after that person has ceased employment with the AMO or upon withdrawal of his or her authorisation.
+When shall an AMO holder apply for renewal of the certificate and ratings?  (Level 2)
+@@30 working days preceding the expiry date.
+60 working days preceding the expiry date.
+90 working days preceding the expiry date.
+Which changes must the AMO holder provide written notification to CAAV in any case?  (Level 2)
+@@The location of the organization.
+Tools & equipment.
+Facilities.
+Which following statement about a maintenance release is not correct?  (Level 2)
+are kept for 2 years from the release date.
+shall be issued by appropriately authorised certifying staff.
+@@are signed after each flight.
+According to CAAV VAR part 5, aircraft ratings are classified into:  (Level 2)
+@@7 classes.
+6 classes.
+5 classes.
+According to CAAV VAR part 5, aircraft, Powerplant ratings are classified into:  (Level 2)
+@@3 classes.
+4 classes.
+5 classes.
+Airworthiness data that use for maintenance is kept for.  (Level 2)
+three years after the aircraft or aircraft product to which the work relates was released from the AMO.
+@@two years after the aircraft or aircraft product to which the work relates was released from the AMO.
+two years after the aircraft has been withdrawn from service.
+VAR Part 7 is.  (Level 2)
+@@Aviation personnel licence.
+Air Operators Certificate.
+The Approved Organisation.
+VAR Part 7 applicable to.  (Level 2)
+@@all persons seeking licences under the aviation regulation of Vietnam.
+all persons who perform maintenance on an aircraft registered in Vietnam.
+all persons who perform maintenance on an aircraft operated in Vietnam.
+To be eligible for an AMT licence.  (Level 2)
+@@Be at least 18 years of age.
+Be at least 20 years of age.
+Be at least 22 years of age.
+An engineer may issue a CRS if they.  (Level 2)
+have a company approval.
+@@are LWTR (licensed with type rating) and company approved on the appropriate type of aircraft.
+are type rated on any equivalent aircraft type.
+Where would you normally train for licences?  (Level 2)
+@@At a VAR Part 9 approved organisation.
+At a VAR Part 5 approved organisation.
+At a technical training school.
+To what does a B13 License apply to?  (Level 2)
+@@Helicopter with turbines, their engines, airframes and electrics.
+Light aircraft with piston engines.
+Helicopters with piston engines, their engines, airframes and electrics.
+What can an A1 licensed engineer sign for?.  (Level 2)
+Minor Scheduled Line Maintenance tasks on turbine engined helicopters.
+@@Minor Scheduled Line Maintenance tasks on turbine engined aircraft.
+Minor Scheduled Line Maintenance tasks on piston engined aircraft.
+Who can sign a CRS?  (Level 2)
+Any licensed engineer.
+@@An appropriately licensed engineer.
+An unlicensed engineer who has permission from the Chief Inspector.
+Where would you find the requirements and the syllabus for a maintenance license?.  (Level 2)
+VAR Part 5
+@@VAR Part 7
+VAR Part 9
+An A1 licensed mechanic can sign for.  (Level 2)
+Aeroplanes and Helicopters.
+Aeroplanes  Piston.
+@@Aeroplanes  Turbine.
+Who issues a VAR Part 7 AMT licence?  (Level 2)
+VAR Part 9 organisation.
+A VAR Part 5 organisation.
+@@The CAAV.
+How long is a VAR Part 7 AMT licence valid?  (Level 2)
+initially 2 years then reissued for a period of 5 years.
+initially 5 years then reissued for a period of 2 years.
+@@5 years.
+A B2 AMT License allows aircraft maintenance technician to sign completion of maintenance after performing maintenance work on.  (Level 2)
+airframe structure and powerplants.
+@@electrical systems and avionics.
+airframe structure.
+What does a B13 approval apply to?  (Level 2)
+Light Aircraft with Piston Engines.
+@@Helicopters with Turbine Engines, airframe and electrics.
+Helicopters with Piston Engines, airframe and electrics.
+A VAR Part 7 maintenance license remains valid.  (Level 2)
+if he/she has received continuation training in the last 2 years.
+@@if he/she has worked on aircraft for 6 months in the last 2 years.
+if he/she has worked on aircraft for 4 months in the last 2 years.
+A category A licence.  (Level 2)
+@@is automatically issued with a category B1 licence.
+is automatically issued with a category B2 licence.
+is automatically issued with both a category B2 and C licence.
+Who carries out the practical task training required for a category A licence?  (Level 2)
+@@Either a VAR Part 5 or a VAR Part 9 organisation.
+A VAR Part 9 organisation only.
+A VAR Part 5 organisation only.
+When can a Licenced Aircraft Engineering sign a CRS?  (Level 2)
+For any aircraft for which he has a type rating.
+For any aircraft for which his company has VAR Part 5 approval.
+@@For any aircraft for which he has a type endorsement on his license and holds the appropriate company approval.
+The time scale for retaining training records within a VAR Part 9 ATO is.  (Level 2)
+five years after the candidate leaves the course.
+three years after the course.
+@@2 years after the completion of the course.
+If an engineer has an aircraft maintenance license without type rating, he/she can.  (Level 2)
+@@not sign anything, there are no certification rights offered by the license alone.
+sign the CRS.
+sign the CRS for aircraft above 5700 kg only.
+With reference to the licensing of aircraft maintenance engineers, the requirements for the issue of a licence without type rating can be found in.  (Level 2)
+VAR Part 4.
+@@VAR Part 7.
+VAR Part 5.
+Within an aircraft maintenance organisation approved in accordance with VAR Part the limitations of an individual's certification authorization base on.  (Level 2)
+the authorisation certificate.
+@@the aircraft maintenance licence.
+the personnel records.
+A Category A VAR Part 7 licensed engineer can certify for work carried out.  (Level 2)
+@@by him/herself only.
+by anyone within an approved organisation.
+by anyone, even if they are independent of an approved organisation.
+What are the language skill requirements of a VAR Part 7 licensed engineer?  (Level 2)
+@@Read, write, speak, and understand the English language.
+Read, write, speak, and understand the Vietnamese language.
+Read, write, speak, and understand the language is written on the aircraft maintenance manual.
+An aircraft type approval endorsement to a VAR Part7 AMT licence is only provided after.  (Level 2)
+adequate theoretical training.
+@@adequate theoretical and practical training.
+adequate practical training.
+VAR Part 7 applies to aircraft.  (Level 2)
+below 5700 kg only.
+@@above and below 5700 kg.
+above 5700 kg only.
+In order to obtain a type rated approval on initial aircraft, an engineer must.  (Level 2)
+must work on aircraft for 12 months.
+have a manufacturers course.
+@@work on the type of aircraft involved for 12 months.
+What experience is required for an A1 license?  (Level 2)
+2 years or 1 year if qualified in another profession.
+@@3 years or 2 years if qualified in another profession.
+5 years or 3 years if trained by 147 company.
+The usual qualification route for a Category C licensed engineer is.  (Level 2)
+@@3 years experience as a B1.1, B1.3 or B2 engineer.
+8 years experience as a B1.1, B1.3 or B2 engineer.
+5 years experience as a B1.1, B1.3 or B2 engineer.
+An AMT category A licensed mechanic can.  (Level 2)
+@@certify minor line tasks which he has done himself and for which he has approval.
+certify minor line tasks which he or other line mechanics have done and for which he has approval.
+certify line maintenance checks.
+The minimum experience for qualification of a B1 or B2 licensed engineer is.  (Level 2)
+4 years reducing to 3 years if trained in a VAR Part 9 approved organization.
+@@5 years reducing to 3 years if trained in a nonaviation trade.
+4 years reducing to 2 years if trained in a nonaviation trade.
+Which of the following are the subsections of a VAR Part 7 maintenance licence in category A? (Level 2)
+@@Aeroplanes  Piston, helicopters Piston, Aeroplanes Turbine and Helicopters Turbine.
+Aeroplanes  Piston and helicopters Piston.
+Aeroplanes  Turbine and helicopters Turbine.
+A VAR Part 7 CAT A licensed engineer can.  (Level 2)
+@@sign the CRS for minor line maintenance, within the limits of tasks specifically endorsed on the authorisation sign the CRS for minor line maintenance, within the limits of tasks specifically endorsed on the authorisation.
+sign the CRS for any line maintenance and defect repairs.
+sign the CRS for any minor line repairs.
+An A licence is automatically granted with the issue of which of the following?  (Level 2)
+B1 or B2.
+@@B1.
+B2.
+VAR Part 7 maintenance experience requirements could not reduced with.  (Level 2)
+@@aircraft production experience.
+completion of training at a VAR Part 9 approved school.
+completion of training in accordance with skilled technical staff in other technical fields.
+A category C certifying staff authorisation permits the holder to issue a block CRS after.  (Level 2)
+@@base maintenance.
+line maintenance and defect rectification.
+any line or base maintenance.
+2 engineer can certify.  A B1.2 engineer can certify.  (Level 2)
+aircraft  turbine engined.
+aircraft both turbine and piston engined.
+@@aircraft  piston engined.
+A B1.3 engineer can certify.  (Level 2)
+helicopters  both turbine and piston engined.
+helicopters  piston engined.
+@@helicopters  turbine engined.
+How long is an AMT licence valid?  (Level 2)
+2 years.
+@@5 years.
+3 years.
+An AMT licence is valid for.  (Level 2)
+2 years.
+@@5 years.
+initially 2 years, then subsequently 5 years.
+The full responsibilities of a licence engineer with regard to the CRS (certificate of release to service) will be found in.  (Level 2)
+@@VAR Part 7.
+VAR Part 4.
+VAR Part 5.
+A rated aircraft maintenance engineer may issue a CRS (Certificate of release to service) relating to an associated electrical system within limitations laid down in.  (Level 2)
+@@VAR Part 7.
+VAR Part 5.
+VAR Part 4.
+With reference to AMT license, type rating can be found in.  (Level 2)
+@@VAR Part 7
+VAR Part 5
+VAR Part 12
+Which VAR Part’s part prescribes the requirements of Vietnam for issuance of aircraft maintenance licence.  (Level 2)
+VAR Part 4.
+VAR Part 5.
+@@VAR Part 7.
+When CAAV inspector requests, the license of maintenance staff shall be provided?  (Level 2)
+@@At the time of the request.
+24h after the time of the request.
+No need to be provided.
+VAR Part 7 is deal with.  (Level 2)
+maintenance.
+approvals.
+@@licensing.
+As requirement of Record of training time of VAR Part 7, Each person shall document and record in the training record the following time.  (Level 2)
+Training and aeronautical experience used to meet the requirements for a licence, rating, qualification, authorisation, or flight review.
+The required aeronautical experience.
+@@Training and aeronautical experience used to meet the requirements for a licence, rating, qualification, authorisation, or flight review and the required aeronautical experience.
+Normally, the validity of CAAV license for AMT is (Level 2)
+@@5 years.
+2 years.
+3 years.
+Aircraft maintenance technician authorised by the CAAV to inspect and review maintenance (AMT-IA).  (Level 2)
+need not be AMT.
+must be have an aeronautical degree.
+@@must be AMT qualified at CAT B1 or B2.
+A type certificate is.  (Level 1)
+issued after a Certificate of Registration.
+@@issued before a Certificate of Airworthiness.
+issued after a Certificate of Airworthiness.
+A design organisation in Vietnam is approved in accordance with.  (Level 1)
+VAR Part 10.
+VAR Part 12
+@@VAR Part 21.
+A Type Certificate is issued to.  (Level 1)
+an aircraft type and its variants.
+@@all aircraft of a type (e.g. A340).
+each aircraft of a type.
+Requirement for Design Organization approved by CAAV can be found in  (Level 1)
+VAR Part 2.
+@@VAR Part 21.
+VAR Part 10.
+By CAAV requirement, the airworthiness directive is  By CAAV requirement, the airworthiness directive is  (Level 1)
+@@issued or recognized by CAAV.
+issued by CAAV.
+recognized by CAAV.
+A type certificate is issued to.  (Level 1)
+aircraft identical in all major areas to a previous approved aircraft.
+aircraft similar to a previous aircraft but with design differences.
+@@aircraft, engine and propeller.
+The type certificate and provisional type certificate has to renew within:  (Level 1)
+@@it is only issued once.
+every year.
+two years.
+When is a Noise Certificate required to be carried aboard the aircraft?  (Level 1)
+@@At all times.
+When flying with a special flight permit.
+When flying for a flight test after maintenance.
+What Certificate must an Operator have to flies for public transport and cargo carrying?  (Level 1)
+Air Navigation Certificate.
+Air Transport Licence.
+@@Air Operators Certificate.
+The validity of a C of A extends for.  (Level 1)
+six months.
+@@as stated on the certificate or 12 months.
+the life of the aircraft or a change of ownership.
+What is the period of validity for a Certificate of Registration?  (Level 1)
+Until a change of ownership or maintenance arrangements.
+@@Until a change of ownership.
+The same as for the aircrafts C of A.
+The Minimum Equipment List (MEL) must be specific to:  (Level 1)
+Each aircraft.
+@@Each Aircraft type.
+Each Operator.
+The ferry flight permit is issued to the aircraft for the following purpose:  (Level 1)
+@@To relocate the aircraft to the maintenance base to carry out the maintenance in order to recover the airworthiness of the aircraft.
+to extend the C of A.
+to issue new C of R.
+The purpose for which an aircraft may be flown on a special Certificate of Airworthiness is.  (Level 1)
+applicable to military aircraft only.
+@@stated on the certificate.
+for private use only.
+The period of validity of an C of A is.  (Level 2)
+24 months .
+36 months.
+@@not exceeding 12 months from its issuing date.
+The Export Certificate of Airworthiness for a aircraft is issued by CAAV:  (Level 2)
+before the registration as Vietnamese nationality of the aircraft is de-registed.
+@@after The registration as Vietnamese nationality of the aircraft is de-registed.
+at the same time the registration as Vietnamese nationality of the aircraft is de-registered.
+Certificate of temporary registration of aircraft nationality is valid for:  (Level 2)
+when aircraft is sold abroad.
+@@not more than 12 months and may be renewed once not more than 12 months.
+6 months.
+If an aircraft is dry leased or leased by Vietnamese agencies with period of 24 months or more, it must be registered to Vietnam nationality within:  (Level 2)
+one month from the date when it introduced into operation in Vietnam.
+@@six months from the date when it introduced into operation in Vietnam.
+three months from the date when it introduced into operation in Vietnam.
+A Noise certificate is valid for.  (Level 2)
+unlimited duration.
+@@until a change the C of R.
+until a change in ownership of the aircraft.
+Categories with respect to the C of A are.  (Level 2)
+Transport, Aerial Work, Passenger and Special.
+@@Standard, Special and Export C of A.
+Transport (Passenger) and Passenger (Cargo).
+An aircraft Noise Certificate must be renewed.  (Level 2)
+every three years.
+every five years.
+@@only on change of aircraft ownership.
+Who shall be responsible for performing the aircraft maintenance review?  (Level 2)
+The AMO.
+@@The operator.
+CAAV.
+A Noise Certificate is a requirement of.  (Level 2)
+@@VAR Part 10.
+VAR Part 4.
+VAR Part
+A Flight Manual is.  (Level 2)
+part of the Certificate of Registration.
+@@part of the Certificate of Airworthiness.
+for information of the crew only.
+What is the period of validity of a ferry flight permit?  (Level 2)
+@@valid only once.
+1 Year.
+3 Years.
+To relocate the aircraft to the maintenance base to carry out the maintenance in order to recover the airworthiness of the aircraft. this flight should be carried out under.  (Level 2)
+a special C of A.
+@@a ferry flight permit.
+a concession from AMO’s quality manager.
+Which of the following would a Ferry Flight Permit NOT be used for?  (Level 2)
+To proceed to a place where the aircraft will be painted.
+@@To fly passengers or cargo domestically.
+To check a modification.
+How many copies of the Certificate of Registration are required?  (Level 2)
+two copies, one for the flight manual, one for the filing system.
+two copies, one for the owner, one for the aircraft.
+@@one copy for the owner/operator.
+When a major defect occurs during an aircraft's Certificate of Airworthiness period of validity. (Level 2)
+@@the C of A immediately becomes invalid.
+the C of A is suspended until the defect is rectified.
+the C of A is not affected.
+Who shall be responsible for performing all airworthiness directives and operation directives applicable to aircraft in full and on time?  (Level 2)
+The AMO.
+The CAAV.
+@@The Operator.
+The certificate of registration becomes invalid if.  (Level 2)
+the AOC is termed invalid.
+@@it is found that the aircraft is registered in another country.
+the C of A is invalid.
+In module 10: Aviation Legislation, what is the ICAO stand for ? (Level 1)
+@@International Civil Aviation Organization
+International Civil Authority Organization
+Civil Aviation Organization
+Where was the Convention on International Civil Aviation held in 1944? (Level 1)
+New York
+@@Chicago
+London
+Which year was the ICAO established? (Level 1)
+1944
+1945
+@@1947
+How many ICAO members ? (Level 1)
+191
+192
+@@193
+Where is the ICAO headquarters placed ? (Level 1)
+New York
+Chicago
+@@Montreal
+The ICAO’s organizational structure consists of: (Level 1)
+@@A secretariat and three main bodies: the Assembly, the Council and the Air Navigation Commission (ANC).
+A secretariat and three main bodies: the Council, the Assembly and the Secretariat
+A secretariat and three main bodies: the Council, the Air Navigation Commission (ANC) and the Secretariat
+In module 10: Aviation Legislation, chapter 2.2: Review of ICAO Annexes: what is SARPs stand for ? (Level 1)
+@@Standards and Recommended Practices
+Standards Aviation Recommended Practices
+Standards Authority Recommended Practices
+What is responsible of ICAO? (Level 1)
+Develops policies and Standards, undertakes compliance audits, performs studies and analyses, provides assistance and builds aviation capacity
+Promoting the safe and orderly development of civil aviation worldwide
+@@Develops policies and Standards, undertakes compliance audits, performs studies and analyses, provides assistance and builds aviation capacity. ICAO is also responsible for promoting the safe and orderly development of civil aviation worldwide
+How many annexes does ICAO have ? (Level 1)
+18 annexes
+@@19 annexes
+20 annexes
+What is the CAAV? (Level 1)
+@@Civil Aviation Authority of Vietnam
+Civil Aviation Organization of Vietnam
+Commercial Aviation Authority of Vietnam
+Regulations for approving maintenance organization are stated in which part of VARs? (Level 1)
+@@VAR Part 5
+VAR Part 4
+VAR Part 7
+What age requirement for applicant before being issued with any licence or rating for personel? (Level 1)
+@@Not less than 18 years old
+Not less than 20 years old
+Not less than 22 years old
+Aircraft technical logbook is used to: (Level 1)
+Record operation of aircraft
+Show maintenance schedule of aircraft
+@@Recording defects and malfunctions discovered during operation and for recording details of all maintenance carried out whilst the aircraft is operating between scheduled visits to the base maintenance facility
+The Operator’s Aircraft Maintenance Schedule (AMS) is based on: (Level 1)
+@@Maintenance Planning Document
+Experience of operator
+Experience of maintenance organization
+In Chapter 2: "International and state aviation laws", what is the CoA stand for? (Level 1)
+@@Certificates of Airworthiness
+Certificate of Aircraft
+Certificate of Aviation
+In chapter 3.8:Maintenance requirements : what is SIP stand for ? (Level 1)
+Supplemental Inspections Programme
+@@Structural integrity programme
+Structural Inspections Programme
+What is AMO stand for ? (Level 1)
+@@Approved Maintenance Organisation
+Approved Manufacturer Organisation
+Application Management Outsourcing
+The design of the controls and control systems shall be such that: (Level 1)
+@@Each control and control system shall operate with the ease, smoothness and precision appropriate to its function
+Adequate strength shall be provided to withstand the vibration and buffeting that might occur in the anticipated operating conditions.
+Shall be designed to be free from flutter, structural divergence, and loss of control due to structural deformation
+Airworthiness Directives prescribes? (Level 1)
+Mandatory corrective actions to be taken
+The conditions or limitations under which the aeronautical products may continue to be operated
+@@Mandatory corrective actions to be taken or the conditions or limitations under which the aeronautical products may continue to be operated
+What is AD stand for ? (Level 1)
+Architectural Design
+@@Airworthiness Directive
+Address Data
+All aircraft maintenance shall be performed by (Level 1)
+CRS staff
+@@Qualified Personnel
+Qualified Mechanic
+Continued safe flight and landing of the aeroplane shall not be prevented by ? (Level 1)
+Any single failure not shown to be extremely improbable in the control system
+Any event that results in a jam of a flight control in any normally encountered position of the flight controls
+@@Any single failure not shown to be extremely improbable in the control system or Any event that results in a jam of a flight control in any normally encountered position of the flight controls
+If the operators want to operating any of their aircraft, the maintenance and any associated part of the aircraft must be carried out by: (Level 1)
+@@An AMO approved by the State of Registry or by another Contracting State that is acceptable by the State of Registry
+An MRO approved by the State of Registry or by another Contracting State that is acceptable by the State of Registry
+A person approved by the State of Registry or by another Contracting State that is acceptable by the State of Registry
+Which of the following not include in maintenance record? (Level 1)
+Component time since new (TSN), time since overhaul (TSO) and, if applicable, cycles since new and cycles since overhaul
+Signature and license or authorization number of the certifying personnel
+@@Signature and license of authorities and operator or manufacturer
+Detailed maintenance records should be keep for at least: (Level 1)
+@@1 year after the signing of the maintenance release
+2 years after the signing of the maintenance release
+3 years after the signing of the maintenance release
+Objective of design aeroplane structure with instructions for its maintenance and repair (Level 1)
+Avoiding hazardous and operational life failure
+Avoiding catastrophic and operational life failure
+@@Avoiding hazardous and catastrophic failure
+The maintenance record should be kept in a form and manner acceptable by? (Level 1)
+State of Registry
+State of Registry or State of the Operator
+@@State of Registry and State of the Operator
+The operator is required to ensure that: (Level 1)
+@@Certificate of Airworthiness of each aircraft they operate remains valid
+The contents of ADs include the aircraft, engine, propeller, equipment or instrument type, model and serial numbers affected
+A maintenance programme approved by the State of Registry for the use and guidance of maintenance and operational personnel
+What is the meaning of Redundancies? (Level 1)
+@@Avoid single point failures
+Avoid critical failure
+Avoid system failure
+Which below is not the techniques for Fail-Safe Design? (Level 1)
+Redundancies
+Early detection
+@@Extensive testing
+Why we need to provided control of engine rotation for the crew? (Level 1)
+@@Provided the crew to stop the rotation of the failed engine in flight or to reduce it to a safe level
+Provided the crew to manage speed of aircraft due to control of engine rotation
+Minimize the hazards to the aeroplane in the event of failure of engine rotating parts, or an engine fire which burns through the engine case
+Why we need to arranged engines and their associated systems isolated from each other ? (Level 1)
+@@So that the failure or malfunction of any engine, or of any system that can affect the engine will not prevent the continued safe operation of the remaining engine(s)
+So that the failure or malfunction of any engine, or of any system that can affect the engine will not require immediate action by any crew member for continued safe operation of the remaining engine(s).
+So that the failure or malfunction of any engine, or of any system that can affect the engine will not prevent the continued safe operation of the remaining engine(s) or not require immediate action by any crew member for continued safe operation of the remaining engine(s).
+What is limit loads for structure characteristics and strength? (Level 1)
+@@The external loads and the corresponding inertia loads, or resisting loads obtained for the various loading conditions
+The maximum loads and the corresponding dynamic loads due to changes to the steady state configuration
+Flight control loads and the corresponding cabin pressurization loads due to changes to the steady configurations
+Structural deformation of an aircraft can cause: (Level 1)
+@@Loss of control
+Vibration
+Buffeting
+Why we need to permanently marked each element of each flight control system? (Level 1)
+To minimize the possibility of jamming, inadvertent operations and unintentional engagement of control surface locking devices
+@@To minimize the probability of any incorrect assembly that could result in the malfunction of the system
+To minimize the possibility of jamming, inadvertent operations and unintentional engagement of control surface locking devices and the probability of any incorrect assembly that could result in the malfunction of the system
+In chapter 4: Civil Aviation Operating Regulations: what is AOC stand for ? (Level 1)
+Aircraft Operation Center
+@@Air Operator Certificates
+Aircraft Operation Control
+Who can issued or denied an AOC? (Level 1)
+VNA
+VAECO
+@@CAAV
+Which type of Aircraft is not required to have Emergency evacuation demonstration unless the CAAV determines that there is an operational need for this evaluation.? (Level 1)
+@@Aircraft configured for 19 or less passengers
+Aircraft configured for 29 or less passengers
+Aircraft configured for 39 or less passengers
+What is AMT stand for ? (Level 1)
+Aircraft Maintenance Technical
+Aircraft Manual Technical
+@@Aviation Maintenance Technician
+An applicant for an aviation repair specialist licence shall : (Level 1)
+@@Be at least 18 years of age
+Be at least 16 years of age
+Be at least 24 years of age
+What is ARS stand for ? (Level 1)
+Aircraft Repair Scheduled
+@@Aviation Repair Specialist
+Aircraft Repair Specialist
+Special Airworthiness Certificate might be issued for an aircraft by? (Level 1)
+@@CAAV
+VNA
+VAECO
+AMT Licence ratings Sublevel A1 and B1.1 are for: (Level 1)
+@@Turbine engine aircraft
+Piston engine aircraft
+Piston engine helicopter
+AMT Licence ratings Sublevel A2 and B1.2 are for (Level 1)
+Turbine engine aircraft
+@@Piston engine aircraft
+Piston engine helicopter
+AMT Licence ratings Sublevel A3 and B1.3 are for: (Level 1)
+Turbine engine aircraft
+Piston engine aircraft
+@@Piston engine helicopter
+All licenses issued by the CAAV has a term of (Level 1)
+@@5 years
+3 years
+2 years
+What is duration of ATO certificate issued by the CAAV? (Level 1)
+@@36 calendar months, unless surrendered, suspended, or revoked
+48 calendar months, unless surrendered, suspended, or revoked
+72 calendar months, unless surrendered, suspended, or revoked
+Which of the following bellows are not contains of an ATO certificate? (Level 1)
+The organisation’s name and location (main place of business)
+The date of issue and period of validity for each page issued
+@@The oral and practical test for the issuance must be held by the CAAV or CAAV approved training organizations
+CAAV VAR Part 9 applicable to: (Level 1)
+Persons seeking licences under the aviation regulations of Vietnam
+Persons and organizations that provide and supervise the required training, experience and authorisations
+@@Persons seeking licences under the aviation regulations of Vietnam; Persons and organizations that provide and supervise the required training, experience and authorisations
+How many level of aircraft and helicopter license that the CAAV may endorse an AMT licence and associated ratings and condition to maintain the validity of license for? (Level 1)
+3 levels: A,B,C
+@@4 levels: A,B1,B2,C
+5 levels: A1, 2,B1,B2,C
+The initially purpose of air travel is (Level 1)
+For transportation of rich people.
+@@For military.
+for transportation of all kind of people.
+When was CAAV established? (Level 1)
+1946
+@@1956
+1966
+When was VNA established officially? (Level 1)
+1973
+1983
+@@1993
+Which type of next – generation aircraft that makes VNA become the first airline in the world to successfully operate at the same time? (Level 1)
+@@Boeing 787-9 Dreamliner and Airbus A350-900 XWB.
+Boeing 787-9 Dreamliner and Airbus A330.
+Boeing 787-10 Dreamliner and Airbus A350
+How can the international flight be defined? (Level 1)
+Flight through more than 4 countries.
+@@Flight through 2 or more countries.
+Flight through more than 3 countries.
+The maintenance control manual is a part of (Level 1)
+@@Flight safety documents system
+Flight training document
+Crew operation document
+The maintenance control manual is established by (Level 1)
+@@The operator
+Manufacture
+CAAV
+The person signed the maintenance release for Vietnam registed aircraft shall be licensed in accordance with (Level 1)
+@@VAR Part 7 or licensing regulations of state of registry that is complied with Annex 1 of Chicago Convention.
+VAR Part 5 or licensing regulations of state of registry that is complied with Annex 1 of Chicago Convention.
+VAR Part 12 or licensing regulations of state of registry that is complied with Annex 1 of Chicago Convention.
+What are the documents placed in the flight deck of each aircraft operated by the AOC holder for each fleet of aircraft type and authorisation IAW CAAV regulation? (Level 1)
+A CAAV certified true copy of the AOC; a copy of the authorizations for that fleet of aircraft.
+@@A CAAV certified true copy of the AOC; a copy of the authorizations, conditions and limitations for that fleet of aircraft; and a certified true copy of an aircraft display AOC.
+No document is needed.
+Where is the AOC holder shall maintain operational and airworthiness support facilities at (Level 1)
+The training center.
+The main maintenance base.
+@@The main operating base.
+The aircraft maintenance schedule of Vietnam registed aircraft is approved by (Level 1)
+@@CAAV.
+AOC.
+The aircraft manufacturer.
+How long the detailed maintenance records to show that all requirements for signing of a maintenance release have been met shall be kept: (Level 1)
+@@For a minimum of 1 year after the signing of the maintenance release
+For a minimum of 2 year after the signing of the maintenance release
+For a minimum of 3 year after the signing of the maintenance release
+In the case of a major repair or major modification, the work must have been done in accordance with (Level 1)
+@@Technical data approved by the CAAV
+Technical data approved by the AOC
+Technical data approved by the AMO
+The record of all servicing of fuel and oil, defects, trend monitoring and maintenance tasks and tests on that aircraft during the course of its operations is contained in (Level 1)
+AOC Certificate.
+@@Journey/Technical Log.
+Quality assurance records.
+Which are the information the AOC holder ensure that a system has been established to keep, in a form acceptable to the CAAV (Level 1)
+Appropriate details of modifications and repairs to the aircraft and its major components; The time in service (hours, calendar time and cycles, as appropriate) since last overhaul of the aircraft or its components subject to mandatory overhaul life; The current aircraft status of compliance with the maintenance program
+The total time in service (hours, calendar time and cycles, as appropriate) of the aircraft and all life- limited components
+@@The total time in service (hours, calendar time and cycles, as appropriate) of the aircraft and all life- limited components; The current status of compliance with all mandatory continuing airworthiness information; Appropriate details of modifications and repairs to the aircraft and its major components; The time in service (hours, calendar time and cycles, as appropriate) since last overhaul of the aircraft or its components subject to mandatory overhaul life; The current aircraft status of compliance with the maintenance program; and The detailed maintenance records to show that all requirements for signing of a maintenance release have been met.
+AOC holder’s maintenance control manual must contain (Level 1)
+The procedures for training the pilot
+The procedures for cargo shipping
+@@The required programmes that must be followed in performing maintenance, preventive maintenance, and alterations of the AOC holder’s aircraft.
+Who approve the management system of aircraft maintenance (Level 1)
+AOC.
+@@CAAV
+AMO.
+The AOC holder shall prepare management system of aircraft maintenance including (Level 1)
+@@Servicing procedure for each type of aircraft
+Security procedure for passenger
+Ground operation for aircraft in ramp
+What is MEL stand for? (Level 1)
+@@Minimum Equipment List
+Maintenance Equipment List.
+Maximum Equipment List
+Who will be designated for monitoring compliance with procedures required to ensure safe operational practices and airworthy aircraft? (Level 1)
+@@Qualified auditor.
+Qualified mechanic.
+Qualified pilot.
+Who accept the quality assurance programme of Vietnam operator? (Level 1)
+AOC.
+@@CAAV
+ATO
+The required inspections of aircraft maintenance shall be performed by (Level 1)
+@@The person performing the inspection is appropriately compliance with regulatory requirements of the approved quality system or quality management system.
+Anyone can perform required inspections of aircraft maintenance
+CAAV inspector.
+Who establish a quality assurance programme of Vietnam operator (Level 1)
+Vietnam Ministry of Transport.
+CAAV.
+@@AOC holder.
+The AOC holder shall ensure that each quality system includes: (Level 1)
+A safety programme that contains procedure signed to operating the aircraft.
+Procedures to ensure that the passenger security check activities are being conducted in accordance with all applicable regulation.
+@@A quality assurance programme that contains procedures designed to verify that all operations are being conducted in accordance with all applicable requirements, standards and procedures.
+The procedure proposed to CAAV for concession issuance to extend the aircraft operation duration with MEL, or variation of the maintenance interval with the interval specified in the aircraft maintenance schedule approved by CAAV is included in (Level 1)
+Aircraft Operation System.
+@@Aircraft Maintenance System.
+The agreement between the operator and the contracted AMO.
+What is the responsible of line maintenance manager? (Level 1)
+@@Ensuring that all maintenance required to be carried out on the line
+Ensuring that all maintenance required to be carried out in the hangar
+Perform maintenance works
+Which part in VARs prescribe the requirements to approve Approved Maintenance Organization? (Level 1)
+VAR Part 4
+@@VAR Part 5
+VAR Part 7
+Who is responsible for issuing a maintenance organization approval? (Level 1)
+The Operator
+@@CAAV
+Customer
+What information should be included in certifying staff’s record (Level 1)
+Name
+Ages
+@@Full name, Date of birth, Training, Scope of the authorisation, Identification number of the authorisation…
+What will certifying staff receive when leaving the AMO? (Level 1)
+Personnel roster
+Customer certificate
+@@A copy of their record
+What is the responsible of workshop manager? (Level 1)
+Ensuring that all work on aircraft components is performed to required standards
+Any corrective action resulting from quality compliance monitoring
+@@Ensuring that all work on aircraft components is performed to required standards and any corrective action resulting from quality compliance monitoring
+What is the privileges of AMO? (Level 1)
+Maintain aircraft or aircraft component for any location
+Maintain aircraft for any location
+@@Maintain aircraft or aircraft component for which it is rated at the location identified in the approval certificate.
+What information should be included in the roster of certifying staff? (Level 1)
+Date of birth
+Ages
+@@Details of the scope of their authorisation
+Who is responsible for issuing a maintenance release of work has been performed satisfactorily by the non-certificated person? (Level 1)
+@@AMO holder
+Non-certificated person
+Customer
+What is the limitation of AMO? (Level 1)
+No limit
+Depend on the situation
+@@The AMO holder shall maintain an aircraft or aircraft component for which it is approved only
+Who can access to certifying staff’s record? (Level 1)
+Any employee
+Manager
+@@Authorized person.
+Who is responsible for terminating or amending the waiver? (Level 1)
+@@CAAV
+AMO
+Customer
+The accountable manager of AMO will be approved by: (Level 1)
+@@CAAV
+AMO
+Customer
+How many qualified management personnel should be included in an AMO? (Level 1)
+3
+2
+@@4
+What is the responsible of accountable manager? (Level 1)
+Perform maintenance works
+Manage maintenance works
+@@Ensuring that all necessary resources are available to accomplish maintenance required to support the AMO's approval
+What is the responsible of base maintenance manager? (Level 1)
+Ensuring that all maintenance required to be carried out in the hangar
+Any corrective action resulting from quality compliance monitoring
+@@Ensuring that all maintenance required to be carried out in the hangar and any corrective action resulting from quality compliance monitoring.
+Initial training shall cover: (Level 1)
+Basic engineering theory relevant to the class of aircraft the AMO intends to maintain
+AMO procedures relevant
+@@Basic engineering theory relevant to the class of aircraft the AMO intends to maintain; AMO procedures relevant
+When will the waiver be issued? (Level 1)
+Basing on a request of AMO
+Basing on a request of customer
+@@Upon consideration of the circumstances of AMO, if the level of safety will be maintained equal to that provided by the rule from which the waiver is sought
+The person signing maintenance release or an approval for return to service shall be qualified in accordance with: (Level 1)
+VAR Part 5
+VAR Part 9
+@@VAR Part 4 and VAR Part 7
+The requirements training of maintenance personnel and certifying staff includes: (Level 1)
+Initial training
+Recurrent training
+@@Initial training and recurrent training
+Who is responsible to establish the training programme? (Level 1)
+CAAV
+@@AMO
+Customer
+The training programme includes: (Level 1)
+Training in knowledge
+Training in skills
+@@Training in knowledge and skills
+Who is responsible to perform the training of certifying staffs? (Level 1)
+AMO
+Customer
+@@AMO or an institute selected by the AMO
+Continuation training should cover: (Level 1)
+@@Changes in AMO procedures
+Changes of certifying staff
+Change customer
+Instrument ratings class 1 is: (Level 1)
+@@Mechanical
+Electrical
+Gyroscopic
+How long will certifying staff’s record be kept? (Level 1)
+At least 12 months after that person has ceased employment with the AMO
+At least 18 months after that person has ceased employment with the AMO
+@@At least 24 months after that person has ceased employment with the AMO
+What is the CAAV application form of AMO approval? (Level 1)
+@@CAAV FSSD Form 512B
+CAAV FSSD Form 513B
+CAAV FSSD Form 514B
+How long does the CAAV check the applicant records from the date of receipt of application? (Level 1)
+@@3 working days
+4 working days
+5 working days
+When does the CAAV issue an AMO certificate? (Level 1)
+After AMO send an application form
+Basing on requested by AMO
+@@After investigation and the applicant meets the applicable regulations and standards for the holder of an AMO
+What is the limited ratings of AMO? (Level 1)
+@@CAAV issues a limited rating to an AMO that maintains or alters only a particular type of airframe, powerplant, propeller …
+Manufacture issues a limited rating to an AMO that maintains or alters only a particular type of airframe, powerplant, propeller …
+Operator issues a limited rating to an AMO that maintains or alters only a particular type of airframe, powerplant, propeller …
+Aircraft rating class 6 is: (Level 1)
+@@Aircraft composed primarily of composite material, of 5,700 kg maximum certificated takeoff weight or less;
+Aircraft composed primarily of composite material, over 5,700 kg maximum certificated takeoff weight.
+Aircraft (other than rotorcraft and aircraft composed primarily of composite material) of 5,700 kg maximum certificated takeoff weight or less;
+Powerplant ratings class 2 is: (Level 1)
+Reciprocating engines
+@@Turbopropeller and turboshaft engines
+Turbojet and turbofan engines
+What is the specialised service ratings? (Level 1)
+A civil or military specification that is currently used by industry and authorized by CAAV
+A specification developed by the maintenance organization and authorized by CAAV
+@@A civil or military specification that is currently used by industry and authorized by CAAV or a specification developed by the maintenance organization and authorized by CAAV
+How many class of accessory ratings? (Level 1)
+3
+2
+@@4
+Avionic ratings class 2 is: (Level 1)
+Communication equipment
+@@Navigational equipment
+Pulsed equipment
+Powerplant rating class 3 is: (Level 1)
+Reciprocating engines
+Turbopropeller and turboshaft engines
+@@Turbojet and turbofan engines
+Who is allowed to sign certifying completion of maintenance after implementation maintenance work planned on aircraft at VAR Part 5 AMO? (Level 1)
+The Category B certifying staff.
+@@The Category C certifying staff.
+The Accountable Manager.
+The privileges of VAR Part 7 licensed AMT level B2 is (Level 1)
+@@Sign completion of maintenance after performing maintenance work on electronic and electric system
+Sign completion of maintenance after performing maintenance work on electronic system
+Sign completion of maintenance after performing maintenance work on the aircraft structure, systems and propulsion systems engine and electric
+The privileges of VAR Part 7 licensed AMT level B1 (Level 1)
+Sign completion of maintenance after performing maintenance work on electronic and electric system
+Sign completion of maintenance after performing maintenance work on electronic system
+@@Sign completion of maintenance after performing maintenance work on the aircraft structure, systems and propulsion systems engine and electric
+Age limitation for applicant being issued VAR Part 7 AMT must be (Level 1)
+@@Not less than 18 years of age.
+There is no Age limitation.
+Not less than 21 years of age.
+An AMT level A licensed mechanic can (Level 1)
+@@Certify minor line tasks which he has done directly and for which he has been approved.
+Certify minor line tasks which he or other line mechanics have done and for which he has approval.
+Certify line maintenance checks.
+A B2 AMT License allows aircraft maintenance technician to sign completion of maintenance after performing maintenance work on (Level 1)
+Airframe structure and powerplants.
+@@Electrical systems and avionics.
+Airframe structure.
+A VAR Part 7 maintenance license remains valid (Level 1)
+If he/she has received continuation training in the last 2 years.
+@@If he/she has worked on aircraft for 6 months in the previous 2 years.
+If he/she has worked on aircraft for 4 months in the last 2 years.
+What are the language requirements of a VAR Part 7 licensed engineer? (Level 1)
+@@Read, write, speak, and understand the English language.
+Read, write, speak, and understand the Vietnamese language
+Read, write, speak, and understand the language is written on the aircraft maintenance manual.
+The requirement of practical test for rating C grant is: (Level 1)
+@@Including representative maintenance work groups related to the requested rating.
+Any maintenance work as long as ensure the specified number of work groups.
+No need to complete the practical test for rating C grant
+The VAR Part 7 AMT license holder will not be allowed to carry out the rating specified in the license unless (Level 1)
+He/she has received continuation training as required in VAR Part 7
+He/she has worked on the aircraft type for at least 12 months within the last 2 years.
+@@He/ she complies with the requirements prescribed for an approved maintenance organization in accordance with VAR Part 5 and during the previous 24 months, he/she must have a minimum of 6 months of maintenance experience directly under the rating granted AMT license or evidence met the conditions for licensing related.
+What does a B13 License apply to? (Level 1)
+@@Helicopter with turbines, their engines, airframes and electrics.
+Light aircraft with piston engines.
+Helicopters with piston engines, their engines, airframes and electrics.
+What can an A1 licensed engineer sign for? (Level 1)
+Minor Scheduled Line Maintenance tasks on turbine engine helicopters.
+@@Minor Scheduled Line Maintenance tasks on turbine engine aircraft.
+Minor Scheduled Line Maintenance tasks on piston engine aircraft.
+Which organisation carries out the specific training required for a category A licence? (Level 1)
+@@Either a VAR Part 5 or a VAR Part 9 organisation.
+A VAR Part 9 organisation only.
+A VAR Part 5 organisation only.
+With reference to the licensing of aircraft maintenance engineers, the requirements for the issue of a licence without type rating can be found in. (Level 1)
+VAR Part 4.
+@@VAR Part 7.
+VAR Part 5.
+An AMT level A VAR Part 7 licensed engineer can certify for work carried out (Level 1)
+@@By him/herself only.
+By anyone within an approved organisation.
+By anyone, even if they are independent of an approved organisation.
+In order to obtain a type rated on initial aircraft, an engineer must (Level 1)
+Ưork on aircraft for 12 months.
+Have a manufacturers course.
+@@Work on the type of aircraft involved for 12 months.
+Which article of the 2006 Vietnam Civil Aviation Law regulates to protect the public interest flight safety operations within the Country? (Level 1)
+@@Article 8
+Article 4
+Article 5
+With the aircraft registered Vietnam, who is the Airworthiness Directive issuer? (Level 1)
+Aircraft owner
+Maintenance organization
+@@CAAV
+Incase natural disasters or an airport emergency, who is responsible to suspension of flight operations at airport? (Level 1)
+Aircraft operator
+Maintenance organization
+@@CAAV
+Which cases CAAV will suspend the operation of aviation staff? (Level 1)
+@@Violation of regulations on aviation safety and security or obstructing air traffic activities
+Family conflict
+Economic lawsuit
+Who is responsible to supervise of civil aviation activities? (Level 1)
+Aircraft operator
+@@Individual/ Organization assigned by CAAV
+Maintenance Organization
+Who is responsible for supervising and directing the activities of the aviation security control force? (Level 1)
+Airlines
+Airlines and Maintenance Organization
+@@CAAV
+Who is responsible for supervising the maintenance of eligibility for grant, recognition and approval of licenses, certificates, ratings and documents on specialized operations of civil aviation? (Level 1)
+Vietnamairlines and other Operators
+Maintenance Organization
+@@CAAV
+To Define requirements of organization and service that owned by State or administrated by State, which article of Law on Civil Aviation of Vietnam regulations 2006? (Level 1)
+@@Article 65
+Article 74
+Article 75
+To determine the competition level between operators, implementation the role of controlling commercial aviation operators, which article of Law on Civil Aviation of Vietnam regulations 2006? (Level 1)
+Article 8, 12, 112
+Article 4, 12, 112
+@@Article 5, 12, 112
+Which is Article of Decrees Duties of Aviation Authority 66/2015 describing regarding aviation incidents and accidents? (Level 1)
+Article 8
+@@Article 9
+Article 10
+What CS applicable to Large Aeroplanes (EASA)? (Level 1)
+CS 23
+@@CS 25
+CS 27
+What is the type certificate? (Level 1)
+@@A type certificate is a type of certification document issued by an aviation regulation agency of a country for an Aircraft, Propeller and Engine.
+A type certificate is a type of certification document issued by aircraft owner (operator).
+A type certificate is a type of certification not mandatory for Aircraft, Propeller and Engine.
+What is the certificate specification? (Level 1)
+The certificate specification is a certificate only applicable to defective aircraft/ aircraft component has defect.
+The certificate specification is a certificate only applicable to new aircraft/ aircraft component and is issued by the aircraft owner
+@@The certificate specification is a detailed description of the technical requirements and safety standards a product must meet to obtain a certain certification or certificate.
+To prevent accidents/ incidents, what types of reports will be collected and disseminated at organization? (Level 1)
+@@Mandatory occurrence report
+Delay report
+AOG report
+What does the aircraft owner need when changes the aircraft with minor/ major changes in type certificate? (Level 1)
+Need to apply new type certificate to CAAV
+@@Need to apply supplemental type certificate to CAAV
+Need to notify to CAAV.
+Which subpart is used for manufacturer’s privileges? (Level 1)
+@@Subpart 21.170
+Subpart 21.160
+Subpart 21.150
+What is responsible of design organization after be approved? (Level 1)
+@@Maintain “the statement of design organization” in conformity and ensure its to be used as basic working documents of the design inspection system.
+Maintain “the statement of design organization” in conformity to the design inspection system.
+Ensure “the statement of design organization” to be used as basic working documents of the design inspection system
+What Certificate of Airworthiness shall be issued by CAAV? (Level 1)
+Standard Airworthiness Certificates; Standard Airworthiness Certificates
+Standard Airworthiness Certificates; Export Certificate of Airworthiness
+@@Standard Airworthiness Certificates; Standard Airworthiness Certificates; Export Certificate of Airworthiness
+Which is responsible for approving minor changes in type design? (Level 1)
+@@Approved by CAAV or DOA or accepted by CAAV
+Approved by DOA and aircraft owner
+Approved by CAAV and DOA
+Which the organizations are allowed to request to issue type certificate? (Level 1)
+Approved maintenance organization.
+Aircraft owner.
+@@Design Organization approved iaw Part 21
+When there is a major change in type design, which organization is responsible for requesting the change of type certificate? (Level 1)
+@@DOA Chapter J Part 21
+AMO
+Not applicable
+Before operation day, how long does the application of change approval in the type design send to CAAV? (Level 1)
+01 months
+03 months
+@@06 months
+Validity and effectiveness of production certificate? (Level 1)
+@@01 year
+02 year
+03 year
+What is the period of validity for a temporary Certificate of Registration? (Level 1)
+@@Not more than 12 months
+Not more than 18 months
+Not more than 24 months
+How to operate EDTO with aircraft registered Vietnam? (Level 1)
+Aircraft owner notifies to CAAV before each flight.
+@@Aircraft must be approved EDTO operations
+CAAV will accept all aircraft registered Vietnam for EDTO operations without approval.
+Weather Operations: A decision height lower than 15m and runway visual range less than 175m but not less than 50m, which is classified category? (Level 1)
+Category IIIA
+@@Category IIIB
+Category IIIC

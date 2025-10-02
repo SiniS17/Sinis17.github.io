@@ -1,0 +1,232 @@
+A demand regulator in a portable oxygen bottle opens. (Level 1)
+all the time.
+@@when breathing.
+when 100% selected.
+The cylinder of a portable oxygen set is made of. (Level 1)
+aluminium.
+stainless steel.
+@@alloy steel.
+Portable oxygen cylinders are normally charged to. (Level 1)
+@@1,800 p.s.i.
+2,000 p.s.i.
+1,200 p.s.i.
+Rate of flow of oxygen is given in. (Level 1)
+pounds/minute.
+litres/pounds.
+@@litres/minute.
+Oxygen cylinders are removed for overhaul and tested. (Level 1)
+every 3 years.
+every 6 years.
+@@every 4 years.
+Oxygen bottle capacity varies between. (Level 1)
+@@80  2250 litres.
+100  3200 litres.
+200  2250 litres.
+Oxygen filters are made of. (Level 1)
+carbon fibres.
+steel wool.
+@@sintered bronze.
+Anoxia is due to. (Level 2)
+@@lack of oxygen.
+low air pressure on the body.
+release of nitrogen bubbles in the blood.
+The dilutor demand regulator functions. (Level 2)
+all the time.
+only when the supply valve is opened by the user.
+@@when the user breathes in.
+To measure moisture in an oxygen system use. (Level 2)
+a glass plate.
+litmus paper.
+@@a hygrometer using the dew point method.
+Oxygen cylinder test dates. (Level 2)
+@@are painted in white on the cylinder.
+are variable depending on discharge.
+may be stencilled on the neck of the cylinder.
+Which connector has a left hand thread?. (Level 1)
+N2.
+Freon.
+@@O2.
+If an O2 system is leaking, where would you most likely find the cause?. (Level 2)
+Thermal Relief Valve.
+@@Loose connection.
+Breathing mask.
+Oxygen cylinders are normally fitted with. (Level 2)
+@@pressure and quantity gauges.
+oxygen purity gauge.
+temperature gauge.
+Portable oxygen bottles are fitted with. (Level 2)
+@@a demand regulator.
+an overpressure indicator.
+an over temperature indicator.
+American made crew oxygen cylinders are. (Level 2)
+black in colour with a RH thread.
+green in colour with a LH thread.
+@@green in colour with a RH thread.
+Oxygen storage cylinders, once charged should be. (Level 2)
+turned on by crew.
+turned off.
+@@turned on and safety wire-locked.
+Where are the left handed threads found in an oxygen system?. (Level 2)
+Line valve.
+Shut-off valve.
+@@Charging connection.
+Portable O2 diluter demand valve works when. (Level 2)
+@@the user breathes in.
+100% is selected.
+less than 500 psi is in bottle.
+A double headed oxygen pressure regulator is used for. (Level 2)
+@@additional flightcrew.
+changes in altitude.
+extra supply in case of emergency.
+A discharged chemical generator is indicated by. (Level 2)
+a protruding pin.
+@@a change in colour.
+a broken tell-tale wire.
+The oxygen line service valve must be. (Level 2)
+@@wire locked open.
+wire locked closed.
+only be wire locked with telltale wire.
+What pressure are oxygen cylinders usually pressurised to?. (Level 1)
+300 PSI.
+@@1800 PSI.
+3000 PSI.
+Pressure breathing systems must be used at altitudes. (Level 2)
+@@above 40,000 ft.
+below 40,000 ft.
+above 30,000 ft.
+Oxygen bottle test and working pressures can be found. (Level 2)
+stamped on a metal label.
+stencilled on the bottle.
+@@stamped on the neck ring.
+After installation, the oxygen bottle on/off valve is. (Level 2)
+left in the 'on' position.
+left in the 'off' position until required.
+@@wire locked in the 'on'.
+The direction of flow in an oxygen non return valve is indicated. (Level 2)
+by visual inspection.
+by colour coding.
+@@by an arrow.
+02 system pressure has leaked away after charging. What is the most probable cause?. (Level 3)
+Supernumerator regular.
+Temperature compensator.
+@@Breathing regulator.
+As the cabin altitude reaches 3042 metres. (Level 3)
+the 02 masks deploy automatically and the crew activates the system from the emergency panel.
+@@the 02 masks deploy automatically and hang half way extended.
+the 02 masks deploy automatically and the crew must activate the system from the cockpit.
+What is the principle of an O2 generator?. (Level 3)
+@@Sodium chlorate and iron mixed by an electronic detonator.
+Sodium chlorate and iron using a mechanical detonator producing O2 when mixed with air.
+Sodium chloride and iron mixed by an electronic detonator.
+When charging an oxygen bottle with gaseous oxygen, the oxygen is. (Level 3)
+@@passed into the bottle slowly to keep the temperature at approximately ambient.
+passed into the bottle at any rate as this does not affect temperature.
+passed into the bottle as quickly as possible to keep the temperature down.
+If an aircraft suddenly drops pressure at 14, 000 ft. (Level 3)
+passenger must get mask from overhead stowage.
+@@masks drop automatically.
+attendant must drop masks.
+If oxygen is not being supplied in normal flight conditions, the cabin altitude must be. (Level 3)
+at a maximum of 12,000 ft.
+@@at or below 8,000 ft.
+below 10,000 ft.
+A thermal compensator is used in. (Level 1)
+a fuel system.
+@@an oxygen system.
+an hydraulic system.
+In a diluter demand oxygen system. (Level 3)
+oxygen is supplied with a continuous pressure flow.
+each member of the crew has a continuous oxygen supply.
+@@each member of the crew has a regulator.
+In a continuous flow oxygen system, oxygen is supplied. (Level 3)
+@@only when the supply has been regulated by the pilot.
+on passenger inhaling into the mask.
+when the mask is plugged into the socket.
+In the diluter demand oxygen system, selection of emergency on this regulator will result in. (Level 3)
+100% oxygen at positive pressure.
+@@100% oxygen continuous flow at positive pressure.
+100% oxygen supply as the user inhales.
+Dangerous pressure rise in oxygen cylinders. (Level 3)
+@@is relieved by a bursting disc.
+is relieved by a thermostat.
+is relieved by under pressurising the bottle.
+To avoid condensation forming in an oxygen cylinder. (Level 3)
+cylinder pressure is left at 300/400 p.s.i.
+cylinder pressure is left at 100/200 p.s.i.
+@@cylinder pressure is left at 200/300 p.s.i.
+What determines the material used for oxygen pipe lines?. (Level 3)
+The whims of the aircraft designer.
+The length of the pipe runs.
+@@The pressure used in the system.
+If a binding thread needs attention on an oxygen system. (Level 3)
+@@Teflon tape may be used.
+distilled water may be used sparingly.
+no lubricant may be used whatsoever.
+When charging an oxygen bottle with gaseous oxygen, the oxygen is. (Level 3)
+passed into the bottle as quickly as possible to keep the temperature down.
+@@passed into the bottle slowly to keep temperature at approximately ambient.
+passed into the bottle at any rate as this does not affect temperature.
+In areas closely associated with oxygen systems, particular care must be taken to avoid leaving. (Level 3)
+@@traces of oils or greases.
+acrylic based plastic materials.
+magnesium particles.
+How do oxygen cylinders show over pressure?. (Level 1)
+@@Green rupturing disc.
+Audible warning.
+Red rupturing disc.
+The life of an aircraft oxygen cylinder is. (Level 1)
+2 years.
+10 years.
+@@5 years.
+A chemical oxygen generator has a supply duration of at least. (Level 1)
+@@15 minutes.
+30 minutes.
+5 minutes.
+Oxygen equipment must be carried by aircraft capable of flying above. (Level 1)
+4,000 ft.
+@@10,000ft.
+8,000ft.
+The critical altitude for oxygen requirement is approximately. (Level 1)
+38,000 ft.
+@@25,000 ft.
+4,000 ft.
+Which is the international standard atmosphere at sea level? (Level 1)
+@@15°C, 760mmHg
+18°C. 760mmHg
+15°C, 800mmHg
+When the A/C is cruising, how much pressure is the cabin pressure maintain? (Level 1)
+6000 feets
+@@8000 feets
+10000 feets
+Normally, Oxygen is advantaged, but one thing is disadvantages. What is it? (Level 1)
+Difficult to catch fire
+Difficult to store
+@@Easily go up in flames
+What kind of container for crew oxygen system? (Level 1)
+Package container
+Portable cylinders
+@@Bottle cylinders
+What kind of container for Pax. oxygen system? (Level 1)
+@@Package container
+Portable cylinders
+Bottle cylinders
+How is the crew oxygen bottle pressure checked? (Level 1)
+Direct in press gage only
+In Ecam (Door/oxy page) only
+@@Direct in press gage or in Ecam (Door/oxy page)
+Which is the max value of the crew oxygen pressure? (Level 1)
+1500 psi
+2600psi
+@@1850 psi
+Which pressure value does the green Disk burst (discharge)? (Level 1)
+@@2600 psi
+1850 psi
+1500 psi
+On Airbus Aircraft, how does the oxygen system supply to cockpit? (Level 1)
+Always available
+@@Push the crew supply switch
+Pull the lanyard in masks
+How many way to deploy the Pax oxygen masks? (Level 1)
+1
+@@2
+3
