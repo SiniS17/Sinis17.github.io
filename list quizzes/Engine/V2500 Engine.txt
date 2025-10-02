@@ -1,0 +1,400 @@
+What information contained in the engine Data Entry Plug? (Level 1)
+N1 Modifier; EPR Modifier; Engine S/N; Engine rating.
+EPR Modifier; Engine S/N; Engine rating; EEC P/N.
+@@EPR Modifier; Engine S/N; Engine rating.
+Which bleed valve is (are) fully modulating? (Level 1)
+Stage 7 valves.
+@@Stage 2.5.
+Stage 10 valve.
+Engine oil flow: (Level 1)
+@@Always pass totally through the ACOC at all HMS modes.
+Either totally or Not pass through ACOC depending on HMS modes.
+Either partly or Not pass through ACOC depending on HMS modes.
+What does the ACOC valve regulate? (Level 1)
+The engine oil flowing through the ACOC.
+@@The flow of fan air crossing the ACOC.
+The flow of ram air crossing the ACOC.
+What is the purpose of the No 4 bearing scavenge valve? (Level 1)
+Scavenge No 4-bearing compartment.
+@@Controls the venting/scavenge flow of air/oil mixture to the de-oiler.
+Controls the ACAC (buffer) air flows for No 4 bearing compartment.
+The HMS has how many modes? (Level 1)
+One
+@@Four
+Five
+In which HMS mode does the ACOC valve fully close? (Level 1)
+@@Mode 1.
+Mode 3.
+Mode 5.
+What is the failed safe position of the ACOC valve? (Level 1)
+@@Fully opened.
+Fully closed.
+Stay at the last position.
+The EEC controls the HMS with? (Level 1)
+ACOC modulating valve and FD&RV and IDG FCOC.
+@@ACOC modulating valve and FD&RV.
+ACOC modulating valve; FD&RV and FCOC.
+In normal T/R operation, actuator unlocked condition is indicated by? (Level 1)
+REV in green appears inside the EPR gauge.
+REV in amber appears inside the N1 gauge.
+@@REV in amber appears inside the EPR gauge.
+The Overspeed valve and the PRSOV in the FMU are opened by? (Level 1)
+Signals from the EEC to a modulating torque motor.
+Signals from the EEC to a micro switches.
+@@Metered fuel pressure.
+How the Fuel distribution valve works? (Level 1)
+It follows the EEC demand.
+It is electrically controlled by EEC and fuel pressure operated
+@@There’s no control of the valve.
+The N1 speed signal is sensed from? (Level 1)
+@@Speed probes interacting with a phonic wheel in the front bearing compartment.
+A tachometer generator fitted into the accessory gearbox.
+Speed probes located in the LP Turbine.
+The indicated N2 speed is measured from? (Level 1)
+Speed probes and a phonic wheel.
+@@EEC computes FFVf the dedicated alternator (PMA) 3 phase output signal.
+A tachometer generator fitted into the accessory gearbox.
+What is the FADEC? (Level 1)
+The interface between the Display Management Computer and the Engine Interface Unit.
+@@The EEC, sensors and data input and the engine output devices such as fuel operated actuators and pneumatic valves.
+The Electronic Engine Controller.
+Is the same channel of the EEC, always in command? (Level 1)
+Yes - except with channel failure.
+No - command alternates between channels each hour.
+@@No - command alternates between channels on consecutive flights.
+If a single data input signal to the EEC fails, will control revert to the other channel? (Level 1)
+Yes - in all cases.
+Yes - in certain identified conditions.
+@@No - the input is used from the other channel.
+If both EEC channels failed, what engine power will automatically be set ? (Level 1)
+TOGA, power or maximum power of the day.
+Maximum climb power.
+@@Approximately idle power.
+How are the bearing compartments sealed? (Level 1)
+Air supported labyrinth seals.
+@@Air supported carbon seals.
+Combination of labyrinth and hydraulic seals.
+What additional task must be performed to supply power for the EEC when ground maintenance interrogation is required? (Level 1)
+None
+@@Select the FADEC ground power switch on, after energising the aircraft 28v DC bus – bar
+Select emergency power by the rotary switch.
+What provides the EEC channels A & B with a back – up N2 speed signal? (Level 1)
+The frequency of the output of a dedicated single phase winding.
+The Phonic wheel and Pulse probe arrangement on the LP stubshaft.
+@@One of the three phase windings of Channel “B” power generation.
+How is movement of the thrust lever sensed by the EEC? (Level 1)
+@@Electrical signals from the dual output throttle resolver.
+A cable and pulley input to resolvers in the EEC.
+By dual thrust level rod input to the mechanical box.
+What is the primary mode setting and controlling steady state engine power? (Level 1)
+@@Fuel flow scheduled to deliver EPR - closed loop control.
+Fuel flow scheduled to deliver N1 - closed loop control.
+N1 set by thrust lever position – open loop.
+How is the fuel flow signal transmitted from the EEC to the fuel metering valve? (Level 1)
+Mechanically - thrust resolver angle (TRA).
+@@Electrically - changes in electrical current value.
+Electrically – changes in voltage level.
+What power level is set if auto thrust is lost? (Level 1)
+Forward idle.
+@@Manual thrust lock position (Frozen).
+TOGA power.
+The HP fuel system is protected against excessive pressure by? (Level 1)
+@@A relief valve venting excess pump delivery pressure to the pump inlet.
+A relief valve in the FMU vents excess pressure to the diverter valve.
+A bypass valve in the LP filter outlet case opens.
+How is icing/waxing of the fuel prevented at low temperatures? (Level 1)
+By a fuel heater in the HP fuel system.
+@@Heat from the engine oil system transfers to the LP fuel in the fuel/oil heat exchanger.
+By alteration of the fuel metering valve position and directly change the fuel flow to the combustion system.
+How does the FMU schedule the fuel supply to the engine? (Level 1)
+@@By positioning a pressure drop/spill valve to change the flow rate of return fuel to the LP system.
+By changing the pump delivery rate to match the engine requirement.
+By positioning of the fuel metering valve and directly change the fuel flow to the combustion system.
+The EEC interface with the Fuel Metering Valve is by? (Level 1)
+A two position torquemotor.
+A three position solenoid.
+@@A modulating torquemotor.
+where is the pressure drop/spill valve located? (Level 1)
+In the HP fuel pump.
+@@In the FMU.
+In the fuel diverter valve.
+what positions the spill valve? (Level 1)
+Signals from a modulatingtorquemotor.
+Resolver signals from the fuel metering valve.
+@@The pressure drop governor movement.
+The Overspeed valve and the PRSOV are opened by? (Level 1)
+Signals from the EEC to a modulating torquemotor.
+Signals from the EEC to a micro switch.
+@@Metered fuel pressure.
+What letter should be visible in the “Switch window” of an FMU 8061 – 637 (V2530 & V2533)? (Level 1)
+@@“X”.
+“O”.
+No letter displayed.
+What range of engine thrust ratings is applicable to a “switchable” FMU, which is set to show ”O”in the switch window? (Level 1)
+30K & 33K.
+@@22K, 24K & 27K.
+All possible engine ratings.
+Is the fuel return to tank valve controlled by? (Level 1)
+A two position torquemotor.
+A solenoid.
+@@A modulating torquemotor.
+What flight conditions inhibit the fuel return to tank flow? (Level 1)
+All conditions when engine is operating and aircraft is in flight.
+@@High power conditions, take – off and early climb.
+High altitude above 25,000 feet (7576m) in cruise,
+In low temperature start conditions, how is the oil system protected from high pump delivery pressure? (Level 1)
+@@A relief valve set at 450 psi, return pressure to the oil tank.
+Excess pressure vents to the gearbox.
+With the low oil temperature the pressure pump output is restricted.
+How is the main cooling of the oil system achieved? (Level 1)
+By an air - cooled oil cooler.
+By a fuel - cooled oil cooler in the HP fuel system.
+@@By as fuel - cooled oil cooler in the LP fuel system.
+Is oil removed from the No 4 bearing chamber by? (Level 1)
+A dedicated scavenge pump.
+Air cooled air cooler (buffer) air.
+@@Air pressure through the carbon seals.
+Why is a compressor airflow control system used on the V2500? (Level 1)
+@@To maintain adequate surge margin for compressor operation.
+To give adequate bleed airflow for aircraft services.
+To give stable operation of compressor at cruise condition.
+VIGV/VSV’s are fitted at which stages of the HP compressor? (Level 1)
+3, 4, 5 & 6 (A1) and 3, 4 & 5 (A5).
+@@Inlet, 3, 4, 5 & 6 (A1) and Inlet, 3, 4 & 5 (A5).
+Inlet, 3, 4, 5, 6 & 7 (A1) and Inlet, 3, 4, 5 & 6 (A5).
+The anti - ice control valve can be manually locked open for? (Level 1)
+@@Despatch of aircraft with valve inoperative.
+Engine operation when icing conditions will not be met.
+Valve is never locked for any operating conditions.
+The N1 (LP) speed signal is sensed from? (Level 1)
+@@Speed probes interacting with a phonic wheel in the front bearing compartment.
+A tachometer generator fitted into the accessory gearbox.
+Speed probes located in the LP Turbine.
+The indicated N2 speed is measured from? (Level 1)
+Speed probes and a phonic wheel.
+@@A dedicated frequency probe (primary) and the frequency of 1 phase of channel B, 3 phase power supply (secondary) of the dedicated alternator (PMA).
+A tachometer generator fitted into the accessory gearbox.
+What is the preferred bolt ring that the balancing weights should be attached to? (Level 1)
+The 22 Annulus Filler bolt ring.
+The 24 Nose Cone bolt ring.
+@@The 36 Front Retaining Disc bolt ring.
+How is access to the front blade retaining ring 24 bolt hole flange achieved? (Level 1)
+@@Remove the 6 bolts retaining the Nose cone fairing and remove the fairing.
+Remove the nose cone and fairing.
+Remove the annulus filler.
+How is the front blade retaining ring secured to the fan disk? (Level 1)
+By 22 annulus filler safety bolts.
+By a ring of 24 bolts.
+@@By a ring of 36 bolts.
+How is the front blade retaining ring removed from the fan disk? (Level 1)
+@@By the use of 6 specially designed “extractor” bolts inserted into specially designed threaded holes.
+By the use of 4 “puller” bolts inserted into the 36 bolt hole flange threaded holes.
+By the use of a special “lever” tool.
+Where on the fan blade is data recorded? (Level 1)
+On the fan module data plate.
+@@On the fan blade root.
+On the blade front retaining plate.
+THE ENGINE OIL AND IDG OIL TEMPERATURES ARE CONTROLLED BY: (Level 1)
+The engine fuel/oil and servo fuel heater.
+Returning fuel to the center tank for cooling.
+@@The Heat Management System, controlled by EEC.
+THE OIL VENT SYSTEM INCLUDES THE FOLLOWING COMPONENTS: (Level 1)
+@@A de-aerator in the oil tank, and a de-oiler on the external gear box.
+A de-oiler in the oil tank, and a de-aerator in the external gear box.
+A de-oiler and de-aerator in the oil tank.
+THE FADEC PROVIDES TWO IDLE MODE SELECTION: (Level 1)
+Flight idle and approach idle.
+@@Approach idle and minimum idle.
+Approach idle and landing idle.
+ON THE ECAM UPPER DISPLAY, THE WHITE CIRCLE MOVING AROUND THE ENGINE EPR GAUGE REPRESENTS: (Level 1)
+The EPR limit.
+The EPR actual.
+@@The predicted EPR corresponding to the thrust lever position.
+THE RESOLVERS IN THE THROTTLE CONTROL UNIT PROVIDE THROTTLE RESOLVER ANGLE INFORMATION TO: (Level 1)
+@@Channel A and channel B of the Engine Electronic Controller (EEC).
+Channel A only of each EEC.
+The Engine Interface Unit (EIU), then to the EEC.
+WITH THE ENGINE MASTER SWITCH "OFF": (Level 1)
+@@The Pressure Raising and Shut-Off Valve (PRSOV) and the Low Pressure fuel shut-off valve are closed.
+The High Pressure fuel valve is closed and Low Pressure fuel shut-off valve is open.
+The PRSOV is open and the Low Pressure fuel shut-off valve is closed.
+IN CASE OF AN ENGINE INTERFACE UNIT FAILURE: (Level 1)
+@@Engine start on the ground is not possible.
+The FADEC reverts to the N1 control mode.
+The engine runs at minimum fuel flow because of Engine Electronic Controller input loss.
+TO INITIATE A DRY CRANKING SEQUENCE, THE CORRECT SELECTION OF THE FOLLOWING COMPONENTS SHOULD BE: (Level 1)
+Mode selector to IGN START and MAN START pushbutton selected ON.
+@@Mode selector to CRANK and MAN START pushbutton selected ON.
+Mode selector to CRANK, master switch ON, and MAN START pushbutton selected ON.
+THE ENGINE ELECTRONIC CONTROLLER CONTROLS SIX BLEED SOLENOID VALVES MOUNTED ON THE FAN CASE. ONE OF THESE SOLENOID VALVES PROVIDES: (Level 1)
+The Air Cooled Oil Cooler (ACOC) valve control.
+@@The pneumatic system High Pressure Bleed Valve closure control.
+The number 4 bearing scavenge valve pneumatic control.
+WHEN THE BOOSTER STAGE BLEED VALVE MASTER AND SLAVE ACTUATORS ARE REPLACED: (Level 1)
+Only the master actuator may require adjustment.
+@@No adjustment is required for the master actuator or slave actuator.
+Both master and slave actuators may require adjustment.
+WHAT IS NEEDED BY THE FADEC TO COMPUTE A REDUCED THRUST SETTING? (Level 1)
+Nothing, it is an automatic function of the FADEC
+A FLEX temperature must be entered on the INIT page of the MCDU
+@@A FLEX temperature must be entered on the TAKE OFF PERF page of the MCDU
+WITH FLYING IN N1 REVISIONARY MODE ON ENGINE #1, AUTOTHRUST IS AVAILABLE (Level 1)
+True
+@@False
+Still available on engine #2.
+WHAT INDICATION IS PROVIDED IN THE COCKPIT IF THE HCU MANUAL LOCKING PIN IS INSTALLED? (Level 1)
+REVERSER ISOLATION shown on upper ECAM
+REVERSER ISOLATION shown on ENGINE page
+@@No indication in the cockpit
+THE START VALVE IS TESTED… (Level 1)
+@@Through CFDS via FADEC menus
+By the lever installed on the valve
+Can only be tested by starting the engine
+WHICH OF THE FOLLOWING WOULD NOT CAUSE THE FADEC SYSTEM TO ABORT AN AUTOMATIC START? (Level 1)
+High EGT
+@@Low oil pressure
+No EGT rise
+THRUST REVERSER HALF LATCHES: HOW TO ACCESS FRONT LATCH (V GROOVE LATCH)? (Level 1)
+Through a panel under the C-duct halves
+@@Through the left fan cowl
+Through a panel under the fan cowl
+TRYING TO INSTALL MAGNETIC CHIP DETECTOR (M.C.D.) WHEN THE SEAL RINGS ARE NOT INSTALLED, IS IT POSSIBLE? (Level 1)
+Yes, it is possible by hand
+@@No, it isn’t possible
+Yes, it is possible by a special tool
+ABOVE 50% N2, THE FUEL CUT OFF (ENGINE SHUT DOWN) COMMAND COMES FROM (Level 1)
+@@The flight crew or engineer
+Controlled by EEC
+The flight crew or engineer and Controlled by EEC
+IF AN OUTPUT FAUL IN ONE EEC CHANNEL IN CONTROL,…IF AN INPUT FAULT IN ONE EEC CHANNEL IN CONTROL,… (Level 1)
+Cause switchover to control from the other channel That control channel uses input signal from the other channel
+@@That control channel uses output signal from the other channel via crosstalk That control channel uses input signal from the other channel
+Cause switchover to control from the other channel Cause switchover to control from the other channel
+IF HANDLING BLEED VALVES (7thA, 7thB, 7thC, 10thSTAGE) STICK IN THE CLOSED POSITION, CAN IT BE DETECTED BY FADEC? (Level 1)
+@@No, it is Not detected by FADEC
+Yes, FADEC can detect directly by its sensor
+Yes, FADEC can detect via Engine Interface Unit (EIU)
+WHAT DOES THE EEC CONTROL DURING AUTOMATIC START (Level 1)
+Start valve, igniters and fuel flow
+@@Start valve, igniters and HP fuel valve and fuel flow
+Start valve, igniters, LP and HP fuel valve
+IF ONE DAMAGED FAN BLADE HAS TO BE REPLACED (Level 1)
+Replace by any fan blade out of MWD limit and do trim balance
+Replace by the fan blade with (MWD) moment weight different in limit and do not trim balance
+@@Both a and b
+HOW TO REMOVE THE LP AND HP PUMP (Level 1)
+LP and HP pump are removed individually
+@@LP and HP pump are removed together
+Remove the LP pump first then HP pump
+HOW DOES THE EEC DETECT ENGINE SURGE (Level 1)
+Rapid decrease in burner pressure
+The value of rate of change of burner pressure
+@@Rapid decrease in burner pressure. The value of rate of change of burner pressure
+WHEN AN ENGINE SURGE IS DETECTED, THE EEC CONTROLS (Level 1)
+7th bleed valves opened and 10th bleed vale closed
+7th bleed valves closed and 10th bleed vale opend
+@@7th bleed valves opened and 10th bleed vale opened
+HOW TO SET FLEXIBLE TAKE-OFF (Level 1)
+@@Set assumed temperature is higher than actual ambient temperature
+Set assumed temperature is lower than actual ambient temperature
+Set assumed temperature is equal actual ambient temperature
+HOW TO REPLACE N1 SENSOR (Level 1)
+N1 is replaced on wing
+@@N1 is replaced off wing
+Both a and b
+IF ONE OF THE FAN SPEED PROBES N1 BECOMES UNSERVICEABLE (Level 1)
+AC AOG
+AC can dispatch by MEL
+@@AC can dispatch by TSM
+HOW CAN AN INOPERATIVE 10th STAGE BLEED VALVE BE DETECTED? (Level 1)
+By ECAM warning
+By failure message on CFDF
+@@By bleed test set
+PLACING THE MASTER SWITCH TO ON POSITION WILL CAUSE (Level 1)
+LP fuel valve open and PRSOV inside FMU open
+LP fuel valve open and HP fuel valve open
+@@LP fuel valve open and de-energized PRSOV solenoid
+THRUST CONTROL DURING THRUST REVERSER OPERATION IS: (Level 1)
+As function of EPR
+@@As function of N1
+As function of N2
+HOW DOES THE STARTER OPERATE? (Level 1)
+Hydraulically
+Electrically
+@@Pneumatically
+ENGINE PRESURE RATIO (EPR) IS (Level 1)
+@@Ratio between total pressure at the LP turbine exhaust and engine inlet
+Ratio between total pressure at the HP turbine exhaust and engine inlet
+Ratio between total pressure at the HP turbine exhaust and LP turbine exhaust
+THE IDLE CAN BE MODULATED TO APPROACH IDLE DEPENDING ON: (Level 1)
+Air conditioning demand
+Wing anti-ice demand or engine anti-ice demand
+@@Air conditioning demand and Wing anti-ice demand or engine anti-ice demand
+IS THERE ANY MECHANICAL LINKAGE BETWEENTHE THRUST LEVERS AND THE ENGINES (Level 1)
+No, it is electrically powered and hydraulically actuated.
+Yes, via a cable for backup
+@@No, it is totally electrical
+DURING ENGINE MANUAL START, RELEASING THE MAN START PUSH BUTTON AFTER SET MASTER LEVER TO ON MAY CAUSE (Level 1)
+Start sequence abort because start valve close.
+@@No effect to start sequence.
+No effect to start sequence if N2>50%.
+SET THE MASTER LEVER TO ON WILL CAUSE (Level 1)
+PRSOV solenoid powered open
+PRSOV solenoid depowered close
+@@PRSOV solenoid depowered and opens if fuel pressure available.
+THE ENGINE OVERSPEED PROTECTION IS ACHIEVED (Level 1)
+@@By a logic circuit in EEC to active a torque motor which drives a separate over speed valve in the FMU
+By a logic circuit in EEC to active a torque motor which drives a metering valve in the FMU
+By a logic circuit in EEC to active a torque motor which drives a PRSOV in the FMU
+THE CHANGEOVER OF TWO ACCELEROMETERS OF EVMU IS BY (Level 1)
+EEC on each engine start or manually via MCDU on ground
+EIU on each engine start or manually via MCDU on ground
+@@EVMU on each engine start or manually via MCDU on ground
+INCASE FAILURE OF P2 OR P4.9 SENSOR (Level 1)
+Engine N1 mode push button must be pressed in to revert the EEC to N1 reversionary mode
+@@EEC automatically reverts to N1 reversionary mode, the pressed in to send signal to EEC to confirm
+Engine N1 mode push button must be pressed in to revert EEC to N1 reversionary mode
+Which statement below is correct? (V2500) (Level 1)
+The 4 handling bleed valves are actuated by servo fuel.
+@@The 4 handling bleed valves have no feed-back position to EEC.
+The 4 handling bleed valves are controlled by EIU.
+If EIU fails during the engine operation: (V2500) (Level 1)
+The FADEC increases the power setting.
+The dedicated alternator supplies power to FADEC.
+@@The ignition system is energized.
+How to open the thrust reverser "C" duct doors(V2500) (Level 1)
+by manual using manpower.
+@@by a hydraulic actuator using a manual hand pump.
+by a hydraulic actuator using an engine hydraulic pump.
+HP/LP turbine blade tip clearance is achieved by: (V2500) (Level 1)
+Directing booster bleed air onto the turbine case.
+Directing 7th stage air into the LP turbine blades.
+@@Directing fan air onto the turbine case.
+What does the ACOC valve regulate? (V2500) (Level 1)
+The engine oil flowing through the ACOC.
+@@The flow of fan air crossing the ACOC.
+The flow of ram air crossing the ACOC.
+What senses movement of the T/R translating sleeve? (V2500) (Level 1)
+@@The LVDT’s on the upper actuators.
+The proximity switches on the locking actuators.
+The LVDT’s on the lower actuators.
+What is true regarding to the No4 bearing compartment scavenge valve? (V2500) (Level 1)
+The EEC monitors its position.
+@@It is pneumatically operated.
+It is modulating valve.
+How is the thrust rating defined on the V2500? (V2500) (Level 1)
+By FADEC control.
+By a cockpit selection.
+@@By an engine data programming plug.
+The ignition is inhibited during (Level 1)
+Dry cranking
+Wet cranking
+@@All of above
+The high pressure compressor airflow is controlled by the variable stator vanes (VSVs) and: (V2500) (Level 1)
+Two bleed valves.
+Three bleed valves.
+@@Four bleed valves.
+Engine nacelle temperature sensor is? (V2500) (Level 1)
+In the pylon area.
+In the fan area.
+@@In the core area.

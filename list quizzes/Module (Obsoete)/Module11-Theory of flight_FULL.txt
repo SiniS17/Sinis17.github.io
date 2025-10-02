@@ -1,0 +1,300 @@
+As a subsonic aircraft speeds-up, its Centre of Pressure. (Level 1)
+moves forward.
+@@moves aft.
+is unaffected.
+Wing spoilers, when used asymmetrically, are associated with. (Level 1)
+@@ailerons.
+rudder.
+elevators.
+If an aircraft is yawing to the left, where would you position the trim tab on the rudder?. (Level 1)
+To the centre.
+To the right.
+@@To the left.
+Which part of the wing of a swept-wing aircraft stalls first?. (Level 1)
+@@Tip stalls first.
+Root stalls first.
+Both stall together.
+During flight, an aircraft is yawing to the right. The aircraft would have a tendency to fly. (Level 1)
+@@right wing low.
+nose up.
+left wing low.
+With a drop in ambient temperature, an aircraft service ceiling will. (Level 1)
+not be affected.
+lower.
+@@rise.
+Dutch role is movement in. (Level 1)
+@@yaw and roll.
+yaw and pitch.
+pitch and roll.
+If an aircraft is aerodynamically stable. (Level 1)
+aircraft becomes too sensitive.
+@@aircraft returns to trimmed attitude.
+of P moves back.
+Ailerons control the aircraft in the. (Level 1)
+longitudinal plane.
+directional plane.
+@@lateral plane.
+An anti-balance tab is used. (Level 1)
+for trimming the aircraft.
+@@to give more feel to the controls.
+to relieve stick loads.
+Slats. (Level 1)
+act as an air brake.
+@@keep the boundary layer from separating for longer.
+increase the overall surface area and lift effect of wing.
+Wing tip vortices are strongest when. (Level 1)
+flying high speed straight and level flight.
+@@flying slowly at high angles of attack.
+flying into a headwind.
+An example of a secondary flight control is a. (Level 1)
+elevator.
+flap.
+@@spoiler.
+Which flap will increase wing area and camber?. (Level 1)
+Split.
+Slot.
+@@Fowler.
+An automatic slat will lift by itself when the angle of attack is. (Level 1)
+low.
+high or low.
+@@high.
+A split flap increases lift by increasing. (Level 1)
+the surface area.
+the camber of the top surface.
+@@the angle of attachment of the lower hinged portion.
+When the trailing edge flaps are lowered, the aircraft will. (Level 1)
+sink.
+@@pitch nose down.
+pitch nose up.
+Dutch roll is. (Level 1)
+type of slow roll.
+primarily a pitching instability.
+@@combined yawing and rolling motion.
+A leading edge slat is a device for. (Level 1)
+@@increasing the stalling angle of the wing.
+decreasing wing drag.
+decreasing the stalling angle of the wing.
+What is a controlling factor of turbulence and skin friction?. (Level 1)
+@@Countersunk rivets used on skin exterior.
+Aspect ratio.
+Fineness ratio.
+When an aircraft stalls. (Level 1)
+@@lift decreases and drag increases.
+lift and drag increase.
+lift and drag increase.
+In a bank and turn. (Level 1)
+extra lift is not required.
+@@extra lift is required.
+extra lift is not required if thrust is increased.
+The stalling speed of an aircraft. (Level 1)
+is increased when it is lighter.
+does not change.
+@@is increased when it is heavier.
+With an increase in the amount of flap deployment, the stalling angle of a wing. (Level 1)
+increases.
+remains the same.
+@@decreases.
+Which leading edge device improves the laminar flow over the wing?. (Level 1)
+Flap and slat.
+Flap.
+@@Slat.
+The tropopause exists at about. (Level 1)
+18,000 ft.
+@@36,000 ft.
+30,000 ft.
+Instability giving roll and yaw. (Level 1)
+is longitudinal stability.
+is lateral stability.
+@@is dutch roll.
+Vortex generators are fitted to. (Level 1)
+@@move transition point forwards.
+move transition point rearwards.
+advance the onset of flow separation.
+Leading edge flaps. (Level 1)
+decrease stalling angle of the wing.
+do not change the stalling angle.
+@@increase stalling angle of the wing.
+Krueger flaps are on. (Level 1)
+@@the leading edge.
+the trailing edge.
+either the leading or training edge.
+If an aircraft is flying with a left wing low, where would you move the left aileron trim tab?. (Level 2)
+Down.
+@@Up.
+Moving the aileron trim tab will not correct the situation.
+When a leading edge flap is fully extended, what is the slot in the wing for?. (Level 2)
+To allow the flap to retract into it when it retracts.
+@@To re-energise the boundary layer.
+To increase the lift.
+With respect to differential aileron control, which of the following is true?. (Level 2)
+The up going Aileron moves through a smaller angle than the down going aileron.
+The up going and down going ailerons both deflect to the same angle.
+@@The down going aileron moves through a smaller angle than the up going aileron.
+The aeroplane fin is of symmetrical aerofoil section and will therefore provide a side-load. (Level 2)
+@@if a suitable angle of attack develops due either yaw or rudder movement.
+only if a suitable angle of attack develops due to yaw.
+only when the rudder is moved.
+An aircraft left wing is flying low. The aileron trimmer control to the left aileron trim tab in the cockpit would be. (Level 2)
+moved up causing the left aileron to move up.
+@@moved up causing the left aileron to move down.
+moved down causing the left aileron to move down.
+The purpose of a slot in a wing is to. (Level 2)
+speed up the airflow and increase lift.
+@@act as venturi, accelerate the air and re-energise boundary layer.
+provide housing for the slat.
+Large flap deployment. (Level 2)
+has no effect on spanwise flow.
+causes increased spanwise flow towards tips on wing upper surface.
+@@causes increased spanwise flow towards tips on wing lower surface.
+Extending a leading edge slat will have what effect on the angle of attack of a wing?. (Level 2)
+Increase the angle of attack.
+@@Decrease the angle of attack.
+No effect on angle of attack.
+To ensure that a wing stalls at the root first, stall wedges are. (Level 2)
+installed at the wing trailing edge at the wing root.
+installed at the wing trailing edge at the wing root.
+@@installed on the wing leading edge at the wing root.
+With reference to differential aileron control. (Level 2)
+@@drag increases on the inner wing.
+drag decreases on the outer wing.
+drag increases on the outer wing.
+Due to the change of lift forces resulting from the extension of flaps in flight. (Level 2)
+@@nose should be lowered, reducing AoA.
+nose should remain in the same position, maintaining same AoA.
+nose should be raised, increasing AoA.
+Flight spoilers. (Level 2)
+@@can be used to decrease lift to allow controlled decent without reduction of airspeed.
+can be deployed on the down going wing in a turn to increase lift on that wing.
+can be used with differential ailerons to reduce adverse yaw in a turn.
+If the aircraft is flying nose heavy, which direction would you move the elevator trim tab?. (Level 2)
+Up to move elevator up.
+@@Down to move elevator up.
+Up to move elevator down.
+A balance tab. (Level 2)
+@@assists the pilot to move the controls.
+is used to trim the appropriate axis of the aircraft.
+effectively increases the area of the control surface.
+Which wing increases drag when the ailerons are moved?. (Level 2)
+Both wings have an equal increase in drag.
+@@Both wings increase drag but the wing with the down-going aileron increases more.
+Both wings increase drag but the wing with the up-going aileron increases more.
+On aircraft fitted with spoilers for lateral control, roll to the right is caused by. (Level 2)
+left and right spoilers extending.
+@@right spoilers extending, left spoilers remaining retracted.
+left spoilers extending, right spoilers remaining retracted.
+On an aircraft with an all-moving tailplane, pitch up is caused by. (Level 2)
+increasing tailplane incidence.
+@@decreasing tailplane incidence.
+up movement of the elevator trim tab.
+A Krueger flap is. (Level 2)
+leading edge slat which extends forward.
+flap which extends rearwards but does not lower.
+@@leading edge flap which hinges forward.
+The layer of air over the surface of an aerofoil which is slower moving, in relation to the rest of the airflow, is known as. (Level 2)
+camber layer.
+none of the above are correct.
+@@boundary layer.
+When airflow velocity over an upper cambered surface of an aerofoil decreases, what takes place?. (Level 2)
+@@Pressure increases, lift decreases.
+Pressure decreases, lift increases.
+Pressure increases, lift increases.
+Changes in aircraft weight. (Level 2)
+will only affect total drag if the lift is kept constant.
+will not affect total drag since it is dependant only upon speed.
+@@cause corresponding changes in total drag due to the associated lift change.
+The aircraft stalling speed will. (Level 2)
+@@increase with an increase in weight.
+@@increase with an increase in weight.
+be unaffected by aircraft weight changes since it is dependant upon the angle of attack.
+The angle of attack at which stall occurs. (Level 2)
+depends on the weight of the aircraft.
+cannot be varied, it is always constant.
+@@can be varied by using flaps and slats.
+The primary function of a flap is. (Level 2)
+to alter the position of the centre of gravity.
+to trim the aircraft longitudinally.
+@@to alter the lift of an aerofoil.
+A wing flap which has dropped or partially extended on one wing in flight will lead to. (Level 2)
+@@steady rolling tendency which would be corrected by use of the ailerons.
+fixed banked attitude which would be corrected by use of the rudder.
+pitching moment which would be corrected by used of the elevators.
+Downward displacement of an aileron. (Level 2)
+@@decreases the angle at which its wing will stall.
+increases the angle at which its wing stalls.
+has no effect on its wing stalling angle, it only affects the stalling speed on that wing.
+Due to the tailplane angle of attack change, the flap-induced downwash on the tailplane. (Level 2)
+may cause a nose-down or nose-up pitch depending upon the initial tailplane load.
+will tend to cause an aircraft nose down pitch.
+@@will tend to cause an aircraft nose-up pitch.
+Due to the change in lift coefficient accompanying extension of the flaps, to maintain the lift constant it would be necessary to. (Level 2)
+@@lower the nose.
+keep the pitch attitude constant.
+raise the nose.
+Induced drag curve characteristics of a slender delta wing are such that there is. (Level 2)
+an increase in gradient with wing speed.
+@@decrease in gradient with wing speed.
+no change in gradient with wing speed.
+If an aircraft is yawing left, the trim tab on the rudder would be positioned. (Level 2)
+@@to the left, moving the rudder right.
+to the centre.
+to the right, moving the rudder left.
+Pitch is the nose up - nose down motion around the (Level 1)
+Vertical axis.
+Longitudinal axis.
+@@Lateral axis 
+The primary flight controls are (Level 1)
+The ailerons and elevator
+@@The ailerons and roll spoiler, elevator and rudder 
+The ailerons, elevator and rudder
+Way to reduce the wave drag (Level 1)
+Use vortex generators
+Apply the "Area rule"
+@@Use vortex generators and apply the "Area rule" 
+The inlet design must slow the air with the weakest possible series or combination of shock waves in order to minimize the energy losses caused by temperature (Level 1)
+@@Increases 
+Decreases
+Increases or decreases depend on air speed
+Which lift device increase lift 70%? (Level 1)
+Plain flap
+@@Slotted flap 
+Fowler flap
+A normal shock wave takes place at Mach (Level 1)
+@@1.2 
+2.1
+1.3
+Forward and backward movement of the side stick is used for pitch control by (Level 1)
+@@The elevators 
+The ailerons
+The rudder
+The function of the spoilers is to (Level 1)
+Increase the drag
+Reduce the lift
+@@Increase the drag and reduce the lift 
+On A/C has slotted flaps, when the flaps extend the slots allow (Level 2)
+@@Air from the lower side of the wing to flow to the upper side to prevent an early flow separation
+Air from the upper side of the wing to flow to the lower side to prevent and early flow separation
+Air from the lower side of the wing to flow to the upper side to prevent and a late flow separation
+If an aircraft is flying with a left wing low, to balance the A/C, you should move the left aileron trim tab? (Level 2)
+Moving the aileron trim tab will not correct the situation
+Down
+@@Up 
+All speeds around the aircraft are below the speed of sound is called (Level 2)
+@@The subsonic region 
+The transonic region
+The supersonic region
+The flaps are used in which flight phase? (Level 2)
+Landing
+Take-off
+@@Landing and Take-off 
+The anti−balance tab deflects (Level 2)
+@@In the same direction as the control surface 
+In the opposite direction as the control surface
+Depend on demand of pilot
+The A/C equipped with elevons (Level 2)
+@@Does not have separated aileron 
+Does not have separated rudder
+Use as a combination of elevator and flap
+In supersonic flight, (Level 2)
+Velocity decreases, temperature decreases
+Velocity increases, temperature increases
+@@Velocity decreases, temperature increases

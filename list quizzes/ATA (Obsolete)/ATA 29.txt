@@ -1,0 +1,240 @@
+What is the colour of the band on a hydraulic seal? (Level 1) 
+Yellow. 
+@@Green. 
+White. 
+What happens to hydraulic fluid when it is overheated? (Level 1) 
+@@Increase acidity. 
+Increase viscosity. 
+Increase alkalinity. 
+How do you prevent hydraulic fluid frothing? (Level 1) 
+@@By pressurizing. 
+Vent Reservoir to atmosphere. 
+Pass over a tray. 
+Synthetic hydraulic fluid subjected to overheating is high in. (Level 1) 
+@@acidity. 
+alkalinity. 
+viscosity. 
+Hydraulic systems normally operate at. (Level 1) 
+1800 PSI. 
+@@3000 PSI. 
+300 PSI. 
+When replacing a flexible pipe. (Level 1) 
+do a bonding check. 
+tighten only hand tight. 
+@@use two spanners to stop pipe from twisting. 
+How do you remove air from hydraulic fluid? (Level 1) 
+Vent to atmosphere. 
+Pass through a restriction.
+@@Pass over a tray. 
+A constant delivery pump has its output varied with. (Level 1) 
+@@regulators. 
+gears. 
+servo pressure. 
+A variable angled pump starts at. (Level 1) 
+halfway position. 
+minimum stroke. 
+@@maximum stroke. 
+A check flow valve in a hydraulic system prevents. (Level 1) 
+pump cavitation. 
+@@reverse flow. 
+overpressure. 
+During a leak test of an hydraulic system, system pressure. (Level 1) 
+is not important. 
+must be minimum working. 
+@@must be at maximum. 
+Mechanical sequence valves are operated by. (Level 1) 
+@@a striker pin. 
+the pilot. 
+the operation of a NRV. 
+An automatic cut-out valve will. (Level 1) 
+limit pump wear. 
+@@prevent the hydraulic lock forming. 
+raise fluid boiling point. 
+A thermal relief valve. (Level 1) 
+senses fluid temperature change. 
+@@senses fluid pressure. 
+provides cooling for the fluid. 
+Phosphate Ester hydraulic fluid requires which kind of seals? (Level 1) 
+@@Butyl Rubber. 
+Synthetic Rubber. 
+Natural Rubber. 
+Hand pumps in hydraulic systems are normally. (Level 1) 
+single acting.
+low pressure. 
+@@double acting. 
+The force exerted by a hydraulic cylinder is equal to. (Level 1) 
+area * volume. 
+@@area * pressure. 
+pressure * stroke. 
+A tandem PFCU. (Level 1) 
+has two control surfaces under its control. 
+has the rams parallel. 
+@@has the actuator rams co-axial. 
+Hydraulic pressure can be restored by. (Level 2) 
+@@compressing the air charge in an accumulator. 
+the use of a pressure/heat exchanger. 
+compressing the fluid in a reservoir. 
+Where is the temperature overheat switch located in a hydraulic pump? (Level 2) 
+In the pressure line. 
+In the suction line. 
+@@In the case drain. 
+What happens if a component has an internal hydraulic leak? (Level 2) 
+Fluid loss. 
+Increase in fluid pressure. 
+@@Increase in fluid temperature. 
+Accumulators as fitted to aircraft hydraulic systems. (Level 2) 
+are only ever used in an emergency. 
+@@store fluid under pressure. 
+provide additional fluid if leaks occur. 
+A Skydrol hydraulic fluid seal would be made of. (Level 2) 
+natural rubber. 
+synthetic rubber. 
+@@butyl rubber, ethylene propylene or Teflon. 
+The control of hydraulically powered emergency electrical generator frequency is by. (Level 2) 
+restriction valve.
+@@angle of swashplate. 
+IDG. 
+When flushing hydraulic systems. (Level 2) 
+flush with methylated spirit. 
+flush with any hydraulic oil. 
+@@flush with same hydraulic oil. 
+When replenishing a hydraulic system. (Level 2) 
+use any hydraulic fluid. 
+use any hydraulic fluid made by the same manufacturer. 
+@@use the same/correct hydraulic fluid. 
+When is an hydraulic de-pressurizing valve energized? (Level 2) 
+When selected on. 
+When there is sufficient hydraulic pressure available. 
+@@When selected off. 
+What constitutes a hydraulic power pack? (Level 2) 
+Variable swashplate pump. 
+@@Reservoir, pump, selector valve, filter. 
+Hydraulic oil accumulator. 
+If an accumulator loses air pressure there will be. (Level 2) 
+rapid depressurization of system. 
+pump cavitation. 
+@@rapid fluctuations of instruments. 
+A thermal relief valve is fitted to a hydraulic system to. (Level 2) 
+prevent a leak back of pressure. 
+prevent excess temperature. 
+@@relieve excess pressure. 
+A component in a hydraulic system which ensures instantaneous action when a service is selected is. (Level 2) 
+@@accumulator. 
+engine driven pump. 
+selector. 
+Restrictor valves in a hydraulic system are used to. (Level 2) 
+restrict the rate of pressure build up. 
+@@control the rate of system operation. 
+limit the maximum pressure.
+The purpose of a mechanical sequence valve is to ensure the operation of. (Level 2) 
+@@landing gear and doors. 
+safety switches. 
+brake anti-skid units. 
+The purpose of a non-return valve is to. (Level 2) 
+@@direct fluid to the hydraulic actuator. 
+restrict the movement of components. 
+isolate one component from another. 
+The end fittings on a NRV are normally different to. (Level 2) 
+facilitate bleeding of the system. 
+allow a full flow from the valve. 
+@@prevent incorrect installation. 
+Automatic cut-out valve hammering is caused by. (Level 2) 
+@@low accumulator pressure. 
+moisture in the fluid. 
+relief valve set too high. 
+Hand pumps are normally single cylinder double acting because of the. (Level 2) 
+@@two NRVS fitted. 
+relief valve. 
+piston ram displacement. 
+Pressure relay valves are fitted. (Level 2) 
+@@before a pressure gauge. 
+before a pressure sequence valve. 
+before a pressure relief valve. 
+Hydraulic reservoirs are pressurized to. (Level 2) 
+provide a reserve of stored energy. 
+maintain a constant fluid level. 
+@@minimize the possibility of pump cavitation. 
+In aircraft hydraulic systems, it is permissible to use. (Level 2) 
+@@only the specified fluid. 
+any fluid of the same specific gravity. 
+any hydraulic fluid available. 
+Hydraulic systems are normally flushed with. (Level 2)
+methylated spirits. 
+@@the same type of fluid as used in the system. 
+any clean hydraulic fluid. 
+A RAT hydraulic pump is for. (Level 2) 
+landing gear and auto-brake systems. 
+nose wheel steering. 
+@@flying controls if hydraulic power lost. 
+A purpose of a 'cut-out' in a hydraulic system. (Level 3) 
+is to prevent creep in jack operated services which have several selected positions. 
+is to limit loss of fluid in the event of pipe fracture. 
+@@is to relieve the pump of load when the operation of services is complete and the accumulator charged with fluid. 
+A maintainer valve in an hydraulic system will. (Level 3) 
+@@allow continued press to essential systems during times of reduced supply. 
+dampen pressure inputs. 
+maintain a high pressure to all systems. 
+How is the hydraulic pump depressurizing solenoid actuated? (Level 3) 
+Energized both open and closed depending on cockpit selection. 
+Energized Open. 
+@@Energized Closed for fail-safe. 
+A normal hydraulic system will. (Level 3) 
+@@show pressure and source of hydraulics. 
+show fluid temperature and quantity. 
+illuminate a light in the cockpit when the system is ready. 
+A constant volume hydraulic system uses what to relieve pressure in system when no services are being used? (Level 3) 
+Pressure relief valve. 
+Return line back to pump. 
+@@ACOV. 
+A pressure control relay in a hydraulic pump is. (Level 3) 
+Energized to the run position. 
+used to prevent anything happening until there is hydraulic pressure. 
+@@de-Energized to start the pump.
+A duplex seal consist of. (Level 3) 
+a square section rubber ring within a steel washer. 
+a hard rubber square section ring with a soft rubber square section inner ring. 
+@@a rubber 'T' section ring sandwiched between two Teflon rings. 
+A fixed volume axial pump contains the following rotating parts. (Level 3) 
+Drive Shaft, Swash Plate & Valve Block. 
+Swash Plate & Valve Block. 
+@@Drive Shaft, Swash Plate & Cylinder Block. 
+A hydraulic closed system is one where. (Level 3) 
+@@pressure is maintained at the selector valves at all times. 
+there is no pressure at the selector valves when no functions are required. 
+most of the major components of the system are included in a self-contained unit. 
+A marker number on a pipe indicates. (Level 3) 
+the thickness of the wall on the pipe. 
+@@the specification of the pipe throughout the pipe run. 
+the type of fluid used to pressure test the pipe. 
+"One reason for fitting an accumulator in a hydraulic system is to." (Level 3) 
+minimize the possibility of pump cavitation. 
+@@absorb pressure surges. 
+relieve excess pressure. 
+A shuttle valve is used for. (Level 3) 
+preventing fluid loss from a leaking jack. 
+maintaining fluid press when the emergency system fails. 
+@@change over from main to auxiliary system in the case of failure. 
+A hydraulic accumulator is charged with initial air pressure of 1000 PSI. When the hydraulic system pressure of 3000 PSI is reached, the air pressure is. (Level 3) 
+4000 PSI. 
+@@3000 PSI. 
+1000 PSI. 
+Constant delivery hydraulic pumps. (Level 3) 
+require an automatic cut-out valve in the system. 
+@@require an automatic cut-out valve and accumulator in the system. 
+are self-idling
+Before checking the initial pressure in the hydraulic accumulator. (Level 3) 
+the reservoir must be checked for correct level. 
+@@the fluid pressure must be released. 
+all air must be bled from the system. 
+The essential components of a hydraulic system of the constant delivery type are an. (Level 3) 
+@@accumulator and automatic cut-out valve. 
+accumulator and shuttle valve. 
+accumulator and relay valve. 
+A maintaining valve is fitted to a hydraulic system. (Level 3) 
+to maintain a back pressure to the accumulator. 
+relieve excessive pressure to return. 
+@@to ensure a supply of fluid to essential services in the event of system failure. 
+To enable a hydraulic system to operate two components requiring different pressures. (Level 3) 
+@@a pressure reducing valve is used. 
+a pressure regulating valve is used. 
+a pressure relief valve is used. 

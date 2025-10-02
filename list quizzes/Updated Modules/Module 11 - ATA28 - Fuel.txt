@@ -1,0 +1,300 @@
+A fuel crossfeed valve is usually in. (Level 1)
+@@the closed position.
+the open position.
+its last position.
+Cross feed valves permit fuel transfer from. (Level 1)
+tank to tank.
+left tank to right tank.
+@@any tank to any engine.
+Integral fuel booster pumps. (Level 1)
+require ram air cooling.
+@@lets the fuel do cooling.
+require no cooling.
+A leak from a fuel tank which manifests as fuel dripping from the tank is classified as a. (Level 1)
+stain.
+seep.
+@@run.
+Microbial growth is. (Level 1)
+black dots.
+@@brown black slime.
+green sludge.
+Bladder type fuel tanks are secured by. (Level 1)
+there bolts.
+contact adhesive.
+@@press type rivets.
+When a FADEC system loses air data input it goes to. (Level 1)
+@@soft reversion.
+hard-soft reversion.
+mechanical reversion.
+Pressure refuelling is carried out at. (Level 1)
+20 PSI.
+@@40 PSI.
+60 PSI.
+Cross feed valves permit fuel transfer from. (Level 1)
+tank to tank.
+center tank to right tank.
+@@any tank to any engine.
+Integral fuel booster pumps. (Level 1)
+require ram air cooling.
+@@lets the fuel do cooling.
+require cooling.
+Fuel systems that are interconnected must have. (Level 2)
+separate venting for each tank.
+no airspace.
+@@air spaces interconnected.
+Sliding couplings in fuel systems are used on. (Level 1)
+low pressure systems.
+high pressure systems.
+@@air or vapour systems.
+When using Biopor microbial fuel growth treatment. (Level 2)
+@@it is added to the fuel and burnt.
+it is applied dry and left.
+it is applied wet and flushed out.
+A zero fuel test on a fuel quantity indicating system is carried out with. (Level 2)
+tanks completely full.
+tanks completely empty.
+@@tanks empty apart from unusable fuel.
+After a tank bag has been replaced, a fuel flow test should be carried out at. (Level 2)
+tank outlet.
+@@engine inlet.
+tank shut-off valve point.
+In biologically contaminated fuel, corrosion takes place. (Level 2)
+@@below the fungal colonies.
+the top of the tank.
+the bottom 2 inches of the tank.
+What is fitted to the fuel jettison pipe to prevent vaporisation?. (Level 2)
+@@An anti-corona device.
+A corona device.
+A nozzle.
+What happens to the capacitance in a fuel contents gauge as fuel is used?. (Level 2)
+Depends on altitude.
+Increases.
+@@Decreases.
+In a light fixed wing aircraft, the fuel warning light indicates. (Level 2)
+pump failure.
+the tank does not pressurise.
+@@ice blockage, filter popped or pump fail.
+How is fuel supplied to a turbine engine?. (Level 2)
+@@By a fuel boost pump.
+By suction from the engine driven fuel pump.
+By a gravity feed pump.
+A fuel tank suction valve will open when. (Level 2)
+@@the booster pump fails.
+both the engine driven and booster pump fail.
+the engine driven pump fails.
+When a fuel jettison valve is in transit, the magnetic indicator would show. (Level 2)
+amber and in line.
+@@amber and cross line.
+green and in line.
+A fuel cross-feed valve is lubricated. (Level 1)
+by internal cooling.
+by air.
+@@by the fuel.
+When considering the basic categories of fuel tank construction, which of the following is most prone to leaks?. (Level 2)
+Rigid.
+@@Integral.
+Flexible.
+Crossfeed valves are normally fitted with. (Level 2)
+@@two 28V DC motors.
+two three-phase AC motors.
+two single phase AC motors.
+A shroud vent and overload drain would normally be found on. (Level 2)
+@@fuel tank vent pipes.
+fuel jettison system.
+the APU fuel feed.
+Calcium Chromate tablets can be fitted in integral tanks. Before installation the linen bag should be wetted with. (Level 2)
+@@Water.
+Methylated Spirit.
+Kerosene.
+On Large transport aircraft fuel is delivered to each engine using. (Level 2)
+a parallel system.
+@@the same system for each engine.
+a separate system for each engine.
+When using Biopor microbial fuel growth treatment. (Level 2)
+@@it is added to the fuel and burnt.
+it is applied dry and right
+it is applied wet and flushed out.
+A zero fuel test on a fuel quantity indicating system is carried out with. (Level 2)
+center tanks completely full.
+tanks completely empty.
+@@tanks empty apart from unusable fuel.
+After a tank bag has been replaced, a fuel flow test should be carried out at. (Level 2)
+center tank outlet.
+@@engine inlet.
+tank shut-off valve point.
+In biologically contaminated fuel, corrosion takes place. (Level 2)
+@@below the fungal colonies.
+the top of the center tank.
+the bottom 2 inches of the tank.
+What is fitted to the fuel jettison pipe to prevent vaporisation?. (Level 2)
+@@An anti-corona device.
+A corona device.
+A center tank.
+Fuel cross feed valves are operated by the. (Level 1)
+@@28 V DC bus.
+115 V AC.
+battery.
+What happens to the capacitance in a fuel contents gauge as fuel is used?. (Level 2)
+Depends on altitude.
+Increases on altitude.
+@@Decreases.
+In a light fixed wing aircraft, the fuel warning light indicates. (Level 2)
+pump failure.
+the center tank does not pressurise.
+@@ice blockage, filter popped or pump fail.
+When refuelling. (Level 3)
+the fuel nozzle will automatically cut off the supply when the tank is full.
+@@it is important not to fill the expansion space in the tank.
+it is important to fill the expansion space in the tank.
+If an aircraft has ability to transfer fuel in flight, provision must be made to. (Level 3)
+@@shut off fuel before structural damage.
+provide overflow facility to dump fuel.
+stop engine from using tank during transfer.
+In a fuel system with interconnected vents. (Level 3)
+an expansion space is not required.
+@@the expansion space must be 2% of the tank capacity.
+the expansion space must be 10% of the tank capacity.
+Fuel tanks interconnected must have. (Level 3)
+vents to allow overfueling.
+@@protection against overfill for tanks and fuel system.
+tank where fuel is fed from both tanks to engine inlet.
+When an aircraft is put into storage for medium / long periods, the fuel tanks should. (Level 3)
+@@have some fuel left in to prevent sealant from deteriorating/drying out.
+be full.
+be empty.
+The purpose of a scavenge system within a fuel system is. (Level 3)
+to ensure that all unused fuel is returned to the tanks efficiently.
+to ensure that all available fuel can be used.
+@@to ensure that any water in the fuel is constantly dispersed thus reducing microbiological contamination.
+To prevent water condensation in a fuel tank. (Level 3)
+@@the tank should be filled as full as possible.
+the tank should be filled with the minimum fuel possible.
+the filler cap should be left open.
+As fuel level increases, system capacitance. (Level 1)
+decreases.
+no change.
+@@increases.
+To protect the centre tank fuselage area from a vapour build up. (Level 3)
+ram air is circulated around the tank.
+a shroud vent and overboard drain is fitted.
+@@cabin air is bled around the tank.
+On removal of a fuel tank booster pump, fuel is observed running out of the boost pump canister, this could be caused by. (Level 3)
+@@the pressure outlet check valve is not correctly seated.
+fuel draining out of the pressure switch bleed.
+fuel leaking past the inlet screens.
+To shut-off the LP fuel supply to the engine for the purpose of engine removal you would. (Level 3)
+close the cross bleed valve.
+close the HP fuel lock.
+@@pull the fire handle.
+A check valve is fitted to a fuel jettison system to. (Level 3)
+prevent the centre from being defuelled.
+@@prevent the dumping of the outer tanks.
+automatically stop the fuel jettison operation after a period of time.
+The advantages of integral fuel tanks are that they. (Level 3)
+are cheaper to manufacture, more durable and  easier to maintain.
+@@use the maximum volume for fuel and have the minimum amount of weight.
+are easier to design and construct and use the maximum volume of fuel.
+When an aircraft is put into storage for medium / long periods, the fuel tanks should. (Level 3)
+@@have some fuel left in to prevent sealant from deteriorating/drying out.
+be center tank full.
+be empty.
+The purpose of a scavenge system within a fuel system is. (Level 3)
+to ensure that all unused fuel is returned to the tanks efficiently.
+to ensure that all available fuel can be not used.
+@@to ensure that any water in the fuel is constantly dispersed thus reducing microbiological contamination.
+To prevent water condensation in a fuel tank. (Level 3)
+@@the tank should be filled as full as possible.
+the tank should be filled with the minimum fuel possible.
+the filler cap should be left close.
+To protect the centre tank fuselage area from a vapour build up. (Level 3)
+ram air is circulated around the center tank.
+a shroud vent and overboard drain is fitted.
+@@cabin air is bled around the tank.
+On removal of a fuel tank booster pump, fuel is observed running out of the boost pump canister, this could be caused by. (Level 3)
+@@the pressure outlet check valve is not correctly seated.
+fuel draining out of the pressure switch bleed.
+fuel leaking past the outlet screens.
+Microbial growth is. (Level 1)
+red dots.
+@@brown black slime.
+green sludge.
+To shut-off the LP fuel supply to the engine for the purpose of engine removal you would. (Level 3)
+close the cross bleed valve.
+close the LP fuel lock.
+@@pull the fire handle.
+Bladder type fuel tanks are secured by. (Level 1)
+bolts.
+contact adhesive.
+@@press type rivets.
+When a FADEC system loses air data input it goes to. (Level 1)
+@@soft reversion.
+hard reversion.
+mechanical reversion.
+Pressure refuelling is carried out at. (Level 1)
+20 PSI.
+@@40 PSI.
+15 PSI.
+How many main type of turbine engine fuel? 1. Jet A1. 2. Jet A. 3. Jet B. 4. JP 5. 5. Mobile jet 2. (Level 1)
+@@1. Jet A1. 2. Jet A. 3. Jet B. 4. JP 5.
+1. Jet A1. 2. Jet A. 3. Jet B. 5. Mobile jet 2.
+1. Jet A1. 2. Jet A. 5. Mobile jet 2.
+Do you need to record the type of fuel used when refueling? (Level 1)
+No
+@@Yes
+Sometimes
+Which are the main characteristics of Jet A1? (Level 1)
+High flash point 20° C, low freezing -60° C.
+High flash point 10° C, low freezing -40° C.
+@@High flash point 38° C, low freezing -47° C.
+What is an other very important characteristic of fuel? (Level 1)
+Low price
+Carry water in fuel
+@@Density
+Which condition does jet fuel to vaporize? (Level 1)
+@@Ambient pressure decrease
+Ambient pressure increase
+Low temp & high pressure
+What is freezing point? (Level 1)
+Is the temperature at which elements of the fuel start to vaporize
+@@Is the temperature at which elements of the fuel start to crystallize
+Is the temperature at which elements of the fuel start to change the characteristics
+What are the problems if water accumulation is in the fuel tanks? 1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. 3. large amounts of water in fuel can cause engine power fluctuations or flame outs. 4. cause erratic fuel quantity indicating. 5. microbial growth in the tanks. (Level 1)
+@@1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. 3. large amounts of water in fuel can cause engine power fluctuations or flame outs. 4. cause erratic fuel quantity indicating. 5. microbial growth in the tanks.
+1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. 3. large amounts of water in fuel can cause engine power fluctuations or flame outs.
+1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. indicating. 5. microbial growth in the tanks.
+How can you check the water inside fuel when do refueling? (Level 1)
+Visual inspection fuel
+@@Using a syringe test cartridge and chemically treated filter
+No need check
+What does the main fuel storage system consists of? 1. Fuel tanks. 2. Tank drain system. 3. Tank vent system. (Level 1)
+1. Fuel tanks. 2. Tank drain system.
+1. Fuel tanks. 3. Tank vent system.
+@@1. Fuel tanks. 2. Tank drain system. 3. Tank vent system.
+Normally, Where is the additional tanks located in the civil aircraft? (Level 1)
+@@In the horizontal stabilizer or cargo compartment
+In avionic compartment
+In nose section
+What is the most common types of main fuel tank on modern jet aircraft? (Level 1)
+The light metal and rubber containers tank
+@@The integral tank
+The light metal cylinders tank
+How does seal 2 plates join in fuel tank? (Level 1)
+Use the cap seal type
+Use the o-ring seal type
+@@Use a fillet seal type
+How does seal a nut or a bolt in fuel tank? (Level 1)
+@@Use the cap seal type
+Use the o-ring seal type
+Use a fillet seal type
+What is the most common types of auxiliary fuel tanks on modern jet aircraft? (Level 1)
+The integral tank
+@@The bladder type fuel tank
+The light metal cylinders tank
+Which components (valve) in fuel tanks prevent fuel flow out of collector boxes during maneuvers? (Level 1)
+The shuttle valve
+The shut-off valve
+@@The flap baffle valves
+Why we need the ventilation system in fuel system? (Level 1)
+@@Protect the A/C and Pax against dangerous fuel leak, over pressure
+Support delivery fuel in system well
+Reduce the temp. inside the fuel tanks

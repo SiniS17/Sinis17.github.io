@@ -1,0 +1,304 @@
+Engine wing firebottles should be charged with nitrogen at 15°C to. (Level 1)
+1250 psi.
+@@600 psi.
+1500 psi.
+What external warning is there for an APU fire?. (Level 1)
+Aural.
+@@Aural and a red light.
+White light.
+Engine fire bottle pressure switches are operated by. (Level 1)
+AC and DC.
+@@DC.
+AC.
+A cockpit check on the engine firewire system is a. (Level 1)
+calibration check.
+@@continuity check.
+function test.
+Fireproofing of cabin material should be done. (Level 1)
+every 2 years.
+@@when a sample fails.
+every 3 years.
+Toilet fire detection issues can be found in. (Level 1)
+@@AWN 83.
+CAAIPs.
+AWN 100.
+A cargo compartment which will contain a fire itself and ventilate is a class. (Level 1)
+A.
+@@D.
+E
+The weight of an extinguisher is stamped. (Level 1)
+on bracket.
+@@on head fitting.
+on base of body.
+How many fire extinguishers are required on an aircraft with 501 passengers?. (Level 1)
+6.
+@@7.
+5.
+How many fire extinguishers are required on an aircraft having 401 - 500 passengers?. (Level 1)
+@@6.
+8.
+5.
+A fire that can be put out by a crew member in a cargo bay is in a. (Level 2)
+class A compensation.
+class D compensation.
+@@class B compensation.
+A Systron-Donner fire detection system uses. (Level 1)
+@@helium gas.
+oxygen gas.
+nitrogen gas.
+In a capacitive fire detection system, if. (Level 2)
+there is a break, the system will not work.
+@@there is a break, the system will work but not test satisfactory.
+there is a short to earth, the system will work but not test satisfactory.
+A toilet is fitted with thermal protection. (Level 2)
+to protect against freezing at altitude.
+@@to protect against the dangers of smoke and fire in the event of an overheat.
+to protect against continuous flushing.
+Fire tests on aircraft internal furnishings must be carried out. (Level 2)
+every two years.
+every five years.
+@@only when equipment items fail random tests.
+What is the contamination monitor for, in a Systron Donner fire detection system?. (Level 2)
+Volts drop.
+@@Dirty contacts.
+Integrity comparator.
+What test is carried out to ensure serviceability of a squib?. (Level 2)
+Bottles are fired.
+Safety ohmmeter is used to check voltage.
+@@A continuity check.
+In a gas firewire system, what causes the firewire caption to come on when heat is applied?. (Level 2)
+Continuity.
+@@Pressure.
+Capacitance increase.
+The outside casing of a firewire has. (Level 2)
+@@same potential as ground.
+28VDC potential above ground.
+115VDC potential above ground.
+Smoke detectors consist of a. (Level 2)
+lamp detecting 2% smoke.
+@@photoelectric cell detecting 10% smoke.
+photoelectric cell detecting 2% smoke.
+In a toilet smoke condition, what would be the indication?. (Level 2)
+@@Either a light or an audible warning in the cabin.
+Light in the cabin.
+Audible warning in the cabin.
+What do you check when carrying out an insulation check on a continuous firewire loop?. (Level 2)
+The firewire, sensor & controller.
+The outside of the firewire to earth.
+@@The firewire.
+What external warning is there for an APU fire?. (Level 1)
+Aural.
+@@Aural and a red light.
+Red light.
+In a capacitive fire detection system, if. (Level 2)
+there is a break, the system will work.
+@@there is a break, the system will work but not test satisfactory.
+there is a short to earth, the system will work but not test satisfactory.
+A toilet is fitted with thermal protection. (Level 2)
+to protect against freezing at altitude.
+@@to protect against the dangers of smoke and fire in the event of an overheat.
+to protect against discontinuous flushing.
+Fire tests on aircraft internal furnishings must be carried out. (Level 2)
+every three years.
+every five years.
+@@only when equipment items fail random tests.
+What is the contamination monitor for, in a Systron Donner fire detection system?. (Level 2)
+Volts increase.
+@@Dirty contacts.
+Integrity comparator.
+What test is carried out to ensure serviceability of a squib?. (Level 2)
+Bottles are fired.
+Safety ohmmeter is not used to check voltage.
+@@A continuity check.
+In a gas firewire system, what causes the firewire caption to come on when heat is applied?. (Level 2)
+Discontinuity.
+@@Pressure.
+Capacitance increase.
+The outside casing of a firewire has. (Level 2)
+@@same potential as ground.
+14VDC potential above ground.
+115VDC potential above ground.
+Smoke detectors consist of a. (Level 2)
+lamp detecting 50% smoke.
+@@photoelectric cell detecting 10% smoke.
+photoelectric cell detecting 2% smoke.
+In a toilet smoke condition, what would be the indication?. (Level 2)
+@@Either a light or an audible warning in the cabin.
+Light in the cockpit.
+Audible warning in the cabin.
+What do you check when carrying out an insulation check on a continuous firewire loop?. (Level 2)
+The firewire, sensor & controller.
+The inside of the firewire to earth.
+@@The firewire.
+Engine fire bottle pressure switches are operated by. (Level 1)
+AC or DC.
+@@DC.
+AC.
+How often do hand-held extinguishers have to be weighed?. (Level 2)
+Bi-annually.
+Every 5 years.
+@@Annually.
+How can fire extinguisher be identified as being used?. (Level 2)
+Check the tell-tale wire.
+@@Weighed.
+Check the pressure.
+CO2 fire extinguishers are used on. (Level 2)
+@@all fires in fuselage.
+engines only.
+baggage holds only.
+On pulling the fire handle, the aural warning. (Level 3)
+goes off, the light goes off, hydraulics, bleed air and generator goes off.
+stays on, the light extinguishes, the generator goes off  line.
+@@goes off, the light remains on, the generator goes off line.
+A fire detection zone wiring can pass through another fire zone when. (Level 3)
+@@the system and the extinguishing system are the same.
+the system is different but the extinguishant is the same.
+the system is the same but the extinguishant is different.
+When a fire test on a Systron Donor fire detector system is carried out. (Level 3)
+a signal passes through the unbroken centre conductor to produce the warning.
+@@it checks the integrity of the contacts.
+the signal passes through the centre and back through the outer to give warning.
+When inspecting lavatory installations. (Level 3)
+@@the ashtray should not be located close to the toilet paper holder.
+No Smoking' sign should be fitted next to the ashtrays only.
+the ashtray must be made of a thermoplastic material.
+Lavatories must have, in the disposal container. (Level 3)
+Freon extinguisher with white ball markings indicating when discharged.
+@@Freon extinguisher with black ball markings indicating when discharged.
+water/glycol extinguisher with white ball markings indicating when discharged.
+A fire detection loop must be capable of. (Level 3)
+@@using master warning visual and aural signals.
+detecting fire/overheat condition within 5 seconds and extinguishing such that after 30 seconds the condition is no longer present.
+using master warning visual signals only.
+When the fire handle is operated it. (Level 3)
+cuts off fuel and hydraulics. Generator remains on line to provide electrical power.
+@@cuts off field current, hydraulics and fuel and operates fire extinguishers.
+operates fire extinguisher only.
+A cockpit check on the engine firewire system is a. (Level 1)
+calibration check.
+@@continuity check.
+function check.
+When the fire-handle switch is pulled, a. (Level 3)
+red warning light stays on. Generator, hydraulics & fuel stays on.
+red warning light goes off. Generator goes offline.
+@@red warning light stays on. Generator, hydraulics, & fuel is cut off.
+On pulling the fire handle, the aural warning. (Level 3)
+the light goes off, hydraulics, bleed air and generator goes off.
+stays on, the light extinguishes, the generator goes off  line.
+@@goes off, the light remains on, the generator goes off line.
+A fire detection zone wiring can pass through another fire zone when. (Level 3)
+@@the system and the extinguishing system are the same.
+the hydraulic system is different but the extinguishant is the same.
+the system is the same but the extinguishant is different.
+When a fire test on a Systron Donor fire detector system is carried out. (Level 3)
+a signal passes through the unbroken centre conductor to produce the warning.
+@@it checks the integrity of the contacts.
+the signal passes through the centre and left through the outer to give warning.
+When inspecting lavatory installations. (Level 3)
+@@the ashtray should not be located close to the toilet paper holder.
+Smoking' sign should be fitted next to the ashtrays only.
+the ashtray must be made of a thermoplastic material.
+Lavatories must have, in the disposal container. (Level 3)
+Freon extinguisher with white ball markings indicating when charged.
+@@Freon extinguisher with black ball markings indicating when discharged.
+water/glycol extinguisher with white ball markings indicating when discharged.
+A fire detection loop must be capable of. (Level 3)
+@@using master warning visual and aural signals.
+detecting fire/overheat condition within 10 seconds and extinguishing such that after 30 seconds the condition is no longer present.
+using master warning visual signals only.
+When the fire handle is operated it. (Level 3)
+Cuts off fuel. Generator remains on line to provide electrical power.
+@@Cuts off field current, hydraulics and fuel and operates fire extinguishers.
+Operates fire extinguisher only.
+When the fire-handle switch is pulled, a. (Level 3)
+White warning light stays on. Generator, hydraulics & fuel stays on.
+Red warning light goes off. Generator goes offline.
+@@Red warning light stays on. Generator, hydraulics, & fuel is cut off.
+What are the minimum number of fire bottles in a cabin with 201- 300 people?. (Level 3)
+3 BCF.
+@@4 Fire Extinguishers.
+4 Methyl Bromide.
+Fireproofing of cabin material should be done. (Level 1)
+every 2 years.
+@@when a sample fails.
+every 5 years.
+Portable fire extinguishers are operated by. (Level 3)
+turning upside down and squeeze button/trigger.
+@@breaking the tell tale/tamper-proof seal then operated by the handle.
+one single operation until fire extinguisher is empty.
+Toilet fire detection issues can be found in. (Level 1)
+@@AWN 83.
+CAAIPs.
+AWN 80.
+A cargo compartment which will contain a fire itself and ventilate is a class. (Level 1)
+A.
+@@D.
+C.
+A Systron-Donner fire detection system uses. (Level 1)
+@@helium gas.
+cacbon gas.
+nitrogen gas.
+Main part of fire protection system? (Level 1)
+The fire detection system
+@@The fire detection system and the fire extinguishing system
+The fire extinguishing system
+Which area Fire detection systems must always be operative? (Level 1)
+@@The engines and the APU
+The APU
+The engines
+Where is/are temperature sensitive detectors used in? (Level 1)
+@@The engine and APU area and in the wheel well and hot air duct
+The engine and APU area and in the wheel well
+The engine and in the wheel well and hot air duct
+What type of the fire or overheat detection sensors? (Level 1)
+Continuous and parallel loops
+Parallel loops
+@@Continuous loops
+What is/are types of continuous loops? (Level 1)
+Single loop and the pneumatic pressure loop
+Semiconductor loop and the electrical loop
+@@Semiconductor loop and the pneumatic pressure loop
+What type of sensor used in engine fire detection systems? (Level 1)
+@@Dual continuous loop
+Dual parallel loops
+Single continuous loop
+What type of loop used in wheel well fire detection systems? (Level 1)
+Pressure loop
+Dual loop
+@@Individual semiconductor loops
+What type of the lavatory smoke detection sensors? (Level 1)
+@@Single sensor in the lavatory ceiling area
+Single sensor in the lavatory sidewall area
+Dual sensor in the lavatory ceiling area
+How many class of cargo and baggage component? (Level 1)
+4
+@@5
+6
+To prevent loop failures and false fire warnings, we must? (Level 1)
+@@Obey a maximum bending not more than 3.2 mm and a minimum radius not less than 25.4 mm
+Obey a maximum bending not more than 3.2 mm and a minimum radius not less than 2.54 mm
+Obey a maximum bending not more than 4.2 mm and a minimum radius not less than 25.4 mm
+What is /are main components of the gas pressure loop? (Level 1)
+Stainless steel tube
+@@Stainless steel tube and responder
+Responder
+Type of smoke detector are in use in transport aircraft? (Level 1)
+@@The optical and the ionization
+The pressure and the ionization
+The optical and the pressure
+How many factors of fire? (Level 1)
+1
+@@3
+2
+How many fire types? (Level 1)
+@@4
+3
+2
+How many types of fire extinguisher agents? (Level 1)
+3
+5
+@@4
+What component/area has an automatic fire extinguisher system? (Level 1)
+Engine
+@@APU
+MLG bay

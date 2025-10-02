@@ -1,0 +1,928 @@
+A full time yaw damper system detects. (Level 1)
+@@band pass frequencies.
+all frequencies.
+only low frequencies.
+Differential aileron control will. (Level 1)
+cause a nose up moment.
+@@prevent yawing in conjunction with rudder input.
+cause a nose down moment.
+The purpose of a yaw damper is to. (Level 2)
+assist the aerodynamic response.
+@@block the Dutch roll frequency.
+produce a co-ordinated turn.
+Automatic trim is used to. (Level 2)
+@@prevents standing loads on the elevator.
+maintain level flight.
+allow full authority to be regained by the aileron.
+Stall warning will be given at speeds. (Level 2)
+at the actual stall speed.
+that are lower than stall speed.
+@@that are higher than stall speed.
+On the ground, poilers/speedbrakes deploy to. (Level 2)
+30°.
+@@60°.
+15°.
+During a left turn. (Level 2)
+right rudder to be used.
+left rudder to be used.
+@@ball is to be maintained in centre of turn and slip indicator.
+The cyclic stick in an helicopter is. (Level 2)
+@@in the centre.
+to the left.
+to the right.
+Purpose of the bellcrank is to. (Level 2)
+transmit motion.
+@@reverse direction and transmit motion.
+adjust friction.
+Helicopter cyclic stick is turned to the right, the. (Level 2)
+@@rotating aerofoil tilts to the right.
+rotating aerofoil tilts forward.
+pitch operating arms lengthen in one direction and shorten in another.
+In normal flight, if the control column is pulled back, a servo tab fitted to the elevator will. (Level 2)
+move up.
+@@move down.
+remain in line with the elevator.
+On an aircraft fitted with elevons in normal flight, if a column is moved forward, the elevons will. (Level 2)
+@@both move down.
+both move up.
+remain stationary.
+On a fly-by-wire aircraft, what controls stabilizer trim?. (Level 1)
+SEC.
+@@ELAC and SEC.
+ELAC.
+Artificial feel is gained by using a. (Level 2)
+@@spring bias unit.
+hydraulic damper.
+'feel' generator.
+To avoid moments bending the root of the wing, the aircraft will be fitted with. (Level 2)
+automatic trim control for controlled turns and rudder movements.
+@@symmetrical flight control trim.
+integrated fuel monitoring system.
+'Q' feel for the stabiliser requires. (Level 2)
+@@pitot and static.
+pitot only.
+static only.
+The stabiliser is set to high setting when. (Level 2)
+the flap are moving up.
+the flap are moving up or down.
+@@the flaps are moving down.
+Mach trim threshold are set by the. (Level 2)
+engineer using aircraft maintenance manual.
+@@manufacturer.
+pilot.
+Oscillation and hunting of flight control surface are prevented by. (Level 2)
+feedback from the servo motor.
+feedback from control surface.
+@@fitting a tachogenerator.
+Stick shaker activates at a speed which is above the stalling speed by. (Level 2)
+0.10321.
+0.04.
+@@0.07.
+During an autopilot controlled turn. (Level 2)
+ailerons, rudder and THS will move.
+@@ailerons, rudder and elevators will move.
+ailerons and rudder will move.
+The neutral shift system augments control of the. (Level 2)
+@@elevator.
+stabiliser.
+spoilers.
+Pitch trimming in autopilot is initiated by. (Level 2)
+@@continued pitch input.
+C of G movement.
+pitch of aircraft in cruise.
+Flutter can be prevented by. (Level 1)
+@@mass balance.
+trim tabs.
+balance panels.
+Differential aileron control will. (Level 2)
+@@prevent yawing in conjunction with rudder input.
+cause a nose down moment.
+cause a nose up moment.
+Elevons combine the functions of both. (Level 2)
+rudder and aileron.
+@@elevator and aileron.
+rudder and elevator.
+The purpose of control cable regulators is to. (Level 2)
+compensate for high temperature only.
+compensate for low temperature only.
+@@maintain preset cable tensions during flight.
+The aircraft is controlled about the lateral axis by the. (Level 2)
+@@elevator.
+rudder.
+ailerons.
+The aircraft is controlled about the normal axis by the. (Level 2)
+@@rudder.
+ailerons.
+elevator.
+The purpose of the Servo Valve in a power operated control is. (Level 2)
+to revert the system to manual operation.
+to provide pressure to operate the control.
+@@to direct hydraulic fluid to the jack in response to the pilots control in cockpit.
+Gust Load Alleviation Function in a FLY BY WIRE system. (Level 2)
+@@uses the high speed computer responses to compensate for sudden gusts.
+is achieved by the weight saving from elimination of cables, feel units and other conventional items.
+may be controlled by the elevators.
+Powered flying control actuators. (Level 2)
+@@transmit pilot input to the control surfaces.
+provide feedback to the pilot.
+are operated by the autopilot only.
+Irreversibility of a fully powered control surface is provided by. (Level 2)
+the jack ram being attached to structure.
+@@nulling of the servo valve.
+air loads on the control surface.
+How is automatic angle of attack protection provided?. (Level 1)
+Fast/Slow indication.
+Reduce flap deployment.
+@@Autothrottle applying more power.
+Q feel units use. (Level 2)
+static pressure only.
+pitot pressure only.
+@@pitot and static pressures.
+Powered flight control systems are used on transport aircraft. (Level 2)
+because the pilot has too many tasks to perform.
+@@due to the increase in speed and size of aircraft.
+because at low level air density is high.
+In an aircraft flying control system employing servo-tabs, the installation of external ground locks to the main control surface. (Level 3)
+@@would not prevent movement of the control column.
+is unnecessary since the system is irreversible and therefore the control surface cannot be displaced by the wind.
+would also prevent movement of the control column.
+When the primary stops fitted to a control run have been contacted. (Level 3)
+@@a clearance exists at the secondary stops.
+the secondary stops have been over-ridden.
+the secondary stops will just be in contact.
+A universal protractor used to measure degrees of aileron travel should be zeroed. (Level 3)
+when the aircraft is in level flight attitude.
+@@with the aileron in the neutral position.
+with the aileron in the down position.
+A flying control static friction check. (Level 3)
+can only be carried out during flight.
+@@demonstrates the force the pilot requires to overcome system inertia and move the controls.
+will demonstrate that a high force is always necessary to operate non-powered controls.
+With the elevator trim wheel adjusted fully aft. (nose up), range of movement of the elevator is restricted. (Level 3)
+would make no difference to the movement.
+for 'down' travel movement.
+@@for 'up' travel movement.
+In normal flight, if the control wheel is moved to the left, then the aileron on the right wing will. (Level 3)
+decrease the angle of attack of the right hand wing.
+@@increase the angle of attack of the right hand wing.
+keep the angle of attack of the right wing constant.
+To avoid moments bending the root of the wing, the aircraft will be fitted with. (Level 3)
+integrated fuel monitoring system.
+@@symmetrical flight control trim.
+automatic trim control for controlled turns and rudder movements.
+In an aircraft system employing balance tabs, the installation of external ground locks between the control surface and the balance tabs. (Level 3)
+@@would prevent the movement of the control column.
+is unnecessary since the system is irreversible.
+would not prevent the movement of the control column.
+Autotrim will switch to 'slow' when. (Level 1)
+@@flaps are retracted.
+landing gear up and locked.
+flaps are extended.
+The two switches for pitch trim are located. (Level 3)
+@@on the control column acting like an 'AND' switch.
+on the control column with the captain having priority over the First Officer.
+on the control column acting like an 'OR' switch.
+Active load control involves. (Level 3)
+limiting the deflection of control surface with airspeed.
+intervention & monitoring the human pilot.
+@@varying lift force to control vertical movement of the aircraft.
+In a fully Fly By Wire Aircraft, ground spoilers are deployed automatically when the aircraft is on ground and. (Level 3)
+brakes are deployed.
+@@thrust reversers are deployed.
+weight on ground switch is activated.
+Fly-by-wire load alleviation function in turbulent weather conditions will result in. (Level 3)
+spoiler moving symmetrically upward.
+ailerons moving symmetrically upward.
+@@ailerons and spoiler moving symmetrically upward.
+What is the purpose of a differential Frise aileron?. (Level 3)
+To decrease the drag and decrease the rate of yaw and turn.
+Has no effect on rate of yaw and turn.
+@@To increase the drag to increase the rate of yaw and turn.
+An artificial feel system is necessary in a powered flying control system to. (Level 3)
+increasing the sensitivity of the control system.
+@@provide the pilot with simulated stick forces.
+prevent overloading of the power control units.
+In the event of hydraulic failure in a power control system, a requirement of the manual reversion is that it must be. (Level 3)
+operated by the standby hydraulic system.
+@@automatic and instantaneous.
+possible, but not recommended.
+The purpose of the Servo Valve in a power operated control is. (Level 3)
+to provide pressure to operate the control.
+@@to direct hydraulic fluid to the jack in response to the pilots control in cockpit.
+to revert the system to manual operation.
+As a consequence of the C of G being close to its aft limit. (Level 3)
+@@the stick forces when pitching the nose down will be very high.
+the stick forces to manoeuvre longitudinally will be low due to the low stability.
+the stick forces will be high in fore and aft pitch, due to the high longitudinal stability.
+A servo tab is operated. (Level 3)
+@@directly by the pilot to produce forces which in turn move the main control surfaces.
+by a trim wheel and moves in the opposite direction to the main control surfaces when moved.
+automatically, and moves in the same direction as the  main control surfaces.
+How is the stabiliser automatically controlled in normal manual operation?. (Level 1)
+@@Mach/Speed Trim.
+Pitch Trim.
+Electric Trim.
+When checking full range of control surface movement, they must be positioned by. (Level 3)
+@@operating the flightdeck/cockpit controls until the system is against the primary stops.
+moving them by hand directly until against the primary stops.
+moving them by hand directly until against the  secondary stops.
+The higher speed of the high wing in a banked turn causes it to have more drag than the low wing, this may be compensated for by. (Level 3)
+operating the ailerons into the opposite sense once the correct angle of bank has been reached.
+@@use of the rudder control.
+increasing the 'nose up' pitch by use of the elevators.
+What is fitted on the aircraft to enable the pilot to reduce his speed rapidly in event of severe turbulence, or speed tending to rise above the Never Exceed Limit?. (Level 3)
+Wheel brakes.
+@@Air brakes.
+Lift dumpers.
+With hydraulic ram operated flying controls, when the pressure is reduced to zero, the flying control surfaces. (Level 3)
+stay at neutral.
+@@droop.
+remain in the position they were when power was removed.
+Powered flight control systems are used on transport aircraft. (Level 3)
+because at low level air density is high.
+because the pilot has too many tasks to perform.
+@@due to the increase in speed and size of aircraft.
+A differential aileron control system results in. (Level 3)
+aileron drag being reduced on the inner wing in a turn.
+aileron drag being compensated by small rudder movements.
+@@aileron drag being reduced on the outer wing in a turn.
+A differential aileron control is one which gives. (Level 3)
+@@a larger aileron up travel than down.
+the down-going aileron more travel than the up-going one.
+equal aileron travel in each direction, but variable for stick movement.
+When the control column is moved back and the hand-wheel turned to the left. (Level 3)
+the elevators move down and the left aileron moves down.
+@@the left aileron moves up and the elevators move up.
+the elevators move up and the left aileron moves down.
+A stick shaker. (Level 3)
+is a linear actuator attached to the base of the control column.
+@@is an eccentric flywheel driven by an electric motor and mounted on the control column.
+vibrates the elevators to cause buffeting of the airframe.
+If the control column is moved forward and to the left. (Level 3)
+left aileron moves down, right aileron up, elevator down.
+@@left aileron moves up, right aileron down, elevator down.
+left aileron moves up, right aileron moves down, elevator up.
+Spoiler position feedback is provided by a. (Level 1)
+a S.C.M.
+@@an R.V.D.T.
+a microswitch.
+On an aircraft fitted with spoilers for lateral control, roll to the right is caused by. (Level 3)
+left spoiler extending, right spoiler remaining retracted.
+@@right spoiler extending, left spoiler remaining retracted.
+both spoilers extending.
+When an aileron trim control in the cockpit is moved to counteract a tendency to fly left wing low, an aileron trim tab fitted to the port aileron will. (Level 3)
+move up and cause the left aileron to move down but the right aileron will remain neutral.
+@@move up and cause the left aileron to move down and the right aileron to move down to a lesser degree.
+move up and this will cause the left aileron to move down and the right aileron to move up.
+You have adjusted the elevator trim tab to correct for nose heavy. What was the direction of travel of the trim tab?. (Level 3)
+The port elevator tab has moved up and starboard moved down.
+The elevator trim tab has moved up.
+@@The elevator trim tab has moved down.
+A tension regulator in the flight control cable system of a large all metal aircraft is used primarily to. (Level 3)
+@@retain a set tension.
+increase cable tension in cold weather.
+decrease cable tension in cold weather.
+The effect of the rudder on an aircraft can be increased by. (Level 3)
+@@increasing the distance of the control surfaces from the aircraft's centre of gravity.
+increasing the altitude of the aircraft.
+decreasing the velocity of the aircraft.
+Which side of the pilot is the collective lever?. (Level 3)
+In-between legs.
+@@Left.
+Right.
+When working on an hydraulic operated flight control, it is sensible to. (Level 3)
+@@remove/disconnect hydraulic power.
+pull the appropriate CB.
+remove/disconnect electrical power.
+If the 'Q' feel in a powered control system fails. (Level 3)
+the failed system stops and it remains in this position.
+the pilot feels air loads higher than normal.
+@@the pilot feels air loads lower than normal.
+When secondary stops are utilized in control surfaces, they come in contact. (Level 3)
+before the primary stops.
+at the same time as the primary stops.
+@@after the primary stops.
+Elevons combine the functions of both. (Level 1)
+@@elevator and aileron.
+rudder and aileron.
+rudder and elevator.
+Medium vibration of 4 to 6 times per revolution is experienced on a helicopter. The primary control method is. (Level 3)
+@@design of engine and gearbox supports.
+inspect main rotor head and main drive shaft.
+inspect loose fixtures and fittings.
+When the aircraft nose yaws to the left, the yaw damper will apply corrective rudder to. (Level 3)
+the left.
+@@the right.
+the left with some aileron assistance.
+How are spoilers normally operated?. (Level 3)
+Electrical motors.
+@@Hydraulic actuator.
+Air pistons.
+If the flaps are sluggish or erratic on final approach, the possible cause may be. (Level 3)
+flap tracks out of rigging.
+bearing seized.
+@@flap motor internal leakage.
+Yaw damping rate changes with. (Level 3)
+@@airspeed.
+altitude.
+flap position.
+If a pointer is not centralised on a trim indicators, it means that. (Level 3)
+the system is trimmed.
+@@the control system is out of trim.
+the indicator is not serviceable.
+With a spring balance control system you can. (Level 3)
+not move the control surface on the ground.
+move the control surface only by moving the tab.
+@@move the control surface on the ground.
+If an aircraft is entering a turn to the left, what input would the aileron to rudder crossfeed be?. (Level 3)
+Right Rudder.
+No Rudder.
+@@Left Rudder.
+If a control surface that is fitted with a balance tab is moved, what will happen to the tab?. (Level 3)
+@@It is moved automatically in the opposite direction as the surface.
+It is moved automatically in the same direction as the surface.
+It is moved manually in the opposite direction to the surface.
+If a stall is approaching, what indication does the pilot get?. (Level 3)
+@@Stick Shaker.
+EICAS warning.
+Stick Nudger.
+A differential aileron system is designed to. (Level 1)
+minimise flutter.
+@@prevent adverse yaw.
+compensate for aileron reversal.
+If the aircraft is to be rolled to the right, where does the pilot feed in this command?. (Level 3)
+Rudder Pedals.
+@@Control Wheel.
+Control Column.
+With a control surface tab in the neutral position, what happens when the control surface is moved?. (Level 3)
+It moves in the same direction as the control surface.
+@@It moves in the opposite direction as the control surface.
+It remains in the neutral position.
+If the cyclic is moved to the right. (Level 3)
+@@the rotor blades on the right flap down.
+the rotor blades on the left flap down.
+POM shortens on one side and lengthens on another.
+What would happen to an aircraft at low speed, at high angle of attack, if it had an aileron going down?. (Level 3)
+Have no effect on the stall speed.
+@@Increase stall speed.
+Decrease stall speed.
+What happens when a control stick is pulled back and to the left?. (Level 3)
+Elevator up, left aileron down.
+Elevator down, right aileron down.
+@@Elevator up, right aileron down.
+If an elevator is fitted with a fixed tab in the down position, the control surface will. (Level 3)
+move down.
+remain at the same place.
+@@move up.
+A tandem P.F.C.U. (Level 1)
+@@has the actuator rams co-axial.
+has two control surfaces under its control.
+has the actuator rams parallel.
+With respect to flight spoilers, they. (Level 1)
+@@can operate both on the ground and in flight.
+only operate on the ground.
+only operate in flight.
+Active load control uses. (Level 1)
+elevator and stab.
+elevator and ailerons.
+@@ailerons and spoilers.
+The aircraft is controlled about the lateral axis by the. (Level 1)
+ailerons.
+rudder.
+@@elevator.
+The aircraft is controlled about the normal axis by the. (Level 1)
+elevato.
+@@rudder.
+ailerons.
+The aircraft is controlled about the longitudinal axis by the. (Level 1)
+@@ailerons.
+elevator.
+rudder.
+An anti-balance tab is moved. (Level 1)
+hydraulically.
+when the C.G. changes.
+@@via a fixed linkage.
+The type of flap which extends rearwards when lowered is called a. (Level 1)
+split flap.
+plain flap.
+@@Fowler flap.
+Which of the following trailing edge flaps give an increase in wing area?. (Level 1)
+Split flap.
+Slotted flap.
+@@Fowler flap.
+Which of the following is not a primary flying control?. (Level 1)
+@@Tailplane.
+Elevator.
+Rudder.
+When spoilers are used asymmetrically, they combine with. (Level 1)
+@@ailerons.
+elevators.
+rudder.
+A stick shaker operates. (Level 1)
+@@just before the stall.
+after the stall.
+at the onset of the stall.
+The bearing used in a fibre pulley is. (Level 1)
+@@a ball bearing.
+a roller bearing.
+a plain bearing.
+Q feel units use. (Level 1)
+pitot pressure only.
+@@pitot and static pressures.
+static pressure only.
+Spoiler panels are positioned so that when deployed. (Level 1)
+@@pitch trim is not affected.
+no yaw takes place.
+roll will not occur.
+A lift transducer is normally fitted. (Level 1)
+on the elevator control system.
+to the nose area of the aircraft.
+@@on the leading edge of the wing.
+Asymmetric flap operation is prevented to keep to a minimum the tendancy of. (Level 1)
+yawing.
+@@rolling.
+pitch changes.
+High thrust stall warning is activated when the thrust of opposite engine reads. (Level 1)
+@@greater than 75%.
+greater than 50%.
+greater than 90%.
+Pulleys in a flight control system are made from. (Level 1)
+brass.
+stainless steel.
+@@Tufnol or aluminium alloy.
+The alpha vane signal can be fed to                        when the aircraft is close to stall. (Level 1)
+flap position.
+fast/slow switch.
+@@throttle lever.
+A yaw damper system operates on. (Level 1)
+all yaw frequencies.
+only mid range frequencies.
+@@low range frequencies.
+A flying control static friction check. (Level 1)
+can only be carried out during flight.
+@@demonstrates the force the pilot requires to overcome system inertia and move the controls.
+will demonstrate that a high force is always necessary to operate non-powered controls.
+On the ground, spoilers/speedbrakes deploy to. (Level 1)
+15°.
+30°.
+@@60°.
+A manual trim wheel, when fully moved in the direction of the tail. (Level 1)
+the authority of the elevators not effected.
+@@the up movement authority of the elevators is effected.
+the down movement authority of the elevators is effected.
+A spring balance control system you. (Level 1)
+can move the control surface only by moving the tab.
+@@can move the control surface on the ground.
+cannot move the control surface on the ground.
+A yaw damper gain could be fitted with. (Level 1)
+decreases sensitivity for decreased speed.
+decreases sensitivity for increased speed.
+@@increased sensitivity for increased speed.
+A yaw damper will apply rudder proportional to. (Level 1)
+attitude of aircraft.
+@@rate of yaw.
+amount of aircraft disturbance.
+A wing mounted stall warning vane. (Level 1)
+gives a visual indication of impending stall.
+@@moves up at impending stall.
+moves down at impending stall.
+Active load control involves. (Level 1)
+intervention & monitoring the human pilot.
+limiting the deflection of control surface with airspeed.
+@@varying lift force to control vertical movement of the aircraft.
+Active load control uses. (Level 1)
+@@aileron and spoiler.
+elevator and aileron.
+elevator and stab.
+Spring tabs. (Level 1)
+@@cannot be adjusted.
+cannot be adjusted in flight.
+can be adjusted in the flight deck.
+Aileron input is fed into the yaw damper system to. (Level 1)
+prevent nose pitching up.
+prevent nose pitching down.
+@@prevent adverse yaw in a turn.
+A 'q' feel system supplies. (Level 1)
+control movement effort relief.
+aerodynamic damping.
+@@the pilot with ever increasing awareness of speed.
+Yaw damping rate changes with. (Level 1)
+@@airspeed.
+flap position.
+altitude.
+A helicopter needs to re-trim. (Level 1)
+@@indication is shown on the API.
+indication is shown on the command bars of the EHSI.
+indication is shown on the command bars of the attitude indicator.
+Excessive wear on both sides of the control cable pulley groove is evidence of. (Level 2)
+excessive cable tension.
+@@pulley misalignment.
+cable misalignment.
+What is an aileron balance cable for?. (Level 2)
+@@To allow the cable to be tensioned.
+To correct for wing heaviness.
+To allow aircraft to fly hands off.
+A horn balance on a control will. (Level 2)
+@@increase degree of movement at high speed.
+decrease degree of movement at low speed.
+decrease degree of movement at high speed.
+Stick shaker activates at a speed which is above the stalling speed by. (Level 1)
+4%.
+@@7%.
+10.321%.
+A yaw damper gain could be fitted with. (Level 2)
+decreases sensitivity for decreased speed.
+@@increased sensitivity for increased speed.
+decreases sensitivity for increased speed.
+If the flaps are sluggish or erratic on final approach, the possible cause may be. (Level 2)
+flap tracks out of rigging.
+bearing seized.
+@@flap motor internal leakage.
+In fully Fly By Wire aircraft, wing root bending moments are reduced by. (Level 2)
+transfer of fuel from one wing tank to another.
+operation of the elevator.
+@@symmetrical application of ailerons.
+What is the main purpose of a frize aileron?. (Level 2)
+@@Decrease drag on the up going wing.
+Help pilot overcome aerodynamic loads.
+Increase drag on the up going wing.
+What happens to a hydraulically operated flight control surface when pressure is removed?. (Level 2)
+@@Droop.
+Remain in last position.
+Go to neutral.
+Oscillation and hunting of flight control surface are prevented (Level 2)
+@@fitting a tachogenerator.
+feedback from the servo motor.
+feedback from control surface.
+A wing mounted stall warning vane. (Level 2)
+moves down at impending stall.
+@@moves up at impending stall.
+gives a visual indication of impending stall.
+On a full fly-by-wire system, a speedbrake screwjack servomotor is controlled by the. (Level 2)
+flight augmentation computer.
+@@flight control computer.
+flight management and guidance computer.
+In a fly-by-wire aircraft, what controls the roll spoilers?. (Level 2)
+@@Flight control computer.
+Flight augmentation computer.
+Flight management computer.
+Mass balance weights are used to. (Level 2)
+balance the trailing edge of flying control surfaces.
+@@counteract flutter on control surfaces.
+balance the tabs.
+The purpose of the autopilot servo-motor torque setting is to. (Level 2)
+protect the servo motor.
+damp the system oscillation.
+@@prevent control surface runaway.
+In a fully Fly By Wire aircraft, rudder trim is nulled by the. (Level 2)
+@@Flight Augmentation Computers.
+electric flight control unit.
+Flight Guidance and Management Computer.
+In an automatic flight control system, when may the yaw damper be applied?. (Level 2)
+During manual control only.
+@@During either manual or automatic control.
+During automatic control only.
+In a fully fly by wire system, if the elevator loses all electrical power. (Level 2)
+servos lock at last position.
+@@servos remain stationary and provide damping.
+servos move to neutral and lock.
+In an auto trim system, for the trim system to operate. (Level 2)
+operation of the trim controls is required.
+@@autopilot need not be engaged.
+autopilot must be engaged.
+In an autopilot coordinated turn, when the turn angle is reached. (Level 2)
+both ailerons are down.
+one is up one is down.
+@@the ailerons are faired.
+A single failure of fly by wire. (Level 2)
+will reduce the operational height and speed.
+will limit the flight profile.
+@@has no effect on the aircraft's operation.
+Rudder 'Q' limiting. (Level 2)
+@@restricts rudder movement with increase in airspeed.
+increases rudder movement with increase in airspeed.
+increases feel as airspeed increases.
+Range of movements of power operated flying control surfaces are limited by. (Level 2)
+travel of the jack body.
+@@mechanical stops in the control system.
+travel of the jack ram.
+A stick shaker is a device which. (Level 2)
+helps extricate an aircraft from soft ground.
+gives a short period of extra lift to assist take off.
+@@vibrates the control column near stalling speed.
+Ruddervators when moved, will move. (Level 2)
+@@either opposite each other or together, depending on the selection.
+together only.
+opposite to each other only.
+A tab which assists the pilot to move a flying control by moving automatically in the opposite direction to the control surface is called a. (Level 2)
+trim tab.
+servo tab.
+@@geared balance tab.
+What is used to correct any tendency of the aircraft to move towards an undesirable flight attitude?. (Level 2)
+@@Trim tabs.
+Spring tabs.
+Balance tabs.
+In a power assisted flight control system, the feel required is normally supplied by. (Level 2)
+Q feel.
+@@air loads on the control surfaces.
+stretching springs.
+"Irreversibility of a fully powered control surface is provided by." (Level 2)
+@@nulling of the servo valve.
+air loads on the control surface.
+the jack ram being attached to structure.
+Spoiler panels are controlled by. (Level 2)
+@@the aileron control wheel and speed brake lever.
+a speed brake lever only.
+the aileron control wheel only.
+Pitch trimming in autopilot is initiated by. (Level 1)
+C of G movement.
+pitch of aircraft in cruise.
+@@continued pitch input.
+"If electrical power is removed from a fly by wire spoiler system, the spoiler panels. (Level 2)
+@@go to down if any are not already down.
+go to full up.
+remain where they are.
+In a fly-by-wire control system, the follow-up transducer is fitted to. (Level 2)
+the control system computer.
+@@the hydraulic actuator.
+the pilots input.
+The down position of the speed brake lever is detented to. (Level 2)
+@@prevent inadvertent operation.
+lock the speed brakes down during flight.
+allow the ground speed brakes to be used on touchdown.
+A series type yaw damper. (Level 2)
+moves the rudder and the ailerons to damp out Dutch roll.
+moves the rudder pedals and the rudder.
+@@moves the rudder only.
+An interrupter arm incorporated in a flying control locking mechanism. (Level 2)
+locks the ailerons and elevators.
+@@restricts movement of the throttles.
+dampens the rudder movement.
+The yaw damper must be designed to allow the rudder to control in response to the aircraft's. (Level 2)
+pitch Frequency.
+roll frequency.
+@@dutch roll frequency.
+Moving the elevator trim wheel fully aft, then the. (Level 2)
+aircraft tends to go nose down.
+@@aircraft tends to go nose up.
+aircraft tends to roll to the right.
+Ground spoilers are used to. (Level 2)
+increase wing loading on take-off.
+prevent FOD ingestion into the engines on landing and taxiing.
+@@decrease wing loading on landing.
+The outboard ailerons on some aircraft. (Level 2)
+are isolated at slow speeds.
+@@are isolated to prevent aileron reversal.
+are isolated to improve sensitivity.
+Pushing the left rudder pedal. (Level 2)
+@@yaws the aircraft left and possibly the right wing will rise.
+yaws the aircraft left and possibly the left wing will rise.
+yaws the aircraft left but has no effect on the wing.
+An artificial feel system is required. (Level 1)
+for power operated control systems.
+for proportional control systems.
+@@for power assisted control systems.
+An artificial feel system is required. (Level 2)
+@@for power assisted control systems.
+for proportional control systems.
+for power operated control systems.
+With respect to flight spoilers, they. (Level 1)
+@@Can operate both on the ground and in flight.
+Only operate on the ground.
+Only operate in flight.
+A stick shaker operates (Level 1)
+@@Just before the stall.
+After the stall.
+At the onset of the stall.
+Active load alleviation control uses (Level 1)
+@@Ailerons and spoilers.
+Elevator and ailerons.
+Elevator and stab.
+Elevons combine the functions of both (Level 1)
+@@Elevator and aileron.
+Rudder and aileron.
+Rudder and elevator.
+The aircraft is controlled about the lateral axis by the (Level 1)
+Ailerons.
+Rudder.
+@@Elevator.
+The aircraft is controlled about the vertical axis by the (Level 1)
+Elevator.
+Ailerons.
+@@Rudder.
+Which of the following is not a primary flying control? (Level 1)
+@@Tailplane.
+Elevator.
+Rudder.
+The maximum rudder deflection changes with (Level 1)
+@@Airspeed.
+Flap position.
+Altitude.
+On the ground, the maximum deflection of spoilers/speedbrakes is (Level 1)
+15°.
+30°.
+@@45°.
+Surface flutter can be prevented by (Level 1)
+@@Balance weights.
+Trim tabs.
+Balance panels.
+For roll control the aircraft is controlled by (Level 1)
+@@Ailerons.
+Elevator.
+Rudder.
+A differential aileron system is designed to (Level 1)
+Minimize flutter.
+Compensate for aileron reversal.
+@@Avoid the problem of the negative turning movement
+The type of flap which extends rearwards when lowered is called a (Level 1)
+Split flap.
+Plain flap.
+@@Fowler flap.
+Which of the following trailing edge flaps give an increase in wing area? (Level 1)
+Split flap.
+Slotted flap.
+@@Fowler flap.
+When spoilers are used asymmetrically, they combine with (Level 1)
+@@Ailerons.
+Elevators.
+Rudder.
+In normal flight, if the control column is pulled back, the elevator will (Level 1)
+@@Move up.
+Move down.
+No change
+Artificial feel is gained by using a (Level 1)
+@@Spring bias unit.
+Hydraulic damper.
+'feel' generator.
+For aircraft turn coordination (Level 1)
+Ailerons, rudder and THS will move.
+@@Ailerons, rudder and roll spoilers will move.
+Ailerons and rudder will move.
+The purpose of cable tension regulators is to (Level 1)
+@@Keep tension of the cable roughly constant at different temperatures
+Compensate for low temperature only.
+Compensate for high temperature only.
+Excessive wear on both sides of the control cable pulley groove is evidence of (Level 1)
+Excessive cable tension.
+@@Pulley misalignment.
+Cable misalignment.
+Excessive wear on one sides of the control cable pulley groove is evidence of (Level 1)
+Excessive cable tension.
+Pulley misalignment.
+@@Cable misalignment.
+On an aircraft fitted with elevons in normal flight, if a column is moved forward, the elevons will (Level 1)
+Remain stationary.
+Both move down.
+@@Both move up.
+In fully Fly By Wire aircraft, wing root bending moments are reduced by (Level 1)
+Transfer of fuel from one wing tank to another.
+Operation of the elevator.
+@@Symmetrical application of ailerons.
+During an autopilot controlled turn (Level 1)
+Ailerons, rudder and THS will move.
+Ailerons and rudder will move.
+@@Ailerons, rudder and roll spoilers will move.
+On a full fly-by-wire system, a speedbrake screwjack servomotor is controlled by the (Level 1)
+Flight augmentation computer.
+@@Flight control computer.
+Flight management and guidance computer.
+In a fly-by-wire aircraft, what controls the roll spoilers? (Level 1)
+@@Flight control computer.
+Flight augmentation computer.
+Flight management computer.
+Mass balance weights are used to (Level 1)
+Balance the trailing edge of flying control surfaces.
+@@Prevent flutter on control surfaces.
+Balance the tabs.
+Rudder trim is controlled by the (Level 1)
+@@Rudder trim computer.
+Electric flight control unit.
+Flight Guidance and Management Computer.
+An artificial feel system is required (Level 1)
+@@For power assisted control systems.
+For proportional control systems.
+For power operated control systems.
+A stick shaker is a device which (Level 1)
+Helps extricate an aircraft from soft ground.
+Gives a short period of extra lift to assist take off.
+@@Vibrates the control column near stalling speed.
+Ruddervators when moved, will move (Level 1)
+@@Either opposite each other or together, depending on the selection.
+Together only.
+Opposite to each other only.
+In a power assisted flight control system, the feel required is normally supplied by (Level 1)
+Q feel.
+@@Air loads on the control surfaces.
+Stretching springs.
+Spoiler panels are controlled by (Level 1)
+@@The aileron control wheel and speed brake lever.
+A speed brake lever only.
+The aileron control wheel only.
+"If hydraulic pressure is removed from a spoiler system, the spoiler panels (Level 1)
+@@Go to down if any are not already down.
+Go to full up.
+Remain where they are.
+Moving the elevator control columns fully aft, then the (Level 1)
+Aircraft tends to go nose down.
+@@Aircraft tends to go nose up.
+Aircraft tends to roll to the right.
+Ground spoilers are used to (Level 1)
+Increase wing loading on take-off.
+Prevent FOD ingestion into the engines on landing and taxiing.
+@@Dump the lift and increase the drag
+Pushing the left rudder pedal (Level 1)
+@@Yaws the aircraft left and possibly the right wing will rise.
+Yaws the aircraft right
+No effect on the aircraft.
+Differential aileron control will (Level 1)
+@@Prevent yawing in conjunction with rudder input.
+Cause a nose down moment.
+Cause a nose up moment.
+During turn coordination rudder co-operates with (Level 1)
+Ailerons
+Ailerons and elevators
+@@Ailerons and roll spoilers
+Gust Load Alleviation Function system used to (Level 1)
+@@Prevents extreme wing bending during gusts and decreases wing structure load
+Prevents extreme wing bending during gusts
+Decreases wing structure load
+To avoid moments bending the root of the wing, the aircraft will be fitted with (Level 1)
+Integrated fuel monitoring system.
+@@Load Alleviation Function system
+Automatic trim control for controlled turns and rudder movements.
+An artificial feel system is necessary in a powered flying control system to (Level 1)
+Increasing the sensitivity of the control system.
+@@Provide the pilot with simulated stick forces.
+Prevent overloading of the power control units.
+In normal flight, if the control wheel is moved to the left, then the aileron on the right wing will (Level 1)
+@@Deflected downward deflected upward
+Deflected upward
+Kept constant.
+In a fully Fly By Wire Aircraft, ground spoilers are deployed automatically when the aircraft is on ground and (Level 1)
+Brakes are deployed.
+@@Thrust reversers are deployed.
+Weight on ground switch is activated.
+When the control column is moved back and the hand-wheel turned to the left (Level 1)
+The elevators move down and the left aileron moves down.
+@@The left aileron moves up and the elevators move up.
+The elevators move up and the left aileron moves down.
+Load alleviation function in turbulent weather conditions will result in (Level 1)
+Spoiler moving symmetrically upward.
+Ailerons moving symmetrically upward.
+@@Ailerons and spoiler moving symmetrically upward.
+The two switches for pitch trim are located (Level 1)
+@@On the captain’s and the first officer’s control wheels acting like an 'AND' switch.
+On the control column with the captain having priority over the First Officer.
+On the control column acting like an 'OR' switch.
+What is the purpose of a differential aileron?. (Level 1)
+To decrease the drag and decrease the rate of yaw and turn.
+Has no effect on rate of yaw and turn.
+@@To increase the drag to increase the rate of yaw and turn.
+What is fitted on the aircraft to enable the pilot to reduce his speed rapidly in event of severe turbulence, or speed tending to rise above the Never Exceed Limit?. (Level 1)
+Wheel brakes.
+@@Speed brakes.
+Lift dumpers.
+A differential aileron control system results in. (Level 1)
+Aileron drag being reduced on the inner wing in a turn.
+Aileron drag being compensated by small rudder movements.
+@@Aileron drag being reduced on the outer wing in a turn.
+A differential aileron control is one which gives. (Level 1)
+@@A larger aileron up travel than down.
+The down-going aileron more travel than the up-going one.
+Equal aileron travel in each direction, but variable for stick movement.
+A stick shaker. (Level 1)
+Is a linear actuator attached to the base of the control column.
+@@Is an electric motor and mounted on the control column.
+Vibrates the elevators to cause buffeting of the airframe.
+If the side stick is moved forward and to the left. (Level 1)
+Left aileron moves down, right aileron up, elevator down.
+@@Left aileron moves up, right aileron down, elevator down.
+Left aileron moves up, right aileron moves down, elevator up.
+On an aircraft fitted with spoilers for lateral control, roll to the right is caused by. (Level 1)
+Left spoiler extending, right spoiler remaining retracted.
+@@Right spoiler extending, left spoiler remaining retracted.
+Both spoilers extending.
+How are spoilers normally operated?. (Level 1)
+Electrical motors.
+@@Hydraulic actuator.
+Air pistons.
+Rudder deflection is limited by (Level 1)
+@@Airspeed.
+Altitude.
+Flap position.
+If an aircraft is entering a turn to the left, what input to rudder crossfeed be? (Level 1)
+Right Rudder.
+No Rudder.
+@@Left Rudder.
+If a stall is approaching, what indication does the pilot get? (Level 1)
+@@Stick Shaker.
+EICAS warning.
+Stick Nudger.
+If the aircraft is to be rolled to the right, where does the pilot feed in this command? (Level 1)
+Rudder Pedals.
+@@Control Wheel.
+Control Column.
+What happens when a control stick is pulled back and to the left? (Level 1)
+Elevator up, left aileron down.
+Elevator down, right aileron down.
+@@Elevator up, right aileron down.

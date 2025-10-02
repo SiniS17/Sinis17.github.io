@@ -1,0 +1,176 @@
+The IMA is stand for (Level 1)
+Indicated Module Aircraft
+@@Integrated Modular avionics
+Integrated Modular Audio
+Aircraft with IMA can realize reductions in the bulk and ... of their avionics systems? (Level 1)
+@@Weight
+Power
+Data
+Does an aircraft with IMA need more supplies or less supplies than the aircraft traditional (non-IMA)? (Level 1)
+more supplies
+@@less supplies
+The same as
+Traditionally, on non-IMA aircraft, each avionics system had (Level 1)
+@@its own separate indicator and its own separate controls
+own separate indicator
+own separate controls
+The use of ...indicators saves space and weight, and it streamlines pilot workload by reducing the number of indicators that must be scanned during flight. (Level 1)
+@@Integrated
+Moduled
+independing
+An IMA aircraft might have (Level 1)
+Only one power supply that is capable of supplying all twenty modules.
+Two redundant power supplies that are each capable of supplying all twenty modules.
+@@Three redundant power supplies that are each capable of supplying all twenty modules.
+IMA aircraft are typically ... fault-tolerant than traditional aircraft. (Level 1)
+@@more
+less
+no
+If one of the IMA power supplies fails (Level 1)
+The relate modules are lost
+@@There are still two redundant power supplies that can power the modules
+The IMA system fails
+With IMA, the data processing circuitry can be contained in (Level 1)
+More LRUs (modules)
+All LRUs (modules)
+@@Fewer LRUs (modules)
+The use of digital data buses... the amount of wiring used in an aircraft. (Level 1)
+@@reduces
+increase
+Don't use wires, use wifi connection
+The wires inside the braided shield of an ARINC 429 data bus are referred to as a …. (Level 1)
+@@twisted pair
+twisted pair with grounded wire
+twisted pair with not  grounded wire
+ARINC 629 can transfer up to (Level 1)
+One hundred million bits per second
+1 million bits per second
+@@Two million bits per second
+ARINC 429 can transfer up to ... bits of information each second (Level 1)
+@@100 000
+100 million
+two million
+AFDX is a newer digital data bus system used that can transfer data at rates up to (Level 1)
+1 million bits per second
+@@100 million bits per second
+100000 bits per second
+IMA systems consist of (Level 1)
+A central system and peripherals
+a core system and LRUs (Line Replaceable Units)
+@@a core system and network components
+The ...uses the same computer processors for many different purposes (Level 1)
+@@core system
+avinonic system
+network system
+The core system contains data processing circuitry that processes (Level 1)
+Specific kind of information
+@@Many different kinds of information
+Flight information
+18       include input and output devices and data bus wiring. (Level 1)
+@@Network components
+core system
+digital data bus
+What is the function of NETWORK COMPONENTS? (Level 1)
+@@allow data to be transferred into and out of the core system
+allow data to be transferred into and out of the modules
+conecting with IMAs
+The LRM is stand for (Level 1)
+Line replaceable memory
+@@Line replaceable module
+Line repaire manual
+In Boeing B777, AIMS stands for (Level 1)
+@@airplane information management system
+airspace  information management system
+American Immigration & Multi Services
+The AIMS is interconnected with many other units in the aircraft (Level 1)
+It receives input data from these units only
+it provides output data to them only
+@@It receives input data from these units and it provides output data to them
+The AIMS displays information on (Level 1)
+Two flat-panel display units (DUs)
+@@Six flat-panel display units (DUs)
+Four flat-panel display units (DUs)
+The basic features of IMA are: (Level 1)
+Modular design, Integration of modules within the system and Flexibility
+Modular design, Integration of modules within the system and Use of digital data buses for interconnection
+@@Modular design, Integration of modules within the system, Use of digital data buses for interconnection, Fault tolerance and Flexibility
+IMA systems can be categorized into functions of? (Level 1)
+@@Cabin, utilities and cockpit.
+Monitoring, indication and control
+Cabin, cocpit, air-conditioning and other systems
+Which of the following statements is correct? (Level 1)
+@@on non-IMA aircraft, more indicators and controls had to be installed
+on IMA aircraft, more indicators and controls had to be installed
+IMA aircrafts are outdated systems
+On Non-IMA aircraft, more electrical power is required to operate the system (Level 1)
+@@True
+Not true
+Not mentioned
+What are the advantages of using the IMA integrated system? (Level 1)
+@@Reduces workload for pilots
+More comfort for pilots
+airplanes can fly faster
+The IMA (Integrated Modular avionics) perform (Level 1)
+The functions formerly performed by the independent LRUs, completely independent.
+The functions formerly performed by the independent LRUs, but they are not independent.
+@@The functions formerly performed by the independent LRUs, but they are not completely independent. They share circuitry.
+Which of the following statements is correct? (Level 1)
+@@Traditional (non-IMA) avionics suites have many separate LRUs ("black boxes") located in an avionics compartment
+IMA aircraft avionics suites have many separate LRUs ("black boxes") located in an avionics compartment
+each black box in the avionics compartment typically integrated modular  power supply
+In the IMA aircraft. All avionics modules do not afected by failure of (Level 1)
+One of the power supply
+@@One or even two of the power supplies
+Three of the power supplies
+What Digital data buses are more important others? (Level 1)
+ARINC 429, ARINC 629, and ARINC 628
+ARINC 429 and AFDX (Avionics Full Duplex).
+@@ARINC 429, ARINC 629, and AFDX (Avionics Full Duplex).
+What is correct with traditional avionics systems? (Level 1)
+@@Each piece of information to be transferred from one location to another requires at least one separate wire
+Information can be transferred using only two wires
+Often, a smaller number of wires is needed
+The core system’s processing power is shared among various functions (Level 1)
+This sharing need to have a processor in each and every system
+@@This sharing eliminates the need to have a processor in each and every system
+This sharing only in the same system
+In Boeing 777. The primary data transfer format used by the AIMS is (Level 1)
+@@ARINC 629
+AFDX
+ARINC 429
+How many digital data transfer formats which the AIMS uses  for sending and receiving information? (Level 1)
+Two
+Four
+@@Six
+Why IMA aircraft are more fault tolerant, providing better reliability? (Level 1)
+@@There are Redundant Power supplies
+Fewer wires reduce errors
+Many backup modules for others
+Why do aircraft with IMA significantly reduce aircraft weight? (Level 1)
+All parts on the plane are connected by wireless
+@@Use common power for modules, use of digital data buses
+All modules in Avionic are integrated into two Modules
+AFDX in comparison to other data transfer formats, such as ARINC 629 and ARINC 429, has? (Level 1)
+More data than Non-IMA Aircraft
+Much lower data capability, reliability and fault tolerance.
+@@Much higher data capability, reliability and fault tolerance.
+Which of the following statements is correct? (Level 1)
+@@AFDX has characteristics of: good integration and ease of interfacing; reduction in cable interconnects and wiring; high bandwidth; high reliability and fault tolerances.
+ARINC 629 has characteristics of: good integration and ease of interfacing; reduction in cable interconnects and wiring; high bandwidth; high reliability and fault tolerances.
+ARINC 429 has characteristics of: good integration and ease of interfacing; reduction in cable interconnects and wiring; high bandwidth; high reliability and fault tolerances.
+The internal data transfer format for CPIOM (core processor input/output modules) in IMA systems is? (Level 1)
+AFDX
+@@ARINC 653.
+AFDX 653
+Partitioning of Core-processor computers in IMA systems is? (Level 1)
+Isolation of each IMA system to prevent interaction.
+conect of each application system to interaction.
+@@Isolation of each application system to prevent interaction.
+Open IMA concept was developed for the (Level 1)
+@@Airbus 380
+Airbus 350
+Boeing B787
+An advantage of partitioning in an open loop concept IMA system is? (Level 1)
+more LRUs
+@@Ease of configuration.
+More wiring

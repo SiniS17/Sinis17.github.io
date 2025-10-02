@@ -1,0 +1,216 @@
+Toilets are the subject of. (Level 1) 
+AWN 83. 
+AWN 79. 
+AWN 80. 
+Toilet waste valves are. (Level 1) 
+not spring loaded. 
+spring loaded open. 
+spring loaded closed. 
+The heater used on a drain mast would be a. (Level 1)
+induction heater. 
+hot air blower. 
+ribbon heater. 
+Where is waste water from washbasins and galleys removed to? (Level 1) 
+Out of the aircraft through drain lines and drain masts. 
+Waste tanks. 
+A separated tank. 
+Which valve in each lavatory can be used to close and isolate the lavatory from potable water supply? (Level 1) 
+Auto electrical shut-off valve. 
+Auto pneumatic shut-off valve. 
+Manual shut-off valve. 
+Supplied water for the mixer valve input ports comes from: (Level 1) 
+Header and heater. 
+Header and faucet. 
+Faucet and heater. 
+How can water be heated up in a heater of the potable water system? (Level 1) 
+Use hot air from engine. 
+Use gas for burning. 
+Use electrical heating elements. 
+Which air source is normally used for water pressurization? (Level 1) 
+Bleed air from the pneumatic system. 
+Electrical air compressor. 
+Ram air. 
+What altitude is the vacuum blower used for the vacuum system? (Level 1) 
+Below 12000ft. 
+Below 14000ft. 
+Below 16000ft. 
+What is the source for water pressurization? (Level 1) 
+only the pneumatic. 
+only an air compressor. 
+only the pneumatic and only an air compressor. 
+The flush motor is: (Level 1)
+A high power 3-phase electric motor. 
+A high power 1-phase electric motor.. 
+A DC electric motor.. 
+What altitude is the vacuum blower used for the vacuum system? (Level 1) 
+Below 18000ft. 
+Below 14000ft. 
+Below 16000ft. 
+Toilets are the subject of. (Level 1) 
+AWN 83. 
+AWN 79. 
+AWN 89. 
+The flush motor is: (Level 1) 
+A high power 3-phase electric motor. 
+A high power 2-phase electric motor.. 
+A DC electric motor.. 
+Supplied water for the mixer valve input ports comes from: (Level 1) 
+Header and heater. 
+Header and faucet. 
+Faucet and faucet. 
+Toilet flush motor is protected from overheat by. (Level 2) 
+thermal protection. 
+water cooling. 
+cooling fan on timer switch. 
+Waste water drain masts. (Level 2) 
+are not heated. 
+are heated using low amperage in the Air and on ground. 
+are heated using low amperage with the aircraft on ground only. 
+Drinking water pipes are prevented from freezing by. (Level 2) 
+installation of neoprene foam insulation. 
+wrapping the pipes with heated tapes or ribbons. 
+placing the pipes adjacent to hot water piping. 
+A toilet recirculation fan is unserviceable in flight. (Level 2) 
+Close toilet until landing.
+You can use the toilet as the toxic chemical toilet. 
+It can be overcome by thermal compensating device. 
+How many subsystems are there in the water and waste system? (Level 2) 
+2 (potable water system and waste water system only). 
+3 (potable water system, waste water system and toilet waste system). 
+2 (waste water system and toilet waste system only). 
+What is the purpose of anti-siphon valve? (Level 2) 
+Prevents back flow of water from the toilet into the potable water system. 
+Prevents flow of water from the potable water system into the toilet. 
+Prevents flow of water from the toilet into the waste tank. 
+How can you reset the overheat switch of water heater if an overheat condition occurs? (Level 2) 
+Automatic reset. 
+Manual reset. 
+Can not reset. 
+How can the electrical air compressor in water pressurization system be activated? (Level 2) 
+By a pressure relief valve. 
+By a pressure switch (close if p<30psi and open if p>40psi, p: pressure). 
+By a manual switch. 
+Why is the potable water tank pressurized ? (Level 2) 
+To ease draining operation. 
+To warm up the water 
+To enable water supply from the tank to the service users. 
+How is the waste water drained from the galley and lavatories? (Level 2) 
+The waste water is drained via drain masts. 
+The waste water is drained via drain masts during flight and collected in tanks on the ground. 
+The waste water is collected in a tank that must be drained from a service panel. 
+Air compressor will operate to pressurize water tanks when (Level 2) 
+Airplane on ground 
+Airplane in the air 
+Pneumatic pressure is not sufficent to pressurize water tanks 
+The drain water from lavatory and galley drains to? (Level 2)
+waste tanks.outside the aircraft through the drain masts. 
+outside the aircraft through the drain masts. 
+portable tanks. 
+The float valve are located in drain line to: (Level 2) 
+prevent a leakage of the cabin pressure through the drain line. 
+prevent the water from portable water system through drain line. 
+prevent a leakage of the cabin pressure through the drain line and prevent the water from portable water system through drain line. 
+When the waste tank is full, a waste tank full level sensor provides? (Level 2) 
+“TANK FULL” warning, displayed on the attend panel. 
+“LAV INOP” warning, displayed on the attend panel. 
+“SERVICE” warning, displayed on the attend panel. 
+How can you reset the overheat switch of water heater if an overheat condition occurs? (Level 2) 
+Automatic reset. 
+Manual reset. 
+Can reset. 
+How many subsystems are there in the water and waste system? (Level 2) 
+2 (potable water system and waste water system only). 
+3 (potable water system, waste water system and toilet waste system). 
+3 (waste water system and toilet waste system only). 
+When the waste tank is full, a waste tank full level sensor provides? (Level 2) 
+“TANK FULL” warning, displayed on the attend panel. 
+“LAV INOP” warning, displayed on the attend panel. 
+“INOP” warning, displayed on the attend panel. 
+Air compressor will operate to pressurize water tanks when (Level 2) 
+Airplane on ground and in the air 
+Airplane in the air 
+Pneumatic pressure is not sufficent to pressurize water tanks 
+What is the purpose of thermal protection on electric toilet motor?. (Level 3) 
+Prevent motor overheating and become fire hazard.
+Prevent toilet freezing. 
+Stop motor running beyond 10 seconds if timer become unserviceable. 
+the seal of the valve is replaceable without draining the tanks. (Level 3) 
+the seal of the valve is replaceable without draining the tanks. 
+the tank must be de-fuelled. 
+the seal is not replaceable, the whole drain assembly must be replaced. 
+Which components supply hot water and cold water to the mixer valve? (Level 3) 
+The water heater supplies hot water and the header supplies cold water. 
+The header supplies hot water and the water heater supplies cold water. 
+The water tanks and header supply both hot and cold water. 
+When does the vacuum generator operate? (Level 3) 
+On ground only. 
+Up to an altitude of 16000ft during climb and below 16000ft during descent. 
+During servicing operations. 
+Why does the vacuum generator operate? (Level 3) 
+To create differential of pressure between cabin and waste water tant to drain waste liquid to the tank. 
+To create differential of pressure to enable waste water from the tank drain to the service panel 
+To create differential of pressure to enable waste water from the tank supply to the drain mast. 
+During the filling for water system, if the FULL LIGHT on the water service panel comes on, it means: (Level 3) 
+The related water tank reaches the preselected quantity. 
+The related tank is overflowing. 
+None of above. 
+Which components supply hot water and cold water to the mixer valve? (Level 3) 
+The water heater supplies hot water and the header supplies cold water. 
+The header supplies hot water and the water heater supplies cold water. 
+The water tanks and header supply both hot and cold water. 
+When does the vacuum generator operate? (Level 3) 
+On ground only. 
+Up to an altitude of 16000ft during climb and below 16000ft during descent. 
+During servicing operations.
+Why does the vacuum generator operate? (Level 3) 
+To create differential of pressure between cabin and waste water tant to drain waste liquid to the tank. 
+To create differential of pressure to enable waste water from the tank drain to the service panel 
+To create differential of pressure to enable waste water from the tank supply to the drain mast. 
+During the filling for water system, if the FULL LIGHT on the water service panel comes on, it means: (Level 3) 
+The related water tank reaches the preselected quantity. 
+The related tank is overflowing. 
+None of above. 
+For enhance system, the LGCIU is used to (Level 3) 
+Supply air/ground signal to the CIDS Director to open the drain valve when A/C on the ground. 
+Backup in case of the Cabin Pressure Controller or the System Data Acquisition Concentrator failure. 
+Backup in case of the Altitude Pressure Switch failure. 
+The Flush Control Unit (FCU) controls (Level 3) 
+The rinse and flush cycle. 
+The vacuum generator operation. 
+Backup in case of the Altitude Pressure Switch failure. 
+The Water Valves and Flush Valves of the toilet system are monitored by: (Level 3) 
+The Vacuum Generator. 
+The Vacuum System Controller. 
+The associated Flush Control Unit. 
+Which device protects the water heaters in the lavatories from damage when the normal temperature control is failed? (Level 3) 
+You should pull out the circuit breaker 
+You have to switch off the associated water heater when a related warning message appears on the ECAM. 
+An over temperature safety device will cut off the electrical power. 
+When the high level of the water quantity transmitter is trigged (Level 3) 
+The warming of water tank overfill is trigged 
+The fill/drain valve closes and the water filling is stop 
+The electrical supply to the water fill/drain valve is cut
+How many quantity transmitters are in the potable water tank? (Level 3) 
+One capacitor type transmitter 
+Two capacitor type transmitters 
+One capacitor type transmitter and one ultra-sonic type transmitter 
+The toilet system is monitored by: (Level 3) 
+The FCU Bite. 
+The CIDS. 
+The VSC Bite. 
+The tank full light of water system controlled by: (Level 3) 
+The overflow valve. 
+The water quanlity transmiter 
+The tank drain valve. 
+The tank full light comes on when: (Level 3) 
+The overflow valve is open. 
+The water tank is full. 
+The tank drain valve is open. 
+Signal from the high-level switch use to (Level 3) 
+Closes the fill/drain valve. 
+Opens the fill/drain valve. 
+To disconnect electrical supply to the water heaters in the lavatories. 
+Is it possible to drain the whole water system without electrical power? (Level 3) 
+No, electrical power is always required. 
+Yes, all the drain valves can be operated manually. 
+No, only the water tank can be drained by using the fill/overflow drain valve. 

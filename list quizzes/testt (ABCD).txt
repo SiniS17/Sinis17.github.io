@@ -1,0 +1,10 @@
+A dry powder extinguisher is coloured. (Level 2)
+green.
+red.
+@@blue.
+something else
+Acetylene gas forms an explosive compound with. (Level 2)
+tin and silver.
+tin and copper.
+@@copper and silver.
+something else

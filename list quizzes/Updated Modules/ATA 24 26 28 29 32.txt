@@ -1,0 +1,2412 @@
+The preferred method of battery charging a Ni-Cad battery is constant. (Level 1)
+voltage.
+@@current.
+power.
+What would you use to neutralise nicad battery spillage?. (Level 1)
+@@Boric acid.
+Distilled water.
+Bicarbonate of soda.
+Differential protection in an AC system protects against. (Level 2)
+line-line, line-line-line, line-earth faults.
+@@short circuits.
+a reverse current flowing from the battery.
+One of the main purposes of a CSD is to. (Level 2)
+prevent engine overload.
+@@enable generators to be paralleled.
+maintain constant load on the generator.
+When installing multiple batteries on aircraft, they are connected in. (Level 2)
+series.
+@@either parallel or series and switched between as an option.
+parallel.
+What is the small pin on the DC ground power connector?. (Level 2)
+@@Positive to external power relay.
+Positive to battery relay.
+Ground or earth.
+A reduction in field strength of a DC shunt motor driving a constant load will result in. (Level 2)
+reduced torque and increased speed.
+@@increased torque and speed.
+increased torque and reduced speed.
+What are the 2 short prongs on an AC plug for?. (Level 2)
+Using AC current to pull on interlock circuit.
+@@To prevent arcing during plug connection / disconnection.
+To help plug location/fit.
+A vibration contact voltage regulator consists of a shunt winding and a. (Level 2)
+@@current regulation coil in series.
+voltage regulating coil in series.
+voltage regulating coil in parallel.
+What is the purpose of diode in a power GCR?. (Level 2)
+To allow flow in the event of failure of the relay.
+To speed up the operation.
+@@To prevent back-flow of current in the EMF coil.
+Vibrating contact voltage regulator sensing coil is. (Level 2)
+across the generator output.
+in series with the field windings.
+@@in parallel with the field windings.
+A current transformer connected across the neutral of a 3 phase generator is for. (Level 2)
+load monitoring.
+phase sequence monitoring.
+@@differential protection.
+Wires in hot temperature areas should be bound with. (Level 1)
+@@Teflon.
+Nomex.
+PVC.
+How may the output of a transistorised voltage regulator be described?. (Level 2)
+Variable AC.
+@@Pulse width modulated DC.
+Slightly variable DC.
+In a generator system, a stability winding is used. (Level 2)
+in series with the field to prevent oscillations.
+to control output current.
+@@to prevent voltage overshoot.
+The trimmer resister in a carbon pile volts regulator is. (Level 2)
+in series with the generator field.
+@@in series with the generator volts coil.
+in parallel with the generator volts coil.
+When a field relay trips the generator off-line, it can be reset. (Level 2)
+after the fault has been cleared.
+by cycling the generator switch.
+@@on the ground only.
+In a paralleled AC generator system both A phases must be in synchronisation and. (Level 2)
+CBA must equal ABC.
+phase rotation does not matter.
+@@CBA must equal CBA.
+During normal engine shut-down, the generator. (Level 2)
+breaker and control relay are both tripped.
+@@breaker is tripped only.
+control relay is tripped only.
+The generator warning light will come on when. (Level 2)
+voltage is too high.
+voltage is above battery voltage.
+@@voltage is below battery voltage.
+When replacing a current transformer. (Level 2)
+it can be fitted any way round.
+voltage/current selection must be made prior to fitting.
+@@it can only be fitted one way round.
+The economy coil on a relay. (Level 2)
+@@reduces current required to hold closed.
+makes it cheaper to make.
+reduces current required to close.
+What is the function of the generator control relay?. (Level 2)
+@@Bring the generator on-line.
+Connect the generator to the busbar.
+Control output voltage.
+A heat gun should be operated at. (Level 1)
+100°C above the specified.
+100°C below the specified.
+@@the specified temperature.
+The current consumed by a DC starter motor will. (Level 2)
+remain constant.
+increase as the engine speed increases.
+@@decrease as the engine speed increases.
+When checking SG of electrolyte of lead acid battery, what should be taken into account?. (Level 2)
+@@Electrolyte temperature.
+Battery charge.
+Ambient temperature.
+The reactive load circuit in a multi-engined AC generator system. (Level 2)
+@@modifies generator field excitation current.
+modifies generator drive speed.
+modifies generator field excitation voltage.
+A vibrating type voltage regulator uses a volts coil. (Level 2)
+in series with the generator output.
+in series with the current coil.
+@@in parallel with the generator output.
+A vibrating contact voltage regulator has. (Level 2)
+a resistor in series with the points.
+a volts coil in parallel with the points.
+@@a resister in parallel with the points.
+Brush bedding-in on a starter generator can be carried out. (Level 2)
+when 80 percent of the brush area has been previously bedded in, on the bench.
+@@only off the aircraft.
+during flight.
+What would be the cause of a low electrolyte level in a nicad battery?. (Level 2)
+Evaporation.
+@@Over charging current.
+Undercharging current.
+The method used to rapidly charge a nickel-cadmium battery utilizes. (Level 2)
+constant current and varying voltage.
+@@constant voltage and varying current.
+constant current and constant voltage.
+In a constant frequency AC system, real load sharing is achieved by regulating the. (Level 2)
+@@generator drive torque.
+generator speed.
+voltage regulator.
+A constant speed drive unit has a warning light indication. (Level 2)
+for low speed.
+@@for low oil pressure.
+for when it is disconnected from the generator.
+Speed of an HMG is controlled by a. (Level 1)
+CSD unit.
+@@swashplate.
+ID unit.
+The electrolyte of a nickel-cadmium battery is the lowest when the battery is. (Level 2)
+being charged.
+under load condition.
+@@in a discharged condition.
+How can the state-of-charge of a nickel-cadmium battery be determined?. (Level 2)
+By the level of the electrolyte.
+By measuring the specific gravity of the electrolyte.
+@@By measuring discharge.
+In nickel-cadmium batteries, a rise in cell temperature. (Level 2)
+causes an increase in internal resistance.
+increases cell voltage.
+@@causes a decrease in internal resistance.
+When a charging current is applied to a nickel-cadmium battery, the cells emit gas only. (Level 2)
+@@toward the end of the charging cycle.
+when the electrolyte level is low.
+if they are defective.
+In a constant frequency AC system, reactive load sharing is achieved by regulating the. (Level 2)
+generator speed.
+generator drive torque.
+@@voltage regulator.
+Under-frequency in an AC supply would cause. (Level 2)
+@@overheating of inductive devices.
+overvoltage of capacitive devices.
+overspeeding of AC motors.
+In a delta connected generator. (Level 2)
+line volts equals 1.73 phase volts.
+phase volts equals 1.73 line volts.
+@@line volts equals phase volts.
+A lead-acid battery is considered to be fully charged when the. (Level 2)
+@@S.G. and voltage remain constant for specified period.
+cells begin to gas freely.
+S.G. reaches 1.180.
+To prevent corrosion at the terminals of a lead-acid battery. (Level 2)
+@@petroleum jelly may be applied to the connections.
+the connectors may be painted.
+copper connectors are used.
+Two 12V 25 ampere batteries connected in series will produce. (Level 2)
+12V with 25 ampere hour capacity.
+@@24V with 25 ampere hour capacity.
+12V with 50 ampere hour capacity.
+When the temperature increases in a lead acid battery, the SG will. (Level 1)
+@@decrease.
+increase.
+remain the same.
+On a DC shunt generator without a voltage regulator, if the load increases the generator output voltage will. (Level 2)
+increase.
+remain constant.
+@@decrease.
+If a nicad battery overheats, it is an indication of. (Level 2)
+the generator voltage regulator setting is too low.
+the generator is not connected to the bus bar.
+@@thermal runaway.
+Spillage of a lead acid electrolyte is detected by. (Level 2)
+@@indicating paper that turns red.
+indicating paper that turns blue.
+litmus paper that turns black.
+To restore electrolyte after spillage. (Level 2)
+@@add a mixture of acid and water of the same s.g. as that in the battery.
+add acid only.
+add distilled water only.
+Single phase components in a 3 phase system may be connected between. (Level 2)
+phases A and B only.
+the phase and earth only.
+@@any phase and earth or between any two phases.
+When operating two AC generators unparalleled, the phase of each. (Level 2)
+@@is unimportant.
+must be in opposition to one another.
+must be synchronized.
+When the GPU is connected to the aircraft. (Level 2)
+it supplies essential services.
+@@it is not paralleled with the aircraft generator.
+it is paralleled with the aircraft generator.
+An I.D.G (integrated drive generator). (Level 2)
+does not require a CSDU.
+@@incorporates the alternator and CSD as one unit.
+has separate CSDU.
+In a multi-generator system, the generator which takes more than its reactive power share is protected by. (Level 3)
+@@over-voltage and under-voltage protection circuits.
+over-current and under-current protection circuits.
+over-excitation and under-excitation protection circuits.
+Sharing of electrical loads by paralleled DC generators is controlled by. (Level 3)
+@@equalising circuits which control the field excitation of the generators.
+automatic load shedding.
+equalising circuits which control the speed of the generators.
+Control of hydraulically powered emergency electrical generator frequency is. (Level 1)
+by CSU.
+@@by angle of swash plate.
+by IDG.
+Before operating generators in parallel, their voltages should be matched to prevent. (Level 3)
+large circulating currents developing.
+@@overloading the generator drive and shearing of splines.
+voltage spikes of sufficient magnitude to trigger GCU overvoltage circuits.
+Consumer loads are connected to a busbar. (Level 3)
+in series so when loads are shed voltage is reduced.
+@@in parallel so when loads are shed current is reduced.
+in series so when loads are shed current is reduced.
+Whilst operating paralleled AC constant frequency generators, it is important to maintain generator outputs at the same voltage. (Level 3)
+@@to prevent a circulating current of considerable magnitude developing between two or more generators.
+to prevent CSD shock loading.
+to prevent a circulating current developing between two or more TRUs.
+A voltage regulator installed in series with a generator field. (Level 3)
+uses a voltage coil in series with generator output.
+@@uses a voltage coil in parallel with generator output.
+uses a current coil in parallel with generator output.
+CSD warning lights on the flight deck normally indicate. (Level 3)
+high oil pressure, low oil temperaturelow oil pressure, high oil temperature.
+low oil pressure, low oil temperature.
+@@low oil pressure, high oil temperature.
+An AC generator used with a CSD. (Level 3)
+@@needs a voltage controller to maintain voltage with increasing load.
+does not need a voltage controller because current is kept constant.
+does not need a voltage controller because voltage is kept constant.
+Abnormal CSD operation is monitored on the flight deck by observing indications of. (Level 3)
+low oil quantity / low oil temperature.
+@@high oil temperature / low oil pressure.
+High oil temperature / low oil quantity.
+High voltages on a generator in a parallel system should be prevented because. (Level 3)
+@@it will trip the GCR.
+it will damage the drive shaft.
+it will cause high circulating current in the bus / other generators.
+What will happen if the aircraft battery becomes overheated?. (Level 3)
+The power supply to the battery charger will be interrupted.
+@@The battery charger will switch to trickle charge mode.
+The hot battery bus will be disconnected from the battery.
+After engine start using a Ni-Cad battery, the pilot observes on the battery charger indicator, an initial high current draw followed by a rapid decrease in current. (Level 3)
+there is a problem with the charging circuit and he must shut-down the engines.
+the battery is faulty.
+@@no cause for concern.
+Electrical load on aircraft is controlled by. (Level 1)
+@@a BPCU.
+an IRS.
+a GCU.
+To confirm the state of charge of a ni-cad battery. (Level 3)
+@@measure the discharge time.
+subject the battery to load, check voltage and check the SG of each cell.
+subject the battery to load and check the voltage.
+In a carbon pile regulator, the resistive element is. (Level 3)
+@@in series with the field and changes resistance with surface area contact.
+in parallel with the field and changes resistance with changing length.
+in series with the field and changes resistance with changing length.
+The power factor of an AC generator identifies the proportion of. (Level 3)
+apparent power from the generator that does work.
+@@real power from the generator that does work.
+reactive power from the generator that does work.
+In an undervolt condition in an AC generator system, the most likely consequence is. (Level 3)
+@@activation of the time delay circuit.
+energise the bus tie relay.
+deactivation of the field regulatory TRs.
+If voltage and frequency of the generator drop to zero in flight, it would be an indication that the. (Level 3)
+bus tie interlock is inoperative.
+@@CSD driveshaft had sheared.
+phase sequence detection circuit has operated.
+Assuming all systems are operating normally, as aircraft electrical load increases, generator output voltage will. (Level 3)
+increases and amperage output increases.
+@@remain constant and amperage output increases.
+decrease and amperage output increases.
+When an overvolt is present on an AC generator system, the tripping circuit. (Level 3)
+@@trips after a time delay inversely proportional to overvolt amplitude.
+trips after a time delay.
+trips at a set level.
+In an AC distribution system, the purpose of the synchronising bus-bar is to. (Level 3)
+provide a means of monitoring the load.
+@@provide interconnection between the generator load busbars.
+supply essential services.
+In the event of complete AC generator failure in an AC split bus-bar generation system, how is power maintained to the essential AC bus-bar?. (Level 3)
+@@By power fed from a battery supplied static inverter.
+By power fed from a hot battery bus-bar only.
+By power fed from static inverter only.
+Which components within a generator control unit connects the output of the field power supply to the generator exciter?. (Level 3)
+Generator power pilot relay.
+Generator line contactor.
+@@Generator control relay.
+Topping up a Ni-Cad battery in situ. (Level 1)
+@@is not allowed.
+is only allowed in the shop.
+is permitted.
+How is real and reactive load sharing achieved in an AC parallel generator system?. (Level 3)
+@@Real load by control of the constant speed drives, reactive load by adjustment of generator fields.
+Real and reactive loads by control of the constant speed drives only. Output voltage is controlled by adjustment of generator fields.
+Real load by control of generator fields, Reactive loads by adjustment of the constant speed drives.
+Other than when there is a fault in an aircraft battery or its charging system, when is the charger switched off automatically?. (Level 3)
+@@When the battery is used for excessively high discharge currents such as in starting.
+When the alternators are fully loaded.
+When there is a failure of one alternator in a split-bus bar system.
+In a split bus power distribution system. (Level 3)
+@@each generator supplies its own bus and distribution system in normal operation.
+generators are paralleled on connection to the tie bus.
+power is split between 115V AC and 28V DC.
+How do you check condition of Ni-Cad battery in situ?. (Level 3)
+By voltmeter connected to the battery terminal.
+By voltmeter in the cockpit when battery is off load.
+@@By voltmeter in the cockpit, when battery is on load.
+The purpose of the economy contacts in a relay is to. (Level 3)
+prevent contact pitting and burning.
+@@reduce the current required to hold the contacts closed.
+close the auxiliary contacts before the main contacts.
+An AC generator connected to a CSD requires. (Level 3)
+@@a separate voltage regulator.
+no voltage regulator as the CSD will control generator frequency.
+no voltage regulator as the CSD will control the voltage.
+If electrolyte from a lead-acid battery is spilled in the battery compartment, which procedure should be followed?. (Level 3)
+@@Apply sodium bicarbonate solution to the affected are followed by a water rinse.
+Apply boric acid solution to the affected area followed by a water rinse.
+Rinse the affected area thoroughly with clean water.
+Which statement regarding the hydrometer reading of a lead-acid storage battery electrolyte is true?. (Level 3)
+A specific gravity correction should be subtracted from the hydrometer reading if the electrolyte temperature is above 20°C.
+The hydrometer reading will give a true indication of the capacity of the battery regardless of the electrolyte temperature.
+@@The hydrometer reading does not require a temperature correction if the electrolyte temperature is 60°F.
+An increase in the speed of a DC generator will cause the voltage to rise with the following resultant action in the voltage regulator:-. (Level 3)
+The volts coil to exert more pull thus increasing the current in the generator field.
+@@The volts coil to increase its magnetic field thus decreasing the field excitation.
+The volts coil to exert less pull thus increasing the resistance of the carbon pile.
+The equalizing coils on voltage regulators will. (Level 3)
+be connected to each other when the generators are paralleled.
+have current passing through them only when the generators are not paralleled.
+@@have current passing through them from the higher loaded generator to the lower.
+Circulating currents are associated with. (Level 1)
+AC and DC generators in parallel.
+@@AC generators in parallel.
+DC generators in parallel.
+A fully charged lead-acid battery will not freeze until extremely low temperatures are reached because. (Level 3)
+the acid is in the plates, thereby increasing the specific gravity of the solution.
+increased internal resistance generates sufficient heat to prevent freezing.
+@@most of the acid is in the solution.
+What determines the amount of current which will flow through a battery while it is being charged by a constant voltage source?. (Level 3)
+The total plate area of the battery.
+@@The state-of-charge of the battery.
+The ampere-hour capacity of the battery.
+The presence of small amounts of potassium carbonate deposits on the top of nickel-cadmium battery cells that have been in service for time is an indication of. (Level 3)
+normal operation.
+@@excessive gassing.
+excessive plate sulphation.
+The servicing and charging of nickel-cadmium and lead-acid batteries together in the same service area is likely to result in. (Level 3)
+@@contamination of both types of batteries.
+increased explosion and/or fire hazard.
+normal battery service life.
+If the current drawn from No.1 generator of a twin generator DC system is less than that drawn from No.2 generator, the current in the No.2 generator equalizing coil will flow. (Level 3)
+@@in the same direction as the current flow in the voltage coil, reducing the output of No.2 generator.
+in the same direction as the current flow in the voltage coil, increasing the output of No.2 generator.
+in the opposite direction to the current flow in the voltage coil, reducing the output of No.2 generator.
+On a C.S. driven generator, operation of the Disconnect Solenoid will disconnect the generator drive and. (Level 3)
+it will automatically reset itself when the fault is rectified.
+it can only be reset when all loads are switched off.
+@@resetting can only be carried out on the ground.
+Nickel-cadmium batteries which are stored for a long period of time will show a low fluid level because the. (Level 3)
+fluid evaporates through vents.
+@@electrolyte becomes absorbed in the plates.
+fluid level was not periodically replenished.
+The purpose of 'field flashing' is to. (Level 3)
+test the insulation resistance of a field winding with a 1000V supply.
+measure the residual magnetism in a field winding 24 hours after the field supply is removed.
+@@change the polarity of residual magnetism in a field winding.
+What may result if water is added to a nickel-cadmium battery when it is not fully charged?. (Level 3)
+@@Excessive spewing will occur during the charging cycle.
+The cell temperature will run too low for proper output.
+No adverse results since water may be added anytime.
+The equalising coil in the carbon pile regulator. (Level 3)
+@@modifies the effect of the voltage sensing coil.
+becomes inoperative when the undervolt relay energises.
+is connected in series with the carbon pile.
+What is the amperage at point '' to the nearest amp?. (Level 1)
+100 Amps.
+@@101 Amps.
+102 Amps.
+In the procedure to be followed after spillage of battery acid, neutralizing may be carried out. (Level 3)
+by applying a coating of petroleum jelly.
+@@with a dilute solution of sodium bicarbonate.
+by washing with distilled water.
+To restore the level of electrolyte which has been lost due to normal gassing during battery charging. (Level 3)
+sulphuric acid must be added.
+electrolyte of the same specific gravity as that contained in the battery must be added.
+@@distilled water must be added.
+The only practical method of maintaining a constant voltage output from an aircraft generator under varying conditions of speed and load is to vary the. (Level 3)
+speed at which the armature rotates.
+number of conductors in the armature.
+@@strength of the magnetic field.
+As the generator load is increased (within its rated capacity), the voltage will. (Level 3)
+remain constant and the amperage output will decrease.
+remain constant and the amperage output will increase.
+@@decrease and the amperage output will increase.
+When checking the specific gravity of the electrolyte in a battery. (Level 3)
+one cell only need be checked as the remainder will read the same.
+@@each cell should be checked as the readings may differ.
+only the end cells need be checked as they contain the terminals.
+Before taking S.G. readings of a lead-acid battery recently removed from an aircraft. (Level 3)
+@@the electrolyte temperature must be noted.
+a period of 1 hour should have elapsed to allow the S.G. to stabilize.
+the battery must be charged at the 10 hour rate for one hour.
+The specific gravity of the electrolyte in a lead-acid battery. (Level 3)
+remains constant with changes in the state of charge but is a useful guide to the amount of acid contained in the electrolyte.
+remains substantially constant regardless of the state of charge and is not therefore a guide to the state of charge.
+@@changes with the state of charge and is therefore a measure of the state of charge.
+A battery which is assumed to be 100% efficient and to have a capacity of 60 ampere-hours at the 10 hour rate will deliver. (Level 3)
+@@6 amps for 10 hours.
+60 amps for 10 hours or 6 amps for 10 hours depending upon the rate of demand.
+60 amps for 10 hours.
+As an installed battery becomes fully charged by the aircraft generator. (Level 3)
+@@the battery voltage nears its nominal level so the charging current decreases.
+the battery contactor isolates the battery from the generator.
+the generator voltage decreases to supply the steadily decreasing current.
+When using A.C. power on the bus bar you require 28V D.C. for battery charging. (Level 3)
+an A.C. inverter would be required.
+@@an A.C. transformer and rectifier would be required.
+a D.C. transformer and rectifier would be required.
+What does the differential sensing coil sense?. (Level 1)
+Power.
+Volts.
+@@Current.
+Pitot tubes are heated by. (Level 1)
+DC.
+AC.
+@@AC or DC.
+Two similar 12V batteries connected in parallel will produce. (Level 3)
+24V e.m.f. with the same capacity as each battery.
+@@12V e.m.f. with twice the capacity of each battery.
+24V e.m.f. with twice the capacity of each battery.
+When checking a nicad battery in situ for serviceability. (Level 3)
+@@a load is applied to the battery and the voltmeter reading noted.
+a hydrometer must be used.
+the electrical circuits must be isolated before installing shorting strips.
+Load sharing on a DC generation system is achieved by. (Level 3)
+@@circulating currents affecting the carbon pile for voltage trimming.
+the load differences causing torque signals to vary the engine speed.
+tachogenerators varying the generators outputs as the engine speed varies.
+If a nickel cadmium aircraft battery is not required for immediate service, it should be stored. (Level 3)
+@@in the fully discharged condition.
+in a totally dry condition.
+in the fully charged condition.
+The correct way to determine the state of charge of a nickel-cadmium battery is. (Level 3)
+by checking the specific gravity of each cell.
+by checking the voltage of each cell under load.
+@@by a complete discharge and a measured recharge.
+A DC generator will be connected to the busbar after the RCCO contacts close due to. (Level 3)
+increasing battery voltage.
+@@increasing generator voltage.
+a differential voltage of 0.5V battery voltage higher than generator.
+When a DC generator fails, the pilot will receive the following indications:-. (Level 3)
+Rising voltage and current discharge with a red PFWL.
+An audio bell and red PFWL.
+@@Zero current on the ammeter and a red PFWL.
+With a vibrating-contact type voltage regulator the adjustment of generator voltage is carried out by. (Level 3)
+adjustment of voltage coil resistance.
+@@alteration of contact spring tension.
+alteration of the field resistance.
+Polarization in a cell is. (Level 3)
+@@the fact that hydrogen bubbles form on the -ve plate.
+the fact that as a battery discharges, the -ve plate's potential approaches that of the +ve plate's.
+the establishing of a potential across the cell.
+Battery capacity is checked by. (Level 3)
+@@discharging while maintaining the voltage constant by varying a resistor in the circuit and checking the time to be discharged.
+discharging at a constant current and checking the time taken to reach the discharged state.
+measuring the terminal voltage whilst on load and multiplying by the current drawn.
+Paralleling is used for. (Level 1)
+@@AC and DC electrical generators.
+DC electrical generators only.
+AC electrical generators only.
+The frequency of an AC generator is dependant on the. (Level 3)
+@@number of pairs of poles and the speed of the rotor.
+number of conductors and the field strength.
+field strength and the speed of the generator.
+Battery charging procedures can be found in ATA. (Level 1)
+Chapter 24 Section 21.
+@@Chapter 24 Section 31.
+Chapter 31 Section 21.
+Maximum battery temperature on charging before protection circuit starts is. (Level 1)
+144 degrees C.
+@@144 degrees F.
+71 degrees F.
+If an aircraft has no battery charger, the battery is charge (Level 1)
+constant current until a predetermined limit when it automatically switches to constant voltage
+constant current.
+@@constant voltage.
+The output of a carbon pile regulator with no variation of loading is. (Level 1)
+@@stationary.
+pulse width modulating.
+fluctuating.
+A paralleled relay for a DC system is energised and connected (Level 1)
+zeners and transistors.
+current coil.
+@@voltage and current coil.
+When resetting the CSD on the ground, the engine should be. (Level 1)
+rotating at Nsync.
+rotating at idle.
+@@stationary.
+How is RAT driven?. (Level 1)
+@@Airstream.
+Compressor.
+Fan.
+How is an aircraft battery rated?. (Level 1)
+@@Ampere hours.
+Joules.
+Watts.
+Where does the GCU gets its power?. (Level 1)
+RAT.
+Battery.
+@@PMG.
+Eddy currents are. (Level 1)
+@@circulating currents.
+caused by heating effect of the coil.
+caused by resistance of the coil.
+The small pins in the power connector plug are. (Level 1)
+negative.
+neutral.
+@@positive.
+Zener diodes are for. (Level 1)
+voltage stabilisation.
+@@voltage regulation.
+rectification.
+AC generator output indications are measured in. (Level 1)
+@@KVA & KW.
+KW & KVAR.
+KW.
+Load shedding allows. (Level 1)
+@@less current to the busbar.
+more current to the busbar.
+more voltage to the busbar.
+In what units are static inverters rated?. (Level 1)
+@@kVA.
+kVAR.
+kW.
+On engine shutdown, what prevents GCR being tripped?. (Level 1)
+Under-volt.
+@@Under-frequency.
+Under-current.
+When loads are shed from a busbar automatically. (Level 1)
+@@bus bar current decreases.
+bus bar current rises.
+bus bar voltage rises.
+What controls output from the generator?. (Level 1)
+BPCU.
+@@GCU.
+ELCU.
+Specific Gravity in a lead acid battery should give an indication of. (Level 1)
+@@charge.
+electrolyte temperature.
+electrolyte level.
+Excessive commutator sparking can be caused by. (Level 1)
+rotating field diode failure.
+brushes positioned on MNA.
+@@weak spring tension.
+A neutralising agent for sulphuric acid is. (Level 1)
+borax powder.
+citric acid.
+@@sodium bicarbonate.
+Flashing a generator field. (Level 1)
+decreases resistance.
+@@restores magnetism.
+increases resistance.
+The purpose of an inverter is to convert. (Level 1)
+@@DC to AC.
+AC to DC.
+AC to a higher frequency AC.
+The electrolyte in a lead-acid battery contains. (Level 1)
+nitric acid.
+@@sulphuric acid.
+hydrochloric acid.
+Frequency (Hz) is the number of cycles per. (Level 1)
+revolution.
+@@second.
+minute.
+The three voltages of a three phase generator are. (Level 1)
+90 degrees apart.
+@@120 degrees apart.
+180 degrees apart.
+A 12 volt lead-acid battery. (Level 1)
+has 24 cells.
+@@has 6 cells.
+has 12 cells.
+The active component of an A.C. circuit is 4 amps and the reactive is 3 amps. Ammeter reading will be. (Level 1)
+3.4 amps.
+7 amps.
+@@5 amps.
+Which aircraft circuit would be most likely to use frequency wild 200V AC?. (Level 1)
+Hydraulic pump.
+Standby compass.
+@@Windscreen heating.
+The output of a DC generator is controlled by varying the. (Level 1)
+armature current.
+engine speed.
+@@field current.
+On an AC external power plug, the interlock circuit is controlled by pins. (Level 1)
+AB.
+CD.
+@@EF.
+A generator rated at 30 kVA power factor 0.8 has a maximum continuous power output of. (Level 1)
+37.5 kW.
+30 kW.
+@@24 kW.
+For battery charging, the electrical supply connected to the battery must be. (Level 1)
+AC at 50 c.p.s.
+AC at 400 c.p.s.
+@@DC.
+The output from an AC generator is taken from. (Level 1)
+slip rings.
+slip rings via commutator.
+@@connections on the stator.
+Battery SG is measured using a. (Level 1)
+hygrometer.
+hypsometer.
+@@hydrometer.
+A battery for use on aircraft must have a capacity of. (Level 1)
+@@0.8.
+0.5.
+0.9.
+When connecting aircraft batteries, the last lead to connect is the. (Level 1)
+@@negative.
+positive earth.
+positive.
+In a paralleled AC generation system load sharing is for. (Level 1)
+reactive load only.
+real load only.
+@@real and reactive load.
+A frequency wild supply would be suitable for. (Level 1)
+instruments and navigation systems.
+@@deicing loads.
+3-phase torque motors.
+Three 12V, 40Ah accumulators in series would give. (Level 1)
+36V 120Ah.
+12V 120Ah.
+@@36V 40Ah.
+Voltage is controlled by. (Level 1)
+the constant speed drive.
+@@the voltage regulator.
+the swashplate.
+Three 12V, 40Ah accumulators in parallel would give. (Level 1)
+12V 40Ah.
+@@12V 120Ah.
+36V 120Ah.
+An inverter can be an AC generator driven by. (Level 1)
+an AC motor.
+either an AC or DC motor.
+@@a DC motor.
+When mixing electrolyte for lead acid batteries. (Level 1)
+the method of mixing is unimportant.
+@@add acid to water.
+add water to acid.
+The RPM of a 6 pole, 400 Hz alternator is. (Level 1)
+6000.
+@@8000.
+4000.
+A lead-acid battery is considered to be fully charged when the. (Level 2)
+cells begin to gas freely.
+@@SG and voltage remain constant for specified period.
+SG reaches 1.180.
+When a current transformer is disconnected, what should be done?. (Level 2)
+@@Terminals shorted.
+Resistor placed across terminals.
+Left open circuit.
+Galley loads are wired in. (Level 2)
+@@parallel so load shedding will lower current consumption.
+either series or parallel depending on the design.
+series.
+A fuse-type current limiter. (Level 2)
+can be used as a radio suppressor.
+limits current flow to a load.
+@@opens a circuit after a time/current condition has been exceeded.
+When a load is shed from a busbar, the. (Level 2)
+busbar voltage decreases.
+@@current consumption from the bar decreases.
+busbar voltage increases.
+In unparalleled AC generation systems, the phase rotation of one generator in relation to the others. (Level 2)
+must be synchronised prior to paralleling.
+@@is unimportant.
+must be BCA.
+The ground interlock pins are numbered. (Level 1)
+A and B.
+C and N.
+@@E and F.
+Before checking the SG of a battery recently removed from an aircraft. (Level 2)
+@@take the temperature of the electrolyte.
+carry out a capacity test.
+allow to stabilise for one hour.
+Over-voltage protection circuits are activated. (Level 2)
+before the over voltage limit is exceeded.
+after a fixed time delay.
+@@dependent on the magnitude of the overvoltage.
+A diode connected across a coil will. (Level 2)
+suppress arching when relay is opening and closing.
+@@prevent back EMF and allow faster switching.
+prevent the coil being fitted the wrong way.
+Which fault does not always trip the GCR?. (Level 2)
+Under-frequency and under-volts.
+Over-frequency and over-volts.
+@@Over-frequency and under-frequency.
+Differential protection in a generating system. (Level 2)
+@@detects current difference between source and load.
+detects voltage difference between source and load.
+uses the volts coil to trip the GCR.
+Open phase sensing on a current transformer. (Level 2)
+@@is detected on generator neutral circuit.
+is detected using all phases.
+is detected using any phase.
+If the battery is switched off in flight, the. (Level 2)
+captain's instruments will be powered from the standby bus.
+@@battery is disconnected from bus.
+generator voltage falls to zero.
+To flash a generator field the. (Level 2)
+generator is on line and producing a voltage less than the flashing voltage.
+generator rotates but is not on line.
+@@generator must be stationary.
+Overflowing electrolyte in a ni-cad battery indicates. (Level 2)
+not enough charging current.
+@@excessive charging current.
+low electrolyte temperature.
+A current transformer connected on the neutral star point of a generator is for. (Level 2)
+overload protection.
+@@differential current protection.
+negative sequence protection.
+Distilled water should be added to a ni-cad battery. (Level 1)
+@@only in the battery workshop.
+at any time.
+when fully charged.
+Differential protection as applied to AC generation systems compares. (Level 2)
+@@generator current to busbar current.
+generator voltage to busbar voltage.
+ambient pressure to cabin pressure.
+In an AC generation system, the frequency and phase rotation. (Level 2)
+@@must be synchronised prior to paralleling.
+is of no consequence after paralleling.
+must be out of phase prior to paralleling.
+Diodes are placed across a contactor to. (Level 2)
+ensure smooth contactor operation.
+prevent contact bounce.
+@@speed up operation by reducing back EMF.
+Placing the battery master switch to off during flight will. (Level 2)
+@@isolate the battery from the main busbar.
+shut down the APU.
+disconnect all power to the main busbar.
+The output frequency of a hydraulically driven standby generator is controlled by. (Level 2)
+@@an hydraulically actuated swash plate.
+a CSD.
+an IDG.
+Power to a GCU is supplied. (Level 2)
+@@initially by a 'field tickling' supply and then PMG output.
+by the battery bus or rectified generator output.
+by the generator output only.
+Trip signals for a GCR are. (Level 2)
+overfrequency and undervoltage.
+@@differential protection and undervoltage.
+underfrequency and overcurrent.
+Over-voltage condition trips the generator. The time taken to trip the GCU depends on. (Level 2)
+@@amplitude of voltage.
+closing of fuel and hydraulic valves.
+time delay circuit.
+A permanent magnet should have. (Level 2)
+low retentivity, low coercivity.
+@@high retentivity, low coercivity.
+low retentivity, high coercivity.
+On testing a generator it is found to require adjusting, where would you adjust it?. (Level 2)
+In the cockpit on the flight engineers panel.
+On the GCU.
+@@By means of a remote trimmer.
+During a normal engine shutdown, generator tripping is initiated by. (Level 1)
+@@undervoltage.
+underfrequency.
+overcurrent.
+When a ni-cad battery is fully charged. (Level 2)
+@@the electrolyte level is higher level than normal.
+the electrolyte level is lower than normal.
+the electrolyte level stays the same.
+A 4:1 step-up transformer receives 120VAC in its primary and has 1600 Ohms resistance in its secondary. What is the current drawn from the source?. (Level 2)
+@@1.2 A.
+0.3 A.
+3 A.
+In a lead-acid battery after numerous checks, one cell has low reading. (Level 2)
+It needs topping up.
+@@It must be replaced.
+It is defective.
+A short range passenger aircraft has complete electrical failure. What time duration would the battery be expected to power essential equipment?. (Level 2)
+@@30 minutes.
+Forever.
+60 minutes.
+An external power plug has two short pins. These are used for. (Level 2)
+ground handling bus.
+@@the interlock circuit.
+a guide for correct alignment of the plug in the socket.
+The purpose of a synchronising bus bar is. (Level 2)
+@@to allow monitoring and trimming from the flight deck.
+to enable two propeller systems to be synchronised.
+to monitor total current load.
+Generator brush bedding. (Level 2)
+should only be done if 50% of the width and 80% of the length is already being done.
+should not be done on the aircraft.
+@@can be done on the aircraft.
+In a transistor voltage regulator, the voltage output is controlle (Level 2)
+@@zeners and transistors.
+diodes and transformers.
+transformers and transistors.
+Increasing the real load primarily. (Level 2)
+increases output voltage and increases frequency.
+decreases output voltage.
+@@decreases frequency.
+Inductive reactive load causes. (Level 2)
+@@no effect on torque but produces extra heat dissipated.
+increase in torque only.
+increase in torque and increase in heat dissipated.
+What does the electrical power system mainly consists of (Level 1)
+Generation subsystem, consumers.
+@@Generation subsystem, distribution subsystem.
+Distribution subsystem, consumers.
+How are generation and distribution split into (Level 1)
+One phase and three phase
+@@AC subsystem and a DC subsystem
+One phase and multi-phase
+Which electrical power is generated by emergency generator (Level 1)
+DC
+One phase AC
+@@Three phase AC
+Which AC power is generated by static inverter (Level 1)
+@@One phase
+Three phase
+Two phase
+Which type of battery is used in modern aircraft (Level 1)
+Lead acid battery
+@@Nickel cadmium battery
+Lead acid battery or nickel cadmium
+How does the battery provides 24 volts DC to the DC power distribution (Level 1)
+On the ground and during normal flight
+@@During flight in an emergency condition when A/C has total generator loss or on the ground in certain cases.
+During flight in an emergency condition when A/C has total generator loss only
+Which consumers are of DC power consumers (Level 1)
+@@Battery, static inverter, DC motor, solenoid
+Static inverter, DC motor, solenoid, transformer
+Battery, static inverter, DC motor, solenoid, rectifier
+Concerning electrical power, what is function of bus (Level 1)
+Transferring data
+@@A bus connects the power source to all the electrical consumers which use the same type of electrical power.
+Provides a connection between the two source
+What is property of bus (Level 1)
+@@Low resistance
+High resistance
+High resistance at low temperature
+How is the main AC bus normally shown on electrical schematics (Level 1)
+@@As a single bus
+As a single bus with a '3p' label
+As 3 single bus
+How is the power source switching controlled (Level 1)
+Manually
+Automatically
+@@Either automatically or manually
+When is engine driven generator switched automatically to the power distribution (Level 1)
+Voltage and frequency are OK, aircraft in flight and no failure is detected
+@@Voltage and frequency are OK and no failure is detected
+Voltage or frequency are OK and no failure is detected
+How is ground power source switching performed (Level 1)
+@@Always manually
+Always automatically
+Either automatically or manually
+Which AC power is generated by emergency generator (Level 1)
+One phase
+@@three phase
+two phase
+Which component is used as the safety devices (Level 1)
+@@fuses and circuit breakers
+Contactor, breaker and circuit breakers
+Contactor, breaker, fuses and circuit breakers
+Which component is used as the measuring devices (Level 1)
+Transformers rectifier
+Contactor, breaker
+@@Current transformers
+Which component is used as the switching devices (Level 1)
+Contactor, breaker and circuit breakers
+@@Contactor, breaker
+Contactor, breaker, fuses and circuit breakers
+How to hold the contacts of contactor in the closed state (Level 1)
+@@A DC current flow the coil continuously
+Only a short current pulse
+A latching device, normally a permanent magnet, is used
+How to hold the contacts of breaker in the closed state (Level 1)
+A DC current flow the coil continuously
+Only a short current pulse
+@@A latching device, normally a permanent magnet, is used
+How to switch breaker from the closed state to open/ trip state (Level 1)
+Interrupt current flow the coil
+@@A short pulse is fed to the coil in the opposite direction
+A short pulse is fed to the second coil
+How to prevent over-limit current (Level 1)
+@@A circuit breaker or fuse is installed
+A breaker or fuse is installed
+A circuit breaker or breaker is installed
+What is trip free type circuit breaker (Level 1)
+@@Circuit breaker is able to open an overloaded circuit even if the control knob mechanism is blocked.
+Circuit breaker is not able to open an overloaded circuit if the control knob mechanism is blocked.
+Circuit breaker is able to be closed remotely.
+Which is used as circuit breaker markings (Level 1)
+@@Safety collar, safety clip and safety tags
+Safety clip and safety tags
+Colored collar, safety clip and safety tags
+On modern A/C, which source is normally used as input of transformer rectifier (TR) (Level 1)
+One phase AC
+@@three phase AC
+DC
+How can each part of the distribution system be supplied with electrical power (Level 1)
+Main power and essential power are supplied with electrical power from a normal source and, in case of loss of this source, from an alternate source, emergency power are supplied with electrical power from only source.
+Essential power are supplied with electrical power from a normal source and, in case of loss of this source, by an alternate source, main power and emergency power are supplied with electrical power from only source.
+@@Each part of the distribution system can be supplied with electrical power from a normal source and, in case of loss of this source, from an alternate source
+In the event of a failure in the main power distribution or its power sources, how is the essential power supplied (Level 1)
+@@The remaining power source as long as any part of it is available, due to various switching functions.
+An emergency generator or the battery.
+The battery
+How is the emergency power distribution supplied (Level 1)
+By the main power sources via the essential power distribution.
+An emergency generator or the battery.
+@@Normally by the main power sources via the essential power distribution and an emergency generator or the battery in case of total loss of the normal power sources.
+What does main AC power distribution consists of (Level 1)
+@@Bus, power source switching and bus tie switching
+Generator, bus, power source switching and bus tie switching
+Generator, GCU, bus, power source switching and bus tie switching
+Which consumers use three phase AC power source (Level 1)
+Only consumers which need all three phases at the same time to operate such as 3 phase motors and TR units.
+@@Consumers which need all three phases at the same time to operate and single phase consumers.
+Only large loads
+Why must large loads be shed or switched off before we switch any power source on or off on the ground (Level 1)
+Reduce interrupt time
+Save energy.
+@@Improves the reliability of the power relays and prevents an overload of the power source.
+How is large load shedded (Level 1)
+@@Automatic or manually
+Automatic on ground or manually
+Automatic in flight
+When is automatic load shedding available (Level 1)
+An overload of generators is detected while aircraft in flight
+@@An overload of generators is detected or must be prevented by the system
+An overload of generators is detected or bus is overheat.
+How is the power source switching performed (Level 1)
+@@By power relays that are controlled either by a generator control/ ground power unit
+By bus tie relays that are controlled either by a generator control/ ground power unit
+By remote controlled circuit breaker that are controlled either by a generator control/ ground power unit
+When does a power source switching always occurs (Level 1)
+@@An existing power source is lost or when a new power source becomes available.
+An existing power source is lost or when a new power source becomes available or a load is shedded.
+When a new power source becomes available or a load is shedded.
+Concerning isolated operation, what happen if one generator supplies the complete electrical power distribution. (Level 1)
+@@An automatic load shedding occurs
+Nothing happened
+An manual load shedding must be taken place
+Which load is shedded to prevent an overload (Level 1)
+Lighting load
+Antice load
+@@Large load such as oven, coffee maker, ect
+Concerning isolated operation, what is main purpose of bus tie push button. (Level 1)
+Switch off all power source
+@@Prevent bus tie switching in case of smoke in the cockpit generated by a short circuit.
+Switch off all AC power source
+When is parallel operation allowed (Level 1)
+@@Generators have the same voltage and frequency and phase angle.
+Generators have the same voltage and frequency
+Generators have the same voltage and frequency and power
+When is an automatic bus tie switching in parallel operation performed. (Level 1)
+A serious problem in the distribution like a short circuit is detected or during landing
+@@A serious problem in the distribution like a short circuit is detected or during automatic landing
+A serious problem in the distribution like a short circuit is detected
+For aircraft with multi external power sources, how ground power sources synchronized. (Level 1)
+By the generator control units.
+By logic circuit
+@@Ground power sources cannot be synchronized
+What happen when power source switching is performed from one power source to another one which is not allowed to work in parallel (Level 1)
+No loss of power occurs
+@@A loss of power for about a tenth of a second normally occurs
+A loss of power for about a tenth of a second normally occurs if switching is performed in flight
+What is purpose of the essential power distribution (Level 1)
+Supplies all the systems that are necessary to operate the aircraft safely in electrical emergency configuration.
+Supplies all the systems that are necessary to operate the aircraft safely during automatic landing
+@@Supplies all the systems that are necessary to operate the aircraft safely.
+Which power distribution most important equipment is connected to (Level 1)
+The essential power distribution
+@@The emergency power distribution
+The main power distribution
+Which power sources does the emergency power distribution is normally supplied from (Level 1)
+@@The same power sources as the essential power distribution or emergency power sources
+Emergency power sources
+Battery
+What is electrical emergency power source (Level 1)
+Battery and ram air turbine
+Battery
+@@Battery and emergency generator
+In electrical emergency configuration while emergency generator is not ready, how is emergency power distribution normally supplied (Level 1)
+From aircraft battery via a static inverter
+From aircraft battery via a transformer rectifier (TR)
+@@From aircraft battery directly and via a static inverter
+How does emergency generator supplies power to Essential and Emergency Busses (Level 1)
+@@Supplies AC power directly and DC power via essential transformer rectifier unit
+Supplies AC power directly only (battery supplies AC power)
+Supplies DC power directly and AC power via static inverter.
+During the time the aircraft is parked, what must do to prevents a discharge of the battery by the emergency equipment. (Level 1)
+@@All batteries must be switched off
+All batteries must be switched on
+All batteries must be switched on and charged daily
+How is hot battery bus connected to the battery (Level 1)
+Batteries must be switched off
+@@It is always connected directly
+Batteries must be switched on
+A/C in flight, both of the main AC busses are lost and batteries is only power source, what happen to essential busses (Level 1)
+@@Automatically shed.
+Automatically supplied
+Nothing happen
+How to prevent an accidental deployment of the RAT (Level 1)
+A circuit is used to inhibit deployment of the RAT on ground
+@@The manual ON pushbutton is guarded
+Deployment of the RAT is only performed when the manual ON pushbutton is press and hold for 10 second
+What does a three phase AC power relay consist of (Level 1)
+A high power main contacts which are operated by three electro magnetic device.
+Three high power main contacts and each contact is operated by an electromagnetic device individually.
+@@Three high power main contacts which are operated by an electro magnetic device.
+What does breaker need to close the contacts (Level 1)
+A DC current flow the coil continuously
+A AC current flow the coil continuously
+@@Only a short current pulse
+What is advantages of breaker over the contactor (Level 1)
+The coil can be smaller because no heat is produced in the coil during the closed state
+The coil can be bigger because no heat is produced in the coil during the closed state and stays closed even when no electrical power is available.
+@@The coil can be smaller because no heat is produced in the coil during the closed state and stays closed even when no electrical power is available.
+Why the over-limit current must be prevented (Level 1)
+@@A over-limit current is caused by a short circuit or faulty consumer and can overheat the wire and generate a fire.
+For energy saving
+To increase life of component
+For maintenance purposes, what is advantages of circuit breakers over fuses (Level 1)
+@@They can be reset quickly and can also be used as manual on − off switches to allow deactivation of circuits.
+They can be replaced quickly and can also be used as manual on − off switches to allow deactivation of circuits.
+They is the easiest method of overcurrent protection
+How does a circuit breaker work (Level 1)
+@@When the actual current exceeds the maximum permitted current, the temperature of the bimetal increases and starts bending so the electrical circuit is opened
+When the actual current exceeds the maximum permitted current, the resistance of the bimetal increases and a circuit detect increasing to open electrical circuit.
+When the actual current exceeds the maximum permitted current, the magnetic field increases and moves the armature and the contacts to open electrical circuit
+What does the time that is needed to release a circuit breaker depend on (Level 1)
+Cross section of the wire
+@@The current that exceeds the nominal value.
+Maximum allowed current
+When is the reset of a circuit breaker possible (Level 1)
+The bimetal is bent
+@@Bimetal has returned to its normal shape
+About 1 minutes since circuit breaker is tripped
+In some modern aircraft types, what happen when circuit breakers with green control knobs is tripped (Level 1)
+@@Caution message, name and location of the open circuit breaker is presented on display to allows an easy identification of the circuit breaker
+Name and location of the open circuit breaker is presented on display to allows an easy identification of the circuit breaker
+Nothing happen
+What is advantage of electronic circuit breaker (Level 1)
+Save weight and space in the cockpit and that it is possible to change the trip values via rheostat
+@@Save weight and space in the cockpit and that it is possible to change the trip values of the virtual circuit breaker by loading of a new software.
+Save weight and space in the cockpit and that it is possible to change the trip values via variable capacitor
+What is purpose of fuse of electronic circuit breaker (Level 1)
+To protect electronic circuit breaker
+@@Fuse works as a safety backup in case of a short circuit, if the electronic circuit does not work properly.
+To protect shunt of electronic circuit breaker
+What are advantages of 3−phase electrical power systems (Level 1)
+Easy and economic to use, neutral current which flows via the structure during normal operation is very big
+easy and economic to use, neutral current which flows via the structure during normal operation is always 0
+@@easy and economic to use, neutral current which flows via the structure during normal operation is very small.
+Concerning CSD (Constant Speed Drive), which mode is used during cruise (Level 1)
+Overdrive operation.
+Straight drive operation.
+@@Underdrive operation.
+How is the phase angle difference of two power source reduced to zero (Level 1)
+No way
+@@Voltage differences of two power source is used as correction signal to produces a small frequency difference
+Two power source is reset at the same time.
+What is the purpose of the differential protection circuit (Level 1)
+To detect voltage difference of two phases of 3-phase generator
+To detect frequency difference of two phases of 3-phase generator
+@@To detect short circuits in areas where circuit breakers are not usable
+How can voltage and frequency failures of a generator in parallel operation be detected (Level 1)
+@@By a load protection loop.
+By the voltage and frequency protection circuit.
+By a load division loop.
+How to ensures an external power source cannot be permanently switched on if the connection is not performed completely (Level 1)
+A cable holding strap which supports the cable weight is installed
+@@A small TR unit inside the GPCU, converts the three phase AC to 28 volts DC that is sent back to external power source to holds the power relay of energized.
+The three phase AC is sent back to external power source to holds the power relay of energized
+What is purpose of the bus tie switching (Level 1)
+@@Provides a connection between the two busses, between the two source (only parallel operation)
+Provides a connection between the two busses, between the two source (only isolated operation)
+Provides a connection between the two busses, between the two source
+What is isolated operation (Level 1)
+One power source work at a time
+@@The power sources work in isolation from each other
+The power sources share the same amount of load
+In parallel operation, how are generators are synchronized (Level 1)
+Manually controlled
+Automatically controlled by logic circuit
+@@Automatically controlled and monitored by the generator control units
+In isolated operation, how is bus tie controlled (Level 1)
+By the generator control units.
+@@By logic circuit
+By the generator control units and by logic circuit
+What are main advantages of parallel operation over isolated operation (Level 1)
+@@All generators share the same part of the total load and there is no power interruption when one or several generators are switched off
+Reduce complication of generator control units operation
+High redundant for avionic equipment
+A four engines aircraft is operating with all generators in parallel operation, what happen when bus tie 1 push button on the electrical control panel is released (Level 1)
+Remaining generators supplies all AC load
+Generator 1 supplies all AC load
+@@All busses are still powered, but generator 1 supplies AC bus 1, isolated from the remaining distribution, like in an aircraft with an isolated power distribution
+Which type of operation does aircraft electrical system operate in when multi external power sources are supply to aircraft and other power sources is not available (Level 1)
+@@Isolated operation
+Parallel operation
+Isolated or parallel operation
+How to prevent the problems of power interruption when AC power source switching is performed from one power source to another one which is not allowed to work in parallel (Level 1)
+AC power sources is convert to DC, supply converted DC power source in parallel, switch off old power source.
+@@A synchronization of the two different power sources is started before switching
+Power interruption don't need prevent
+On an aircraft equipped with an electrical flight control system, why must MAIN DC power distribution always work in isolated operation (Level 1)
+@@To prevents a single failure such as a short circuit, from affecting the complete flight control system all at once.
+To save energy
+To prevents an overload of the power source.
+How Ram Air Turbine driven emergency generator (Level 1)
+Generates the hydraulic power needed for the hydraulically driven
+Drives the emergency generator directly
+@@Either generates the hydraulic power needed for the hydraulically driven emergency generator or drives the emergency generator directly
+During electrical emergency configuration (both of the main AC busses are lost), when the emergency generator is not available, which power source supply electrical power for aircraft (Level 1)
+@@Batteries take over automatically, it can only supply the most important equipment.
+Batteries take over automatically, it can supply all the essential equipment for flying the aircraft
+Batteries take over manually, it can only supply the most important equipment.
+How is activation of the emergency generator performed manually (Level 1)
+On the ground only
+In flight only
+@@In flight or on ground
+Concerning over-limit current, which component protect generator feeder lines (Level 1)
+Fuses or circuit breakers
+A breaker or fuse is installed
+@@The electronic circuits of the generator control unit (GCU)
+How does a fuse work (Level 1)
+@@Like a shear pin in a mechanical linkage
+Like a rigging pin in a mechanical linkage
+Like a safety pin in a mechanical linkage
+Which action must be done when a fuse is blown (Level 1)
+Fuse must be reset after repairing the affected circuit
+Fuse must be replaced without any action is taken place
+@@Fuse must be replaced after repairing the affected circuit
+Why is use of slip rings and brushes for current transferring not used on aircraft generators (Level 1)
+@@It has a low reliability and produces sparks.
+It has a high reliability but produces sparks.
+It don't produces sparks but has low reliability.
+What is main function of rotating rectifier in modern brushless generator (Level 1)
+Rectify alternating current from PMG (Permanent Magnets Generator) to generate exciter current of main generator.
+Rectify alternating current from main generator to generate exciter current of PMG (Permanent Magnets Generator).
+@@Rectify alternating current from exciter generator to generate exciter current of main generator.
+What is purpose of switch of static inverter (Level 1)
+Induces an sinusoidal current into the primary winding of the transformer of static inverter
+@@Change direction of current in the primary winding of the transformer of static inverter
+Protect primary winding of the transformer of static inverter
+What happen if constant speed drive (CSD) is disconnect while the input speed is too low (not stop). (Level 1)
+@@The centrifugal force cannot open the clutch completely, this can lead to a clutch damage, such as broken teeth.
+CSD is disconnect as normal
+Worm gear can be damaged
+In the parallel operation, what is task of regulations function of generator control unit (GCU) (Level 1)
+@@Ensure that all generators share the same load and synchronise power sources before a generator power source can be switched into parallel to another power source
+Ensure that all generators share the same load
+Synchronise power sources before a generator power source can be switched into parallel to another power source
+What happen if a manual trip is performed by releasing the corresponding generator pushbutton switch (Level 1)
+@@Generator control relay open, exciter current is cut off, generator power relay open
+Generator control relay open, generator power relay open
+Generator power relay open,
+When does transformer rectifier (TR) have low current (Level 1)
+@@An internal failure occur
+An overload occur
+Short circuit occur
+What happen to a nickel cadmium battery when it is overheated during charging with constant voltage charging method (Level 1)
+The battery output voltage increases that result in a thermal runaway
+@@The battery output voltage reduce that result in a thermal runaway
+The battery output voltage do not change
+Engine wing firebottles should be charged with nitrogen at 15°C to. (Level 1)
+1250 psi.
+@@600 psi.
+1500 psi.
+What external warning is there for an APU fire?. (Level 1)
+Aural.
+@@Aural and a red light.
+White light.
+Engine fire bottle pressure switches are operated by. (Level 1)
+AC and DC.
+@@DC.
+AC.
+A cockpit check on the engine firewire system is a. (Level 1)
+calibration check.
+@@continuity check.
+function test.
+Fireproofing of cabin material should be done. (Level 1)
+every 2 years.
+@@when a sample fails.
+every 3 years.
+Toilet fire detection issues can be found in. (Level 1)
+@@AWN 83.
+CAAIPs.
+AWN 100.
+A cargo compartment which will contain a fire itself and ventilate is a class. (Level 1)
+A.
+@@D.
+E
+The weight of an extinguisher is stamped. (Level 1)
+on bracket.
+@@on head fitting.
+on base of body.
+How many fire extinguishers are required on an aircraft with 501 passengers?. (Level 1)
+6.
+@@7.
+5.
+How many fire extinguishers are required on an aircraft having 401 - 500 passengers?. (Level 1)
+@@6.
+8.
+5.
+A fire that can be put out by a crew member in a cargo bay is in a. (Level 2)
+class A compensation.
+class D compensation.
+@@class B compensation.
+A Systron-Donner fire detection system uses. (Level 1)
+@@helium gas.
+oxygen gas.
+nitrogen gas.
+In a capacitive fire detection system, if. (Level 2)
+there is a break, the system will not work.
+@@there is a break, the system will work but not test satisfactory.
+there is a short to earth, the system will work but not test satisfactory.
+A toilet is fitted with thermal protection. (Level 2)
+to protect against freezing at altitude.
+@@to protect against the dangers of smoke and fire in the event of an overheat.
+to protect against continuous flushing.
+Fire tests on aircraft internal furnishings must be carried out. (Level 2)
+every two years.
+every five years.
+@@only when equipment items fail random tests.
+What is the contamination monitor for, in a Systron Donner fire detection system?. (Level 2)
+Volts drop.
+@@Dirty contacts.
+Integrity comparator.
+What test is carried out to ensure serviceability of a squib?. (Level 2)
+Bottles are fired.
+Safety ohmmeter is used to check voltage.
+@@A continuity check.
+In a gas firewire system, what causes the firewire caption to come on when heat is applied?. (Level 2)
+Continuity.
+@@Pressure.
+Capacitance increase.
+The outside casing of a firewire has. (Level 2)
+@@same potential as ground.
+28VDC potential above ground.
+115VDC potential above ground.
+Smoke detectors consist of a. (Level 2)
+lamp detecting 2% smoke.
+@@photoelectric cell detecting 10% smoke.
+photoelectric cell detecting 2% smoke.
+In a toilet smoke condition, what would be the indication?. (Level 2)
+@@Either a light or an audible warning in the cabin.
+Light in the cabin.
+Audible warning in the cabin.
+What do you check when carrying out an insulation check on a continuous firewire loop?. (Level 2)
+The firewire, sensor & controller.
+The outside of the firewire to earth.
+@@The firewire.
+What external warning is there for an APU fire?. (Level 1)
+Aural.
+@@Aural and a red light.
+Red light.
+In a capacitive fire detection system, if. (Level 2)
+there is a break, the system will work.
+@@there is a break, the system will work but not test satisfactory.
+there is a short to earth, the system will work but not test satisfactory.
+A toilet is fitted with thermal protection. (Level 2)
+to protect against freezing at altitude.
+@@to protect against the dangers of smoke and fire in the event of an overheat.
+to protect against discontinuous flushing.
+Fire tests on aircraft internal furnishings must be carried out. (Level 2)
+every three years.
+every five years.
+@@only when equipment items fail random tests.
+What is the contamination monitor for, in a Systron Donner fire detection system?. (Level 2)
+Volts increase.
+@@Dirty contacts.
+Integrity comparator.
+What test is carried out to ensure serviceability of a squib?. (Level 2)
+Bottles are fired.
+Safety ohmmeter is not used to check voltage.
+@@A continuity check.
+In a gas firewire system, what causes the firewire caption to come on when heat is applied?. (Level 2)
+Discontinuity.
+@@Pressure.
+Capacitance increase.
+The outside casing of a firewire has. (Level 2)
+@@same potential as ground.
+14VDC potential above ground.
+115VDC potential above ground.
+Smoke detectors consist of a. (Level 2)
+lamp detecting 50% smoke.
+@@photoelectric cell detecting 10% smoke.
+photoelectric cell detecting 2% smoke.
+In a toilet smoke condition, what would be the indication?. (Level 2)
+@@Either a light or an audible warning in the cabin.
+Light in the cockpit.
+Audible warning in the cabin.
+What do you check when carrying out an insulation check on a continuous firewire loop?. (Level 2)
+The firewire, sensor & controller.
+The inside of the firewire to earth.
+@@The firewire.
+Engine fire bottle pressure switches are operated by. (Level 1)
+AC or DC.
+@@DC.
+AC.
+How often do hand-held extinguishers have to be weighed?. (Level 2)
+Bi-annually.
+Every 5 years.
+@@Annually.
+How can fire extinguisher be identified as being used?. (Level 2)
+Check the tell-tale wire.
+@@Weighed.
+Check the pressure.
+CO2 fire extinguishers are used on. (Level 2)
+@@all fires in fuselage.
+engines only.
+baggage holds only.
+On pulling the fire handle, the aural warning. (Level 3)
+goes off, the light goes off, hydraulics, bleed air and generator goes off.
+stays on, the light extinguishes, the generator goes off  line.
+@@goes off, the light remains on, the generator goes off line.
+A fire detection zone wiring can pass through another fire zone when. (Level 3)
+@@the system and the extinguishing system are the same.
+the system is different but the extinguishant is the same.
+the system is the same but the extinguishant is different.
+When a fire test on a Systron Donor fire detector system is carried out. (Level 3)
+a signal passes through the unbroken centre conductor to produce the warning.
+@@it checks the integrity of the contacts.
+the signal passes through the centre and back through the outer to give warning.
+When inspecting lavatory installations. (Level 3)
+@@the ashtray should not be located close to the toilet paper holder.
+No Smoking' sign should be fitted next to the ashtrays only.
+the ashtray must be made of a thermoplastic material.
+Lavatories must have, in the disposal container. (Level 3)
+Freon extinguisher with white ball markings indicating when discharged.
+@@Freon extinguisher with black ball markings indicating when discharged.
+water/glycol extinguisher with white ball markings indicating when discharged.
+A fire detection loop must be capable of. (Level 3)
+@@using master warning visual and aural signals.
+detecting fire/overheat condition within 5 seconds and extinguishing such that after 30 seconds the condition is no longer present.
+using master warning visual signals only.
+When the fire handle is operated it. (Level 3)
+cuts off fuel and hydraulics. Generator remains on line to provide electrical power.
+@@cuts off field current, hydraulics and fuel and operates fire extinguishers.
+operates fire extinguisher only.
+A cockpit check on the engine firewire system is a. (Level 1)
+calibration check.
+@@continuity check.
+function check.
+When the fire-handle switch is pulled, a. (Level 3)
+red warning light stays on. Generator, hydraulics & fuel stays on.
+red warning light goes off. Generator goes offline.
+@@red warning light stays on. Generator, hydraulics, & fuel is cut off.
+On pulling the fire handle, the aural warning. (Level 3)
+the light goes off, hydraulics, bleed air and generator goes off.
+stays on, the light extinguishes, the generator goes off  line.
+@@goes off, the light remains on, the generator goes off line.
+A fire detection zone wiring can pass through another fire zone when. (Level 3)
+@@the system and the extinguishing system are the same.
+the hydraulic system is different but the extinguishant is the same.
+the system is the same but the extinguishant is different.
+When a fire test on a Systron Donor fire detector system is carried out. (Level 3)
+a signal passes through the unbroken centre conductor to produce the warning.
+@@it checks the integrity of the contacts.
+the signal passes through the centre and left through the outer to give warning.
+When inspecting lavatory installations. (Level 3)
+@@the ashtray should not be located close to the toilet paper holder.
+Smoking' sign should be fitted next to the ashtrays only.
+the ashtray must be made of a thermoplastic material.
+Lavatories must have, in the disposal container. (Level 3)
+Freon extinguisher with white ball markings indicating when charged.
+@@Freon extinguisher with black ball markings indicating when discharged.
+water/glycol extinguisher with white ball markings indicating when discharged.
+A fire detection loop must be capable of. (Level 3)
+@@using master warning visual and aural signals.
+detecting fire/overheat condition within 10 seconds and extinguishing such that after 30 seconds the condition is no longer present.
+using master warning visual signals only.
+When the fire handle is operated it. (Level 3)
+Cuts off fuel. Generator remains on line to provide electrical power.
+@@Cuts off field current, hydraulics and fuel and operates fire extinguishers.
+Operates fire extinguisher only.
+When the fire-handle switch is pulled, a. (Level 3)
+White warning light stays on. Generator, hydraulics & fuel stays on.
+Red warning light goes off. Generator goes offline.
+@@Red warning light stays on. Generator, hydraulics, & fuel is cut off.
+What are the minimum number of fire bottles in a cabin with 201- 300 people?. (Level 3)
+3 BCF.
+@@4 Fire Extinguishers.
+4 Methyl Bromide.
+Fireproofing of cabin material should be done. (Level 1)
+every 2 years.
+@@when a sample fails.
+every 5 years.
+Portable fire extinguishers are operated by. (Level 3)
+turning upside down and squeeze button/trigger.
+@@breaking the tell tale/tamper-proof seal then operated by the handle.
+one single operation until fire extinguisher is empty.
+Toilet fire detection issues can be found in. (Level 1)
+@@AWN 83.
+CAAIPs.
+AWN 80.
+A cargo compartment which will contain a fire itself and ventilate is a class. (Level 1)
+A.
+@@D.
+C.
+A Systron-Donner fire detection system uses. (Level 1)
+@@helium gas.
+cacbon gas.
+nitrogen gas.
+Main part of fire protection system? (Level 1)
+The fire detection system
+@@The fire detection system and the fire extinguishing system
+The fire extinguishing system
+Which area Fire detection systems must always be operative? (Level 1)
+@@The engines and the APU
+The APU
+The engines
+Where is/are temperature sensitive detectors used in? (Level 1)
+@@The engine and APU area and in the wheel well and hot air duct
+The engine and APU area and in the wheel well
+The engine and in the wheel well and hot air duct
+What type of the fire or overheat detection sensors? (Level 1)
+Continuous and parallel loops
+Parallel loops
+@@Continuous loops
+What is/are types of continuous loops? (Level 1)
+Single loop and the pneumatic pressure loop
+Semiconductor loop and the electrical loop
+@@Semiconductor loop and the pneumatic pressure loop
+What type of sensor used in engine fire detection systems? (Level 1)
+@@Dual continuous loop
+Dual parallel loops
+Single continuous loop
+What type of loop used in wheel well fire detection systems? (Level 1)
+Pressure loop
+Dual loop
+@@Individual semiconductor loops
+What type of the lavatory smoke detection sensors? (Level 1)
+@@Single sensor in the lavatory ceiling area
+Single sensor in the lavatory sidewall area
+Dual sensor in the lavatory ceiling area
+How many class of cargo and baggage component? (Level 1)
+4
+@@5
+6
+To prevent loop failures and false fire warnings, we must? (Level 1)
+@@Obey a maximum bending not more than 3.2 mm and a minimum radius not less than 25.4 mm
+Obey a maximum bending not more than 3.2 mm and a minimum radius not less than 2.54 mm
+Obey a maximum bending not more than 4.2 mm and a minimum radius not less than 25.4 mm
+What is /are main components of the gas pressure loop? (Level 1)
+Stainless steel tube
+@@Stainless steel tube and responder
+Responder
+Type of smoke detector are in use in transport aircraft? (Level 1)
+@@The optical and the ionization
+The pressure and the ionization
+The optical and the pressure
+How many factors of fire? (Level 1)
+1
+@@3
+2
+How many fire types? (Level 1)
+@@4
+3
+2
+How many types of fire extinguisher agents? (Level 1)
+3
+5
+@@4
+What component/area has an automatic fire extinguisher system? (Level 1)
+Engine
+@@APU
+MLG bay
+A fuel crossfeed valve is usually in. (Level 1)
+@@the closed position.
+the open position.
+its last position.
+Cross feed valves permit fuel transfer from. (Level 1)
+tank to tank.
+left tank to right tank.
+@@any tank to any engine.
+Integral fuel booster pumps. (Level 1)
+require ram air cooling.
+@@lets the fuel do cooling.
+require no cooling.
+A leak from a fuel tank which manifests as fuel dripping from the tank is classified as a. (Level 1)
+stain.
+seep.
+@@run.
+Microbial growth is. (Level 1)
+black dots.
+@@brown black slime.
+green sludge.
+Bladder type fuel tanks are secured by. (Level 1)
+there bolts.
+contact adhesive.
+@@press type rivets.
+When a FADEC system loses air data input it goes to. (Level 1)
+@@soft reversion.
+hard-soft reversion.
+mechanical reversion.
+Pressure refuelling is carried out at. (Level 1)
+20 PSI.
+@@40 PSI.
+60 PSI.
+Cross feed valves permit fuel transfer from. (Level 1)
+tank to tank.
+center tank to right tank.
+@@any tank to any engine.
+Integral fuel booster pumps. (Level 1)
+require ram air cooling.
+@@lets the fuel do cooling.
+require cooling.
+Fuel systems that are interconnected must have. (Level 2)
+separate venting for each tank.
+no airspace.
+@@air spaces interconnected.
+Sliding couplings in fuel systems are used on. (Level 1)
+low pressure systems.
+high pressure systems.
+@@air or vapour systems.
+When using Biopor microbial fuel growth treatment. (Level 2)
+@@it is added to the fuel and burnt.
+it is applied dry and left.
+it is applied wet and flushed out.
+A zero fuel test on a fuel quantity indicating system is carried out with. (Level 2)
+tanks completely full.
+tanks completely empty.
+@@tanks empty apart from unusable fuel.
+After a tank bag has been replaced, a fuel flow test should be carried out at. (Level 2)
+tank outlet.
+@@engine inlet.
+tank shut-off valve point.
+In biologically contaminated fuel, corrosion takes place. (Level 2)
+@@below the fungal colonies.
+the top of the tank.
+the bottom 2 inches of the tank.
+What is fitted to the fuel jettison pipe to prevent vaporisation?. (Level 2)
+@@An anti-corona device.
+A corona device.
+A nozzle.
+What happens to the capacitance in a fuel contents gauge as fuel is used?. (Level 2)
+Depends on altitude.
+Increases.
+@@Decreases.
+In a light fixed wing aircraft, the fuel warning light indicates. (Level 2)
+pump failure.
+the tank does not pressurise.
+@@ice blockage, filter popped or pump fail.
+How is fuel supplied to a turbine engine?. (Level 2)
+@@By a fuel boost pump.
+By suction from the engine driven fuel pump.
+By a gravity feed pump.
+A fuel tank suction valve will open when. (Level 2)
+@@the booster pump fails.
+both the engine driven and booster pump fail.
+the engine driven pump fails.
+When a fuel jettison valve is in transit, the magnetic indicator would show. (Level 2)
+amber and in line.
+@@amber and cross line.
+green and in line.
+A fuel cross-feed valve is lubricated. (Level 1)
+by internal cooling.
+by air.
+@@by the fuel.
+When considering the basic categories of fuel tank construction, which of the following is most prone to leaks?. (Level 2)
+Rigid.
+@@Integral.
+Flexible.
+Crossfeed valves are normally fitted with. (Level 2)
+@@two 28V DC motors.
+two three-phase AC motors.
+two single phase AC motors.
+A shroud vent and overload drain would normally be found on. (Level 2)
+@@fuel tank vent pipes.
+fuel jettison system.
+the APU fuel feed.
+Calcium Chromate tablets can be fitted in integral tanks. Before installation the linen bag should be wetted with. (Level 2)
+@@Water.
+Methylated Spirit.
+Kerosene.
+On Large transport aircraft fuel is delivered to each engine using. (Level 2)
+a parallel system.
+@@the same system for each engine.
+a separate system for each engine.
+When using Biopor microbial fuel growth treatment. (Level 2)
+@@it is added to the fuel and burnt.
+it is applied dry and right
+it is applied wet and flushed out.
+A zero fuel test on a fuel quantity indicating system is carried out with. (Level 2)
+center tanks completely full.
+tanks completely empty.
+@@tanks empty apart from unusable fuel.
+After a tank bag has been replaced, a fuel flow test should be carried out at. (Level 2)
+center tank outlet.
+@@engine inlet.
+tank shut-off valve point.
+In biologically contaminated fuel, corrosion takes place. (Level 2)
+@@below the fungal colonies.
+the top of the center tank.
+the bottom 2 inches of the tank.
+What is fitted to the fuel jettison pipe to prevent vaporisation?. (Level 2)
+@@An anti-corona device.
+A corona device.
+A center tank.
+Fuel cross feed valves are operated by the. (Level 1)
+@@28 V DC bus.
+115 V AC.
+battery.
+What happens to the capacitance in a fuel contents gauge as fuel is used?. (Level 2)
+Depends on altitude.
+Increases on altitude.
+@@Decreases.
+In a light fixed wing aircraft, the fuel warning light indicates. (Level 2)
+pump failure.
+the center tank does not pressurise.
+@@ice blockage, filter popped or pump fail.
+When refuelling. (Level 3)
+the fuel nozzle will automatically cut off the supply when the tank is full.
+@@it is important not to fill the expansion space in the tank.
+it is important to fill the expansion space in the tank.
+If an aircraft has ability to transfer fuel in flight, provision must be made to. (Level 3)
+@@shut off fuel before structural damage.
+provide overflow facility to dump fuel.
+stop engine from using tank during transfer.
+In a fuel system with interconnected vents. (Level 3)
+an expansion space is not required.
+@@the expansion space must be 2% of the tank capacity.
+the expansion space must be 10% of the tank capacity.
+Fuel tanks interconnected must have. (Level 3)
+vents to allow overfueling.
+@@protection against overfill for tanks and fuel system.
+tank where fuel is fed from both tanks to engine inlet.
+When an aircraft is put into storage for medium / long periods, the fuel tanks should. (Level 3)
+@@have some fuel left in to prevent sealant from deteriorating/drying out.
+be full.
+be empty.
+The purpose of a scavenge system within a fuel system is. (Level 3)
+to ensure that all unused fuel is returned to the tanks efficiently.
+to ensure that all available fuel can be used.
+@@to ensure that any water in the fuel is constantly dispersed thus reducing microbiological contamination.
+To prevent water condensation in a fuel tank. (Level 3)
+@@the tank should be filled as full as possible.
+the tank should be filled with the minimum fuel possible.
+the filler cap should be left open.
+As fuel level increases, system capacitance. (Level 1)
+decreases.
+no change.
+@@increases.
+To protect the centre tank fuselage area from a vapour build up. (Level 3)
+ram air is circulated around the tank.
+a shroud vent and overboard drain is fitted.
+@@cabin air is bled around the tank.
+On removal of a fuel tank booster pump, fuel is observed running out of the boost pump canister, this could be caused by. (Level 3)
+@@the pressure outlet check valve is not correctly seated.
+fuel draining out of the pressure switch bleed.
+fuel leaking past the inlet screens.
+To shut-off the LP fuel supply to the engine for the purpose of engine removal you would. (Level 3)
+close the cross bleed valve.
+close the HP fuel lock.
+@@pull the fire handle.
+A check valve is fitted to a fuel jettison system to. (Level 3)
+prevent the centre from being defuelled.
+@@prevent the dumping of the outer tanks.
+automatically stop the fuel jettison operation after a period of time.
+The advantages of integral fuel tanks are that they. (Level 3)
+are cheaper to manufacture, more durable and  easier to maintain.
+@@use the maximum volume for fuel and have the minimum amount of weight.
+are easier to design and construct and use the maximum volume of fuel.
+When an aircraft is put into storage for medium / long periods, the fuel tanks should. (Level 3)
+@@have some fuel left in to prevent sealant from deteriorating/drying out.
+be center tank full.
+be empty.
+The purpose of a scavenge system within a fuel system is. (Level 3)
+to ensure that all unused fuel is returned to the tanks efficiently.
+to ensure that all available fuel can be not used.
+@@to ensure that any water in the fuel is constantly dispersed thus reducing microbiological contamination.
+To prevent water condensation in a fuel tank. (Level 3)
+@@the tank should be filled as full as possible.
+the tank should be filled with the minimum fuel possible.
+the filler cap should be left close.
+To protect the centre tank fuselage area from a vapour build up. (Level 3)
+ram air is circulated around the center tank.
+a shroud vent and overboard drain is fitted.
+@@cabin air is bled around the tank.
+On removal of a fuel tank booster pump, fuel is observed running out of the boost pump canister, this could be caused by. (Level 3)
+@@the pressure outlet check valve is not correctly seated.
+fuel draining out of the pressure switch bleed.
+fuel leaking past the outlet screens.
+Microbial growth is. (Level 1)
+red dots.
+@@brown black slime.
+green sludge.
+To shut-off the LP fuel supply to the engine for the purpose of engine removal you would. (Level 3)
+close the cross bleed valve.
+close the LP fuel lock.
+@@pull the fire handle.
+Bladder type fuel tanks are secured by. (Level 1)
+bolts.
+contact adhesive.
+@@press type rivets.
+When a FADEC system loses air data input it goes to. (Level 1)
+@@soft reversion.
+hard reversion.
+mechanical reversion.
+Pressure refuelling is carried out at. (Level 1)
+20 PSI.
+@@40 PSI.
+15 PSI.
+How many main type of turbine engine fuel? 1. Jet A1. 2. Jet A. 3. Jet B. 4. JP 5. 5. Mobile jet 2. (Level 1)
+@@1. Jet A1. 2. Jet A. 3. Jet B. 4. JP 5.
+1. Jet A1. 2. Jet A. 3. Jet B. 5. Mobile jet 2.
+1. Jet A1. 2. Jet A. 5. Mobile jet 2.
+Do you need to record the type of fuel used when refueling? (Level 1)
+No
+@@Yes
+Sometimes
+Which are the main characteristics of Jet A1? (Level 1)
+High flash point 20° C, low freezing -60° C.
+High flash point 10° C, low freezing -40° C.
+@@High flash point 38° C, low freezing -47° C.
+What is an other very important characteristic of fuel? (Level 1)
+Low price
+Carry water in fuel
+@@Density
+Which condition does jet fuel to vaporize? (Level 1)
+@@Ambient pressure decrease
+Ambient pressure increase
+Low temp & high pressure
+What is freezing point? (Level 1)
+Is the temperature at which elements of the fuel start to vaporize
+@@Is the temperature at which elements of the fuel start to crystallize
+Is the temperature at which elements of the fuel start to change the characteristics
+What are the problems if water accumulation is in the fuel tanks? 1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. 3. large amounts of water in fuel can cause engine power fluctuations or flame outs. 4. cause erratic fuel quantity indicating. 5. microbial growth in the tanks. (Level 1)
+@@1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. 3. large amounts of water in fuel can cause engine power fluctuations or flame outs. 4. cause erratic fuel quantity indicating. 5. microbial growth in the tanks.
+1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. 3. large amounts of water in fuel can cause engine power fluctuations or flame outs.
+1. encourages ice build up if fuel cools down below 0°C. 2. supports corrosion of components in fuel system. indicating. 5. microbial growth in the tanks.
+How can you check the water inside fuel when do refueling? (Level 1)
+Visual inspection fuel
+@@Using a syringe test cartridge and chemically treated filter
+No need check
+What does the main fuel storage system consists of? 1. Fuel tanks. 2. Tank drain system. 3. Tank vent system. (Level 1)
+1. Fuel tanks. 2. Tank drain system.
+1. Fuel tanks. 3. Tank vent system.
+@@1. Fuel tanks. 2. Tank drain system. 3. Tank vent system.
+Normally, Where is the additional tanks located in the civil aircraft? (Level 1)
+@@In the horizontal stabilizer or cargo compartment
+In avionic compartment
+In nose section
+What is the most common types of main fuel tank on modern jet aircraft? (Level 1)
+The light metal and rubber containers tank
+@@The integral tank
+The light metal cylinders tank
+How does seal 2 plates join in fuel tank? (Level 1)
+Use the cap seal type
+Use the o-ring seal type
+@@Use a fillet seal type
+How does seal a nut or a bolt in fuel tank? (Level 1)
+@@Use the cap seal type
+Use the o-ring seal type
+Use a fillet seal type
+What is the most common types of auxiliary fuel tanks on modern jet aircraft? (Level 1)
+The integral tank
+@@The bladder type fuel tank
+The light metal cylinders tank
+Which components (valve) in fuel tanks prevent fuel flow out of collector boxes during maneuvers? (Level 1)
+The shuttle valve
+The shut-off valve
+@@The flap baffle valves
+Why we need the ventilation system in fuel system? (Level 1)
+@@Protect the A/C and Pax against dangerous fuel leak, over pressure
+Support delivery fuel in system well
+Reduce the temp. inside the fuel tanks
+What is the colour of the band on a hydraulic seal?. (Level 1)
+2
+Yellow.
+@@Green.
+A check flow valve in a hydraulic system prevents. (Level 1)
+2
+pump cavitation.
+@@reverse flow.
+During a leak test of an hydraulic system, system pressure. (Level 1)
+3
+is not important.
+must be minimum working.
+Mechanical sequence valves are operated by. (Level 1)
+1
+@@a striker pin.
+the pilot.
+An automatic cut-out valve will. (Level 1)
+2
+limit pump wear.
+@@prevent the hydraulic lock forming.
+A thermal relief valve. (Level 1)
+2
+senses fluid temperature change.
+@@senses fluid pressure.
+Phosphate Ester hydraulic fluid requires which kind of seals?. (Level 1)
+1
+@@Butyl Rubber.
+Synthetic Rubber.
+Hand pumps in hydraulic systems are normally. (Level 1)
+3
+single acting.
+low pressure.
+The force exerted by a hydraulic cylinder is equal to. (Level 1)
+2
+area * volume.
+@@area * pressure.
+A tandem PFCU. (Level 1)
+3
+has two control surfaces under its control.
+has the rams parallel.
+What happens to hydraulic fluid when it is overheated?. (Level 1)
+1
+@@Increase acidity.
+Increase viscosity.
+How do you prevent hydraulic fluid frothing?. (Level 1)
+1
+@@By pressurising.
+Vent Reservoir to atmosphere.
+Synthetic hydraulic fluid subjected to overheating is high in. (Level 1)
+1
+@@acidity.
+alkalinity.
+Hydraulic systems normally operate at. (Level 1)
+2
+1800 PSI.
+@@3000 PSI.
+When replacing a flexible pipe. (Level 1)
+3
+do a bonding check.
+tighten only hand tight.
+How do you remove air from hydraulic fluid?. (Level 1)
+3
+Vent to atmosphere.
+Pass through a restriction.
+A constant delivery pump has its output varied with. (Level 1)
+1
+@@regulators.
+gears.
+A variable angled pump starts at. (Level 1)
+3
+half way position.
+minimum stroke.
+Hydraulic pressure can be restored by. (Level 2)
+1
+@@compressing the air charge in an accumulator.
+the use of a pressure/heat exchanger.
+Where is the temperature overheat switch located in a hydraulic pump?. (Level 2)
+3
+In the pressure line.
+In the suction line.
+What happens if a component has an internal hydraulic leak?. (Level 2)
+3
+Fluid loss.
+Increase in fluid pressure.
+Accumulators as fitted to aircraft hydraulic systems. (Level 2)
+2
+are only ever used in an emergency.
+@@store fluid under pressure.
+A Skydrol hydraulic fluid seal would be made of. (Level 2)
+3
+natural rubber.
+synthetic rubber.
+The control of hydraulically powered emergency electrical generator frequency is by. (Level 2)
+2
+restriction valve.
+@@angle of swashplate.
+When flushing hydraulic systems. (Level 2)
+3
+flush with methylated spirit.
+flush with any hydraulic oil.
+When replenishing a hydraulic system. (Level 2)
+3
+use any hydraulic fluid.
+use any hydraulic fluid made by the same manufacturer.
+When is an hydraulic de-pressurising valve energised?. (Level 2)
+3
+When selected on.
+When there is sufficient hydraulic pressure available.
+What constitutes a hydraulic power pack?. (Level 2)
+2
+Variable swashplate pump.
+@@Reservoir, pump, selector valve, filter.
+If an accumulator loses air pressure there will be. (Level 2)
+3
+rapid depressurisation of system.
+pump cavitation.
+A thermal relief valve is fitted to an hydraulic system to. (Level 2)
+3
+prevent a leak back of pressure.
+prevent excess temperature.
+A component in a hydraulic system which ensures instantaneous action when a service is selected is. (Level 2)
+1
+@@accumulator.
+engine driven pump.
+Restrictor valves in an hydraulic system are used to. (Level 2)
+2
+restrict the rate of pressure build up.
+@@control the rate of system operation.
+The purpose of a mechanical sequence valve is to ensure the operation of. (Level 2)
+1
+@@landing gear and doors.
+safety switches.
+The purpose of a non-return valve is to. (Level 2)
+1
+@@direct fluid to the hydraulic actuator.
+restrict the movement of components.
+The end fittings on a NRV are normally different to. (Level 2)
+3
+facilitate bleeding of the system.
+allow a full flow from the valve.
+Automatic cut-out valve hammering is caused by. (Level 2)
+1
+@@low accumulator pressure.
+moisture in the fluid.
+Hand pumps are normally single cylinder double acting because of the. (Level 2)
+1
+@@two NRVS fitted.
+relief valve.
+Pressure relay valves are fitted. (Level 2)
+1
+@@before a pressure gauge.
+before a pressure sequence valve.
+Hydraulic reservoirs are pressurized to. (Level 2)
+3
+provide a reserve of stored energy.
+maintain a constant fluid level.
+In aircraft hydraulic systems, it is permissible to use. (Level 2)
+1
+@@only the specified fluid.
+any fluid of the same specific gravity.
+Hydraulic systems are normally flushed with. (Level 2)
+2
+methylated spirits.
+@@the same type of fluid as used in the system.
+A RAT hydraulic pump is for. (Level 2)
+3
+landing gear and auto-brake systems.
+nose wheel steering.
+A purpose of a 'cut-out' in a hydraulic system. (Level 3)
+3
+is to prevent creep in jack operated services which have several selected positions.
+is to limit loss of fluid in the event of pipe fracture.
+A maintainer valve in an hydraulic system will. (Level 3)
+1
+@@allow continued press to essential systems during times of reduced supply.
+dampen pressure inputs.
+How is the hydraulic pump depressurising solenoid actuated?. (Level 3)
+3
+Energised both open and closed depending on cockpit selection.
+Energised Open.
+A normal hydraulic system will. (Level 3)
+1
+@@show pressure and source of hydraulics.
+show fluid temperature and quantity.
+A constant volume hydraulic system uses what to relieve pressure in system when no services are being used?. (Level 3)
+3
+Pressure relief valve.
+Return line back to pump.
+A pressure control relay in a hydraulic pump is. (Level 3)
+3
+energised to the run position.
+used to prevent anything happening until there is hydraulic  pressure.
+A duplex seal consist of. (Level 3)
+3
+a square section rubber ring within a steel washer.
+a hard rubber square section ring with a soft rubber square section inner ring.
+A fixed volume axial pump contains the following rotating parts. (Level 3)
+3
+Drive Shaft, Swash Plate & Valve Block.
+Swash Plate & Valve Block.
+An hydraulic closed system is one where. (Level 3)
+1
+@@pressure is maintained at the selector valves at all times.
+there is no pressure at the selector valves when no functions are required.
+A marker number on a pipe indicates. (Level 3)
+2
+the thickness of the wall on the pipe.
+@@the specification of the pipe throughout the pipe run.
+"One reason for fitting an accumulator in an hydraulic system is to." (Level 3)
+2
+minimize the possibility of pump cavitation.
+@@absorb pressure surges.
+A shuttle valve is used for. (Level 3)
+3
+preventing fluid loss from a leaking jack.
+maintaining fluid press when the emergency system fails.
+A hydraulic accumulator is charged with initial air pressure of 1000 PSI. When the hydraulic system pressure of 3000 PSI is reached, the air pressure is. (Level 3)
+2
+4000 PSI.
+@@3000 PSI.
+Constant delivery hydraulic pumps. (Level 3)
+2
+require an automatic cut-out valve in the system.
+@@require an automatic cut-out valve and accumulator in the system.
+Before checking the initial pressure in the hydraulic accumulator. (Level 3)
+2
+the reservoir must be checked for correct level.
+@@the fluid pressure must be released.
+The essential components of a hydraulic system of the constant delivery type are an. (Level 3)
+1
+@@accumulator and automatic cut-out valve.
+accumulator and shuttle valve.
+A maintaining valve is fitted to a hydraulic system. (Level 3)
+3
+to maintain a back pressure to the accumulator.
+relieve excessive pressure to return.
+To enable an hydraulic system to operate two components requiring different pressures. (Level 3)
+1
+@@a pressure reducing valve is used.
+a pressure regulating valve is used.
+How many type of hydraulic pressure? 1. Hydrostatic pressure. 2. Hydrodynamic pressure. 3. Ambient air pressure. (Level 1)
+1
+@@2 types
+1 type
+What color for hydraulic Mineral oil? (Level 1)
+2
+Blue
+@@Red
+What color for hydraulic synthetic oil? (Level 1)
+3
+Blue
+Red
+Can we mix the mineral oil to synthetic oil? (Level 1)
+1
+@@Can not
+Always can
+Can we mix some kind of the synthetic oils together? (Level 1)
+2
+Can not
+@@Can
+What should you do if hydraulic spilled on the wheel? (Level 1)
+3
+Replace a new wheel
+Clean with dry cloth
+Which are the characteristics of hydraulic oil? 1. Low flammability. 2. Good lubricating quality. 3. Resistance to freezing. 4. Non evaporating. 5. Chemical stability. 6. Hydroscopic quality. (Level 1)
+1
+@@All
+1-2-4-5-6
+Can we use any kind of seals for the same job? (Level 1)
+2
+Always can
+@@Can with the same PN or interchange PN
+Which component distributes the same hydraulic pressure to many users (Level 1)
+3
+Regulator valve
+Pump
+In large A/C, normally has 2 or 3 hydraulic systems, are they independent system? (Level 1)
+1
+@@Yes, they are independent systems
+No, they are dependent system
+In large A/C, normally has 2 or 3 hydraulic systems, do they use the same reservoir tank? (Level 1)
+2
+Yes
+@@No, its own reservoir for each hyd system
+How much air pressure for reservoir pressurization? (Level 1)
+3
+25 psi
+100 psi
+How can you de-pressurize the hydraulic reservoir before changing the components in hyd system? (Level 1)
+1
+@@Active the de-pressurization valve at the GND service panel
+Shut off the air pressure supply to reservoir
+What type of hyd. Pump used for hydraulic system in the modern Airplane? (Level 1)
+2
+Gear pump
+@@Piston pump
+How many type of piston pump normally using in hyd system? (Level 1)
+3
+One is a variable displacement pump
+One is a Fixed displacement pump
+What is the EDP in hyd system? (Level 1)
+1
+@@Engine Driven Pump
+Electric Driven Pump
+Spongy brakes are usually a result of. (Level 1)
+internal leakage.
+@@air in the system.
+external leakage.
+At what temperature does a yellow fuse plug melt at?. (Level 1)
+150°C.
+250°C.
+@@200°C.
+Aquaplaning' can be reduced by. (Level 1)
+increased flaring.
+lowering slats.
+@@an anti-skid device.
+A Maxaret is used in what system?. (Level 1)
+Tyre inflation.
+@@Skid control.
+Self centring landing gear.
+Nose wheel steering in a modern aircraft is by. (Level 1)
+rudder pedals.
+the control column.
+@@a separate pilot operated control.
+Ribbed tyres with marker tie bars may be worn to. (Level 1)
+@@the top of the tie bar.
+the base of the tie bar.
+1 mm from the rib base.
+A modulator is fitted in conjunction with. (Level 1)
+brake control valves.
+non-return valve.
+@@anti-skid units.
+When the landing gear is locked up, the cockpit indicator shows. (Level 1)
+red light.
+@@no indication.
+green light.
+Tyre creep could be caused by. (Level 1)
+overpressure.
+excessive wear.
+@@under pressure.
+Un-mounted tubeless tyres must be stored. (Level 1)
+@@vertically.
+horizontally.
+in the manufactures boxes.
+Tubeless tyres are stored. (Level 2)
+at 15 to 20 P.S.I.
+horizontally maximum of four high with smallest diameter tyre on top.
+@@vertically.
+Over inflated tyres may cause damage to the. (Level 1)
+brake drum.
+wheel hub.
+@@wheel flange.
+A badly corroded and pitted brake disk will. (Level 2)
+@@wear brake pads too quickly, and should be  replaced.
+be serviceable, and provide better grip.
+produce a loss of fluid.
+The type of fluid in an oleo strut will depend upon. (Level 2)
+type of fluid most readily available.
+the type of seal material.
+@@heat generated in operation of the system.
+A restrictor valve. (Level 2)
+speed up the flow in one direction.
+@@may be used to slow down undercarriage extension.
+restrict the extent of travel of the undercarriage.
+The function of the oil in a shock absorber is to. (Level 2)
+ensure the separator does not bottom.
+@@damp the rebound.
+absorb the landing shock.
+"After MLG down and securely locked, a red light is illuminated the flight deck. The possible causes are." (Level 2)
+shorted sensor.
+@@out of adjustment sensor.
+wiring problem.
+When checking for alignment of a MLG, check. (Level 2)
+@@symmetry, tracking, camber.
+symmetry, splay, tracking.
+symmetry, twist, tracking.
+A green/grey dot marking on aircraft tyre casing represents. (Level 2)
+@@breather points.
+the light part of the tyre.
+military reference.
+Fuse plugs in aircraft tyres are. (Level 2)
+for over temperature protection.
+@@for overpressure protection.
+to deflate the tyre before removal.
+A breaker strip in an aircraft tyre is. (Level 2)
+@@to provide strength.
+to provide a wear indication.
+to indicate the position for tyre levers.
+If fluid leaks along with air whilst oleo charging, this is. (Level 2)
+@@caused by a leaky seal.
+normal.
+due to excessive charging pressure.
+How much oxygen is in a tyre (as a maximum)?. (Level 1)
+5% by pressure.
+15% by volume.
+@@5% by volume.
+On selection of MLG down, the gear extends then begins to retract again. The cause is. (Level 2)
+@@a faulty selector valve.
+a faulty actuator.
+gear lowered at too high an airspeed.
+When an undercarriage is lowered, it tends to creep back up. The fault could be. (Level 2)
+the emergency system.
+@@a leaky selector valve.
+a stuck relief valve.
+What is tyre creep related to?. (Level 2)
+Horizontal movement of the tyre.
+Vertical movement of the tyre.
+@@Tyre moving around the wheel.
+What decides the type of oil used in an undercarriage leg?. (Level 2)
+The material of the leg.
+@@The types of seals the leg uses.
+Neither, any oil can be used.
+In an anti-skid system. (Level 2)
+@@brakes are modulated to give most efficient braking.
+brakes release on rising torque.
+brakes release on falling torque.
+If an undercarriage oleo has insufficient deflection, the likely cause is. (Level 2)
+oil level too high.
+loss of pressure/leakage.
+@@air pressure too high.
+If the shuttle valve was stuck in the normal position. (Level 2)
+neither system will be available.
+@@emergency braking will not be available.
+normal braking will not be available.
+The breaker strip of a tyre is fitted. (Level 2)
+between the apex strip and the casing piles.
+between the bead and the casing piles.
+@@between the tread rubber and the casing piles.
+Excessive wear in the shoulder area of an aircraft tyre is an indication of. (Level 2)
+@@under-inflation.
+over-inflation.
+excessive toe-in.
+On large aircraft, bogie type undercarriages are used to. (Level 2)
+@@spread the weight over a large area.
+absorb increased landing shock.
+prevent skidding.
+A tyre specification 32 x 10.75-14. What does the 10.75 refer to. (Level 1)
+@@Section Width.
+Bead diameter.
+Overall diameter.
+To position the bogie beam at a suitable angle for retraction and landing, a. (Level 2)
+castoring damper is used.
+snubber is used.
+@@hop damper is used.
+On large aircraft, braked wheel assemblies are normally inflated with. (Level 2)
+nitrogen.
+an argon and CO2 mixture.
+@@nitrogen and not more than 5% of air.
+Brake deboosters. (Level 2)
+increase the hydraulic pressure entering the brakes.
+@@reduce the hydraulic pressure entering the brakes.
+assist the operation of the anti-skid unit.
+A brake debooster valve is provided for. (Level 3)
+@@applying brake pressure slowly and releasing the the brakes quickly.
+increasing the pressure and applying the brakes rapidly.
+decreasing the pressure and slowly releasing the brakes.
+On a wheel bogie unit, positive camber is when the. (Level 3)
+@@bottom of the wheels are closer together.
+top of the wheels are closer together.
+front of the wheels are closer together.
+When servicing an oleo, fluid comes out of the air valve when the leg is depressurised?. (Level 3)
+@@The leg is serviceable - the separator has bottomed.
+Leaking air/oil seals.
+Separator plate stuck open.
+The purpose of the flutter plate in a shock absorber is to. (Level 3)
+@@permit free flow of oil during compression and restriction of oil during extension.
+restrict the compression of the air.
+separate the oil from the air.
+When fitting a tyre, the red dot should be positioned. (Level 3)
+on the other side of the wheel opposite to the charging valve.
+opposite the charging valve.
+@@adjacent to the charging valve.
+Composite brake units. (Level 3)
+weigh the same as normal brake units and fade away athigh temperatures.
+have less weight than normal brake units but fade away at high temperatures.
+@@have less weight than normal brake units and have  increased efficiency at high temperatures.
+A restrictor valve can be used. (Level 3)
+to increase the speed of undercarriage retraction.
+to increase the speed of the undercarriage extension.
+@@to reduce the speed of the undercarriage extension.
+Made up wheels should be stored. (Level 1)
+vertical at working pressure.
+@@vertical at 20/30 PSI charge.
+horizontal no more than 4 high.
+The cam plate in a nose undercarriage is. (Level 3)
+part of the shimmy damper.
+@@to align for nose wheel on nose undercarriage retraction.
+for alignment of the nose wheel steering on nose undercarriage extension.
+.Why is a hydraulic damper fitted to a nose wheel steering system?. (Level 3)
+@@To reduce vibration and shimmy.
+To centralise the nose wheel during an up selection.
+To centralise the nose leg assembly during an up selection.
+The pilot receives an audible warning on the flight deck as the aircraft is descending to land. The most likely reason for this warning is. (Level 3)
+the airspeed is too high.
+@@the landing gear is not locked down.
+the rate of descent is too high.
+A restrictor in the landing gear hydraulic retraction and lowering system is positioned in the. (Level 3)
+@@landing gear up line.
+landing gear down line.
+return line from the landing gear selector.
+Wheel speed information is used in auto speed brake systems. (Level 3)
+to stow the spoilers automatically when the aircraft has nearly stopped.
+@@to ensure the aircraft has touched down and to give a slight time lapse before spoiler deployment.
+to ensure the aircraft is still rolling.
+A fusible plug fitted to an aircraft wheel prevents. (Level 3)
+over inflation of tyres during servicing.
+brakes seizure, if brake stators and rotors weld together under excessive temperatures.
+@@tyre bursts due to high temperatures created by excessive braking.
+The fusible plugs installed in some aircraft wheel will. (Level 3)
+facilitate servicing of the wheel assembly.
+@@melt at a specified elevated temperature.
+eliminate the need to check air pressure
+In the case of pressurized aircraft, the nose-wheel bay. (Level 3)
+is pressurized to a value higher than ambient but  less than cabin pressure.
+is subject to cabin pressure.
+@@is not pressurized.
+The minimum aquaplaning ground speed is. (Level 3)
+9.6 times the root square of the tyre pressure in psi.
+@@8.6 times the root square of the tyre pressure in psi.
+8.6 times the tyre pressure in bar.
+Tubed tyres are stored. (Level 3)
+horizontally, up to 4 in total staggering them to  prevent distortion of beads.
+@@horizontally, up to 4 in total in a rack with supporting tubes so each tyre is supported at 2 points.
+horizontally, up to 4 in total with the smallest at the top.
+These markings are found on a tyre32 x 10.45 R 14.What does the number 32 mean?. (Level 1)
+@@Outer diameter.
+qwidth.
+Inner diameter.
+When inflating a tyre and you notice ice in the valve stem. (Level 3)
+heat the valve stem gently with a blow torch.
+@@wait for ice to melt before carrying on with inflation.
+carry on inflating as ice in the valve stem is no problem.
+In detachable flange type wheels, the flange is secured by. (Level 1)
+a retainer plate.
+@@a lock ring.
+bolts.
+A red dot / triangle mark on aircraft tyres means. (Level 1)
+military reference.
+@@the light part of the tyre.
+breather points.
+Vents holes are found on. (Level 1)
+tubeless tyres.
+tubed tyres.
+@@tubed and tubeless tyres.
+How many LDG with normal aircraft? (Level 1)
+@@3
+2
+4
+Why all jet aircraft have a nose wheel LDG than a tail wheel LDG? (Level 1)
+Bigger
+@@Directional stability
+Easy for take off
+Where is the CG of the A/C with nose wheel LDG? (Level 1)
+Near nose wheel LDG
+Behind of main wheels
+@@In front of main wheels
+Which is the most advantage of A/C with nose wheel LDG than a tail wheel LDG during landing? (Level 1)
+@@Landing at high speed without nosing over
+Absorb more force impact
+Landing with short runway
+Do a jet airplane have a brake in the nose LDG? (Level 1)
+Yes
+@@No
+Has brakes in all LDGs
+Does nose LGD structure is bigger than main LDG? (Level 1)
+Yes
+Same size
+@@No
+Where is the location of steering system in some old and slow aircrafts? (Level 1)
+@@Tail wheel
+Nose wheel
+Main wheels
+How many ways to steer A/C on ground (Modern A/C)? (Level 1)
+By the Pedal only
+@@By the Pedal & the Tiller
+By the Tiller only
+Which are the advantages with landing gears and doors retracted during flight? (Level 1)
+1. Decrease the noise. 2. Decrease the parasite drag. 3. Give higher airspeed.
+2. Decrease the parasite drag. 3. Give higher airspeed. 4. Lower fuel consumption.
+@@1. Decrease the noise. 2. Decrease the parasite drag. 3. Give higher airspeed. 4. Lower fuel consumption.
+What power supply to operate the LDGs (large A/C)? (Level 1)
+@@Hydraulic
+Electric
+Pneumatic
+How many ways to extension LDG? (Level 1)
+1
+@@2
+3
+What are purpose of the torsion (torque) links? (Level 1)
+1. Permit the inner cylinder to move up and down in the outer cylinder.
+2. Not permit the inner cylinder to rotate 90° in the outer cylinder.
+@@1. Permit the inner cylinder to move up and down in the outer cylinder. 2. Not permit the inner cylinder to rotate in the outer cylinder.
+Which components send signal to show LDG down and locked position? (Level 1)
+@@Downlock sensors
+Retraction sensors
+Uplock sensors
+For safety reason, what should mechanic do during working in LDG system on ground? (Level 1)
+Confirmed LDG down
+@@Installed the LDG safety pin (devices)
+Checked condition of hydraulic system
+After finishing work on LDG area, which step mechanic must check before A/C depart? (Level 1)
+Installed the LDG safety pins
+Connected the headset for standby
+@@Removed all LDG safety pins
+During Transit check, found hyd leaks over limit from shock struts, no spare, no time, what should CRS decides to do? (Level 1)
+@@Actives the spare gland seal
+Declares AOG
+Do nothing after cleaning

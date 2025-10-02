@@ -1,0 +1,2080 @@
+What are the basic elements for 'Classic T' format?. (Level 2)
+Direction, altitude and height.
+Airspeed, pitch and roll.
+@@Airspeed, attitude, altitude and direction.
+With radio coupled autopilot, what are the inputs?. (Level 1)
+ADF and VOR.
+@@ILS and VOR.
+ADF and ILS.
+What sort of gate requires two positive voltages to operate?. (Level 2)
+@@AND.
+OR.
+NOT.
+When will a NAND gate give logic 0 at the output?. (Level 2)
+@@When both inputs are at 1.
+When the inputs are different.
+When both inputs are at 0.
+Which logic gate can be represented as a parallel circuit?. (Level 2)
+Exclusive OR.
+NAND.
+@@OR.
+The output of a NOT gate is logic 1. The input is. (Level 2)
+@@logic 0.
+logic 1.
+both logic 1.
+When the voltage that represents a logic 1 state is less than the voltage that represents a logic 0 state, the logic being used is. (Level 2)
+either positive or negative.
+positive.
+@@negative.
+The output of an AND gate having two inputs A and B is logic 1. The two inputs will have the logic states of. (Level 2)
+A = 0, B = 0.
+A = 1, B = 0.
+@@A = 1, B = 1.
+The output of an OR gate having two inputs A and B is logic 0. The two inputs will have the logic states of. (Level 2)
+A = 1, B = 0.
+A = 0, B = 1.
+@@A = 0, B = 0.
+Which logic gate has both inputs high to get an output?. (Level 2)
+@@AND gate.
+OR gate.
+NAND gate.
+A NAND and NOR to become a NOT gate have. (Level 2)
+inputs inverted.
+outputs inverted.
+@@inputs connected together.
+An AND gate with inverted inputs and an inverted output is equivalent to. (Level 2)
+an AND gate.
+a NOR gate.
+@@an OR gate.
+An EADI display of flight director commands are coloured. (Level 1)
+cyan.
+@@magenta.
+red.
+Logic gates internal operating mechanisms are produced from. (Level 2)
+thin film resistors.
+@@transistors.
+diodes.
+A logic 1 may be represented in an analogue system by (where Q is an output of a latch / flip-flop). (Level 2)
+switch closed / light off / Not Q.
+@@positive / magnetised / Q.
+switch open / light on / Q.
+What sort of gate requires two negative input voltages to operate?. (Level 2)
+OR.
+@@NAND.
+NOT.
+In Positive Logic representation. (Level 2)
+both states have same positive voltages but stage 1 has more current.
+@@state 1 is more positive than state 0.
+state 0 is more positive than state 1.
+Switching within logic gates is normally achieved with the use of. (Level 2)
+BTB's.
+relays.
+@@diodes.
+The truth table of A =0011 B=0101 and =0110 indicates that the logic device is. (Level 1)
+@@an ECLUSIVE OR gate.
+a NOR gate.
+an AND gate.
+A NAND gate has inputs A and B and output C. If the output (c) was zero, what are the inputs?. (Level 2)
+@@A=1 B=1.
+A=0 B=0.
+A=1 B=0.
+The 'fan-in' in a gate is the. (Level 2)
+@@number of inputs to a gate.
+number of outputs from a gate.
+number of inputs and outputs of a gate.
+Tristate devices are found. (Level 1)
+@@on input circuits.
+on output circuits.
+on both input and output circuits.
+EFIS systems have two control panels, their purpose is. (Level 2)
+@@one to control the type of EFIS display and the other to select the source of the information being displayed.
+one for the EADI display and one for the EHSI display.
+to provide display control by one control panel whilst  the other provides a standby.
+A full adder has. (Level 2)
+@@three inputs and two outputs.
+two inputs and one output.
+three inputs and one output.
+In a computer memory device, which one of these has the slowest access time?. (Level 1)
+floppy disk.
+@@magnetic tape.
+8mm video tape.
+The advantage of DRAM over SRAM is. (Level 2)
+are cheaper to manufacture.
+@@has a larger storage capacity per chip area.
+they operate slower.
+A BYTE is usually. (Level 1)
+@@an 8 bit word.
+a six bit word.
+a 12 bit word.
+What is the definition of baud rate?. (Level 1)
+1 word per second.
+1 byte per second.
+@@1 bit per second.
+Which would have the least components?. (Level 2)
+@@ALU.
+CPU.
+LSI.
+What is a baud?. (Level 1)
+@@A bit of data.
+A block of data.
+A byte of data.
+In a bi-stable memory circuit. (Level 1)
+the memory is retained indefinably.
+@@the memory is lost as soon as power is removed.
+the memory needs to be refreshed constantly, even when power is on.
+What is the advantage of series over parallel message sending?. (Level 2)
+@@Only one pair of conductors.
+More information sent.
+Quicker.
+A typical example of a mass storage memory device which is also WORM (Write Once Read Many) is.  (Level 1)
+an IC.
+a magnetic tape.
+@@a CD Rom.
+What would you expect to see displayed on an EADI  display?. (Level 1)
+Compass heading, selected heading and VOR.
+Course information, weather radar, way point alert and bearing pointers.
+@@Flight director command bars, slip indicator, rate to altitude & autoland.
+A computer using RAM would utilize. (Level 1)
+magnetic tape.
+a compact disc.
+@@an integrated circuit (chip).
+Magnetic materials are used in. (Level 2)
+ROMs only.
+@@some RAMs.
+EPROM.
+A typical example of a mass storage device is. (Level 2)
+IC.
+magnetic tape.
+@@CD.
+What is EPROM?. (Level 1)
+Enhanced programmable read only memory.
+@@Erasable programmable read only memory.
+Erasable programming read only module.
+How many bytes can be carried in a 32bit word?. (Level 2)
+8 bytes.
+@@4 bytes.
+2 bytes.
+A common used material in computer manufacturing is. (Level 1)
+ferrite material.
+permeamag material.
+@@ferromagnetic material.
+Ferrite medium is used for computer memory because. (Level 2)
+@@data is stored after the power is removed.
+it is light.
+it has low eddy current losses.
+Data is usually stored in. (Level 2)
+RAM.
+@@ROM.
+EEPROM.
+Registers are used in digital computers to. (Level 2)
+store bits of information in a permanent memory.
+@@store a limited amount of information on a temporary basis.
+keep a count of operations completed.
+A computer consist of at least the C.P.U and. (Level 1)
+@@memory and input & output port.
+memory, ALU, input & output port.
+register section, ALU, timing and control section.
+An EFIS ADI display will show along with pitch and roll. (Level 2)
+flight director bars, autoland, compass rose, altitude.
+@@decision height, autoland, rad alt , altitude.
+flight director bars, autoland, altitude, range to altitude, decision height.
+A basic computer would consist of. (Level 1)
+register section, ALU and timing and control section.
+@@memory, input/output ports and CPU.
+RAM/ROM and input/output ports.
+DRAM. (Level 2)
+@@requires a refreshing charge.
+memory is stored when power supply is removed.
+it does not require a refreshing charge.
+Bubble memory stores data on. (Level 1)
+magnetic tape.
+@@semiconductor material.
+ferrite core.
+An EPROM. (Level 1)
+@@is non-volatile memory.
+requires constant refreshing.
+is erased after reading.
+A computer requires to operate, a. (Level 2)
+address bus, a data bus only.
+@@data bus, a control bus, a address bus.
+data bus, a control bus only.
+data bus, a control bus only. (Level 2)
+DRAM.
+@@SRAM.
+RAM.
+A computer is acting in real time when. (Level 2)
+the CPU requires a clock pulse.
+@@the output is equal to the input of data.
+the time to access memory is equal to the data speed in.
+Some of the advantages of fibre optic cable over copper cables are. (Level 1)
+non conductive, easy to manufacture and assemble, more robust, cheap.
+@@smaller in size and weight, non conductive, higher security and higher bandwidth.
+non conductive, smaller in size and weight, easy to manufacture and assemble and higher security.
+A fibre optic cable consists of. (Level 1)
+@@a silica glass core with a cladding having a lower refractive index.
+a silica glass core with a cladding having a higher refractive index.
+a plastic core with a cladding having a higher refractive index.
+Fibre optic cables. (Level 1)
+@@are immune to EMI.
+attenuate EMI.
+are susceptible to EMI.
+If the glideslope pointer is below the centre mark the aircraft is. (Level 1)
+below the glideslope.
+on the glideslope.
+@@above the glideslope.
+Two connected fibre optic cable ends are parallel but not quite touching. This is called. (Level 1)
+@@end to end coupling.
+lens connector.
+end fire coupling.
+A disadvantage of a fibre optic cable is. (Level 1)
+couplings susceptible to ingress of fluid.
+@@end terminals are susceptible to environmental contamination.
+shallow bend radius allowed.
+What kind of light is used in a fibre optic systems?. (Level 1)
+@@Infrared.
+Visible.
+Ultraviolet.
+Fibreoptic data is sent by. (Level 1)
+modulating the frequency of a laser beam.
+@@a strobe light.
+modulating the frequency of a filament beam.
+HIRF is prevented from entering a fibre optic cable by. (Level 1)
+@@using an opto-isolator coupling.
+grounding the fibre at both ends.
+enclosing it in a metal braid.
+Continuity of a fibreoptic cable is checked by. (Level 1)
+a calibrated light source.
+@@a calibrated light source and an opto-power meter.
+a light source and an opto-power meter.
+A fibreoptic data bus used on an aircraft. (Level 1)
+can send only one message at a time.
+@@can transmit on several channels at the same time.
+connects non-essential systems only.
+Light travels along a fibre optic by. (Level 1)
+refraction.
+@@reflection.
+dispersion.
+What is the main disadvantage of a fibre optic data bus?. (Level 1)
+Less strong and durable when compared to twisted pair and coaxial cable.
+@@Expensive to install.
+Bend radius and moisture ingress at connections.
+A typical fibre optic connector is. (Level 1)
+F-type connector.
+@@coupling type, with lens fitted.
+push-pull connector.
+On an EFIS system the weather radar is displayed on. (Level 2)
+the FMC CDU.
+the EADI.
+@@the EHSI.
+Which of the following is an optoelectronic device?. (Level 1)
+Triac.
+@@Laser Diode.
+Thyristor.
+What is the advantage of a single mode fibreoptic over ordinary wire?. (Level 1)
+Not prone to damage.
+@@Large bandwidth.
+Small bend radius.
+A fibreoptic light source is normally. (Level 1)
+a strobe light.
+a filament lamp.
+@@a laser or LED.
+The fibreoptic cable can be identified on aircraft by its jacket colour which is. (Level 1)
+@@purple.
+yellow.
+red.
+For a fibre optic cable connector that is not regularly disconnected you would use the. (Level 1)
+@@butt type.
+ball lens type.
+ceramic lens type.
+What maintenance problems are associated with fibreoptics?. (Level 1)
+Corrosion.
+@@Kinking and contamination of connectors.
+Earthing faults.
+A fibreoptic data bus. (Level 1)
+@@can transmit several messages simultaneously.
+is only used for non essential messages.
+can only transmit 1 message at a time.
+A fiberoptic cable to LRU connector should be connected. (Level 1)
+@@very carefully to ensure alignment and reduce light loss.
+using torque-loaded pliers.
+hand tight only.
+Some of the advantages of fibreoptic cable over copper cable are. (Level 1)
+@@smaller size and weight, non conductive, more rugged, higher security.
+non conductive, easy to manufacture and assemble, higher bandwidth.
+non conductive, higher bandwidth, higher security, smaller size and weight.
+In a single mode fibreoptic cable. (Level 1)
+several waves travel down the cable.
+@@the diameter of the cable is dependent on the wavelength of the light used.
+the distortion of the signal is dependent on the length of cable.
+EADI displays show. (Level 2)
+pitch, roll and waypoints.
+@@pitch and roll attitudes.
+heading and weather radar.
+A semiconductor which emits photons and releases electrons when stimulated by photons is called. (Level 1)
+a photodiode.
+@@a laser diode.
+an LED.
+What does a fibreoptic star connection do?. (Level 1)
+Provides a continuous loop of fibre interconnecting all nodes.
+@@Provides direct point-to-point services to units on dedicated lines emanating from the central hub.
+Shares a common bandwidth of a common cable.
+A fibreoptic lens type coupling with lens and integral LED compared to an end-fire coupling is. (Level 1)
+@@more efficient.
+less efficient.
+equally efficient.
+Passive sensors in fibreoptics. (Level 1)
+@@process the signal but do not require power.
+require power for processing the signal before they send them down the fibre optic.
+require no power and they do not process signals.
+The inside of a CRT consists of. (Level 2)
+an oxide coating and rare mercury gas.
+@@a phosphor coating and rare mercury gas.
+iodine and rare mercury gas.
+CRT horizontal beam control is achieved by a. (Level 2)
+sinusoidal wave.
+square wave.
+@@sawtooth wave.
+In a CRT, if the magnetic field is parallel to the Y plates, what will be the direction of the electron beam movement?. (Level 1)
+Horizontal.
+@@Vertical.
+No movement.
+Primary colours of a CRT are. (Level 1)
+red, green and yellow.
+red, blue and yellow.
+@@red, green and blue.
+What are the effects of the X and Y plates on a CRT?. (Level 1)
+@@Y plates move the beam vertically, X plates move the beam horizontally.
+X plates move the beam vertically, Y plates move the beam horizontally.
+X and Y plates can move the beam in either direction.
+EADI sky and ground display is provided by. (Level 1)
+synthetic TV signals.
+stroke pulse.
+@@raster scan.
+On an EHSI in weather radar mode, a severe storm would be shown as. (Level 2)
+orange areas with black or yellow surrounds.
+@@red areas with black surrounds.
+blue areas with white background.
+What frequency creates the raster effect on a CRT?. (Level 2)
+@@50/60 Hz.
+250Hz.
+400 Hz.
+The sweep waveform used on a electromagnetic CRT is. (Level 2)
+@@trapezoidal.
+sinusoidal.
+sawtooth.
+What shape does the waveform take to counter the impedance effect of the coils in an electromagnetic controlled CRT?. (Level 1)
+Sawtooth.
+Rectangular.
+@@Trapezoid.
+Magnetic deflection in a CRT is achieved by. (Level 1)
+a sawtooth waveform.
+@@a trapezoidal waveform.
+a sinusoidal voltage.
+The timebase in a CRT consists of. (Level 1)
+@@an amplifier and an oscillator.
+an oscillator only.
+an amplifier only.
+What creates the raster effect on a CRT?. (Level 2)
+@@Sawtooth frequency.
+Trapezoidal frequency.
+Sinusoidal frequency.
+LCD screens are driven by. (Level 1)
+@@AC voltage.
+variable current DC voltage.
+fixed current DC voltage.
+A Liquid Crystal Display (LCD) has the advantage over a CRT that. (Level 2)
+@@it requires no cooling.
+it displays more colours.
+it requires less servicing.
+The release of a photon by another photon is the principle of. (Level 1)
+a photo diode.
+a zener diode.
+@@an LED.
+If a magnetic field is parallel to the X plates in a CRT, which way will the beam move?. (Level 2)
+Vertically.
+@@Horizontally.
+Diagonally.
+During flight (non fault conditions) the EICAS system displays on the lower CRT. (Level 1)
+flight phase page.
+@@secondary engine parameters.
+synoptic display.
+An LED display is. (Level 2)
+@@monochrome only.
+red and green.
+high definition.
+An LCD display uses what type of power supply?. (Level 2)
+DC voltage.
+@@Continuous AC.
+Variable level DC voltage.
+A beam deflection on EFIS displays are. (Level 1)
+electrostatic.
+@@electromagnetic.
+solid state.
+The supply to an LCD is. (Level 1)
+@@AC.
+current restricted DC.
+voltage restricted DC.
+An LED will emit light when. (Level 1)
+it is reverse biased.
+either forward or reverse biased if a sufficient level of  ac voltage is applied.
+@@it is forward biased.
+A CRT display has the advantage over an LCD display of a. (Level 1)
+brighter clearer output.
+more energy efficient.
+@@large viewing angle.
+To display a circle on a CRT you use. (Level 2)
+2 square wave 90 degrees out of phase.
+2 sine waves 180 degrees out of phase.
+@@2 sine waves 90 degrees out of phase.
+To deflect the beam of a CRT horizontally, coils are placed on the neck of the tube. (Level 2)
+each side.
+@@top and bottom.
+one on the side, one at the bottom.
+If the magnetic deflection plates produce a magnetic field which is parallel to the horizontal then the trace is deflected in. (Level 1)
+circular motion.
+horizontal axis.
+@@vertical axis.
+The most common CRT control for an EFIS system screen is. (Level 1)
+@@a combined system.
+an electrostatic system.
+an electromagnetic system.
+Typical displays on an EHSI are. (Level 2)
+Engine indications.
+@@VOR, Map, Plan and weather radar.
+VOR, Plan, Map and Attitude.
+Radio altitude is displayed on an EFIS system. (Level 1)
+on the Electronic Horizontal Situation Indicator.
+@@on the Electronic Attitude Direction Indicator.
+on the RMI.
+L.E.D.s can give. (Level 1)
+high definition displays.
+@@monochrome displays only.
+red and green displays only.
+At low ambient temperatures, an LCD screen. (Level 2)
+@@is slower to update as data changes.
+viewing angle becomes larger.
+loses contrast.
+Colour CRT shadow mask screen resolution is. (Level 1)
+400 lines per square inch.
+@@84 triads.
+600 lines per scan.
+An LCD display. (Level 2)
+@@has three colours only.
+is monochrome.
+has infinite colours.
+A segmented configuration for the display of alphanumeric data requires. (Level 1)
+the starburst display for numbers and lower case letters only.
+@@16 segments to display the full range of capital letters and numerals.
+at least 13 segments for all upper and lower case letters.
+Electronic CRT beam display is used typically in. (Level 2)
+@@weather radar indicators.
+IRU control display units.
+distance measuring indicators; digital counters.
+In a colour cathode ray tube, how is the phosphor arranged in the tube. (Level 2)
+@@A single phosphor layer containing red, green and blue.
+A red layer on the front with two green layers behind it.
+Layers of red, blue and green.
+A colour LCD which is back lit has. (Level 2)
+@@three colours.
+monochrome.
+an infinite amount of colours.
+A dot matrix/LED construction is. (Level 1)
+@@4*7 or a 9*5 rolling end display.
+5*9 or a 4*7 rolling end display.
+4*7 or a 5*7 rolling end display.
+What are the advantages of an LCD display over an LED?. (Level 1)
+It is brighter.
+@@It uses less current.
+There are no advantages.
+An EFIS system ADI displays pitch, roll. (Level 1)
+autoland, altitude, compass rose and flight director bars.
+@@autoland, decision height, range to altitude and flight director bars and slip indicator.
+autoland, rad alt, decision height and slip indicator.
+A seven segment display is used to. (Level 1)
+display alpha-numeric characters.
+@@display octal and decimal numbers only.
+display octal and binary numbers only.
+ESDS bags are sealed by. (Level 2)
+ESDS labels.
+zip locks.
+@@twine (100% cotton).
+What precautions are required when removing ESDS equipment?. (Level 1)
+@@Wear a wrist strap connected to an approved ground point.
+No special precautions are required.
+Keep one hand on the airframe.
+A flight deck CRT LRU is being replaced. What does the ESDS label indicate?. (Level 1)
+Wrist straps should be worn.
+@@Do not touch plug pins or leave them exposed.
+Remove power before connecting.
+During an EFIS screen fit. (Level 2)
+@@dont touch terminals.
+no tooling is required.
+use bonding strap.
+With a relative humidity of 10% to 20%, if you walked over a carpet what electrostatic voltage value would you expect to see?. (Level 2)
+@@35,000 volts.
+6,000 volts.
+12,000 volts.
+Before fitting a Printed Circuit Board you should check the. (Level 1)
+resistance between skin and strap end plug is less than 10 megohms.
+resistance between skin and strap end plug is more than 1 megohms.
+@@resistance between strap and strap end plug is less than 1 megohms.
+The resistance of the wrist strap used as part of anti static precautions should be. (Level 2)
+0 - 200 ohm.
+20 megohm - 200 megohm.
+@@250 kilohm - 1.5 megohm.
+When handling PCB's labelled ESDS, what precaution are taken?. (Level 1)
+Do not touch its pins as copper contamination can occur.
+@@Isolate electrical power before installing on Aircraft.
+First earth with aircraft then to it.
+After attaching a wrist strap to your wrist (which is connected to aircraft ground), prior to removal of ESDS equipment, the resistance measured. (Level 2)
+between your skin and the pin ground must be >1 megohms.
+between the strap and the pin ground must be <1 megohms.
+@@between the strap and the pin ground must be >1 Megohms.
+An electronic flight instrument display consists of. (Level 1)
+@@Mode control panel, Raster and Stroke generator display, microprocessor and Data inputs.
+ADC, Altimeter, VSI and ASI.
+ADI, HSI and Symbol generator.
+Which of the following ESDS devices can withstand  higher static electricity voltage?. (Level 2)
+MOSFET.
+@@SCR.
+ECL.
+A wrist band must be worn when working with ESDS devices. (Level 1)
+@@to dissipate and prevent static build-up on the operator.
+to prevent the operator from getting an electric shock.
+to dissipate static charge on the device.
+A humid atmosphere. (Level 1)
+@@reduces static charge.
+eliminates static charge.
+has no effect on the level of charge.
+Electrostatic discharge occurs when. (Level 1)
+the ground lead on a wrist strap touches the skin.
+materials are rubbed together or pulled apart.
+@@materials of different potential are brought in close proximity to each other.
+Before removing an assembly from an aircraft, with regards to HIRF, you must first ensure that there is minimum current flow between. (Level 1)
+the assembly and the aircraft.
+@@you and the assembly.
+you and the aircraft.
+When removing a PC card from an ESDS assembly ensure a low current path between. (Level 2)
+aircraft and ground.
+you and the assembly.
+@@you and the aircraft.
+An aircraft system that, should it fail due to a software error, would cause a significant reduction in safety margins may also cause. (Level 1)
+no injuries to occupants.
+@@injuries to some occupants.
+the loss of the aircraft.
+An aircraft system allocated a software level of C that, should it fail due to a software error, may cause. (Level 2)
+@@injuries to some occupants.
+injuries to a large proportion of occupants.
+no injuries to occupants.
+An aircraft system allocated a Criticality Category of  Hazardous has a Software Level of. (Level 1)
+A.
+@@B.
+C.
+An aircraft system that, should it fail due to a software error, would cause a slight increase in crew workload, has a software level of. (Level 1)
+@@D.
+B.
+C.
+The EFIS system consists of. (Level 2)
+EHSI, Mode control panel, EADI.
+@@EADI, EHSI, Symbol generators.
+Mode control Panel, RDMI, EHSI.
+An aircraft system with a software level of D, should it fail due to a software error, may cause the aircraft safety margin to be. (Level 2)
+@@slightly decreased.
+slightly increased.
+significantly decreased.
+If due to a software error in an aircraft system that would cause injuries to some of the occupants, the system has a software criticality category of. (Level 2)
+@@major effect.
+hazardous effect.
+minor effect.
+An aircraft system that, should it fail due to a software error, would cause no injuries to occupants, has a criticality category of. (Level 1)
+major effect.
+@@minor effect.
+hazardous effect.
+Requirements for software control can be found in. (Level 2)
+JAR AWO.
+@@AWN 43.
+JAR OPS.
+Software can be modified by. (Level 1)
+the manufacturer.
+@@using the same rules as apply as to modifications to hardware
+licensed avionics engineers.
+Who is responsible for producing the operational program of the FMS?. (Level 2)
+@@The manufacturer.
+The pilot.
+The engineer.
+Software documentation procedures are laid down in. (Level 2)
+MOE.
+JAA Ops.
+@@AWN (45).
+Control of software is carried out by. (Level 1)
+the aircraft manufacturers.
+a licensed engineer.
+@@the National Aviation Authority.
+What is the definition of level one software?. (Level 1)
+Non-essential.
+Essential.
+@@Critical.
+Who can sign for a software update?. (Level 1)
+Design organization or the aircraft manufacturer.
+@@Engineer.
+Chief pilot.
+ILS indications on PFD/ND are shown in. (Level 2)
+cyan.
+@@magenta.
+green.
+What is the effect of a level 1 software failure?. (Level 1)
+Significant reduction in safety margins.
+Large reduction in safety margins.
+@@Loss of aircraft and / or fatalities.
+Software changes come under the responsibility of. (Level 2)
+the engineer.
+the national aviation authority.
+@@the aircraft constructor.
+Who can design new software?. (Level 2)
+@@BCAR section A8 approved company.
+BCAR section A1 approved company.
+The CAA.
+As far as a software product is concerned. (Level 1)
+the 'Software Release' phase is the same as the 'Finished Product' phase.
+the 'Validation' phase is done to the software rather than to the component.
+@@the 'Verification' phase includes performance testing a programmed EPROM.
+AWN 43 requires that. (Level 1)
+the aircraft operator be responsible for software assessment.
+the CAA be responsible for software assessment.
+@@the aircraft constructors be responsible for software assessment.
+Level 1 software failure. (Level 1)
+is defined as essential and will reduce safety margins.
+is defined as essential and may have a minor effect.
+@@is defined as critical and can lead to loss of aircraft.
+Requirements for configuration management of software can be found in. (Level 2)
+@@AWN 43.
+JAR Ops (M).
+ATA Chapter 46, Information Systems.
+Where would you find the rules regarding upgrade of software?. (Level 1)
+JAR OPS.
+The aircraft manufacturer.
+@@AWN 43.
+In order to maintain HIRF protection, bonding checks between airframe and electrical components carrying voltages greater than 50 volts RMS or DC or main earth return should not exceed. (Level 1)
+0.05 ohm.
+@@1 ohm.
+1 megohm.
+Ribbon cables effected by mutual impedance and current loop leakage should be protected by. (Level 2)
+@@earthing each alternative conductor to separate point.
+connecting all conductors to a common earth.
+shielding each individual conductor.
+Convert 011101 Base2 to octal. (Level 1)
+25
+@@35
+33
+To shield a fibre optic from EMI you must. (Level 1)
+earth both transducer and couplings.
+shield it with a braided shield.
+@@use an opto-isolator.
+Manufacturers of aircraft can ensure HIRF protection by. (Level 2)
+advising operators of all points susceptible to deterioration due to corrosion, moisture ingress, flexing etc.
+@@designing specific avionic areas that are shielded against HIRF.
+ensuring all single wires are shielded with metal conduit.
+Which of the following could be a primary cause of HIRF protection failure?. (Level 2)
+Broken or missing static wicks.
+Corrosion on bonding leads.
+@@Unserviceable radio filters.
+Manufacturers of aircraft can ensure HIRF protection. (Level 1)
+@@by designing specific avionic areas that are shielded against HIRF.
+by ensuring all single wires are shielded with metal conduit.
+by advising the operator of parts of the aircraft susceptible to degradation due to corrosion, moisture ingress, flexing etc.
+HIRF protection of LRUs is provided by. (Level 1)
+internally shielded cables.
+@@built in filters and overvoltage circuits.
+built in filters only.
+To stop earth loops forming, you would. (Level 1)
+earth both ends of the cable screen.
+leave both ends of the cable screen open circuit.
+@@earth only one end of the cable screen.
+An aircraft may have been HIRF affected. (Level 1)
+A bonding load check is required.
+@@A static wick check is required.
+Test all radio frequencies for interference.
+Testing of HIRF on aircraft systems is done. (Level 2)
+by periodically listening for interference on all systems.
+@@at and during production and testing (initial certification).
+only after a report of radio interference.
+When carrying out a bonding check on a surface protected by anodic film. (Level 2)
+the film is conductive so no preparations are required.
+@@the anodic film should be removed locally to ensure a good contact.
+add a bonding factor to the result of the test to account for the resistance of the anodic film.
+When clamping cable looms containing co-axial cables. (Level 1)
+@@avoid distortion to the co-axial cable to maintain the dielectric constant.
+the clamps must be no more than 1 metre apart.
+distortion of the outer sheath is allowed providing the inner cable is not affected.
+The binary number 11010111 expressed as a decimal is. (Level 1)
+@@215
+223
+207
+When incorporating an aerial cable it must be. (Level 1)
+in the centre of the other wires.
+outside the other wires for easy access.
+@@positioned separately from the loom.
+When carrying out airframe bonding checks as part of a program of HIRF prevention the airframe bonding resistance should be less than. (Level 1)
+100 milliohms.
+1 ohm.
+@@50 milliohms.
+Electromagnetic compatibility is achieved by. (Level 2)
+@@shielding, screening, earthing, bonding and interference filters.
+coating in a conductive paint.
+enclosing the system with same frequency and strength of which screening is done.
+To reduce HIRF on radio equipment. (Level 1)
+@@ensure all static wicks are in place.
+periodically check bonding leads for condition.
+transmit on all radio frequencies to determine which frequencies are causing the interference.
+For braided cables, the amount of braiding. (Level 2)
+must conform to the requirement for the shielding to cover at least 50% of the surface of the cable.
+@@keeps radiated power inside the emitting assembly or away from the susceptible circuit.
+is a trade-off design feature.
+HIRF is acronym for. (Level 1)
+Heavily Ionised Radio Frequencies.
+@@High Intensity Radiated Field.
+High Intensity Radio Frequencies.
+HF aerials are protected against lightning strike by. (Level 2)
+current mode coupler.
+bus terminal.
+@@spark gap.
+An FMS system, besides controlling navigation, thrust and autonav, also provides. (Level 2)
+GPWS warnings.
+@@dedicated status and warnings.
+take-off and landing warnings.
+The minimum standards for aircraft instrumentation is set by. (Level 2)
+CAA.
+ICAO.
+@@JAA.
+The octal number 1001 expressed as a decimal is. (Level 1)
+9
+65
+@@513
+HSI heading is valid if the heading flag is. (Level 1)
+in view.
+green.
+@@out of view.
+MFD is the abbreviation for. (Level 1)
+@@Multi function display.
+Mandatory flight display.
+Master flight display.
+A TCAS uses the radar mile definition in its calculations, which is. (Level 1)
+@@12.36 microsecond.
+6.18 microsecond.
+24.72 microsecond.
+GPS navigation uses a constellation of satellites that is made up of. (Level 2)
+@@21 active and 3 spare.
+28 active and 7 spare.
+23 active and 5 spare.
+An IRS is only certifed for alingment up to. (Level 2)
++88.45 and -88.45 degrees.
+@@+78.25 and -78.25 degrees.
++60 and -60 degrees.
+The command bars on an ADI relate to. (Level 1)
+roll indications.
+path being followed.
+@@path required.
+ECAM has at its heart. (Level 1)
+@@a multi function symbol generator.
+a central maintenance computer.
+ACARS.
+The recording medium in an FDR is. (Level 1)
+copper foil coated with ferrite.
+a high density floppy disc.
+@@magnetic tape coated with ferrite.
+An FMS databank memory is updated. (Level 2)
+every 365 days.
+@@every 28 days.
+every 32 days.
+What does the CADC feed?. (Level 1)
+@@cabin pressure controller sensor / machmeter / altimeter.
+Altimeter / FMS / secondary radar.
+standby altimeter / machmeter.
+What is 345 in binary?. (Level 1)
+100111001
+@@101011001
+110011001
+In a Flight Management System (FMS), data is input manually to the computing system through the. (Level 2)
+Data Acquisition Unit.
+Electronic Centralised Aircraft Monitoring control panel.
+@@Control and Display Unit.
+In a Global Positioning System (GPS), the number of satellites required to achieve a 3 dimensional fix is. (Level 1)
+2
+3
+@@4
+In a Global Positioning System (GPS), each satellite transmission identifies the satellite using a. (Level 2)
+different channel frequency.
+@@pseudo random code.
+whisper shout method.
+In a Global Positioning System (GPS) satellites below the Mask Angle are ignored as these may cause. (Level 2)
+@@range errors.
+clock errors.
+ephemeris errors.
+Information required by a Flight Management System (FMS) to function correctly is indicated on the display by. (Level 2)
+dashes.
+a flashing cursor.
+@@boxes.
+A flight data recorder can obtain information from aircraft instruments. (Level 1)
+provided there is adequate damping.
+@@provided there is adequate isolation.
+by direct connection to the instruments.
+The inputs and outputs of a CADC are. (Level 1)
+pitot and static in; altitude, attitude, CAS and VS out.
+@@pitot and static in; altitude, CAS, mach and VS out.
+pitot in; static, altitude, mach, CAS and VS out.
+EICAS provides the following:. (Level 1)
+Engine parameters and engine warnings only.
+@@Engine parameters and system warnings only.
+Engine parameters only.
+A central maintenance computer provides. (Level 1)
+@@ground and flight monitoring and testing on an on-board computer.
+ground and BITE testing using a portable control panel.
+display of system warnings and cautions.
+The rising runway is positioned from information derived from. (Level 2)
+barometric height.
+@@radio altimeter.
+vertical speed.
+What is hex 110 in decimal?. (Level 1)
+282
+@@272
+32
+Where are the Digital Flight Data Recorder outputs supplied to?. (Level 2)
+The recording unit.
+@@There are no outputs.
+Flight instruments.
+FMS failure and warnings are. (Level 1)
+EFIS warnings only.
+@@displayed on EICAS.
+engine warnings only.
+Flight director command bars are moved to the correct  position by. (Level 1)
+calibration.
+@@position feedback.
+amplifier gain.
+What information is required before completion of the alignment of an Inertial Navigation System?. (Level 1)
+@@Aircraft present position.
+Heading and attitude.
+Aircraft present position and heading.
+IRS accelerometers are mounted. (Level 2)
+@@90° to each other.
+45° to each other.
+60° to each other.
+An FMS navigation database is updated. (Level 1)
+once a month.
+@@every 28 days.
+at the operators request.
+A single failure of a fly-by-wire system. (Level 2)
+will reduce operational heights and speeds.
+will limit the flight profile.
+@@has no effect on aircraft operation.
+Fly-by-wire load alleviation function in turbulent conditions will result in. (Level 1)
+spoilers moving symmetrically upwards.
+ailerons moving symmetrically upwards.
+@@ailerons and spoilers moving symmetrically upwards.
+Fly-by-wire roll control is achieved by. (Level 2)
+@@spoilers and ailerons.
+ailerons.
+spoilers.
+The movement of fly-by-wire control surfaces are. (Level 2)
+hydraulically controlled and electrically actuated.
+both electrically controlled and electrically actuated.
+@@electrically controlled and hydraulically actuated.
+Convert the binary word 1100 to decimal. (Level 1)
+11
+16
+@@12
+An FMS system, besides controlling navigation, thrust and auto- nav, also provides. (Level 2)
+@@dedicated status warnings.
+take-off and landing warnings.
+GPWS warnings.
+If an EFIS has 3 symbol generators. What is the purpose of the 3rd symbol generator?. (Level 1)
+Comparison with No.1 symbol generator.
+Parity function.
+@@Standby.
+FMS operational program is updated every. (Level 1)
+90 days.
+@@28 days.
+7 days.
+An FDR fitted to a helicopter begins recording. (Level 1)
+when power is applied to the aircraft.
+on take-off.
+@@on engine start-up.
+The FMS databases consist of. (Level 1)
+one navigation and one performance database.
+@@one performance and two navigation databases.
+two performance and one navigation database.
+The FMS can update the IRS position outputs by using information from either. (Level 2)
+VOR and DME only.
+@@GPS, DME, LOC and VOR.
+DME and GPS only.
+The accepted error from INS/IRS is. (Level 2)
+@@3 miles / hour + 3 miles.
+2 miles per hour + 3 miles.
+1 mile/hour+3 miles.
+Before an IRS can complete the alignment sequence. (Level 1)
+@@the current present position must be entered.
+either the last or current position must be entered.
+the shutdown present position must be entered.
+What warnings can an FMS provide?. (Level 1)
+@@Discrete warnings.
+Spurious faults.
+Ground faults only.
+Electronic Centralised Aircraft Monitoring System. (Level 1)
+performs in-flight and ground tests of aircraft systems by carrying out a BITE interrogation.
+performs in-flight BITE interrogation only.
+@@give red warnings and amber cautions to display system status.
+If a data message is made up of 1s and 0s, it is. (Level 1)
+analogue.
+binary.
+@@digital.
+The control of the speed or rate that the flight director command bars move can be controlled by. (Level 2)
+position feedback.
+@@rate or velocity feedback.
+amplifier gain.
+The Centralised Aircraft Monitoring System uses the maintenance mode of operation. (Level 1)
+@@on the ground only.
+in the air only.
+either in the air or on the ground.
+The third EFIS Symbol Generator is operated. (Level 2)
+in an emergency.
+with EICAS.
+@@as a standby to the No1 and No2 system.
+EFIS displays of the right hand and left hand displays are compared by comparators in the. (Level 2)
+FMS.
+EICAS.
+@@Symbol Generators.
+What is the approximate earth rate?. (Level 2)
+10°/hour.
+5°/hour.
+@@15°/hour.
+An IRS has. (Level 2)
+two or three accelerometers depending on the system.
+@@three accelerometers.
+two accelerometers.
+IRS Laser Ring Gyros provide. (Level 2)
+@@rate of movement about an axis.
+displacement about an axis.
+both rate and displacement about an axis.
+What are the outputs of a Digital ADC?. (Level 2)
+TAS, MACH, Altitude and TAT.
+@@TAS, MACH, Altitude, TAT and SAT.
+TAS, MACH and Altitude.
+Fly By Wire systems in the fully active mode, the actuators will. (Level 2)
+@@both be active.
+both be in damping mode, awaiting control inputs.
+one in active mode, one in damping mode.
+On a Fly By Wire system, what controls the stab trim?. (Level 2)
+@@ELAC and SEC.
+SEC.
+ELAC.
+Convert the binary word 1110 to decimal. (Level 1)
+12
+@@14
+15
+The minimum requirement for a cockpit voice recorder to begin operating is. (Level 2)
+@@on engine start-up.
+on commencing the takeoff roll.
+once established in the en-route climb.
+Aircraft Communications Addressing and Reporting Systems is used to. (Level 2)
+@@download aircraft status reports.
+make telephone calls.
+allow the pilot of an aircraft to talk to base.
+B-RNAV system must be capable of. (Level 2)
+holding six waypoints.
+@@displaying distance and bearing to waypoint.
+reversing the waypoints for.
+The basic principle of radar is based upon. (Level 2)
+the amount of power in the signal returned.
+@@the time delay between outward and returning pulse.
+ultrasonic wave propagation.
+What systems does the ADC feed?. (Level 2)
+Altimeter / FMS / secondary radar.
+@@Cabin pressure controller sensor / machmeter / Altimeter.
+Standby altimeter/machmeter.
+Which systems does a modern ADC give information to?. (Level 2)
+EFIS.
+EICAS.
+@@Flight control computer, Air Data Instrument, Engine systems.
+Where do the outputs from a DADC go?. (Level 2)
+EHSI.
+@@EADI.
+IRMP: Inertial Reference Mode Panel.
+How many satellite signals are required to achieve precise 3D positioning?. (Level 2)
+@@4
+5
+6
+The minimum requirement for an aeroplane CVR is. (Level 2)
+from power on.
+@@from engine start.
+from beginning of take off roll.
+An Inertial Navigation System (INS/IRS) computes distance from acceleration by. (Level 2)
+@@two successive integrations.
+a simple integration.
+a differentiation followed by an integration.
+Convert the binary number 110010 to decimal. (Level 1)
+80
+@@50
+34
+Before the aircraft is moved from the loading pier the pilot must. (Level 2)
+insert the longitude and latitude of the first waypoint into the INS.
+set the altitude to be fed into the INS.
+@@insert the latitude and longitude of the pier into the IRS.
+An IRS has. (Level 2)
+@@accelerometers and gyros fixed to a the airframe.
+accelerometers fixed to the airframe and gyros on a stable platform.
+accelerometers on a stable platform and gyros fixed to the airframe.
+An IRS system requires data for wind computation from. (Level 2)
+Doppler System.
+satellites.
+@@central Air Data Computer.
+The FMS carries out a Rho/Theta navigation function, the purpose of this is to. (Level 2)
+@@update the IRS system with an accurate position fix of latitude and longitude.
+to update the VOR and DME systems with an accurate position fix.
+to update the EMS with the new lateral flight profile for the flight plan.
+The FMS is updated. (Level 2)
+automatically by update data from the ACARS.
+@@by an aircraft engineer updating the system either by a magnetic tape or floppy disc.
+by the aircrew by reference to the Tech Log.
+Pitch Control of a fly by wire system is achieved by. (Level 2)
+stabilizer only.
+elevators only.
+@@stabilizer and elevator.
+In a fly by wire system, if the pilot control input is derived from a side stick controller:. (Level 2)
+@@there is no control surface feedback to the side stick.
+control surface feedback is fed to the side stick.
+there will be only control surface feedback to the side stick after a computer failure.
+A basic IRS platform has. (Level 2)
+3 accelerometers and 2 laser gyros.
+2 Accelerometers and 3 laser gyros.
+@@3 accelerometers and 3 laser gyros.
+What must be entered into the IRS before the aircraft can be moved?. (Level 2)
+Flight plan.
+@@Present position.
+Cruise height.
+The FMS Operational Database is. (Level 2)
+updated once a month.
+@@is fed with information on aircraft weight, cruise altitude and cost index before take off.
+needs no update information.
+Convert the hexadecimal number D into decimal. (Level 1)
+@@13
+15
+14
+Control surface feedback is fed back to. (Level 2)
+@@the Flight Control Computer only.
+the side stick controller only.
+the Flight Control Computer and side stick controller.
+The accelerometer output in an INS/IRS is. (Level 2)
+integrated once to give distance.
+integrated twice to give velocity.
+@@integrated twice to give distance.
+An INS/IRS Battery Unit provides. (Level 2)
+standby power only whilst in flight.
+@@standby power when airborne and on the ground.
+standby power only on the ground.
+If a fly by wire actuator loses hydraulic power the control surface will. (Level 2)
+automatically move back to the neutral position.
+remain rigid in the failure position.
+@@remain in the failure position but may move due to aerodynamic pressure.
+IRS alignment. (Level 2)
+@@takes up to 10 minutes and the present position can be entered at any time during alignment.
+takes up to 10 minutes and present position must be entered before alignment.
+takes up to 10 minutes and the previous flight shut down present position is used for the alignment.
+A fault light appears on the IRS Mode Selector Unit during the alignment sequence. The correct action is. (Level 2)
+immediately switch off and select the standby system.
+@@select HDG/STS on the Inertial System Display Unit (ISDU), observe the action code in the right alpha/numeric display.
+refer to the warning display on the EICAS/ECAM system.
+A FMS has a total of how many Databases. (Level 2)
+@@2
+4
+1
+Fly by wire High Speed protection is. (Level 2)
+@@to prevent tuck under.
+to increase the pitch angle as speed increases.
+to prevent high speed stall.
+An IRS Laser gyro provides. (Level 2)
+@@detection of the rate of movement about an aircraft axis.
+detection of the earths gravitational force to establish true north.
+detection of the earths rotation to establish true north.
+The left and right cockpit displays. (Level 2)
+are supplied from separate Symbol Generators at all times.
+are supplied from the same Symbol Generator.
+@@will only be supplied from the same symbol generator when all other symbol generators have failed.
+Convert decimal 15 into binary. (Level 1)
+@@1111
+1101
+1110
+A single failure of a fly by wire control surface computer will. (Level 2)
+cause the system to revert to an alternate law of operation.
+@@not have any operational effect on the system.
+cause the system to revert to a direct law of operation.
+What are the outputs from digital clocks used for?. (Level 2)
+@@Flight data acquisition unit, Flight management computer and Voice recorder.
+VOR, ILS and DME.
+Weather radar, TCAS and ACARS.
+A full operation system BITE check will carry out a internal system test that ensures the system meets design requirements and is operational. (Level 2)
+but will not move the controls.
+as well as checking full system and will move the controls to their stops.
+@@as well as checking full system but will not move the controls to their stops.
+All Monitors for EIS (Level 1)
+are same type in all aircrafts
+@@are same type in an aircraft
+are difference type in an aircraft
+All modern aircraft use (Level 1)
+@@Electronic Instrument Display Systems
+Analoge Indicator
+Analoge technology
+Convert 448 to hex. (Level 1)
+22 Base16.
+36 Base16.
+@@24 Base16.
+Convert decimal 15 into hexadecimal. (Level 1)
+G.
+E.
+@@F.
+Convert 1D to binary. (Level 1)
+@@11101
+29
+101001
+Convert 2C hex to octal. (Level 1)
+35
+44
+@@54
+A hexadecimal is a number to base. (Level 1)
+2
+@@16
+8
+1012 converted to decimal is. (Level 1)
+52
+210
+@@510
+The binary coded decimal number 10011000 expressed as a decimal number is. (Level 1)
+1528
+@@9810
+1522
+The decimal number 7 expressed as a binary number is. (Level 1)
+101 Base 2.
+@@111 Base 2.
+7 Base 2.
+Convert 011101 binary to octal. (Level 1)
+25
+@@35
+33
+Binary Number: 110010 is. (Level 1)
+80
+@@50
+34
+Binary addition of 1101 + 101101 is. (Level 1)
+@@58
+70
+61
+The binary number 11010111 is expressed as a decimal is. (Level 1)
+107
+@@215
+53
+The octal number 1001 expressed as a decimal is. (Level 1)
+713
+613
+@@513
+Engine parameters are displayed on. (Level 1)
+@@ECAM.
+EHSI.
+FMSCDU.
+If a signal has quantity in volts and physical position it is. (Level 1)
+digital.
+synchronous.
+@@analogue.
+Within a computer controlled flight system, position feedback is converted from. (Level 1)
+position feedback to rate feedback.
+@@analogue to digital.
+digital to analogue.
+What is serial to parallel and vice-versa called?. (Level 1)
+Switching.
+@@Multiplex/Demultiplex.
+Encoder/Decoder.
+A thyristor is a device which has. (Level 1)
+a positive temperature coefficient.
+@@a negative temperature coefficient.
+a temperature coefficient of zero.
+Physical variables in quantitative forms, such as voltage or angular rotation of a shaft are. (Level 1)
+digital.
+@@analogue.
+binary.
+A D to A converter is required to produce an output range of 0 to 10V. This can be achieved by. (Level 1)
+a non inverting op amp connected in series with output.
+@@an inverting op amp connected in series with output.
+a differentiator with a 100 Kilohm feedback resistor.
+A D to A converter would use a precision amplifier to. (Level 1)
+compensate for the variation of the feedback resistor with temperature.
+@@ensure that the output voltages remain accurate.
+ensure that the input voltage remains accurate.
+A given transducer provides a voltage which corresponds to true heading. This voltage can beconverted to 'bits' by using a. (Level 1)
+@@analogue to digital converter.
+digital to analogue converter.
+commutator.
+An A to D converter uses successive approximation to. (Level 1)
+increase resolution.
+increase accuracy.
+@@increase speed.
+An R-2R D to A converter uses. (Level 1)
+@@two values of resistors whose precision is not important.
+two values of precision resistors.
+resistors whose values are logarithmic.
+What is the fixed feature of an ADI?. (Level 1)
+The glideslope pointer.
+@@The aircraft symbol.
+The lateral deviation bar.
+In arinc 629, LRUs are programmed to transmit. (Level 2)
+one at a time.
+@@one transmits and one recieves.
+all at the same time.
+In aircraft use, fibre optic cables should comply with. (Level 2)
+ARINC 629 standard.
+ARIND 429 standard.
+@@ARIND 636 standard.
+ARINC 629 databus is. (Level 2)
+one cable, bi-directional.
+two cables, uni-directional.
+@@two cables, bi directional.
+An ARINC 573 data bus is used. (Level 2)
+@@to input into a Digital Flight Data Recorder.
+to supply digital inputs from a Symbol Generator to the EADI and EHSI.
+to input into a FDR Digital Acquisition Unit.
+An ARINC 429 bus uses. (Level 2)
+@@a twisted shielded pair of wires.
+two bi-directional twin sheathed and earthed wires.
+a single twin wire cable for each transmitter.
+The ARINC 429 data bus word systems use. (Level 2)
+@@binary coded decimal.
+decimal numbering.
+hexadecimal numbering.
+ARINC 573 is related to what system?. (Level 2)
+Weather Radar.
+@@FDR.
+INS.
+ARINC 629 current mode couplers are. (Level 2)
+capacitive.
+resistive.
+@@inductive.
+ARINC 629 databus is. (Level 2)
+@@one bus, bi-directional data flow.
+two buses, unidirectional.
+two buses, bi-directional data flow.
+Normal transmission order of ARINC 629 LRUs in periodic mode is in order of. (Level 2)
+shortest to largest TI.
+shortest to largest TG.
+@@power up.
+On an EADI, the Flight Director command bars show. (Level 2)
+the path with respect to the horizon.
+@@the required path with respect to the actual path.
+the actual path with respect to the required path.
+In an ARINC 429 wordstring, bits 1 to 8 represent the. (Level 2)
+destination LRU address.
+@@monitored parameter.
+message.
+ARINC 629 terminal transmit interval is. (Level 2)
+@@common to each terminal.
+unique to each terminal.
+when all terminals are quiet.
+MIL-STD-1533 is a data bus for. (Level 2)
+Inertial Reference System.
+Flight Data Recorders.
+@@Digital Information Transfer System.
+ARINC 629 periodic mode is used for. (Level 2)
+transferring data only on events important to aircraft operation.
+database loads.
+@@normal operation.
+How is data coupled to an ARINC 629 data bus?. (Level 2)
+By a resistive pickup.
+@@By an inductive pickup.
+By a capacitive pickup.
+How does MIL-STD-1533 put data onto the databus?. (Level 2)
+@@Through the bus controller.
+R1 (remote terminal).
+SSIFU (sub-system interface unit).
+The parity bit in digital information is used. (Level 2)
+@@to check the validity of data information.
+for BITE programs.
+to check the status of the system.
+ARINC 429 SDI word format is at bits. (Level 2)
+32
+1-8.
+@@9-10.
+What is the parity bit for on an ARINC 429 bus?. (Level 2)
+To act as a terminal gap in an emergency.
+To delay the signal.
+@@To check for corruption during transmission of a word.
+An ARINC 429 word label format is. (Level 1)
+hexadecimal.
+@@octal.
+binary.
+What instrument includes a display of a rising runway?. (Level 2)
+ECAM.
+EHSI.
+@@EADI.
+How many LRUs can be connected to an ARINC 429 data bus?. (Level 2)
+120
+60
+@@20
+ARINC 629 terminal transmit interval is. (Level 1)
+@@common to each terminal.
+is when all transmissions are quiet.
+unique to each terminal.
+An ARINC 429 bus uses. (Level 2)
+@@a twisted shielded pair of wires.
+a single twin cable for each transmitter.
+two bi-directional twin, sheathed and earthed wires.
+ARINC 429 data bus systems uses. (Level 2)
+hexadecimal numbering.
+@@binary coded decimal.
+decimal numbering.
+An ARINC 429 Binary Coded Decimal word occupies word bits. (Level 1)
+1-8.
+@@11-29.
+11-28.
+An ARINC 429 system uses a. (Level 2)
+20 bit word over a bi-directional bus.
+@@32 bit word over a twisted pair of wires.
+16 bit word over a twisted pair of wires.
+An ARINC 629 characteristic is. (Level 2)
+all LRUs can transmit and receive at the same time.
+@@data can transmit in both directions down the data bus.
+all LRUs can transmit at the same time.
+What limits the number of ARINC 429 receivers on a bus?. (Level 2)
+The speed and size.
+The weight.
+@@The parallel input impedance.
+Data is transferred on the MIL-STD-1553B by. (Level 1)
+non return to zero.
+@@Manchester bi-phase.
+bi-polar return to zero.
+How are engine indications sent to the FDR?. (Level 2)
+Source isolated.
+Via ARINC 629.
+@@Via ARINC 573.
+What functions are available on the EHSI?. (Level 1)
+Full arc and Wx only.
+@@Full arc, Wx and Map Mode.
+Full Arc only.
+What system uses base 8?. (Level 1)
+@@ARINC 429, in dataword labels only.
+ARINC 573.
+ARINC 629.
+On an ARINC 629 data bus, the maximum amount of current- mode couplers per data bus is. (Level 2)
+46
+@@120
+64
+To connect an LRU to the data bus. (Level 2)
+a terminal controller and interface module only is required.
+current mode coupler, terminal controller and a production break is required.
+@@a current mode coupler, serial interface module and terminal controller is required.
+A current-mode coupler contains an E-Core assembly. The purpose of the E-Core is to provide effective screening of the signal through the. (Level 2)
+current-mode coupler.
+@@couple the signal to the data bus.
+enable easy access for monitoring of the signal.
+The ARINC 429 low rate of transmission is. (Level 2)
+100 kbits/second with high of 12-14 Mbits/second.
+@@12-14 Kbits/second with high of 100 kBits/second.
+12-14 Mbits/second with high of 100 Mbits/secon.
+A NOR gate with both inputs inverted becomes a. (Level 2)
+NAND gate.
+@@AND gate.
+OR gate.
+Adding invertors to the two inputs of an AND gate makes a. (Level 2)
+OR gate.
+@@NOR gate.
+NAND gate.
+Which logic gate can be represented as a parallel circuit?. (Level 2)
+@@OR gate.
+Exclusive OR gate.
+NAND gate.
+Making an inverter from a NAND or NOR gate is achieved by. (Level 2)
+@@connecting the inputs.
+inverting the input.
+connecting two in series.
+An AND gate output is 1 when inputs are. (Level 2)
+@@both 1.
+both 0.
+1 and 0.
+A typical Electronic System has the following components (Level 1)
+@@Display Computers, Display Units and Control Panels
+Display Computers, Display Units and Keyboards
+Display Computers, Display Units and Mouse
+What generation of display unit are installed in the early 80’s (Level 1)
+LCD display units
+@@Simple cathod ray  tubes
+Display units
+Which generation of display unit are installed since 90’s (Level 1)
+@@LCD display units
+Simple cathod ray  tubes
+Analogue Display Units
+Which Display Unit indicate the data of naviagtion system? (Level 1)
+Primary Flight Display (PFD)
+@@Navigation Display (ND)
+System Display (SD)
+The lower center display unit is called (Level 1)
+@@System display
+Engine Indication display
+Warning display
+The two groups indicators in the cockpit are (Level 1)
+Flight surveillance and Engine surveillance
+Aircraft surveillance and Engine surveillance
+@@Flight surveillance and Aircraft surveillance
+The inputs of Display computers are: (Level 1)
+Navigation data, Auto Flight System data and Display Unit
+Engine data and Auto Flight System data and Display Unit
+@@Navigation data, Auto Flight System data, Engine data and Data from various aircraft systems.
+Each pilot has two Display Units. They are (Level 1)
+Primary Flight Display (PFD) and System Display (SD)
+@@Primary Flight Display (PFD) and Navigation Display (ND)
+Navigation Display (ND) and System Display (SD)
+How many display computers on aircraft? (Level 1)
+Two display computers
+Three display computers
+@@There are at least two display computers. Large aircraft have a third display computer for redundancy
+Which informations are displayed on the Electronic Flight Instruments? (Level 1)
+The navigation data
+@@The navigation data and the information about the activities of the auto flight system
+The information about the activities of the auto flight system
+The upper center display shows (Level 1)
+@@Alerts from various aircraft systems if something is out of limit
+Aircraft System data
+The information about the activities of the auto flight system
+Which components are form a display unit (Level 1)
+Cathod ray tube and Symbol Generator Unit (SGU)
+@@Cathod ray tube and symbol generator
+Cathod ray tube and Display Management Computer (DMC)
+Which indicator is belongs to Flight surveillance group? (Level 1)
+@@Heading indicator
+Position Indication
+EGT indicator
+Which indicator is belongs to Aircraft surveillance group? (Level 1)
+@@Position indication
+Altimeter
+Fuel indicator
+The Base of Binary Number System is (Level 1)
+@@2
+6
+8
+What is used for the power of 10? (Level 1)
+Binary.
+@@Decimal.
+Octal
+If a data message is made up of 1s and 0s, it is. (Level 1)
+analogue
+binary
+@@digital
+A hexadecimal is a number to base (Level 1)
+2
+8
+@@16
+A computer message 3B4 is. (Level 1)
+Binary
+@@hexadecimal
+Octal
+A number represented as a physical quantity, e.g. voltage or speed of rotation is (Level 1)
+digital
+@@analogue
+Discrete
+If a signal has quantity in volts and physical position it is (Level 1)
+digital
+synchronous
+@@analogue
+An A/D (Analogue/Digital) converter converts (Level 1)
+@@A continuous voltage signal, or analog signal into a multi-bit digital word
+A continuous voltage signal into a multi-bit digital word
+Discrete signal into a multi-bit digital word
+The sawtooth principle uses (Level 1)
+a sawtooth created by the converter and compates it with the output voltage
+@@a sawtooth created by the converter and compates it with the input voltage
+a sawtooth created by the converter and compates it with the input current
+A ramp generation A/D converter compares (Level 1)
+the unknown input voltage to a D/A with output voltage
+the certain input voltage to a D/A connected as a ramp generator
+@@the unknown input voltage to a D/A connected as a ramp generator
+Why does an ARINC databus system send data to LRUs in series? (Level 1)
+@@Saves weight
+More information can be sent
+Takes less time
+An ARINC 429 bus uses (Level 1)
+a single twin cable for each transmitter
+@@a twisted shielded pair of wires
+two bi-directional twin, sheathed and earthed wires
+In the ARINC 429 digital information transfer system, data may travel in (Level 1)
+both directions on the same bus simultaneously
+@@one direction only
+both directions on the same bus sequentially by time multiplexing
+ARINC 629 is used for (Level 1)
+emergency only
+a backup to ARINC 429
+@@supports a multi-transmitter and bidirectional approach to digital data communications
+ARINC 629 is (Level 1)
+@@half duplex
+full duplex
+simplex
+A simplex system has (Level 1)
+one transmitter, one receiver
+a bus controller and separate controller
+@@one transmitter, many receivers
+An ARINC 429 system uses a. (Level 1)
+20 bit word over a bi-directional bus
+@@32 bit word over a twisted pair of wires
+16 bit word over a twisted pair of wires
+RZ bi-polar modulation consists of bits which are one of                        states? (Level 1)
+Two
+@@Three
+Four
+Where is the parity bit installed in a data word? (Level 1)
+Front
+End LSB
+@@End MSB
+What system uses base 8? (Level 1)
+@@ARINC 429, in dataword labels only
+ARINC 573
+ARINC 629
+ARINC 429 SDI word format is at bits (Level 1)
+32
+30-31
+@@9-10
+In an ARINC 429 digital word bit number 32 is used for (Level 1)
+terminating the data field
+identifying word type
+@@checking parity
+In an ARINC 429 Word label-representing heading is 320, this is represented in bits 1- 8 as (Level 1)
+01011001
+@@00001011
+01101000
+How is the word label 206 written in ARINC 429? (Level 1)
+Binary 11000110
+@@Octal 01100001
+Decimal 206
+An ARINC 429 Binary Coded Decimal word occupies word bits (Level 1)
+1-8
+11-28
+@@11-29
+In ARINC 429 data field is bits 11 to 28. If the bits 11 to 18 had pad bits, the L.S.B. Of the data would be (Level 1)
+Bit 11
+Bit 18
+@@Bit 19
+An ARINC 629 stub cable (Level 1)
+connects single directional data between the LRU and current mode coupler
+@@connects bi-directional data between the LRU and current mode coupler
+connects bi-directional data between two LRUs
+The general arrangement of ARINC 629 includes (Level 1)
+@@databus cable, current mode coupler, stub cable
+current mode coupler, databus cable only
+current mode coupler, stub cable only
+To connect an LRU to the data bus (Level 1)
+a terminal controller and interface module only is required
+current mode coupler, terminal controller and a production break is required
+@@a current mode coupler, serial interface module and terminal controller is required
+ARINC 629 current mode couplers are (Level 1)
+capacitive
+@@inductive
+resistive
+When the voltage that represents a logic 1 state is less than the voltage that represents a logic 0 state, the logic being used is (Level 1)
+positive
+@@negative
+either positive or negative
+In Positive Logic representation (Level 1)
+@@state 1 is more positive than state 0
+state 0 is more positive than state 1
+both states have same positive voltages but stage 1 has more current
+The output of a NOT gate is logic 1. The input is (Level 1)
+@@logic 0
+logic 1
+both logic 0 and 1
+For logical combination there are only three basic functions (Level 1)
+INVERTER function, AND function and SUB function
+INVERTER function, SUB function and OR function
+@@INVERTER function, AND function and OR function
+With INVERTER function. What is correct statement? (Level 1)
+If the input signal is a logical 1. The output signal is also a logical 1
+If the input signal is a logical 0. The output signal is also a logical 0
+@@If the input signal is a logical 1. The output signal is a logical 0 and vice versa
+The Inverter (NOT-Function) (Level 1)
+inverts the input signal
+is called a boolean complement
+@@inverts the input signal. It is also called a boolean complement
+For logic AND gate, the output has a logic 0 if (Level 1)
+All inputs have a logic 0
+@@One or more inputs have a logic 0
+All inputs have a logic 1
+For logic AND gate, the output has a logic 1 if (Level 1)
+@@All inputs have a logic 1
+One or more inputs have a logic 1
+All inputs have a logic 0
+An AND gate with inverted inputs and an inverted output is equivalent to (Level 1)
+@@an OR gate
+a NOR gate
+a NAND gate
+A NAND gate has inputs A and B and output C. If the output (c) was zero, what are the inputs? (Level 1)
+A=0, B=0
+@@A=1 , B=1
+A=1 ,B=0
+Adding invertors to the two inputs of an AND gate makes a (Level 1)
+OR gate
+@@NOR gate
+NAND gate
+What sort of gate requires two positive voltages to operate? (Level 1)
+@@AND
+OR
+NAND
+Which logic gate can be represented as a parallel circuit? (Level 1)
+@@OR gate
+Exclusive OR gate
+AND gate
+For logic NAND gate (Not-AND-Gate), the output have logic 1 if (Level 1)
+All inputs have a logic 1
+One input has a logic 1
+@@One input has a logic 0
+For logic NAND gate (Not-AND-Gate), the output have logic 0 if (Level 1)
+All inputs have a logic 0
+@@All inputs have a logic 1
+One input has a logic 1
+What sort of gate requires two negative input voltages to operate? (Level 1)
+@@NAND
+AND
+NOR
+What is a Computer? (Level 1)
+@@is a machine that processes data by means of digital technologies
+is a machine that processes data by means of analogue technologies
+is a machine that receive data by means of digital technologies
+What does Hardware mean? (Level 1)
+all devices that are required to process binary data in analogue systems
+all devices that are required to collect binary data in analogue systems
+@@all devices and components that are required to process binary data in digital systems
+What is the software? (Level 1)
+Software is an order of instructions that tells how to process data
+@@Software is a common word which is used to describe all kinds of programms
+Software is a programm
+Which following form a computer? (Level 1)
+Hardware and Processor
+Program and Software
+@@Hardware and Software
+A computer consist of at least the C.P.U and (Level 1)
+Memory and input & output port
+Memory, ALU, input & output port
+@@Memory,  input & output interface and bus system
+Which components are In the “Computation“ section of the FCC? (Level 1)
+Processor and Analogue Digital Converter
+@@Processor and Memory
+Processor and Bus-System
+How many bytes can be carried in a 32 bit word? (Level 1)
+8 bytes
+32 bytes
+@@4 bytes
+The advantage of DRAM over SRAM is (Level 1)
+Are cheaper to manufacture
+@@Has a larger storage capacity per chip area
+They operate slower
+DRAM (Level 1)
+@@requires a refreshing charge
+memory is stored when power supply is removed
+it does not require a refreshing charge
+Which  type of memory that the information stored is lost as soon as the power supply is switched off? (Level 1)
+ROM
+PROM
+@@RAM
+Fibre optic cables (Level 1)
+@@are immune to EMI (Electromagnetic Interference)
+attenuate EMI
+are susceptible to EMI
+A disadvantage of a fibre optic cable is (Level 1)
+Couplings susceptible to ingress of fluid
+Shallow bend radius allowed
+@@Terminations require special care
+What is the main disadvantage of a fibre optic data bus? (Level 1)
+Less strong and durable when compared to twisted pair and coaxial cable
+@@Multiple connections are economically impractical
+Bend radius and moisture ingress at connections
+What kind of light is used in a fibre optic systems? (Level 1)
+@@Infrared
+Visible
+Ultraviolet
+Light travels along a fibre optic by (Level 1)
+refraction
+@@reflection
+dispersion
+CRT’s are used in (Level 1)
+CDU’s and EIS or IDS
+@@CDU’s, EIS or IDS and Weather-Radar Displays
+EIS or IDS and Weather-Radar Displays
+Advantages of CRT is (Level 1)
+@@Coloured multifunctional displays
+Light weight
+Low power consumption
+Disadvantages of CRT are (Level 1)
+limited lifespan and temperature sensitive
+thermal and temperature sensitive
+@@limited lifespan and high power consumption
+In CRT. The electron beams are pulled towards the screen (Anode) by (Level 1)
+@@a high voltage
+a low voltage
+all voltage
+A Colour-CRT contains (Level 1)
+@@three terminals
+three cathodes
+three anodes and one cathode
+A CRT display (Level 1)
+is monochrome
+@@has three colours only
+has infinite colours
+When mixing Red and Green colours get (Level 1)
+Cyan colour
+@@Yellow colour
+Magenta colour
+Three different colours which A picture is composed are (Level 1)
+green, blue and yellow
+green, yellow and red
+@@red, green and blue
+Advantages of LCD are (Level 1)
+@@low energy consumption and good illuminated
+good illuminated and  temperature sensitive
+low energy consumption and temperature sensitive
+Disadvantages of LCD is (Level 1)
+Flat
+High energy consumption
+@@Temperature sensitive
+For CRT display  In case one of the colours fails (Level 1)
+All pictures still available
+@@a white picture is no longer displayable
+a red picture is no longer displayable
+Which mode deflects the electron beam in lines across the screen? (Level 1)
+stroke scan mode
+stroke scan mode and raster scan mode
+@@raster scan mode
+Which mode deflects the electron beam along the shape of the symbols to be displayed? (Level 1)
+@@stroke scan mode
+raster scan mode
+stroke scan mode and raster scan mode
+Which mode is used for background indications like the blue/brown picture from the artificial horizon? (Level 1)
+stroke scan mode
+@@raster scan mode
+stroke scan mode and raster scan mode
+An LCD display has the advantage over a CRT display of a (Level 1)
+@@low energy consumption
+temperature sensitive
+the fluid might freeze
+An LCD display has the advantage over a CRT display of a (Level 1)
+temperature sensitive
+the fluid might freeze
+@@long lifespan
+At low ambient temperatures, an LCD screen (Level 1)
+@@is slower to update as data changes
+viewing angle becomes larger
+loses contrast
+To drive LCDs (Level 1)
+Direct current must be used
+Alternate current must not be used
+@@Direct current must not be used
+HUD are succsessively installed in many aircraft to (Level 1)
+improve takeoff abilities under bad weather conditions
+@@improve landing abilities under bad weather conditions
+use in cruise only
+OLED−Technology has the advantage over LCD−Technology of (Level 1)
+The colours are brighter
+The screen can also be read from a side view
+@@The colours are brighter, the screen can also be read from a side view and is thinner and even flexible
+What is electrostatic discharge? (Level 1)
+@@Electrostatic discharge is always present in our environment, consequently also at our place of work
+Electrostatic discharge is not present in our environment
+Electrostatic discharge occurs whena. the ground lead on a wrist strap touches the skin
+ESD is acronym for (Level 1)
+Electrical System Data
+@@Electrostatic Sensitive Devices
+Electronic System Display
+A BITE-Test (Built In Test Equipment) is (Level 1)
+@@is a test that runs when the equipment is switched on and checks the hardware (Power-Up Test)
+is a test that check the system operation
+is a test that  checks the software
+Die Check Sum (Level 1)
+is the sum of digits retrieved via the software
+is the sum of digits retrieved via the software but which can not detect faults in the memory
+@@is the sum of digits retrieved via the software and which can detect faults in the memory
+Electrostatic discharge can be (Level 1)
+Non destructive
+Little destructive
+@@Very destructive
+What precautions are required when removing ESDs equipment? (Level 1)
+No special precautions are required
+Keep one hand on the airframe
+@@Assuring that suitable grounding techniques are applied to set both personnel and the device with the same potential
+Personnel performing work on ESD components and devices must have (Level 1)
+ESD tools
+@@A good knowledge of the procedural guide−lines pertaining to ESD
+Protect
+How to identifying components sensitive to ESD? (Level 1)
+@@By a label on component
+By refer to associated document
+All aircraft components are ESD components
+The static load is stored in those material which are (Level 1)
+@@Non-conductive and tend to look for the nearest way to discharge
+Conductive and tend to look for the nearest way to discharge
+No special precautions are required
+The damage result of ESD is (Level 1)
+Always reparable
+@@Always irreparable
+Not effect to system
+The Electrostatic discharge can be (Level 1)
+extremely fast
+full of energy
+@@be extremely fast and full of energy
+Which voltage can be absolutely fatal for components? (Level 1)
+@@Voltages from well below 100 volts
+Voltages from above 1000 volts
+Any voltages
+Static electricity is created as soon as (Level 1)
+two materials are rubbed together
+two materials are rubbed together, are separated
+@@two materials are rubbed together, are separated or are in moving in some kind of fluid or gaseous form
+To transport and dispatch ESD components (Level 1)
+@@using conductive material
+using non-conductive material
+using semiconductive material
+Personnel performing work on ESD components and devices must (Level 1)
+assuring that suitable grounding techniques are applied to  personnel
+assuring that suitable grounding techniques are applied to device
+@@assuring that suitable grounding techniques are applied to set both personnel and the device with the same potential
+To prevent any charging of personnel, tools and workbench (Level 1)
+No special precautions are required
+@@Application of static neutralizers
+Keep one hand on the workbench
+What is the software? (Level 1)
+the program of the arithmetic process in the computer
+the program of the logic process in the computer
+@@the program of the arithmetic and logic process in the computer
+Each digital LRU (Line Replaceable Unit) consists of the (Level 1)
+@@Hardware and Software
+Hardware and Programm
+Hardware and Memory
+Software Level A failure is defined as (Level 1)
+No Effect
+@@Catastrophic
+Major
+Software Level B failure is defined as (Level 1)
+Minor
+Major
+@@Hazardous
+Software Level C failure is defined as (Level 1)
+@@Major
+Minor
+Catastrophic
+Software Level D failure is defined as (Level 1)
+Hazardous
+@@Minor
+No Effect
+Software Level E failure is defined as (Level 1)
+Catastrophic
+Major
+@@No Effect
+Software can be done by maintenance personnel is classified in (Level 1)
+level A
+@@level E
+level B
+In any case software must be guaranteed that (Level 1)
+other systems will be affected
+@@no other systems will be affected
+Inprogress loading must be acknowledged
+Which software also known as Application Software? (Level 1)
+The Core Software
+Data Base Software
+@@The Operational Software
+Which software can be done by maintenance personnel, but only if respective documentation is available? (Level 1)
+Software which is classified in level A
+Software which is classified in level B
+@@Software which is classified in level E
+Which software only authorized personal may modify? (Level 1)
+@@Software which is classified in level A
+Software which is classified in level B
+Software which is classified in level C
+An aircraft system allocated a software level of C that, should it fail due to a software error, may cause (Level 1)
+injuries to a large proportion of occupants
+@@injuries to some occupants
+no injuries to occupants
+An aircraft system allocated a Criticality Category of  Hazardous has a Software Level of (Level 1)
+Level A
+Level C
+@@Level B
+An aircraft system that, should it fail due to a software error, would cause a slight increase in crew workload, has a software level of (Level 1)
+@@Level D
+Level B
+Level C
+An aircraft system with a software level of D, should it fail due to a software error, may cause the aircraft safety margin to be (Level 1)
+slightly increased
+@@slightly decreased
+significantly decreased
+If due to a software error in an aircraft system that would cause injuries to some of the occupants, the system has a software criticality category of (Level 1)
+hazardous effect
+minor effect
+@@major effect
+An aircraft system that, should it fail due to a software error, would cause no injuries to occupants, has a criticality category of (Level 1)
+@@minor effect
+major effect
+hazardous effect
+What is the effect of a level A software failure? (Level 1)
+Significant reduction in safety margins
+@@Loss of aircraft and / or fatalities
+Large reduction in safety margins
+Who can sign for a software update? (Level 1)
+Design organization or the aircraft manufacturer
+Chief pilot
+@@Engineer
+HIRF is acronym for (Level 1)
+Heavily Ionised Radio Frequencies
+@@High Intensity Radiated Field
+High Intensity Radio Frequencies
+Which systems are operated by transmitting controlled EM radiation? (Level 1)
+Radio communication systems
+Navigation systems
+@@Radio communication and navigation systems
+The components installed in aircraft are subject to (Level 1)
+@@Build regulations
+Disassembly regulations
+Installed regulations
+EMC is acronym for (Level 1)
+Electrical Monitoring Center
+@@electromagnetic compability
+Electrical Management Computer
+EMI is acronym for (Level 1)
+Electrical Measurement Index
+Electromagnetic Indication
+@@Electromagnetic interference
+Which equipments influence the environment by electromagnetic radiation? (Level 1)
+@@All electric/electronic equipments
+All electric equipments
+All electronic equipments
+Aircraft Components test procedures and the limitations are fixed in (Level 1)
+RTCA Document DO−160C
+Eurocae document ED−14C
+@@RTCA Document DO−160C, or in Eurocae document ED−14C
+If the new aircraft component is critical to flight safety (Level 1)
+the examination is repeated
+@@the examination is repeated in reverse
+the examination is done after install
+How many terms are used for Electromagnetic Environment? (Level 1)
+2
+3
+@@4
+The use of mobile phones is not permitted at any time in flight due to (Level 1)
+they can interfere with an aircrafts electric systems
+@@they can interfere with an aircrafts electronic systems
+they can interfere with all aircrafts systems
+What does EMC (electromagnetic compability) mean? (Level 1)
+@@meaning units will not adversely affect one another
+meaning units will affect one another
+the maximum interference allowable for a particular transmission on
+For Aircraft Components. The specification of the appliance describes (Level 1)
+its Technical Standard Order (TSO)
+Its Joints Technical Standard Order (TSO)
+@@Its Technical Standard Order (TSO) for the American area, or Joint TSO for the European area
+What is EMI (Electromagnetic interference)? (Level 1)
+is the minimum interference allowable for a particular transmission on a bus or wire
+@@is the maximum interference allowable for a particular transmission on a bus or wire
+is the maximum interference allowable for a particular reception on a bus or wire
+To keep EMI (Electromagnetic interference) within limits it can be necessary to install (Level 1)
+@@EMI-filter on the receiver and transmitter side of the unit
+EMI-filter on the receiver side of the unit only
+EMI-filter on the transmitter side of the unit only
+HIRF (high intensity radiated field) is (Level 1)
+the zone of high radiation which is caused by environment
+the zone of high radiation which is caused by lightning
+@@the zone of high radiation which is caused by equipment such as weather radar
+To keep EMI (Electromagnetic interference) within limits (Level 1)
+Good grounding techniques must be provided for the shielding of antenna
+@@Good grounding techniques must be provided for the shielding of screened wires as the shielding may act as an antenna
+Good grounding techniques must be provided for the shielding of screened wires
+To ensures Aircraft Components they do not exceed their fixed tolerance values you perform (Level 1)
+@@Testing of components
+Remove compnent and send to shop
+Visual check
+Which terms are used for Electromagnetic Environment? (Level 1)
+EMC (electromagnetic compability), EMI  (electromagnetic interference) and Lightning / lightning protection
+HIRF (high intensity radiated field), EMI  (electromagnetic interference) and Lightning / lightning protection
+@@EMC (electromagnetic compability), EMI  (electromagnetic interference), HIRF (high intensity radiated field) and Lightning / lightning protection
+With Lightning / lightning protection. What statement is correct? (Level 1)
+High voltage electric discharges can produce low currents
+@@High voltage electric discharges can produce high currents
+Low voltage electric discharges can produce high currents
+To aviod intense bursts of EM radiation (Level 1)
+braids are used on wires and cables
+braids are used on wires
+@@braids are used on cables
+ECAM system was adopted for (Level 1)
+@@Airbus A320
+Both Boeing and Airbus aircraft
+Boeing 757 and 767 aircraft
+Modern aircraft with electronic displays would display information on airframe and engine on which system? (Level 1)
+Flight management system
+@@Electronic centralised aircraft monitoring system (ECAM)
+Flight management system
+In a typical 'Glass Cockpit' EICAS provides the following. (Level 1)
+engine parameters and engine warnings only
+engine warnings only
+@@engine parameters and system warnings only
+ACARS is an acronym for (Level 1)
+@@Aircraft Communicating Addressing and Reporting System
+ARINC Communicating Addressing and Reporting System
+Airborne Communicating Addressing and Reporting System
+The advantage of a fly by wire is (Level 1)
+the reduction in mechanical connections between the computer and control surfaces
+@@the reduction in mechanical connections between the cockpit and control surfaces
+the reduction in electrical  connections between the cockpit and control surfaces
+An FMS database memory is updated (Level 1)
+every 365 days
+@@every 28 days
+every 30 days
+An INS/IRS Battery Unit provides (Level 1)
+standby power only whilst in flight
+standby power only on the ground
+@@standby power when airborne and on the ground
+GPS navigation uses a constellation of satellites that is made up of (Level 1)
+@@21 active and 3 spare
+28 active and 7 spare
+3 active and 21 spare
+In a Global Positioning System (GPS), the number of satellites required to achieve a 3 dimensional fix is (Level 1)
+2
+3
+@@4
+The TCAS (Traffic Alert Collision Avoidance System) computer communicates via (Level 1)
+It's antennas
+The antennas with the TCAS computer of other aircraft
+@@The antennas with the ATC transponders of other aircraft
+Aircraft Communications Addressing and Reporting Systems is used to (Level 1)
+@@download aircraft status reports
+make telephone calls
+allow the pilot of an aircraft to talk to base
+The movement of fly-by-wire control surfaces are (Level 1)
+hydraulically controlled and electrically actuated
+both electrically controlled and electrically actuated
+@@electrically controlled and hydraulically actuated
+In a fly by wire system, if the pilot control input is derived from a side stick controller (Level 1)
+@@there is no control surface feedback to the side stick
+control surface feedback is fed to the side stick
+there will be only control surface feedback to the side stick after a computer failure
+Control surface feedback is fed back to (Level 1)
+the side stick controller only
+the Flight Control Computer and side stick controller
+@@the Flight Control Computer only
+Fly-by-wire roll control is achieved by (Level 1)
+ailerons
+spoilers
+@@spoilers and ailerons
+On a Fly By Wire system, what controls the stab trim? (Level 1)
+@@ELAC and SEC
+SEC (Spoilers Elevator Computer)
+ELAC (Elevator Aileron Computer)
+Pitch Control of a fly by wire system is achieved by (Level 1)
+stabilizer only
+@@stabilizer and elevator
+elevators only
+In a Flight Management System (FMS), data is input manually to the computing system through the (Level 1)
+Data Acquisition Unit
+Electronic Centralised Aircraft Monitoring control panel
+@@Multipurpose Control and Display Unit
+The IRU primarily provides output signals for (Level 1)
+attitude, ground speed, wind and inertial vertical speed
+@@attitude, heading, ground speed, wind and inertial vertical speed
+attitude, heading, wind and inertial vertical speed
+What information is required before completion of the alignment of an Inertial Navigation System? (Level 1)
+@@Aircraft present position
+Heading and attitude
+Aircraft present position and heading

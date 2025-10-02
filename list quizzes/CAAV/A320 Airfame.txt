@@ -1,0 +1,2480 @@
+Single Aisle Aircraft consists of: (Level 1)
+@@A318, A319, A320, A321 Family
+A319, A320, A321, A330 family
+A320, A330, A340, A350 AND A380 family
+Airbus Single Aisle family CEO fitted with following engines: (Level 1)
+International Aero Engines (IAE) V2500 and CFM International (CFM56) for A319, A320, and A321.
+@@A318 PW6000 series/CFM56, and A319, A320, A321 with CFM56/IAE V2500
+A320 Family fitted with CFM56 engines only.
+The NEO Single Aisle family fitted with following engines: (Level 1)
+Only Pratt & Whitney PW1100G engines
+Only with CFM LEAP-1A engines
+@@Either PW1100G or LEAP-1A engines.
+The longest-range Aircraft in the A320 family is: (Level 1)
+@@A319/A321 LR
+A320
+A321
+For all structural measurements in the X-axis the reference point located: (Level 1)
+@@2.54 m forward of the Aircraft.
+1m forward of the Aircraft. 
+25,4 cm forward of the Aircraft.
+In SA family the longer Vertical stabilizer fitted on: (Level 1)
+A319/A320/A321
+@@A318 Only the new Rib12N added
+A321 only
+What safety precautions maintenance crew will take when towing A318 aircraft into the hangar: (Level 1)
+No special precaution Required
+@@The Hangar Height must support A318 because The Vertical Stabilizer is Longer than rest of the Family.
+Nothing because A318/A319/A320/A321 has same vertical stabilizer 
+Integrated Standby Instrument System (ISIS) replaces the: (Level 1)
+Main instrumentation
+Only Altimeter.
+@@Standby Horizon, Standby Airspeed Indicator, and Standby Altimeter
+How many points do you Jack the Aircraft during Maintenance: (Level 1)
+Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only.
+@@Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only, a safety jack positioned at the rear of the Aircraft.
+Three Points Point A near Nose landing gear, Point B&C located outside of the Pylon under the wing only, but Tail safety support not required.
+The requirements for safe Towing Operations during Maintenance are: (Level 1)
+Either a Pilot or qualified maintenance man on the brakes.
+Any Technician.
+@@Either a Pilot or qualified maintenance man on the brakes. And wing/Tail walkers during all the Towing operation.
+The Documents to be referred for Placards and Markings is: (Level 1)
+@@Aircraft Maintenance Manual (AMM) chapter ATA 11
+Wiring Diagram Manual (WDM) ATA11
+Electrical Standard Practice Manual (ESPM) ATA11
+How to know the placard and markings are required.: (Level 1)
+@@They are Identified by a flag Note Required by Regulation
+Not Required.
+Refer other Aircraft.
+How many potable waters draining panels in A320: (Level 1)
+@@Two the second one at the center of the Aircraft
+Only one 
+Three draining panels.
+The Lavatory/Toilet Service Panel Located in A320 Family: (Level 1)
+At Rear Left-Hand Side
+At the Center of Aircraft
+@@At Rear Right-Hand Side
+Potable water service Panel located in A320 Family at: (Level 1)
+@@Rear Left-Hand Side
+Center of Aircraft
+Rear Right-Hand Side
+The Gravity Refueling Panel Located at: (Level 1)
+@@Top of the Left and Right sides of Wing Top
+Left Top side of the wing
+Right Top Side of the Wing
+Turning Radii depend on: (Level 1)
+Aircraft Location in the Ramp
+@@Effective Turn and Steering Angle
+Location in the Ramp and airfield wind speed.
+Parking and Mooring procedures are found in: (Level 1)
+@@AMM 10-11-00 chapters.
+IPC 10-11-00 chapters
+ESPM chapters
+During Parking and Mooring safety precaution to be observed are: (Level 1)
+Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on.
+@@Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on and move all access   Platforms at a safe distance.
+Only Parking Brakes are enough.
+During refueling, the green END light comes study in refuel panel indicates. (Level 1)
+@@Refueling operation completed
+Refueling operation not complete
+Some problem detected during refueling operation
+Storage Procedures can be found in: (Level 1)
+ASM 10-12-00 chapters
+IPC 10-12-00 chapters
+@@AMM 10-12-00 chapters
+During Storage, safety precaution to be observed are: (Level 1)
+Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on.
+@@Landing Gear Safe tied, Wheel Chokes in Position, all locking devices is on and move all access   Platforms at a safe distance.
+Only Parking Brakes are enough.
+During Mooring, safety precaution to be observed are: (Level 1)
+Airspeed Between 50-70 Kts only NLG.
+Airspeed More than 70Kts both NLG and MLG.
+@@Position Aircraft into the wind. Airspeed 50-70Kts only NLG more then 70Kts both NLG and MLG
+Earthing (Grounding) operation is for: (Level 1)
+@@Electrical Continuity between the Aircraft and The Earth.
+Electrical Continuity between the Aircraft and The Equipment’s.
+Electrical Continuity between the Aircraft and The Ground power unit.
+Bonding operation is for: (Level 1)
+Electrical Continuity between the Aircraft and the Earth.
+@@Electrical Continuity between the Aircraft and the ground equipment’s connected with aircraft.
+Electrical Continuity between the Aircraft and the chocks.
+The document referred for bonding/earthing is: (Level 1)
+@@AMM 12-34-24-869-002(Servicing) for Maintenance operations.
+AMM ATA 33 chapters.
+AMM ATA 23 Chapters.
+The safety precaution observed during bad weather is: (Level 1)
+@@Do not wear headset or touch cables/lines connected to the aircraft when there is a risk of lightning.
+We can use the Head set or touch any cables nothing will happen.
+No precautions are required if you wear safety shoes.
+Which one is connected first, bonding or earthing? (Level 1)
+@@Always connect earth(ground) cable to parking earth(ground)first, then to Aircraft.
+First bonding with Aircraft then Earthing(grounding)
+We can connect any way we want.
+What is Functional Item Number (FIN) number: (Level 1)
+The Functional Item Number (FIN) is unique for all equipment.
+@@The Functional Item Number (FIN) is unique for a given equipment it corresponds to one function and one location only.
+The Functional Item Number (FIN) is used by multiple functions 
+How to identify Mechanical item Fin Number? (Level 1)
+@@A320 Mechanical Parts, Circuit Second Letter is always “M” signify mechanical item.
+A320 Mechanical Parts, Circuit First Letter is always “M” signify mechanical item
+A320 Mechanical Parts, Circuit First and Second Letter is always “M” signify mechanical item
+How to identify A320 (SA) and A330(LR) mechanical items FIN numbers? (Level 1)
+@@Long Range (LR) mechanical Parts always prefix of Number above 5000
+Long Range (LR) mechanical parts always prefix 330/340
+Long Range (LR) mechanical parts always prefix LR.
+The Document to be Referred to for Scheduled /Unscheduled maintenance, Special or Abnormal Flight conditions, Inspections or Checks on The Aircraft is: (Level 1)
+Trouble Shooting Manual (TSM)
+@@Aircraft Maintenance Manual (AMM)
+Service Bulletin (SB)/Airworthiness Directive (AD)
+A318, A319, A320, A321 are: (Level 1)
+@@Twin -Engine subsonic medium range aircraft.
+Twin-Engine Supersonic medium range aircraft.
+Twin-Engine short haul turbo prop aircraft
+What Safety precautions to be observed during HF test on Ground: (Level 1)
+No testing during Refueling.
+We can check at any time
+@@No testing during refueling and refer AMM for any additional safety requirements.
+The Packs supply conditioned air to the cabin for: (Level 1)
+Air conditioning only.
+Ventilation only,
+@@Air conditioning, Ventilation and Pressurization of cabin
+The two Air Conditioning System Controller (ACSC) calculates the: (Level 1)
+Mass flow demand.
+Controls the flow control valve.
+@@Mass Flow demand and sets the flow control valve in the necessary reference position.
+The each ACSC controls one pack for: (Level 1)
+The pack outlet temperature.
+@@The ACSC Modulates the BYPASS VALVE and the RAM-AIR INLET doors.
+The pack inlet temperature.
+The Three separate aircraft zones are supplied from the mixer unit are: (Level 1)
+Cockpit,Cargo and Aft cabin.
+Cockpit,Cargo and Fwd cabin.
+@@Cockpit, Fwd cabin and Aft cabin.
+The main function of cabin re-circulation fans is: (Level 1)
+To reduce bleed air demand.
+To reduce cabin noise level.
+@@To reduce bleed air demand and therefore save fuel.
+The pressurized areas are: (Level 1)
+The Cockpit, Cabin zones.
+The Avionics Bay and APU bay.
+@@The Cockpit, Cabin, Avionics Bay and Cargo compartments.
+The Out Flow Vale has three motors for: (Level 1)
+Two for automatic and the third one as a standby.
+Two for system one and one for system two.
+@@The third motor for manual operation in case both automatic systems fail.
+What is the purpose of the ECON FLOW pushbutton? (Level 1)
+To allow the cockpit to select 80%, 100% or 120% of the nominal airflow.
+@@To permit economic or normal pack flow according to the number of the passengers and ambient conditions.
+When ON is selected the normal flow provides 20% more than economic flow.
+The HOT AIR pushbutton switch of the cargo ventilation panel controls: (Level 1)
+Blower fan
+Aft cargo door
+@@Pressure Regulating Valve.
+To protect the fuselage against excessive cabin differential pressure: (Level 1)
+Two safety valves were installed under the floor area.
+@@Two safety valves are installed on the rear pressure bulkhead.
+Two safety valves installed rear cargo compartment.
+The Emergency Ram Air Inlet supplies outside fresh air for ventilation of the A/C when: (Level 1)
+Loss of both packs.
+Passenger cabin Air condition fault on ground.
+@@Loss of both the packs and smoke removal.
+During take-off and landing, the ram air inlet flap is closed to prevent: (Level 1)
+@@Ingestion of foreign objects. (FOD)
+Cabin pressure loss.
+Cabin noise.
+When Maintenance carries out CPC test through MCDU the precaution to be followed are: (Level 1)
+Aircraft may get pressurized.
+It is a normal routine task, no any special requirements.
+@@It is a dynamic test, out flow valve cycle very fast, follow the AMM procedure.
+High Pressure, High temperature air from engine bleed system is supplied to the pack Flow Control Unit (FCU) through: (Level 1)
+@@Ozone Converter, used for catalytic removal of ozone from hot bleed air supplied to the pack.
+To direct the bleed flow into the system.
+Heat Exchangers.
+The Flow Control Unit (FCU) controlled by: (Level 1)
+Air Conditioning System Controllers. (ACSC)
+ACSC  1 controls the FCU.
+@@ACSC 1 controls the FCU for pack 1 and ACSC 2 controls the FCU for pack 2.
+The default settings for pack HIGH FLOW are: (Level 1)
+By manual selection.
+During pack operation with the APU bleed air Supply.
+@@APU bleed air supply or during single pack operation.
+The bleed Air necessary for the pack operation calculated by: (Level 1)
+@@Pack Inlet Pressure Sensor.
+Pack Discharge Pressure Sensor.
+Differential pressure Sensor.
+If there is a malfunction of an FCU component (e.g. Flow sensor, Torque Motor or Pressure Sensor) in flight then: (Level 1)
+The pack regulation is lost.
+@@The ACSC energizes the second solenoid and pack operates in Back-Up mode.
+Fly at pressure altitude.
+The primary heat ex-changer is an: (Level 1)
+@@Air-to-air heat ex-changer type using cooling medium used from external Ram air.
+Oil-to-air heat ex-changer type using cooling medium used is Engine oil.
+Oil-to-air heat ex-changer type using cooling medium used is Hydraulic oil.
+The Main Heat Ex-changer function is to: (Level 1)
+@@Decreases the Temperature of high pressurized air that comes from the ACM compressor.
+Decreases the Temperature of high pressurized air that comes from the Primary Heat ex-changer.
+Decreases the Temperature of high pressurized air that comes from the Engine bleed.
+The REHEATER is used in the system for: (Level 1)
+Heat the cool air before distribution.
+@@To vaporize the last remaining water droplets before the air sent to the ACM turbine and to prevent damage to the turbine.
+To heat the RAM air.
+For maintenance the ACSCs are connected to CFDIU as: (Level 1)
+Both ACSC 1 and ACSC 2 connected directly.
+Only ACSC 1 is connected to CFDIU.
+@@All BITE data from ACSC 1 will be transmitted to ACSC 2 and ACSC 2 only connected to CFDIU.
+Extraction Fan of Lavatories and galleys ventilation system: (Level 1)
+Run when Aircraft in-flight.
+Run when different pressure between inboard and outboard<1psi.
+@@Run continuously as soon as the aircraft is electrically powered. 
+The Cargo Ventilation system, when the Isolation valve closed then:  (Level 1)
+@@The extraction fan stops.
+The extraction fan still runs for 5 minutes.
+The extraction fan runs continuously.
+In Normal operation the cockpit OVHD ventilation panel: (Level 1)
+@@The BLOWER and EXTRACT PB/SW are set to AUTO.
+The BLOWER set to OVRD and EXTRACT PB/SW set to AUTO.
+The BLOWER set to AUTO and EXTRACT PB/SW set to OVRD.
+The Cabin Pressure Controller (CPC) receives signals from LGCIU for: (Level 1)
+@@Pre-pressurization, pressurization, depressurization sequences and system transfer from CPC1 or CPC2
+Pressurization, depressurization sequences and system transfer.
+Pre-pressurization, pressurization, depressurization sequences.
+The EIU sends THRUST LEVER ANGLE(TLA) along with N2 signal to CPCs to: (Level 1)
+@@Initiate the pre-pressurization and the pressurization sequences.  
+Initiate the depressurization automatically.
+Initiate the depressurization manually.
+The LDG Elevation mode selector in auto position: (Level 1)
+The landing elevation comes CPC.
+@@The landing elevation comes from the FMGC.
+The landing elevation comes from the GPS.
+The Normal Cabin altitude maintained at cruise level FL390 is: (Level 1)
+@@8000 ft.
+9550 ft.
+11300 ft.
+The main function of safety valves is to: (Level 1)
+Prevent excessive positive pressure in the fuselage.
+Prevent excessive negative pressure in the fuselage.
+@@Prevent excessive positive and negative differential pressure in the fuselage.
+To close the pack ram Air Inlet flap, the pack controller needs information from: (Level 1)
+The ECB.
+The anti-ice system.
+@@LGCIU 2, BSCU and EIUs. 
+The basic function of Zone Temperature sensors are: (Level 1)
+@@Detect corresponding zone temperature for zone temperature control and indication on ECAM display.
+Detect corresponding zone temperature for zone temperature control.
+Zone temperature indication on ECAM display.
+If a Duct Overheat detected the signals sent to: (Level 1)
+The mixer unit flap closes.
+The PRV and the Trim Air Valves (TAV) close.
+@@The PRV and the corresponding TAV close.
+The Trim Air Pressure Regulating Valve (TAPRV): (Level 1)
+@@Pneumatically operated and electrically controlled by two solenoids.
+Pneumatically operated and electrically controlled by one solenoid.
+Hydraulically operated and electrically controlled by two solenoids.
+The Main function of Mixer unit is to: (Level 1)
+@@Mixes air from packs and re-circulated air from the cabin.
+Mixes air from packs and bleed air from pneumatic system.
+Mixes air from pneumatic system and re-circulated air from the cabin
+The Air Cycle Machine (ACM) mainly consists off: (Level 1)
+compressor and a fan
+turbine, a compressor.
+@@turbine, a compressor and a fan.
+During Ground Maintenance the team must make sure OVHD Ventilation panel (22VU) the Blower and Extractor fan P/BSW indication as: (Level 1)
+Off legend is ON.
+@@No Amber FAULT is ON.
+No OVRD is ON.
+What is the function of the mixing unit in the air distribution system? (Level 1)
+@@To mix conditioned air with recirculated air
+To cool the air before entering the cabin
+To increase air pressure in the ducts.
+What component controls the pressure through the outflow valve? (Level 1)
+Flight Management and Guidance System (FMGS)
+@@Cabin Pressure Controller (CPC)
+Air Data/Inertial Reference System (ADIRS)
+When does the system automatically switch from one CPC to other? (Level 1)
+@@After each flight, on landing
+When the aircraft reaches cruising altitude
+When the cabin temperature changes significantly
+What happens if one CPC fails during flight? (Level 1)
+@@The system switches to the standby CPC automatically
+The crew must manually switch to the backup system
+The outflow valve remains in its last position.
+What controls the outflow valve in automatic operation? (Level 1)
+The Flight Management and Guidance System (FMGS)
+@@The active Cabin Pressure Controller (CPC)
+The pilot manually
+When does the control switch from one CPC to another under normal conditions? (Level 1)
+@@After each flight, on landing
+Every 30 minutes during flight
+Only when a failure occurs
+The Automatic Flight System (AFS) gives pilots the functions that: (Level 1)
+Reduce their workload.
+Improve the safety of the flight.
+@@Reduce workload & improve safety & Regularity of the Flight.
+The AFS system designed around: (Level 1)
+2 FMGCs,2 FACs, and 2 FCUs
+1 FMGC, 1 FAC, 1 FCU and 1 MCDU
+@@2 FMGCs, 2 FACs, 2 MCDUs and 1 FCU.
+The FMGC made of two parts FM & FG functions are used for: (Level 1)
+FM part used for Aircraft Control
+FG part used for Flight plan definition.
+@@FM part used for Flight plan, revision and Monitoring; FG part used for  Aircraft Control functions.
+The basic Functions of FACs are: (Level 1)
+Rudder control
+Rudder control and Flight envelope protection.
+@@Rudder control & Flight Envelope protection & runway overrun protection (ROPS) if installed.
+The Airspeed information for Rudder Travel Limiting Function comes from: (Level 1)
+Engines
+@@ADIRUs
+FCU
+For maintenance purposes the AP can be engaged on ground with: (Level 1)
+Both Engines running.
+@@Both engines shut down and Hydraulic power is NOT required.
+Both engines shut down and all Hydraulic power is required
+AP related information is displayed at: (Level 1)
+System Display (SD) page
+@@Top part of the PFD called Flight Mode Annunciator (FMA)
+On the Overhead panel.
+AFS test on Ground done to check: (Level 1)
+All control surfaces are moving correctly.
+@@All AFS related LRU are working properly.
+No such test is required in the Autopilot System.
+The Maximum Rudder deflection for the A320F CEO is: (Level 1)
+50 Degrees for A320/A321 CEO.
+@@25 Degrees for A320/A321 CEO
+35 Degrees for A320/A321 CEO
+The Maximum Rudder deflection for the A320F NEO is: (Level 1)
+50 Degrees for the A318/A319 & A320/A321 NEO.
+@@30 Degrees for the A318/A319& A320/A321 NEO
+35 Degrees for the A318/A319 &A320/A321 NEO
+The Two Multipurpose Control Display Units (MCDU) installed on: (Level 1)
+Side console
+@@Center Pedestal
+Main Instruments Panel.
+The communication system of A320 Family has: (Level 1)
+@@Two Sub-systems are called Radio communication and on-board communication.
+Three sub-systems called Radio/Onboard/Crew communications.
+No sub-system it’s called just Aircraft communication.
+The Radio communication system is used for the communication of crew with Ground stations and with other aircraft using: (Level 1)
+VHF Radios
+HF Radios
+@@VHF/HF/SATCOM (if Installed) Radios.
+The on-board internal communication system is divided into: (Level 1)
+Service Inter phone on ground only.
+Flight Inter phone for cockpit to Ground Mechanic and cockpit internal communication.
+@@Service Inter phone/Flight Inter phone/Passenger Address and cabin Inter phone.
+The HF antenna is installed at:		 (Level 1)
+Bottom of the Aircraft
+@@Under leading edge of the vertical Stabilizer
+All the antennae are installed on the outer skin of the Aircraft.
+The SELCAL panel, AMU, HF and VHF Line Replaceable Units (LRUs) are installed in the: (Level 1)
+FWD avionics compartment (90VU)		
+@@AFT avionics compartment (80VU)
+Rear Cargo compartment
+The CVDRs can store the information of: (Level 1)
+The last 2 hrs data.
+@@The last 25 hrs data.
+The last 10 hrs of data.
+A call from the Ground Mechanic to the Cockpit is Indicated to the pilots by: (Level 1)
+single chime and an ECAM message
+The MECH light flashes on the Captain ACP only
+@@Buzzer sound and the MECH amber light flashes on all ACPs.
+The Straight and Angular Static Dischargers are: (Level 1)
+Interchangeable.
+Same part number.
+@@Not interchangeable because of the mountings.
+How the Line Replaceable Units (LRUs)are identified for Electrostatic Discharge sensitive (EDS): (Level 1)
+All LRUs are ESD sensitive.
+@@The LRUs that are sensitive are identified by a Black and Yellow label on the equipment front face.
+Refer AMM.
+If the Aircraft on Jacks for maintenance communications, then: (Level 1)
+Can not possible.
+@@The Service Inter Phone Override switch in 50VU maintenance panel must be switched ON.
+Only Hand Signals possible.
+The CVR energized on ground for recording by: (Level 1)
+@@GND CTL P/B is located at OVHD PNL.
+By starting any one of the Engine
+By Starting APU 
+The main power source for Aircraft Electrical Network is: (Level 1)
+@@Two identical engine driven Integrated Drive Generators (IDGs)
+Two identical Batteries (BAT)
+Two identical Static Inverters (STINV)
+Each Generators give output of: (Level 1)
+@@115V/400HZ/ 3 -PHASE AC,90 KVA
+115V/400HZ/ 2- PHASE AC,60KVA
+115V/500HZ /SINGLE PHASE AC 90 KVA
+The Electrical priority for AC buses in A320 Family is: (Level 1)
+APU generator/External power/Opposite generator/own side IDGs.
+Opposite IDGs/APU generator/Own side IDGs/External power.
+@@Own Side Generator/External power/APU generator/Opposite Generator
+The RAM AIR TURBINE(RAT) will deploy automatically when: (Level 1)
+@@AC 1 lost, AC 2 Lost and Aircraft speed above > 100 Knots.
+AC 1 lost, AC 2 Lost and Aircraft speed below < 100 Knots.
+AC 1 lost, AC 2 Lost and Aircraft speed above > 50 Knots.
+The battery voltage can be monitored at: (Level 1)
+At Over Head Panel (OVHD PNL) 35VU only
+ECAM -SD- Elect page only.
+@@Over Head Panel (OVHD PNL) 35VU and/or SD Elect system page.
+What is the Safety precaution to be Taken when working near 21VU EMER ELEC PWR PNL. (Level 1)
+@@Activation of the Read Guarded MAN ON P/B on the GND or in flight will extend the RAT, even in the cold Aircraft.
+Activation of the Read Guarded MAN ON P/B on the GND or in flight will NOT extend the RAT.
+EMER ELEC PWR PNL 21VU not energized on ground so any precaution required.
+The AC ESS bus Is normally supplied by: (Level 1)
+@@AC Bus 1
+AC Bus 2
+AC Bus 1 & 2.
+The Main Busbars are identified as: (Level 1)
+XP for AC busbars
+PP for DC busbars.
+@@The numbers are used to indicate the bus number.
+ARINC 429 buses are numbered from: (Level 1)
+5000 to 5999
+6000 to 6999
+@@7000 to 7999
+If the IDG disconnected in Flight can be: (Level 1)
+@@Reconnected only on ground after maintenance actions.
+Reconnected in Flight at any time.
+Reconnected in Flight or Ground at any time
+The maintenance action required after thermal disconnection of IDG is: (Level 1)
+Can be repaired on the Line
+@@IDG Must be replaced
+Can be swapped with the other side.
+The APU generator control module is part of the: (Level 1)
+Auxiliary Power Control Unit (APCU)
+Generator control Unit (GCU)
+@@Ground and Auxiliary Power Control Unit (GAPCU)
+If all the parameters are correct on external power:	 (Level 1)
+@@AVAIL (amber) and NOT IN USE (White) lights in External Power Panel (108VU) will come on.
+Only amber AVAIL light is on.
+Only white NOT IN USE light is on.
+Generally, the oil Filter clogged indication checked by: (Level 1)
+@@Visual pop out indicator (DPI) installed opposite side of IDG drive end.
+On the ECAM -SD-ELEC -page
+On the MCDU.
+The most typical reason for IDG failures are due to: (Level 1)
+@@Over or Under servicing of IDG oil.
+Electrical loads.
+Engine vibration.
+APU speed regulation done by: (Level 1)
+FADEC
+GAPCU
+@@ECB
+Maintenance BUS S/W is located at: (Level 1)
+@@FWD cabin overhead ceiling called 2000VU.
+AFT cabin overhead ceiling called 2001VU.
+MID cabin overhead ceiling called 2000VU.
+An ARINC 429 BUS shielded cable consists of two wires and they are colour coded as:	 (Level 1)
+@@Blue and Red
+Red and Green
+Green and Yellow.
+The IDG speed is controlled by: (Level 1)
+@@Servo Valve Relay (SVR)
+Engine Gear Box
+Low Oil Pressure (LOP)C Green and Yellow.
+At what pressure the Differential Pressure Indicator (DPI) will pop-out:	 (Level 1)
+@@If the Delta pressure across the scavenge filter is 50 +/- 8 Psi.
+If the Delta pressure across the scavenge filter is 150 +/- 8 Psi.
+If the Delta pressure across the scavenge filter is 5 +/- 8 Psi.
+If an open cable is detected or if the ENG FIRE P/B SW released out: (Level 1)
+@@The GCU trips the GCR and the PRR and PRR opens GLC.
+Trips only PRR.
+Trips only GCR
+The GAPCU Ext Pwr card detect at least one Faulty parameter, then:	 (Level 1)
+Opens Interlock Monitoring Relay (IMR) only.
+Opens Power Ready Relay (PRR) only
+@@Opens both IMR & PRR relays.
+The GAPCU communicate with GCUs via: (Level 1)
+ARINC 429 links
+@@MIL -STD 1553 links
+Hard wired.
+Ext, PWR is on, MAINT BUS SW selected, TR 2 Overheats >172,then: (Level 1)
+The MAINT BUS SW trips off, de-energize AC GND/FLT buses.
+The MAINT BUS SW trips off, de-energize DC GND/FLT buses.
+@@The MAINT BUS SW trips off, de-energize AC & DC GND/FLT buses.
+The GALLEY and COMMERCIAL P/B SWs are connected in: (Level 1)
+@@Series
+Parallel
+Series and Parallel combination.
+Aircraft is on Ground, APU only running, if an overload detected then: (Level 1)
+@@All the galley power sheds automatically.
+Manually shed after ECAM message.
+Galleys are working normally.
+The characteristics of Constant Speed Motor/Generator (CSM/G) are: (Level 1)
+@@115/200 V AC/400 Hz/Power 5.5 kVA/3 phases.
+115/200 V AC/400 Hz/Power 5.5 kVA/2 phases.
+115/200 V AC/400 Hz/Power 5.5 kVA/ Single phase.
+For the automatic extension of RAT, the required logic is: (Level 1)
+AC Bus 1 is lost
+AC Bus 2 is lost
+@@AC bus 1 and AC Bus 2 lost, and Aircraft speed is > 100 Kts.
+The Automatic Extension of RAT is controlled by: (Level 1)
+@@RAT solenoid No 2.
+RAT solenoid No 1.
+RAT solenoid No 1 & 2.
+In Flight or Ground, if AC BUS 1 failed. (Level 1)
+@@AC ESS BUS automatically connected to AC BUS 2
+STAT.INV bus is supplied.
+AC BUS 1 available
+In Smoke configuration if GEN 1 LINE OFF PB is pressed, then: (Level 1)
+Generator Line Contactor (GLC) 1 opens.
+@@GLC opens, Generator 1 remains energized and supplies one Left and One Right fuel pumps
+All the fuel pumps are switched off.
+The dedicated Refueling buses are: (Level 1)
+@@501 PP and 502 PP.
+501 XP and 502 XP
+AC BUS 1 and AC BUS 2.
+In electrical emergency configuration APU start is inhibited for 45’ s by: (Level 1)
+@@Battery Charge Limiter (BCL)
+By ECB.
+Start Relay
+Battery complete discharge protection available if battery voltage below 23VDC on: (Level 1)
+@@Ground only
+Flight only
+Ground or in Flight.
+The Amber FAULT light comes on in the event of Battery: (Level 1)
+@@Thermal run away or internal short circuit.
+During charging cycle.
+During discharge cycle
+If TR 1 fails, the network configuration is: (Level 1)
+@@TR 2 automatically supplies DC Bat Bus and DC Bus 1 through DC Bus 2.
+ESS TR supplies DC ESS BUS.
+The batteries supply all the DC Buses 
+When RAT starts operating normally, the CSM/G control unit (CSM/G GCU) gets power supply from. (Level 1)
+@@CSM/G (RAT) Permanent Magnet Generator (PMG)
+28V from battery
+DC bus 1.
+The passengers service information units (PSIU) include: (Level 1)
+The Passenger Service units (PSUs).
+The Passenger Information Units (PIUs)
+@@PSUs and PIUs in relation to the A/Cs cabin configurations.
+The A318, A319 and A320 over wing emergency exits have: (Level 1)
+@@Dual -lane escape slide on Left and Right side.
+Single-lane escape slide on Left and Right side.
+Wide-lane escape slide on Left and Right side.
+The final attachment of the galley to the fuselage frames fitting achieved by: (Level 1)
+Nut and Bolts.
+Wire locking.
+@@Tie rods.
+All lavatories are completely assembled housing made of: (Level 1)
+Aluminum material.
+Titanium material.
+@@Composite material.
+The lavatory units have following interfaces: (Level 1)
+Exhaust air interface.
+Potable water and wastewater interface.
+@@Exhaust air, water and waste, vacuum and electrical interfaces.
+During Maintenance of PAX seat removal, the seat requires: (Level 1)
+Special Tools for removal.
+Seat tracks to be removed.
+@@Lifting the rear quick release fitting to UP position. 
+The different types of cabin attendant seats are: (Level 1)
+Free standing attendant seats.
+Swivel attendant seats. 
+@@Free standing or Swivel or wall-mounted attendant seats
+The wall-mounted cabin seat is attached with six bolts to: (Level 1)
+Partitions only.
+Lavatory walls only.
+@@Partitions or Lavatory walls as per cabin configuration.
+The swivel attendant’s seats are always attached to the: (Level 1)
+@@Cabin floor structure by hard points.
+Side wall structure by hard points.
+partitions by hard points.
+The A321 the door area heated are: (Level 1)
+@@Cabin and Emergency exits doors areas 2 and 3.
+Cabin and Emergency exits doors areas 3 and 4.
+Cabin and Emergency exits doors areas 2 and 4.
+The A321LR the door area heated are: (Level 1)
+@@Cabin and Emergency exits doors area 3.
+Cabin and Emergency exits doors areas 3 and AFT door
+Cabin and Emergency exits doors areas 2 ,3 and 4.
+The A321 the heating control units are installed on: (Level 1)
+@@FWD cargo entrance for door area 2.
+FWD cargo entrance for door area 2 and AFT cargo entrance for door area 3.
+FWD cargo entrance for door areas 2 and 3
+The A321LR the heating control units are installed at: (Level 1)
+@@For Door area 3 is in AFT cargo compartment.
+For Door area 3 is in FWD cargo compartment.
+For Door area 3 is in Bulk cargo compartment.
+The heated floor panels are supplied with: (Level 1)
+@@115V AC via control units.
+115V AC directly.
+28V AC directly.
+The maintenance team after inflation of the slide to deflate the slide has to: (Level 1)
+@@Manually open the flapper valve.
+Release the air with a sharp tool.
+To be done only in the shop.
+During inflated escape slide disconnection and removal, the caution to be followed is: (Level 1)
+Nothing just removes.
+@@Do not let the inflated escape slide fall to the ground, if falls to the ground can cause damage.
+Use maintenance step ladder.
+During Removal/Installation of the slide/raft pack assembly the important point to remember is: (Level 1)
+@@The assembly weighs approximately 50 kg.
+The assembly weighs approximately 150 kg.
+The assembly weighs approximately 15 kg.
+During off wing slide installation, the steps to be followed is: (Level 1)
+@@The flaps to be extended for seal plate attachment.
+The flaps to be retracted for seal plate attachment.
+The flaps to be in No.3 position for seal plate attachment
+When the slide-arming lever in ARMED position, the slide is connected to floor, when the door is opened from inside: (Level 1)
+@@The escape slide inflates and deploys automatically.
+The door opens and no slide deployment.
+This is the normal way of opening the door.
+The A321 LR with one FWD ACT and two AFT ACT installed can receive: (Level 1)
+@@Three FWD and Three AFT containers or pallets.
+Two FWD and Three AFT containers or pallets.
+Two FWD and Two AFT containers or pallets.
+The A321 cargo compartment can receive number of containers or pallets are: (Level 1)
+@@Five in the FWD and Five in the AFT.
+Three in the FWD and Five in the AFT.
+Two in the FWD and Three in the AFT.
+The A320 cargo compartment can receive number of containers or pallets are: (Level 1)
+Five in the FWD and Five in the AFT.
+@@Three in the FWD and Four in the AFT.
+Two in the FWD and Three in the AFT.
+The two sliding windows in cockpit provide Emergency exit for: (Level 1)
+Capt. only
+F/O only
+@@For both cockpit crew by using escape rope installed OVHD.
+The Engine and APU fire protection is done by two sub-systems, they are: (Level 1)
+@@The Fire detection and the Fire extinguishing system.
+The Fire detection and the Fire fighting system.
+The Fire detection and the Fire eliminating system
+The Fire Detection Unit (FDU) monitors the: (Level 1)
+FDU 1 and FDU 2 monitor Engine loops no 1 and APU.
+@@FDU 1 for Engine No.1 and FDU 2 for Engine No.2.
+FDU 2 for Engine No1, Engine No 2 and APU.
+In CEO and NEO aircraft the OVHD(20VU) guarded red FIRE P/B are used to: (Level 1)
+Isolate the related systems.
+The Engine or APU will shut down.
+@@Isolate the related system, shut down the related system and also arm the extinguishing system.
+The A/C on ground, the APU fire warning signals are sent to: (Level 1)
+@@ECAM, APU fire panel and external power control panel
+ECAM, APU fire panel
+APU fire panel and external power control panel
+In case of Avionics smoke detection, the smoke detector activates the: (Level 1)
+@@GEN 1 LINE SMOKE, BLOWER FAULT and EXTRACT FAULT lights are on.
+GEN 1 LINE SMOKE light on
+BLOWER FAULT and EXTRACT FAULT lights on.
+The lavatory & cargo smoke detectors are monitored by: (Level 1)
+Fire Detection Unit (FDU) ARINC 429 bus.
+Smoke Detection Control Unit (SDCU) ARINC 429 bus.
+@@Smoke Detection Function (SDF) in CIDS director CAN bus.
+Engine LP valve closes when: (Level 1)
+The fuel booster pump pressure decreases.
+@@The engine is shutdown, or the ENG FIRE pushbutton is released out
+The engine fire detection system detects engine fire.
+As soon as the fire P/BSW is released out then: (Level 1)
+Fuel, Electrical power is disconnected.
+Air and Hydraulic power are disconnected.
+@@Fuel, air, electrical, hydraulic power, and Engine Interface Unit electrical power supply are disconnected.
+On NEO aircraft, the Fire Detection Units (FDU) can identify faulty fire detector in: (Level 1)
+Pylon area only.
+Core area only.
+@@Pylon, core or fan areas. 
+In A321 and A321LR for ETOPS/EDTO flight the fire bottles: (Level 1)
+Installed with fire metering system on the First bottle only.
+@@Installed with fire metering system on the Second bottle only
+Installed with fire metering system on both 1 and 2 bottles
+For ETOPS/EDTO flights certifications, the bottles are certified based on capacity as: (Level 1)
+ETOPS (standard) 60 minutes.
+ETOPS -90 minutes
+@@ETOPS- 60/ 120/180 minutes. 
+In maintenance the ENGINE and APU FIRE tests must be performed at: (Level 1)
+Any time on ground.
+Only in transit.
+@@All times before starting Engine or APU.
+The Engines fire bottles Squib connected to: (Level 1)
+@@BTL 1 squib A and BTL 1 squib B in HOTBUS 1 and 2.
+BTL 1 squib A and BTL 1 squib B in HOTBUS 1.
+BTL 1 squib A and BTL 1 squib B in HOTBUS 2.
+The FIRE detection system consists of: (Level 1)
+Two identical, parallel installed Loops (A & B loop)
+Three detector elements for the CFM56
+@@Two loops A& B, Three detectors and One Fire Detection Unit (FDU)
+The APU Auto extinguishing test push button installed at: (Level 1)
+@@Overhead maintenance panel (50VU).
+External Power Panel (108VU).
+APU Master Switch panel(25VU)
+How many Fire bottles installed per Engine in CFM56/ /V2500/ CFM LEAP/PW1100G: (Level 1)
+Only one Fire bottle per Engine installed near pylon area
+@@Two Fire bottles per Engine installed near pylon area
+Three Fire bottles per Engine installed near pylon area
+The main computer for Avionics Compartment Smoke Detection is: (Level 1)
+@@Avionics Equipment Ventilation Controller (AEVC)
+Flight Warning Computer (FWC)
+Fire Detection Unit (FDU)
+The optional Second Extinguishing bottle in cargo compartment signifies: (Level 1)
+It is normal two bottles for cargo compartments.
+@@The Second bottle is necessary for extended range operations (ETOPS)
+One bottle for domestic and two bottles for international operations.
+What is the Safety precaution for Maintenance crew when working in Fire bottles: (Level 1)
+Nothing Do your task as usual.
+The Engine and APU bottles are connected to HOT BUS.
+@@Pull all applicable C/B s and put warning notices as per AMM
+Two Elevators and the Trimmable Horizontal Stabilizer (THS) achieve the pitch control as: (Level 1)
+@@Elevators for short-term activity and THS for long - term activity.
+Elevators for long-term activity and THS for short - term activity.
+Elevators & THS for manual control activity.
+The spoilers 1 to 5 numbered from: (Level 1)
+Wing tip to wing root.
+@@Wing root to wing tip
+No.1 &2 in Left side, N0.3 in middle and No.4,5 in Right side.
+The Speed brake function is used in flight to increase the aircraft drag; the spoilers used as speed brake are: (Level 1)
+Spoilers 1.2.3.4.&5
+@@Spoilers 2.3, &4.
+Spoilers 1.2.4.&5
+All spoilers 1 to 5 used as ground spoiler function during: (Level 1)
+@@To destroy the lift during landing & in case of aborted take-off.
+To destroy the lift during take-off & in case of go-around.
+To increase the Lift during take-off.
+The Slats and Flaps are used for achieving the: (Level 1)
+Landing function.
+@@High Lift Function.
+Speed Brake function.
+The Power Control Unit (PCU) drives the Slats and Flaps with: (Level 1)
+@@Two Hydraulic motors coupled to a differential Gear box.
+Two Electric motors coupled to a differential Gear box.
+Two Electric motors coupled to Two Hydraulic motors.
+The Purpose of Wing Tip Brakes (WTB) is: (Level 1)
+@@To stop and lock the system when major failures are detected.
+They are electrically activated.
+They can only reset in Flight.
+The Position Pick-Off Units (PPUs) send feedback signals to: (Level 1)
+FWC and LGCIU.
+@@SFCC and ECAM.
+ELAC and SEC.
+To prevent an aircraft, stall the safety function available in slats are: (Level 1)
+@@The slats cannot be retracted fully at high angle of attack, or Low speeds. (Alpha/Speed lock    function).
+The slats can be retracted to clean configuration.
+Slats and flaps are fully extended.
+The Flight control computers are: (Level 1)
+@@2 SFCC,2 ELAC,2 FAC and 3 SEC.
+2 SFCC,2 ELAC,2 FAC, and 2 SEC.
+1 SFCC,1 ELAC,1 FAC and 3 SEC.
+In normal configuration, the flight control servo actuators act as: (Level 1)
+@@Active servo control and the second one is in damping mode.
+Both are in Active mode.
+Both are in Damping mode.
+When only manual pitch trim is available the actuators are hydraulically maintained in neutral position, is called: (Level 1)
+Active mode.
+Damping mode.
+@@Centering mode.
+The main function of side sticks is to transmit electrical signals to the Electrical Flight Control System (EFCS) in: (Level 1)
+@@Lateral and longitudinal manual control orders.
+Only Lateral manual control orders.
+Only Vertical manual control orders
+ELAC 1 normally controls Ailerons, in case of failure of ELAC1 then: (Level 1)
+@@ELAC 2 will automatically take over control.
+ELAC 2 manually takes over the control.
+SEC 1 takes over control after switching.
+In case of ELAC 1 and 2 failure or Green and Blue hydraulic low pressure then: (Level 1)
+All Aileron actuators revert to Active mode.
+@@All Aileron actuators revert to Damping mode.
+Right ailerons in active and left damping mode.
+In case of THS jamming mode: (Level 1)
+@@Both POBs are applied and the THS is immobilized and locked.
+Both POB are released and the THS is free to move.
+The THS operates in normal mode.
+Each spoiler is powered by one hydraulic actuator, if a fault is detected by the monitoring system or no electrical power: (Level 1)
+@@The surfaces are automatically retracted.
+The surfaces are manually retracted.
+The surfaces are free to move.
+In case of total electrical power loss then roll control is  (Level 1)
+Not possible.
+May be possible using symmetric thrust.
+@@Obtained by using the rudder pedals called induced roll, rudder have a mechanical control.
+The rudder is operated by three moving body servo controls with: (Level 1)
+@@common mechanical input.
+common electrical input.
+Different mechanical inputs.
+During Yaw damping and turn coordination the rudder pedals receive: (Level 1)
+Feedback signals.
+@@No feedback signals.
+Feedback signals and Rudder pedals moves
+The rudder is powered by three hydraulic actuators operating in: (Level 1)
+@@Parallel.
+Series
+Active/Stand-by mode
+Using Rudder Trim Panel, the manual trimming action causes: (Level 1)
+@@Rudder pedal movements.
+Only Capt. side pedals move.
+Only F/O side pedals move. 
+The rudder pedal deflection limitation is controlled: (Level 1)
+@@As aircraft speed is increased.
+As aircraft speed is decreased.
+On ground.
+If all the logic conditions are fulfilled, the ground spoiler function is activated as: (Level 1)
+All spoilers 1 to 5 moves to full extension.
+The flaps are deflected up.
+@@Spoilers 1 to 5 deflected up and both ailerons are deflected to 25 degree UP (anti-droop function)
+ELAC 2 normally controls the elevator and THS, if Dual ELACs failure then: (Level 1)
+SEC 1 automatically takes over the pitch control.
+SEC 2 automatically takes over the pitch control.
+@@SEC 1 or 2 automatically takes over the pitch control.
+The priority for operating the trim wheels are: (Level 1)
+Electrical trim has priority over mechanical trim through manual trim wheels.
+@@Mechanical trim has priority over electrical trim through manual trim wheels
+No such priority.
+The output module of SFCC have three solenoid valves are identified as: (Level 1)
+Retract/Extend/Energize valves.
+Hold/Release/cut-off valves.
+@@Retract/Extend/Enable valves.
+In slat/flap system, the position demand and actual position coming from: (Level 1)
+@@Feedback Position Pick-off Unit (FPPU).
+Asymmetry Position Pick-off Unit APPU).
+Pressure-Off Brake (POB)
+If any one of the SFCCs having Hydraulic failure the Slat/Flap system operate at: (Level 1)
+Full speed.
+@@Half speed.
+Stops at the position at the time of failure.
+Hydraulically operated Wink Tip Brakes (WTP) operates in case off: (Level 1)
+Asymmetry, under speed and flap disconnect.
+Asymmetry, Thermal runaway, and stall conditions.
+@@Asymmetry, over speed, Runaway and uncommand movement.
+Where are the Wing Tip Brakes located? (Level 1)
+At the wing tips
+@@Between the tracks 3 and 4 in each wing
+Attached to track 4 offset gearbox
+Where are the torque limiters located? (Level 1)
+@@On the actuator offset gear box
+One the actuator drive lever
+On the steady bearing
+For Maintenance Dispatch Conditions Under MEL for ELACs are: (Level 1)
+@@ELACS are MEL items, but Inoperative ELAC 2 is a NO GO item.
+ELACS are MEL items, but Inoperative ELAC 1 is a NO GO item.
+No MEL restrictions
+For Maintenance Dispatch Conditions Under MEL for FACs, FCDCs, SFCCs are: (Level 1)
+@@FAC 1, FCDC 1, and SFCC 1 is a NO GO item.
+FAC 2, FCDC 2, and SFCC 2 is a NO GO item.
+FACs, FCDCs, and SFCCs are all GO-IF items.
+If one of the Flap control hydraulic motors is inoperative then: (Level 1)
+Flap movement is inhibited.
+Flap operates normally 
+@@Flap Extension or Retraction at half speed.
+If any failures detected by a Slat Flap Control Computer (SFCC) then: (Level 1)
+@@The failures compared with the second SFCC and the WTB applied.
+The failures compared with the second SFCC and the WTB released.
+The failures compared with the second SFCC and the WTB in Standby mode.
+The A321 fuel tanks are integrated into the center fuselage area and wings, are called as: (Level 1)
+@@Simply left- and right-wing tanks.
+Right inner and outer tanks.
+Left inner and outer tanks.
+The function of the vent protector is to prevent the: (Level 1)
+@@Clogging of the vent duct by ice formation.
+Air entering the vent duct.
+Fuel spillage.
+The crossfeed valve in the fuel system: (Level 1)
+Electrically controlled and operated by two AC motors.
+@@Electrically controlled and operated by two DC motors.
+Electrically controlled and operated by one DC and one AC motor
+The main fuel pumps are driven by: (Level 1)
+@@3-Phase 115V AC motor supplied by different bus bars.
+3-Phase 115V AC motor supplied by same bus bar.
+Single-Phase 115V AC motor supplied by bus bars.
+The air trapped in the fuel feed line is released into to the wing tank and the air release valve installed at the: (Level 1)
+Lowest point between the pump and the LP fuel valve.
+@@Highest point between the pump and the LP fuel valve.
+Mid-point between the pump and the LP fuel valve.
+The inter-cell transfer valves once open in flight stay latched open can be close again: (Level 1)
+On ground during the next refueling operation.
+By opening cross feed valve.
+@@On ground during the next refueling operation. Or electrical power up of the fuel system.
+The IDG oil cooling circulation system is controlled by the: (Level 1)
+Fuel Level Sensing Control Unit (FLSCU) 1 and The Electronic Control Unit (ECU) 1 for both the wing system.
+@@FLSCU 1 and ECU 1 for the left wing, FLSCU 2 and ECU 2 for the right wing.
+Air Cooled Oil Cooler (ACOC) system.
+The IDG cooled fuel is returned into: (Level 1)
+Center Tank.
+Wing tank Inner cell.
+@@Wing tank outer cell.
+The Fuel Return Valve (FRV) in the Right Wing is controlled by: (Level 1)
+ECU 1 or 2.
+@@FLSCU 2 and ECU 2.
+FLSCU 2 and ECU 1.
+When the fuel level in the inner cell decreases to the IDG LOW LEVEL sensor (at 280 kg): (Level 1)
+@@Fuel Return Valve (FRV) closes.
+Fuel Return Valve (FRV) opens.
+Fuel Return Valve (FRV) in STBY mode.
+When the outer cell is full, the fuel overflows into the: (Level 1)
+@@Inner cell through a spill pipe.
+Atmosphere via NACA duct.
+Center tank.
+The fuel temperature monitored at: (Level 1)
+Center tank and outer cell.
+@@Outer tank and inner cell.
+Surge tank and Outer cell.
+The six hole piccolo tube I s attached to the re circulation pipe let the fuel go the: (Level 1)
+Surge tank.
+Center tank.
+@@Wing tank.
+The center tank fuel transfer sequence is terminated when: (Level 1)
+@@The center tank low level sensors are dry and 5 minutes time delay has elapsed.
+The center tank low level sensors are wet and 5 minutes time delay has elapsed.
+The center tank low level sensors are dry or wet and 5 minutes time delay has elapsed.
+Are the main pumps running while the center tank is transferring? (Level 1)
+@@Yes, main pumps are always running
+No, only when the center tank is empty
+No, because of center tank pump priority
+In A321 the number of fuel low level sensors are: (Level 1)
+Two per wing tanks.
+Three per wing tanks.
+@@Four per wing tanks.
+During refuel operation the diffuser installed on refuel lines for: (Level 1)
+Diffuse fuel into the tanks with minimum turbulence.
+Diffuse fuel into the tanks with maximum turbulence.
+@@Diffuse fuel into the tanks with minimum turbulence and electrostatic build-up.
+A single channel failure of the Fuel Quantity Indication Computer (FQIC) will result in: (Level 1)
+status message on lower ECAM -SD page.
+level 1 caution message on ECAM.
+@@Normal system operation and CFDS report will be generated for the failure.
+The dual comp is installed in the: (Level 1)
+@@LH fuel tank.
+RH fuel tank.
+Center tank.
+The fuel density changes with: (Level 1)
+Temperature only.
+Type of fuel only.
+@@Temperature and type of fuel used.
+The ultra comp has the function as: (Level 1)
+Variable capacitance function.
+Temperature sensing function.
+@@Variable capacitance function, Temperature sensing and Velocimeter measurement functions.
+The two engine LP (Low Pressure) valves used for: (Level 1)
+To supply fuel to the engines
+To cut off fuel to the engines
+@@To supply or cut off fuel to the engines.
+A319/ A320/A321 the total number of quantities probs installed are: (Level 1)
+Center tank 5 probes.
+Wing tanks 12 probes.
+@@Center tank 5 probes and wing tanks 14 probes.
+The Refuel/Defuel system panel controls the fuel flow into or out of the aircraft by: (Level 1)
+Automatic/manual refuel.
+Defuel.
+@@Automatic/manual refuel/defuel/ground transfer
+Which A320 Family shares common wing tank design: (Level 1)
+@@A318/A319/A320 have five cells design.
+A318/A319/A320/A321 have the same design.
+All the family members differ in fuel tank construction.
+The A321 LR has the fuel tanks design as follows: (Level 1)
+A321 LR has provision for up to three ACTs (Additional Centre Tanks)
+One ACT in fwd. cargo compartment and, Two in AFT cargo compartment.
+@@During flight ACT transfer fuel to centre tank one at a time.
+The fuel transfer from ACTs to centre tank sequence as follows: (Level 1)
+@@First Fwd. ACT then ACT# 2 and then ACT# 1
+ACT#1, then ACT#2, then ACT fwd.
+ACT#2, ACT Fwd., then ACT #1
+The Fueling computers are: (Level 1)
+FLSCU #1 & FLSCU #2 (Fuel Level Sensing Control Unit)
+Single channel FQIC (Fuel Quantity Indication Computer)
+@@FLSCU#1 and FLSCU #2 and 2-channel FQIC.
+The firefighting equipment required during Fueling operations is: (Level 1)
+Any type of fire extinguisher.
+@@Adequate capacity fire extinguisher as per AMM.
+No fire extinguisher required during fuel operations.
+Each refuel valve has a manual plunger to operate the valve: (Level 1)
+@@If an Electrical failure occurs
+To purge before refueling
+During De-fueling operation
+In case of electrical failure during refueling processes: (Level 1)
+Cannot be done or completed.
+Can be complete turning ON manual plunger installed for each tank.
+@@Can be complete by pushing and holding manual plunger installed for each tank.
+The Fuel page available in flight at:	 (Level 1)
+ECAM- EWD only
+ECAM-SD FUEL paged
+@@ECAM -SD FUEL page and Fuel on Board (FOB) duplicated on the ECAM-EWD.
+The wing tank pumps are controlled manually but the centre tank can be controlled: (Level 1)
+Automatically if the Fuel CTRL Panel the MODE SEL P/B pushed in (AUTO)
+Manually if the MODE SEL P/B released out (White MAN mode)
+@@The mode selector can be either Auto or Manual.
+What component sends the open signal to the intercell transfer valve actuators? (Level 1)
+@@Fuel Level Sensing Control Unit (FLSCU)
+Display Management Computer (DMC)
+Flight Warning Computer (FWC)
+Under which power source do the intercell transfer valves remain inoperative during refueling? (Level 1)
+APU power
+External power
+@@Battery power
+What happens when an LP Fuel-valve is closed? (Level 1)
+Fuel continues to flow to the related engine
+@@Fuel is isolated from the related engine
+The valve automatically reopens after a delay
+How many independent electrical control circuits do each LP Fuel-valve have? (Level 1)
+One
+@@Two
+Three
+Which power sources supply the two motors of each LP Fuel-valve actuator? (Level 1)
+@@28 VDC ESS BUS and 28 VDC BUS 2
+115 VAC BUS and 28 VDC ESS BUS
+28 VDC BUS 1 and 28 VDC BUS 3
+APU fuel system feeds directly from: (Level 1)
+Right hand side	
+@@Left hand side
+Right or Left side as per the flight phases.
+What happens if a high level is detected? (Level 1)
+warning is triggered: too much level
+@@The corresponding REFUEL valve closes.
+All refueling operations are stopped
+In which tanks are temperature sensors fitted? (Level 1)
+Center tank
+Wing tanks and center tank.
+@@Wing tanks.
+What happens if one channel of the FQIC fails? (Level 1)
+Half of the quantity indicating data is no longer available.
+FQIS operates normally, only CFDS report will indicate failure
+@@Fuel warning is triggered in addition of CFDS report
+What happens if a quantity probe fails? (Level 1)
+Corresponding tank quantity display flashes
+Quantity indication disappears
+@@Quantity indication remains the same
+What does the MODE SEL pushbutton control? (Level 1)
+Center tank transfer valves and wing tank pump only.
+@@Center tank transfer valves only
+Wing tank pump only
+When the center tank is empty, in AUTO MODE, the center tank transfer valves: (Level 1)
+Must be manually switched OFF after 5 minutes.
+Stop automatically and wing tank pumps start running
+@@Closed automatically after a time delay of 5 minutes.
+The Hydraulic pipes are identified with system, colour and numbered tapes as: (Level 1)
+Green (G) No.1/Yellow(Y) No.2/Blue(B) No.3.
+Yellow(Y) No.1/Blue (B) No.2/Green(G) No.3
+@@Green (G) No.1/Blue(B) No.2/Yellow(Y) No.3
+The Hydraulic electric pump can be used as an auxiliary power source for maintenance purposes on Ground are: (Level 1)
+Green (G) and Yellow (Y) systems.
+Green (G) and Blue (B) systems.
+@@Yellow (Y) and Blue (B) systems.
+The Engine Driven Pump (EDP) installed in: (Level 1)
+@@Green ENG No.1 and Yellow ENG No.2.
+Blue ENG No.2 and Green ENG No.1 
+Yellow ENG No.1 and Blue ENG No.2.
+On the Blue system the source of pressure is: (Level 1)
+The Engine Driven pump (EDP) as normal source. 
+The Ram Air Turbine (RAT) as an auxiliary source.
+@@The Electrical pump (E-Pump) as normal source and RAT as an auxiliary source.
+The Operation of PTU is: (Level 1)
+Manual only on Ground.
+@@Automatic if there is a Delta Pressure of 500psi between the G/Y or Y/G hydraulic systems.
+Manual only in cruise flight.
+The Restrictor located between the coupling socket and the reservoir filling selector valve to protect the system against: (Level 1)
+Over temperature
+@@Over Pressure
+Over filling
+The check valves isolate the main hydraulic systems from the reservoir filling system when: (Level 1)
+It is used for G/B/Y system servicing
+@@It is not in use.
+Electrical power not available.
+The safety precaution to be followed when manual depressurization of reservoirs: (Level 1)
+Only safety Glass
+Wear Ear defender.
+@@The Air may be hot and contain Hydraulic fluids, use appropriate safety wear.
+The hydraulic systems have: (Level 1)
+@@HP filter in the pressure line and LP filter in the return line.
+HP filter in the pressure line and HP filter in the return line.
+LP filter in the pressure line and LP filter in the return line.
+The yellow brake system has an additional accumulator for: (Level 1)
+@@Emergency Breaking and Parking Brake.
+Normal Breaking only
+Alternate breaking only.
+To prevent a possible RAT extension during maintenance: (Level 1)
+The RAT safety tool must be removed.
+The RAT electrical and hydraulic connection removed.
+@@The RAT safety tool must be installed.
+The Hydraulic reservoirs are normally pressurized to: (Level 1)
+600 psi with Nitrogen.
+@@50 psi with Air.
+Not pressurized.
+The case drain filter clogging Indication comes on at: (Level 1)
+@@Delta P=87 +/- 8.7 psi.
+Delta P=50 +/- 5 psi.
+Delta P= 100 +/- 10 psi. 
+On Ground for maintenance, it is possible to pressurize the Blue hydraulic system from. (Level 1)
+Electric Pump only.
+By PTU only.
+@@ground hydraulic power unit.
+To monitor and detect fault on B or Y electric pump: (Level 1)
+Current transformers are used.
+Phase unbalance detectors are used.
+@@The current transformers and phase unbalance detectors used together to monitor the operation of the E-pump.
+The High Pressure (HP) manifold provides hydraulic pressure to the: (Level 1)
+Flight control surfaces of LH wing.
+Flight control surfaces of RH wing.
+@@Flight control surfaces of LH/RH wing and Tail section via three outputs.
+The leak test is performed using the: (Level 1)
+Multimeter.
+Soap bubble test kit.
+@@Dedicated portable Ultrasonic Flow-meter it is a Ground Service Equipment (GSE)
+The purpose of priority valve is to: (Level 1)
+@@Make sure that all available hydraulic pressure is sent to Primary Flight controls if pressure in the system is reduced.
+Make sure that all available hydraulic pressure is sent to Secondary Flight controls if pressure in the system is reduced.
+Make sure that all available hydraulic pressure is sent to PTU if pressure in the system reduced
+The Yellow solenoid valve is automatically closed if the Y/E-pump is energized by using Cargo door selectors this is to: (Level 1)
+@@Prevent any movement of the Flight controls.
+To allow the movement of the Flight Controls.
+Prevent PTU operation.
+PTU manifold is composed off: (Level 1)
+One Quick Disconnect.
+Two different valves.
+@@One Quick disconnect /PTU solenoid /Priority valves.
+The air pressure system in all hydraulic reservoirs remains airtight in the event of: (Level 1)
+Pressurization system failure.
+@@Pressurization system failure or after engine shutdown.
+Engine starting. 
+The two drain valves installed in water separator of Reservoir Pressurization unit their function is: (Level 1)
+Both are automatic drain valves.
+Both are manual drain valves.
+@@One automatic valve and the other one is a manual self-sealing drain valve.
+The three reservoirs check valves are installed at: (Level 1)
+@@The G and Y system check valves between floor beams above the hydraulic bay, and B-in the AFT cargo compartment.
+The G and Y system check valves between floor beams above the hydraulic bay, and B-in the FWD cargo compartment.
+G and Y system check valves between floor beams above the hydraulic bay, and B-in the AFT Avionics compartment.
+To depressurize each reservoir, the manual depressurization valve is fitted on: (Level 1)
+Green Service Panel.
+Yellow Service Panel.
+@@Each ground service panel is individually.
+What happens during the RAT retraction? (Level 1)
+The red light comes on during RAT retraction and goes off then the RAT is retracted and locked
+@@The green light comes on when the RAT is retracted and locked
+The red light goes off when the ARM switch set to OFF
+What happens if the stowed switch is released before the RAT is fully retracted? (Level 1)
+The RAT continuously retracts.
+@@The RAT will return to the fully extended position
+The RAT locked in the existing position
+RAT pump seal drain collector tank installed in LH belly faring collects fluid from: (Level 1)
+@@RAT pump shaft seal leakage.
+RAT fans area leaks.
+RAT down lock area leaks.
+The safety precautions to be followed before RAT dynamic tests are: (Level 1)
+Install the safety barrier and it should not move during the full test.
+If the safety barrier is not secured correctly can moves during the test and damage RAT seriously.
+@@Follow the AMM for any additional precautions before and after the RAT test.
+The safety warnings must be followed during RAT ground test are: (Level 1)
+Put the Safety devices and the warning Notices in position before starting the Task.
+Make sure that the travel Ranges of FLT CTL surfaces are clear.
+@@Make sure that RAT travel range is clear before RAT extension, follow strictly AMM procedures.
+The Drain tanks are designed for easy cleaning with quick release clamps must be cleaned at: (Level 1)
+C-Checks.
+@@Regular intervals as per MPD task.
+Only if some leaks are found.
+The wing anti-ice bleed supply to both wings is controlled by: (Level 1)
+@@single P/BSW on the overhead ANTI ICE panel.
+Two LH wing, RH wing P/BSW in overhead BLEED panel.
+Two LH wing, RH wing P/BSW in overhead ELECT panel.
+The engine air intake is protected from ice by an independent air bleed supply from the HP compressor of: (Level 1)
+Opposite side engine.
+@@Same side engine.
+APU bleed.
+The engine anti-ice is manually selected by the crew and is available in: (Level 1)
+Flight only.
+Ground only.
+@@Flight or Ground with the engine running.
+In order to provide reliable information for the air data systems, the air data probes are heated: (Level 1)
+@@Automatically when at least one engine is running.
+Automatically when the engines are running.
+Manually before the engine starts.
+The front windshields and side windows are heated Automatically when: (Level 1)
+If Both the engines are running.
+If APU is running.
+@@At least one engine is running.
+The wing anti-ice valves are installed at: (Level 1)
+@@One in each wing leading edge outboard of the pylons.
+FWD cargo compartment.
+Main wheel well area.
+The wing anti-ice valves operate as: (Level 1)
+Electrically controlled.
+Pneumatically controlled.
+@@Electrically controlled and pneumatically operated.
+The wing anti-ice valve, in case of electrical failure or lack of pneumatic supply pressure, then the valve: (Level 1)
+@@Closes.
+Open fully.
+Open partially.
+To Prevent Ice formation on the probes, the probes Electrically heated are: (Level 1)
+Angle – Of - Attack (AOA) and Static probes.
+Total Air Temperature (TAT) and Pitot probes.
+@@Static, Pitot, TAT, and AOA probes.
+The probe Heat Computers (PHC) are connected as: (Level 1)
+All the probs are connected to PHC CAPT side.
+All the probs are connected to PHC F/O side.
+@@The CAPT, F/O and STBY systems are independent.
+There are only Two Total Air Temperature probs and are connected to: (Level 1)
+@@Probe Heat Computer (PHC) 1 and2.
+ADIRU 1 and 2.
+FMGC 1 and 2.
+The Probes and Static ports heating come on automatically when; (Level 1)
+A/C in flight.
+A/C in Ground.
+@@At least one engine is running.
+The Heating monitoring and fault indication is given by the related PHC to: (Level 1)
+ECAM.
+@@ADIRU.
+ECAM via related ADIRU and FWC, also fault messages to CFDIU
+In maintenance, pulling the PHC C/B or Engine Interface Unit (EIU) power supply C/Bs will result in: (Level 1)
+Unwanted heating on Pitot and Static ports.
+Unwanted heating of TAT and Static ports.
+@@Unwanted heating on ALL the probes and Static ports always follows AMM instruction.
+On ground Probs and Static ports can be checked by following AMM procedures and by pulling: (Level 1)
+LGCIU 1 and ADIRU 1 C/Bs and System is ON. (Flight mode).
+ADIRU2, and LGCIU2 C/Bs and system ON (Flight mode)
+@@LGCIU 1 and LGCIU 2 C/Bs and System is ON (Flight mode)
+Windshield and Windows heating can be checked manually on ground for maintenance by PROBE/WINDOW HEAT P/B then: (Level 1)
+It operates at High power on the ground and Low power in flight.
+It operates at High power on the ground and High power in flight.
+@@It operates at Low power on the ground and High power in flight.
+Windshield or windows heating fault monitored by Window Heating Computer (WHC) and the output signals sent to: (Level 1)
+ECAM directly.
+ECAM via SDAC.
+@@ECAM via SDAC and fault message to CFDIU.
+Before jacking up the aircraft the maintenance team must follow the AMM for: (Level 1)
+@@The Flight Configuration precautions to prevent unwanted heating of the windshield and side windows.
+During the Jacking up operation no special precaution required.
+No electrical power supplied.
+During heavy rain on ground operation, the RAIN Repellent (RPLNT) can be: (Level 1)
+Used to get good visibility.
+@@Is inhibited when both the engines are shut down.
+Used with APU running.
+The two-drain mast system status send to the: (Level 1)
+CIDS and for indication in FAP.
+CIDS, FAP, Control Unit (CU) front face for HTR and CU lights.
+@@CIDS, FAP, CU and CFDIU for storage of fault data.
+The engine anti-ice valve is:  (Level 1)
+Pressure control shut-off valve
+@@Electrically controlled, fail safe to open valve 
+Pressure regulate valve
+Hot bleed air used for engine anti-ice is taken from: (Level 1)
+@@high-pressure compressor stage of same engine.
+low-pressure compressor stage of each engine
+The bleed  air manifold.
+The Hot Bleed air from the engine air intake is: (Level 1)
+Return to A/C bleed air system
+Vented out to the engine exhaust.
+@@Discharged to overboard.
+The Control Unit regulates the heating temperature of the associated drain mast: (Level 1)
+@@Between 5°C and 15°C.
+Between 5°C and 20°C.
+At 57°C.
+Maintenance test of the potable/waste water lines anti-ice system can be checked from: (Level 1)
+On FAP via CIDS.
+@@On the respective Control Units (CU)
+Water/Waste ground service panels.
+Ice detection system will activate and sends warning signal: (Level 1)
+In flight, above 1500 feet or TAT more than 18°C.
+At electrical power on
+@@In flight and TAT less than 8°C
+The Waning message of the dual advisory ice detection system is sent to: (Level 1)
+@@On the EWD as class 1 message.
+On the SD as class 2 message.
+On the MCDU as class 3 message.
+The ice detector generates message ICE DETECTED when: (Level 1)
+Wing anti- ice is necessary.
+@@Engine air intake anti- ice is necessary.
+There is ice on the front windshield.
+The message SEVERE ICE DETECTED is displayed when: (Level 1)
+@@Engine air intake anti- ice & Wing anti- ice is necessary.
+Engine air intake anti ice is necessary only
+Wing anti ice is necessary only.
+The ice detector generates ICE DETECT FAULT message when: (Level 1)
+At least one detector is faulty
+Anti ice system is faulty
+@@Both detectors are faulty
+The maintenance precaution to be followed when operating the wipers are: (Level 1)
+@@Not to operate the wipers on a dry windshield.
+Operate the wipers only at headwind direction.
+Operate the wipers with a rain repellent system.
+The visual ice indicator is installed in the: (Level 1)
+Capt side.
+F/O side.
+@@Central retainer of the windshield.
+The ice indicator made out of: (Level 1)
+Composite parts.
+Aluminum Parts.
+@@Titanium parts.
+The ICE INDICATOR LED light is supplied with: (Level 1)
+@@28V DC
+115 V AC.
+5V AC
+Electronics Instrument Systems (EIS) consists of two sub systems namely: (Level 1)
+@@Electronic Flight Instruments System (EFIS) and Electronic Centralized Aircraft Monitoring (ECAM)
+EIS and Computers
+Black boxes and Computers.
+Electronic Centralized Aircraft Monitoring (ECAM) gives the information to flight crew are: (Level 1)
+Navigation Parameters.
+@@Aircraft System Displays, Faults, Checklists and the current operational status of the aircraft.	
+Flight path information
+The Flight Warning Computers (FWC) supply the following information to EIS are: (Level 1)
+Only Attention getters
+Attention getters, Audio 
+@@Attention getters, Audio alerts, Synthetic voice messages and Text messages.
+Engine Warning Display (EWD) is divided into how many main areas: (Level 1)
+The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part not used.
+@@The upper area is used for Main Engine parameters, Fuel on Board, and Slat/Flap position, and lower part is used for warning, caution and memo messages
+Upper and lower part used only for Engine parameters
+System Display (SD) is divided into how many main areas: (Level 1)
+@@The upper area is used to display various system pages, the lower part for permanent data.
+The upper area for permanent data, lower area for system displays.
+Upper area and lower area used for system pages.
+Under normal operation the DMCs process the data and generate images to display: (Level 1)
+@@DMC1 for CAPT EFIS displays, DMC2 for F/O EFIS displays and DMC3 as a backup.
+DMC3 for CAPT EFIS displays, DMC1 for F/O EFIS displays and DMC2 as a backup.
+DMC2 for CAPT EFIS displays, DMC3 for F/O EFIS displays and DMC1 as a backup
+The Aircraft clock gives: (Level 1)
+UTC/Time/Date/Month/year to the crew and all peripheral systems.
+@@UTC/Time/Date/Month/year to the crew and all peripheral systems. Also Elapsed Time (ET) & Chronometer (CHR)
+UTC/Time/Date/Month/year to the crew and all peripheral systems.
+The main Purpose of Centralized Fault Display Interface Unit (CFDIU) are: (Level 1)
+Collect all A/C system failures and memorizes.
+@@Collect and memorize all A/C system failures, can be read or Printed using MCDU.
+Only memorizes for STATUS messages.
+Post Flight Report consists of (PFR) following information for Maintenance crew are: (Level 1)
+Summarized list of ECAM Warning messages and fault messages occurred during last flight.
+Summarized list of ECAM Warning messages and fault messages occurred during last flight only with NO associated time, NO flight phase and NO ATA reference.
+@@Summarized list of ECAM Warning messages and fault messages occurred during last flight also with associated time, flight phase and ATA reference.
+The Printer can Print reports in the following conditions. (Level 1)
+On Request in GND only.
+@@Automatically controlled by DMU or Manually controlled from MCDU or Using AIDS P/B on the center pedestal.
+Only during engine running.
+The green overflow arrow in EWD indicates that: (Level 1)
+@@The warning messages exceed the capacity of the display.
+Look into SD page
+Look into MCDU
+The ECAM operates in four modes for SD page display with priority order is: (Level 1)
+@@Normal mode /Failure mode/ Advisory mode/ Manual mode.
+No such modes
+Manual mode/ Emergency mode/Caution mode/ warning mode
+If you select a manual mode and it changes automatically when: (Level 1)
+@@If a warning or an advisory message.
+when you select one more SD page
+Manual mode cannot be changed.
+What are the 3-Levels of Alert classification: (Level 1)
+Level 3 cautions/Level 2 cautions /Level 1 cautions.
+@@Level 3 Warnings /Level 2 cautions /Level 1 cautions
+Level 3 Warnings /Level 2 warnings /Level 1 warnings
+ECAM system components are:	 (Level 1)
+SDACs and FWCs
+@@SDACs, FWCs, DMCs and ECAM control panel (ECP)
+ECP and FWCs
+If upper display (EWD) fails, then: (Level 1)
+EWD automatically transferred to SD, called ECAM failure display mode.
+@@EWD automatically transferred to SD, called ECAM single display mode.
+EWD automatically transferred to ND, called ECAM transfer display mode.
+How many computers are connected with Printer: (Level 1)
+6 computers only print one system at a time.
+6 computers print randomly.
+@@6 computers print one at a time but as per priority.
+The DFDR records: (Level 1)
+Last 2 hours of data
+@@Last 25 hours of data
+Last 100 hours of data
+How many reports can be generated with AIDS (Level 1)
+@@13 standard reports and 10 Airline specific reports
+10 standard reports and 13 Airline specific reports
+12 standard reports and 11 Airline specific reports
+To print/read AIDS report via MCDU: (Level 1)
+@@Only one MCDU can be used at a time.
+Both the MCDUs can be used simultaneously.
+Portable Data Loader can be used.
+The Brake accumulator can supply power for: (Level 1)
+Normal operation.
+Abnormal operation.
+@@Emergencies.
+For A/SKID protection the Braking/Steering Control Unit (BSCU)receives data from: (Level 1)
+Tire pressure from TPIS.
+Wheel speed from Tachometers
+@@Aircraft speed data from ADIRU
+By setting ON the parking brake, deactivates the: (Level 1)
+Left side Brakes.
+Right side Brakes
+@@All other braking modes and A/SKID system.
+The Maximum Towing Angle is: (Level 1)
+@@+/- 95 degrees
++/- 70 degrees
++/- 50 degrees
+The Maximum Steering Angle is: (Level 1)
+@@+/- 74 degrees using Hand wheels.
++/- 50 degrees using Hand wheels
++/- 35 degrees using Hand wheels
+The Spare-seal activating valve colour indications are: (Level 1)
+Green Primary/Red secondary deactivated.
+@@Green Primary/Red secondary activated.
+Red secondary/Yellow secondary deactivated.
+How does the nose landing gear (NLG) retract? (Level 1)
+@@Forward into a bay in the fuselage
+Backward into the wing structure
+Sideways into the fuselage
+How are the forward doors of the NLG operated? (Level 1)
+Electrically
+@@Hydraulically
+Manually
+What is the function of Direct Drive Valve (DDV) in the alternate braking system? (Level 1)
+@@It controls hydraulic pressure and connects the brakes to the return line
+It filters hydraulic fluid before it reaches the brakes
+It prevents excessive brake wear
+What does the safety valve in the alternate brake manifold do? (Level 1)
+It ensures equal pressure is applied to all brakes
+@@It stops fluid flow in case of a large leak
+It regulates the temperature of the braking system
+What is the role of the tachometer in each axle? (Level 1)
+@@It measures wheel speed and sends data to BSCU
+It controls the brake pedal force
+It provides feedback to the hydraulic system
+How does the alternate braking system connect to the brake units? (Level 1)
+Through a single set of pistons shared with the normal braking system
+@@Through a separate set of pistons from the normal braking system
+Through an electronic control module.
+The Tire Pressure Indicating Computer (TPIC) control and monitors the system also, includes an: (Level 1)
+@@Electronic sensor called Tire Pressure Indicating System (TPIS) on each wheel.
+Electronic sensor called Tire Pressure Indicating System (TPIS) on main wheel.
+Electronic sensor called Tire Pressure Indicating System (TPIS) on Nose wheel.
+The ECAM-WHEEL page provides the information for: (Level 1)
+Wheel Rotation speed.
+Brake Pressure indication.
+@@LDG Door position/Gear Position/Brake Temperature/Tire Pressure Indications.
+During maintenance the landing Gear doors not closing by the close lever the probable cause is: (Level 1)
+Blue System not pressurized.
+Yellow System not pressurized
+@@Green System not pressurized
+The torque link damper main function is to: (Level 1)
+@@Decrease the landing vibrations through torque links.
+Increase the landing vibrations through torque links.
+Keep the landing vibrations through torque links.
+The Nose Gear shock absorber extended, and nose wheel centered signal comes from the: (Level 1)
+Different proximity detectors.
+@@Same proximity detectors.
+L/G control lever
+The Auto Brake DECEL light comes on green when: (Level 1)
+@@Actual aircraft deceleration is 80% of the selected rate.
+Actual aircraft deceleration is 50% of the selected rate.
+Actual aircraft deceleration is 10% of the selected rate.
+The Auto-brake one of the disarmed conditions is: (Level 1)
+Flaps Extended.
+Ground Spoilers retraction. 
+@@Ground Spoilers retraction. If Ground spoilers are extended again, the auto-brake will be activated again.
+In the Landing Gear Panel (402VU) if A/Skid & N/W STRG switch is in OFF position then: (Level 1)
+Anti-skid, Nose Wheel Steering, Normal Brake & auto brake are available.
+@@Anti-skid, Nose Wheel Steering, Normal Brake & auto brake are lost.
+Anti-skid, Nose Wheel Steering, Normal Brake & auto brake are in Standby.
+The Break and Steering Control Unit (BSCU) has two systems (Two Channels) if they are supplied simultaneously than: (Level 1)
+System1& 2 has priority.
+System 2 has priority and System 1 is in standby.
+@@System 1 has priority and System 2 is in standby.
+The speed regulation inside BSCU/ABCU is controlled by: (Level 1)
+@@The normal Servo Valves (SV) by BSCU and Alternate DDV by ABCU.
+The normal Servo Valves (SV) by ABCU and Alternate DDV by BSCU
+The captains Pedals for Normal and F/O pedals for alternate.
+The pressure lower than 90 bar or all other normal braking failure lets the: (Level 1)
+@@ABCU activate the ALTN braking mode
+ABCU activate the STBY braking mode.
+ABCU activate the EMGY braking mode.
+The ALTN brake pedal transmitter unit supplied by HOT BAT BUS for: (Level 1)
+@@Let the ABCU brake the A/C during towing operation.
+Let the BPCU brake the A/C during towing operation.
+Let the ABCU brake the A/C during taxing operation
+The parking brake also called as an Ultimate Emergency Braking. (Level 1)
+@@Supplied by Yellow HP manifold or the Brake accumulator.
+Supplied by Blue HP manifold or the Brake accumulator.
+Supplied by Green HP manifold or the Brake accumulator.
+When the parking brake handle is set to ON position then: (Level 1)
+@@signal sent to the BSCU and ABCU in order to-override all other braking modes.
+The Green Hydraulic pressure is shut closed.
+The Yellow Hydraulic pressure is shut closed
+The Brake Temperature measured by: (Level 1)
+Chromel -Alumenal thermocouple per brake.
+The Brake Temperature Monitoring Unit (BTMU) for data processing.
+@@The BTMU sends the voltages to BSCU.
+The BRK FAN P/B is used to operate the fan in: (Level 1)
+Air only.
+@@When LDG is down locked.
+When LDG is up locked.
+The function of SWIVEL SELECTOR VALVE in NLG is to: (Level 1)
+@@Provide Hydraulic power supply when NLG extended and when retraction cuts the hydraulic power supply.
+Provide Hydraulic power supply when NLG retraction and when extended cuts the hydraulic power supply.
+Provide Hydraulic power supply when NLG extended and retraction.
+The adjustable Diaphragms used by maintenance in hydraulic block for: (Level 1)
+Adjusting Flow to each actuating cylinder chamber.
+@@Adjusting Flow to each actuating cylinder chamber and consequently the wheel steering speed.
+To bleed the system only.
+The number of Anti-shimmy valve installed in steering actuator chambers are: (Level 1)
+One for both chambers.
+@@Two, one per chamber.
+Three, one for Right, one for Left, one for center.
+The bleed screw in the hydraulic block allows: (Level 1)
+Bleeding of the hydraulic block.
+Depressurization of hydraulic block.
+@@Bleeding and Depressurization of hydraulic block
+The BSCU sends 4 discrete to Flight Management and Guidance Computers (FMGC) for: (Level 1)
+@@This is to meet the safety requirements of CAT-III B landings.
+This is to meet the safety requirements of CAT-II landings.
+This is to meet the safety requirements of CAT-I landings.
+The Alternate Braking Control Unit (ABCU) is made of: (Level 1)
+One functional module.
+@@Two, the power supply selection module and the main functional module.
+Four, two power supply selection modules and two main functional modules.
+The Alternate Braking Control Unit (ABCU) is supplied with: (Level 1)
+Two different AC power supplies.
+Two different DC power supplies.
+@@DC Essential power supply and DC Battery bus (HOT BUS)
+Various Cabin Lighting and Sign systems are controlled and tested by: (Level 1)
+The two CIDS directors
+@@The CIDS directors and Flight Attendant Panel (FAP)
+FAP only
+The FAP bottom slots used for: (Level 1)
+Cabin Assignment Module (CAM). Onboard Replaceable Module (OBRM),
+Prerecorded Announcement and Music (PRAM) in flash card format.
+@@CAM/OBRM and PRAM.
+The CIDS director communicate through Decoder Encoder Units (DEUs) called: (Level 1)
+@@DEU A &DEU B
+DEU A only
+DEU B only
+What are the AMM safety precaution, when changing Strobe Lights: (Level 1)
+Do not remove a strobe light wait ten minutes after de-energize the circuits
+Do not Touch the Strobe lights wait five minutes after operation they still be very hot.
+@@Use safety gloves when removing lamp.
+The Avionics compartment Light Push Button Switch (AVIONICS COMPT LT P/B) Located at: (Level 1)
+Over Head (OVHD) panel.
+Side console panel.
+@@OVHD Maintenance Panel (50VU)
+The Annunciator light Test Switch has: (Level 1)
+@@Dim/ Bright/Test positions.
+ON/OFF position only.
+Bright/Dim/Off positions only
+The Ground External Connection Panel (108VU) the Light test switch located at.: (Level 1)
+Nose Landing Gear Compartment.
+@@In Panel 108 VU itself.
+In the cockpit
+The FAP controls the DEUs via CIDS DIRs to give brightness (BRT) levels which are: (Level 1)
+BRT/DIM/OFF
+Low/Medium/High.
+@@BRT 100%, DIM 1 50% and DIM 2 10%
+The FAP controls the DEUs via the DIDS DIRs in order to give Cabin BRT levels as: (Level 1)
+@@100%,50%,10%
+100%,75%50%.
+100%,50%,25%
+The passenger reading lights can be tested via: (Level 1)
+The MCDUs from cockpit only.
+@@The MCDUs or the electronic MCDU from FAP.
+Passenger service units (PSUs).
+The Pax Reading Lights replacement procedure is: (Level 1)
+@@There is no replacement Procedure because of High Mean Time Between Failure (MTBF) the complete assembly to be replaced.
+Individually.
+Replace Pax Service Unit.
+If a full failure of the FAP and/or CIDS or Cabin decompression occurs, then: (Level 1)
+No cabin Lights
+50% of Cabin lights are available.
+@@The entrance lighting comes on automatically to 100% BRT level.
+The interfaces between Pax Reading Lights and FAP are:  (Level 1)
+PISA and DEU A
+DEU A and CIDS DIR.
+@@PISA, DEU A and CIDS DIR
+The Cabin signs must be replaced if: (Level 1)
+All LED's Failed
+LED's never Fail so no replacement.
+@@Three or more LED's have Failed.
+The Navigation Lights are: (Level 1)
+Installed on the wings.
+@@Operate independently each system supply one set of NAV lights in RH&LH wing tips and tail cone.
+Red and Green on the wing tips and Yellow on tail cone.
+The components which are an Integral part of Air Data Reference (ADR)portion are (Level 1)
+@@Pitot probs/Static Ports/Angle of Attack Sensors (AoA)/Total Air Temperature (TAT) Sensors.
+Only AoA and TAT are the part of ADR.
+Only Pitot and Static are the part of ADR
+The three ADIRUs are controlled through: (Level 1)
+By three separate ADIRS Mode Selector Units (MSU)
+@@single ADIRS Mode Selector Unit (MSU) 
+By ADIRS individual MCDUs installed in center pedestal.
+The three ADIRUs supply information to cockpit EFIS as follows: (Level 1)
+ADIRU#1 Supplies CAPT PFD 1 and ND 2
+ADIRU#2 Supplies F/O PFD 2 and ND 1
+@@ADIRU #1 Supplies PF1/ND1, ADIRU #2 PFD 2/ND 2, ADIRU #3 hot spare.
+The Safety Precaution to be Followed when working on Pitot/Static systems or Probs are: (Level 1)
+Before any Test Remove the Protective covers, do not test more than one minute.
+Do not touch the probs immediately after the test, they are hot
+@@Follow AMM procedure and above safety precautions.
+The Static ports are connected to ADR part as: (Level 1)
+@@Six static ports provide Static pressure to Five ADMs (Air Data Modules)
+Six static ports provide Static pressure to six ADMs (Air Data Modules)
+Six static ports provide Static pressure to three ADMs (Air Data Modules)
+Marker (MKR) Function is done inside VOR receivers, but active only in: (Level 1)
+@@VOR #1 ONLY
+VOR #2 ONLY
+BOTH THE VOR having Marker Function
+All navigation systems can be tested from: (Level 1)
+@@The MCDUs
+On the Units itself from cockpit.
+Automatically tested on Ground during power up.
+Radio Altimeter (RA) altitude displayed on Both PFDs: (Level 1)
+All altitudes
+@@Only below 2500 feet Above Ground Level (AGL)
+Only below 10000ft above AGL
+The crew oxygen supplies oxygen to the flight crew in case of: (Level 1)
+Loss of cabin pressurization.
+All the time in flight.
+@@Loss of cabin pressurization or smoke or dangerous gases in the cockpit.
+What is the purpose of the portable oxygen system? (Level 1)
+To supply oxygen for normal operations
+@@To supply oxygen in an emergency and for first aid
+To filter cabin air
+What additional features do the flight crew’s portable oxygen equipment have? (Level 1)
+built-in water filtration system
+@@communications cable connected to the flight-crew fixed oxygen system
+separated power supply
+What type of oxygen delivery system is used for the cabin attendants? (Level 1)
+Demand-flow oxygen masks
+@@Continuous-flow oxygen masks
+Pressure-regulated masks
+What additional equipment is available for cabin attendants in case of smoke or dangerous gases? (Level 1)
+secondary oxygen supply
+@@Protective Breathing Equipment (PBE)
+An emergency evacuation mask
+In CEO the oxygen for cockpit crew supplied by the: (Level 1)
+@@High pressure oxygen cylinder and quick-donning masks.
+Low pressure oxygen cylinder and quick-donning masks.
+Two separate oxygen cylinder and quick-donning masks.
+In NEO the oxygen for cockpit crew supplied by the: (Level 1)
+@@Two segregated High pressure oxygen cylinders.
+single High Pressure oxygen cylinder.
+Cabin air is used.
+The passenger and cabin attendant oxygen system is supplied by: (Level 1)
+single High-pressure cylinder.
+@@Chemical oxygen generator units.
+Two oxygen cylinders.
+There are two types of chemical generators that supply oxygen for: (Level 1)
+@@15 minutes or 22 minutes.
+25 minutes or 32 minutes.
+5 minutes or 12 minutes
+The cylinder can be isolated for maintenance using: (Level 1)
+OVHD PNL crew Supply OFF Push Button Switch.
+@@Manual ON/OFF valve.
+By switching off electrical power
+The oxygen system pressure information available to the pilots are: (Level 1)
+Total pressure in Direct gauge in HP bottle.
+@@ECAM-DOOR/OXY page HP and LP pressure of the system.
+In ECAM-ND page.
+The pilots can open or close the oxygen supply by using: (Level 1)
+Manual ON/OFF valve.
+By tripping the C/B.
+@@The CREW SUPPLY P/B (21VU) on the oxygen panel controls the supply valve.
+During walk around inspection if maintenance found green visual oxygen disc missing means: (Level 1)
+Oxygen bottle charging required.
+@@The cylinder was discharged, or the pressure relief valve is open.
+Oxygen is leaking
+In A320 NEO aircraft oxygen carried for flight crew in the: (Level 1)
+Single cylinder.
+@@Two segregated high-pressure, independent cylinders.
+Two combined high-pressure, integrated cylinders.
+In A320 NEO aircraft the cylinder pressure can be read by maintenance team by. (Level 1)
+Direct reading gauge after opening manual ON/OFF valve.
+@@Direct reading gauge independently of the open or closed position of the manual valve.
+ECAM-DOOR/OXY page only.
+In A320 NEO aircraft the two cylinders are installed in the: (Level 1)
+@@L/H avionics compartment, between FR 11 and 12 for No.1 cylinder and between FR16 and 17 for the second.
+L/H avionics compartment, between FR 11 and 12 for No.2 cylinder and between FR16 and 17 for the No.1.
+R/H FWD cargo compartment.
+The passenger oxygen system, the masks fall automatically when the: (Level 1)
+@@Cabin altitude is higher than 14000 feet.
+During approach when aircraft altitude below 10000 feet.
+Aircraft altitude is above 35000 feet
+If the chemical oxygen unit activated in flight: (Level 1)
+@@Must be replaced on ground and all the masks must be re-stowed.
+Must be replaced on ground and all the masks must be replaced.
+It can be refilled with active chemicals in workshop
+The crew portable oxygen bottle pressure is not correct during inspection: (Level 1)
+Recharge in maintenance.
+@@Replace the bottle.
+Can be released under MEL.
+The safety precaution maintenance team must follow when working in Oxygen concentration area is: (Level 1)
+No special requirements to be followed.
+@@The person must avoid any source of ignition (like smoking etc..)
+Take a shower immediately.
+During maintenance operation if a thunderstorm or bad weather condition occur then: (Level 1)
+@@Immediately stop all oxygen related operations.
+Continue the oxygen related operations.
+Refueling and oxygen servicing can be done.
+During oxygen system maintenance to reconnect all the pipelines and tightening the threads we must always: (Level 1)
+Use any standard oil to lubricate the connectors or thread.
+@@Use only specifically approved for oxygen lubricants and thread compounds
+Use general purpose grease.
+During leak detection on oxygen system the precaution to be followed is: (Level 1)
+For Leak test only Air is used no precaution needed.
+@@Helium is used and it is an Asphyxiating gas (can cause death).
+Use water, it is safe.
+During maintenance can oxygen be used for tire inflation or accumulator charging, blowing of dust etc.: (Level 1)
+Normally permitted.
+@@Oxygen is used only for oxygen system servicing, not for any other purposes.
+Not permitted at all, because it’s a combustible gas
+Oxygen cylinders and oxygen chemical generators are classified as: (Level 1)
+Standard materials.
+Special materials.
+@@Dangerous materials. (Dangerous Goods -DG)
+Air transportation of Oxygen cylinders and oxygen chemical generators are restricted by: (Level 1)
+@@International Air Transport Association (IATA).
+Local Civil Aviation Authorities.
+Air Transport companies
+The electrical supply for oxygen containers in the cabin is split into four separate circuits as two RH and two LH for: (Level 1)
+@@Each circuit on each side is feeding alternate oxygen containers.
+Each circuit on each side is feeding the same oxygen containers.
+The APU can power the circuits in case of electrical emergency
+In case of failure of automatic operation of passenger’s oxygen system then: (Level 1)
+@@The unit doors can be manually released by MAN OVRD red guarded P/B SW.
+The cabin crew can use Manual Release Tool (MRT).
+The oxygen unit doors remain partially opened and cabin crew will pull it manually.
+The white SYS ON light indicates in cockpit OVHD panel that. (Level 1)
+All the passengers masks are deployed.
+@@The masks are deployed electrically in auto or manual modes.
+To indicate the pilots the chemical generators working
+The FAULT light on the TMR RESET P/B comes on if: (Level 1)
+@@failure is detected in TIME DELAY RELAYS.
+failure is detected in OVHD P/B switch.
+failure is detected in the Chemical generator.
+The Reset of oxygen system is done by pressing OXYGEN/TMR RESET P/B SW on: (Level 1)
+MAN OVRD P/B SW in OVHD panel.
+@@Maintenance Panel (50VU) above F/Os OVHD.
+Electrical system OVHD panel
+The chemical generator condition can be checked by: (Level 1)
+@@Thermal indicator on the generator.
+By touching the generator is hot.
+Through the MCDU.
+During preflight inspection if PBE tamper proof seal is broken or serviceability indicator colour changed then: (Level 1)
+It’s a GO item.
+@@Must be replaced.
+Inform the cabin crew.
+On A320F CEO, on ground an amber half frame advisory appears on ECAM DOOR/OXY page when the oxygen pressure indication: (Level 1)
+Below 1750 PSI.
+The threshold For 77cu ft bottle is 1500 PSI.
+@@The threshold For 77cu ft bottle is 1500 PSI or 115 cu ft bottle is 1000PSI.
+On A320F NEO, on ground an amber half frame advisory appears on ECAM DOOR/OXY page when the oxygen pressure indication is: (Level 1)
+Below 1750 PSI.
+The threshold For 77cu ft bottle is 1500 PSI.
+@@The threshold For 77cu ft bottle is 800 PSI 
+The Portable Breathing Equipment (PBE) for the crew members provides: (Level 1)
+Eyes protection.
+Eyes protection and supplies oxygen in case of emergency.
+@@Eyes protection, supplies oxygen and freedom of movement in case of emergency.
+Cockpit Crew Oxygen system supplied from: (Level 1)
+@@One High pressure (HP) oxygen cylinder for CEO and Two HP cylinder for NEO.
+One High Pressure (HP) oxygen cylinder for CEO and NEO
+One HP and One LP for CEO and NEO
+The portable Oxygen cylinders are: (Level 1)
+@@HP cylinders with continuous flow type.
+LP cylinders with continuous flow type.
+HP or LP cylinders with continuous flow type
+When you work on Oxygen Systems: (Level 1)
+@@Obey and follow the AMM Oxygen safety procedures.
+No special safety procedure for Oxygen.
+Remove the Cylinders before working.
+The Pressure regularization components are on the engines are: (Level 1)
+Engine FAN AIR(FAV) valve.
+Engine Pre-cooler.
+@@Engine High Pressure Valve (HPV), Bleed Valve (PRV) and Over Pressure Valve (OPV)
+The temperature regulation components on the engines and Pylons are: (Level 1)
+Bleed Air Valve (PRV)
+@@The Fan Air Valve (FAV) and the Pre-cooler.
+Intermediate Pressure Valve (IP)
+The APU bleed supply duct is installed along the: (Level 1)
+Center of the Aircraft to the wheel well area.
+Right hand side the Aircraft to the wheel well area.
+@@Left hand side of the aircraft to the wheel well area.
+In ECAM-SD BLEED page the white GND and triangle indicates: (Level 1)
+When Ground air supply is connected turns green and indicate the pressure.
+@@The GND indication DOES NOT indicate ground air supply is connected or available.
+It is available to indicate aircraft in flight or ground.
+On Ground External ground air directly connected to the: (Level 1)
+Right side of the system only.
+@@Left side of the system only, and the Pressure indication will be available on Left side of bleed page.
+Left or Right of the system.
+The Engine Bleed Valve (PRV) is: (Level 1)
+Pneumatically controlled, motor operated valve.
+@@Solenoid controlled, pneumatically operated valve.
+spring loaded and air pressure-controlled valve.
+The Dual Loop leak detection provided for: (Level 1)
+Wings,Packs and Pylons.
+APU AFT fuselage ducts.
+@@Wings,Packs and Mid -fuselage APU ducts
+The APU leak detection loop is connected to the: (Level 1)
+@@Bleed Monitoring Computer (BMC) 1.
+Bleed Monitoring Computer (BMC) 2.
+Bleed Monitoring Computers (BMC) 1 and 2.
+The HP valve is: (Level 1)
+@@Spring loaded closed in the absence of upstream pressure.
+Spring loaded opened in the absence of upstream pressure.
+Pneumatically closed in the absence of upstream pressure
+The Over Pressure Valve is: (Level 1)
+@@Pneumatically operated and spring loaded open.
+Pneumatically operated and spring loaded closed.
+Electrically operated and spring loaded open.
+The Main Function of The FAN AIR Valve is to: (Level 1)
+@@Regulate the fan air flow into the precooler for bleed air temperature regulation.
+Regulate the fan air pressure to the precooler for bleed air temperature regulation.
+Regulates the hot air into the engine fan discharge airflow
+To Start the ENG 2,by HP ground cart: (Level 1)
+X- bleed valve selected at AUTO position.
+@@X- bleed valve selected at OPEN position.
+X- bleed valve selected at SHUT position.
+The X-Bleed Valve electrically controlled by: (Level 1)
+Two servo-valves.
+One electrical motor
+@@Two independent electrical motors.
+In Case of BMC 1 failure: (Level 1)
+BMC 2 ensures complete leak detection.
+The leak detection is completely lost.
+@@BMC 2 ensures its wing leak detection.
+The High Pressure (HP) valve is open during: (Level 1)
+@@Low power setting.
+High power setting.
+Only at cruise.
+A FAULT light is on the ENG 1 BLEED P/BSW, indicates an: (Level 1)
+@@Overheat condition sensed in LH pylon or LH wing or LH MID fuselage area.
+Overheat condition sensed in APU duct area.
+BMC 1 is faulty
+When the engines are shutdown the position of Valves are: (Level 1)
+The PRV, Fan Air Valve (FAV) and HP Valve are open.
+@@The PRV, FAV and HP valves are spring loaded closed due to lack of air pressure.
+All the Valves will be open if APU is running.
+When Ground cart connected to HP ground connector and the X BLEED valve is in OPEN position than: (Level 1)
+The ground air supply is available to feed the LH bleed system.
+The ground air supply is available to feed the RH bleed system.
+@@The ground air supply is available to feed the LH and RH bleed systems.
+The pylon loop is connected to: (Level 1)
+Pylon LH connected to RH BMC.
+@@Pylon LH and RH connected to the related BMC.
+Pylon RH connected to the LH BMC.
+The APU and Cross bleed (X-BLEED) valves do not close during: (Level 1)
+@@Main Engine Start (MES).
+BMC 1 fault.
+BMC 2 fault.
+The APU continues to supply air as long as the APU bleed valve remain open when: (Level 1)
+One Engine is running.
+Both engines are running.
+@@One or Both engines are running.
+The Bleed Pressure Regulating Valve Control Solenoid (CTS) function is to: (Level 1)
+Prevent reverse airflow through the precooler.
+@@Prevent reverse air flow through the engine PRV.
+Prevent reverse air flow through IP valve.
+Safety precaution to be followed during working on Bleed System (Level 1)
+@@Follow AMM procedure and Bleed air is very Hot.
+Bleed Air is cool air can work normally.
+As in A, wear protective hears plug.
+The water and waste system consists of: (Level 1)
+Two subsystems potable water and Toilet system.
+Two subsystems potable water and waste water system.
+@@Three subsystems potable water, waste water and Toilet system.
+A318/A319/A321 the potable water tank is installed in: (Level 1)
+@@Pressurized LH under floor area of AFT cargo compartment.
+Pressurized LH under floor area of FWD cargo compartment.
+Un-pressurized LH under floor area of THS compartment.
+The potable water system supplies water from the water tank to: (Level 1)
+FWD galley faucets and Fwd toilet unit.
+AFT galley faucets and Fwd toilet unit.
+@@All galleys faucets, and toilet faucets and vacuum toilet-units.
+Each lavatory can be isolated from the potable water distribution system through a: (Level 1)
+Electrical shut-off valve.
+Pneumatic shut-off valve.
+@@Manual shut-off valve.
+In A320 only the location of the potable water tank is at: (Level 1)
+@@AFT of the forward cargo compartment.
+AFT of the rear Bulk- cargo compartment.
+AFT of the rear cargo compartment.
+The waste water from galleys and toilet sinks are discarded via: (Level 1)
+@@Separate waste water collector tank.
+Overboard outside via heated drain masts.
+APU exhaust.
+To prevent ice formation in flight and during the cold weather operation: (Level 1)
+@@The two drain masts have integrated electrical heating elements.
+Externally heated by ground cart on ground.
+Engine bleed air is used in flight.
+The potable water from the water tank is supplied through distribution lines, are routed: (Level 1)
+Above the passenger compartment.
+@@Below the passenger compartment.
+Side wall of the passenger compartment.
+The water/waste system distribution in the forward area near avionics compartments routed as: (Level 1)
+@@Added protection and goes through a house.
+No protection necessary.
+All the lines routed through side walls.
+To prevent ice formation in and around the potable water distribution lines they are: (Level 1)
+Insulated.
+@@Insulated and electrically heated around the lines.
+Bleed air is used to heat the lines.
+For lavatory and galley area maintenance they are equipped with (Level 1)
+single electrically operated shutoff valve.
+Individually electrically operated shutoff valve.
+@@Individual manual shut off valve 
+To prevent water spillage in the cabin area, during water service the maintenance crew. (Level 1)
+@@Without electrical power you must open the overflow valve manually before filling operation.
+With electrical power you must open the overflow valve manually before filling operation.
+Must use the FAP only for filling operation.
+During filling operation if the water tank is empty than: (Level 1)
+Amber light in the water service panel comes ON.
+@@All valves are closed and there are no indicator lights.
+All the service panel lights blink.
+If the water service Panel door is opens, then: (Level 1)
+The system is electrically powered.
+The FAP water/Waste page to be selected.
+@@The system is electrically powered, and FAP water indication page is automatically called.
+Using FAP the water tank filling quantity can be selected as: (Level 1)
+75 liters,100 liters, 150liters and 200 Liters 
+1/4 tank.1/2 tank,3/4 tank and full tank.
+@@25%,50%,75% and 100%
+The aircraft on ground during cold weather conditions then the maintenance must: (Level 1)
+@@Drain the potable water to prevent damage to the system by ice.
+Water service must be carried out with hot water.
+Aircraft must be parked inside the hangar.
+The cold weather maintenance procedures for the potable water system are given in the: (Level 1)
+AMM 38-00.
+@@AMM 12-31-38.
+FCOM Vol 1.
+The toilet system vacuum generator is disarmed when the: (Level 1)
+Aircraft in flight.
+The waste tank service door panel is closed.
+@@Cabin differential pressure (Delta P) is sufficient to carry the waste to the tank.
+When the waste tank Liquid Level Sensor (LLS) becomes wet, the CFDS via DEU B then: (Level 1)
+Display a memo message on the ECAM.
+Sounds ground horn if the aircraft is on ground.
+@@Shuts down the toilet system.
+As per MEL/Deactivation If any of the drain mast is not heated, the aircraft can: (Level 1)
+Not dispached.
+@@Dispatched provided the associated galleys or toilets are not used and placarded “Inoperative” and water shutoff valves are closed.
+The toilet door is locked.
+The Flush valve for the toilet bowl operation: (Level 1)
+@@Is controlled by the Flush Control Unit (FCU) part of the toilet assembly.
+Remains open as long as the Flush switch is kept pressed.
+Is controlled by the Vacuum System Controller.
+The water taps can supply: (Level 1)
+Cold water only
+Hot or Cold water only on GND.
+@@Cold/Hot water, heater installed under the wash basin in each unit can supply hot water In Flight or On GND. 
+The potable water system pressured by the (Level 1)
+@@Bleed Air system
+Air system
+Nitrogen
+Vacuum Generator are controlled by the Vacuum System Controller Function (VSCF) integrated in: (Level 1)
+Water/waste service panel.
+@@CIDS Director
+FAP
+Drain mast heated on. (Level 1)
+Only in flight
+Only on ground
+@@Drain mast always heated in ground or in flight.
+Data Link communications achieved by using: (Level 1)
+VHF Data Radio (VDR) only
+HF Data Radio (HFDR) only
+@@VDR or HFDR or SATCOM
+Information System is part of AMM chapter: (Level 1)
+ATA 23 communication
+@@ATA 46 Information Systems
+ATA 34 Navigation
+The parameters required when initializing the ATSU router? (Level 1)
+Aircraft registration number and airlines identification parameters,
+@@Aircraft registration number, airlines identification parameters and scan mask validation.
+Scan masks validation is activated.
+The “Company data link standby” green memo displayed on the ECAM mean? (Level 1)
+Initialization of the ATSU Router complete and ready to use. 
+@@ATSU is powered but not working
+ATSU is standby on ground.
+The Maintenance Menu is composed of: (Level 1)
+Only TEST function.
+Only STATISTICS function.
+@@TEST/STATISTICS and AUDIT functions.
+The systems included in Fuel Tank Inerting System (FTIS) are: (Level 1)
+The Conditioned Service Air System. (CSAS) only.
+The Inert Gas Generation System (IGGS) only.
+@@Both CSAS and IGGS.
+What is the function of the Double-Ultra Low Particle Air (D-ULPA) filter in the IGGS pallet? (Level 1)
+To heat the air before it enters the fuel tank
+@@To clean the air stream before it enters the Air Separation Module
+To increase the oxygen concentration in the air
+What is the main purpose of the Air Separation Module (ASM)? (Level 1)
+To remove moisture from the air
+@@To divide the air into Oxygen-Enriched Air (OEA) and Nitrogen-Enriched Air (NEA)
+To pressurize the air before it enters the fuel tank
+The Conditioned Service Air System Controller Unit (CCU) interfaced with A/C systems computer are: (Level 1)
+Flight Warning System (FWS).
+Bleed Monitoring Computer (BMC).
+@@FWS and Centralized Fault Display System (CFDS)
+The Inert Gas Generation System main function is: (Level 1)
+Separates the Oxygen from atmosphere.
+Separates the Oxygen from the conditioned air stream.
+@@Separates the Oxygen from the conditioned air stream and regulates the Nitrogen Enriched Air (NEA) flow to the center fuel tank
+The Air Separation Module (ASM) removes the Oxygen from the: (Level 1)
+Outside air.
+Conditioned air stream called Oxygen Enriched Air (OEA).
+@@From the OEA and is discharged overboard to atmosphere.
+The Dual Flow Shut-Off Valve (DFSOV) is controlled by the ICU to: (Level 1)
+Modulate the Nitrogen Enriched Air (NEA) flow into the left fuel tank.
+@@NEA flow into Center Fuel tank.
+NEA flow into Right fuel tank.
+The FTIS operates in: (Level 1)
+Fully automatically and active in Flight only.
+Automatically and active in ground only.
+@@Automatically in Flight but on Ground preforms self-monitoring when energized
+The Conditioned Service Air Controller Unit (CCU) is installed in the: (Level 1)
+AFT main Avionics compartment (80VU).
+@@Forward Avionics compartment (90VU).
+AFT Cargo compartment.
+The FTIS supplies Nitrogen Enriched Air (NEA), which is a gas with low Oxygen content maintenance personnel must: (Level 1)
+Follow the Safety and warning as per AMM 28-00-00.
+Wear mask that is enough.
+@@Follow the AMM safety procedures, if not may cause serious injury or Death.
+The operational impact on FTIS for maintenance MEL dispatch are: (Level 1)
+FTIS is a MEL item.
+It is a NO GO item.
+@@FTIS can stay inoperative for 10 days.
+CSAS Isolation valve, which is a protection of the system if there is: (Level 1)
+Low pressure or Low temperature.
+Over pressure or Low temperature.
+@@Low pressure, Over Pressure or Over temperature.
+In CSAS, the heat ex-changer is used to: (Level 1)
+@@Decrease the Bleed air temperature.
+Decrease outside air temperature.
+Increase the outside air temperature.
+The FTIS the primary source of bleed from the: (Level 1)
+Engine 2.
+Engine 1 or Engine 2.
+@@Engine 1, through the X Bleed Valve Engine 2 is the secondary bleed source.
+The purpose of Dual element temperature sensor (T) and a pressure sensor (P) on the CSAS output duct to: (Level 1)
+Monitors the temperature and pressure.
+@@If there is an over-pressure or over-temperature detected the CSAS Isolation Valve closes.
+Send the information to BMC.
+CSAS system is installed on the: (Level 1)
+@@Left hand side of the aircraft belly fairing.
+Right hand side of the aircraft belly fairing.
+Right hand side of the aft cargo belly fairing.
+The CSAS controller is interconnected with ACSC and EIU to keep a: (Level 1)
+@@Minimum bleed pressure during descent.
+Minimum bleed pressure during climb.
+Minimum bleed pressure during level flight.
+The IGGS uses an Air Separation Module (ASM) to remove Oxygen from the conditioned air system and then: (Level 1)
+Creates and Separates Nitrogen Enriched Air (NEA) and Oxygen Enriched Air (OEA).
+The NEA discharged overboard.
+@@The OEA discharged overboard
+The IGGS Isolation Valve is a : (Level 1)
+@@Solenoid valve and spring loaded to close.
+Motor operated valve and spring loaded to open.
+Pressure operated valve.
+The Dual Flow Shut Off Valve (DFSOV) modulates the NEA flow to the center tank between: (Level 1)
+Low flow.
+High flow.
+@@Low, Mid or High flow in relation to the flight phases
+The Dual Flapper Check Valve makes a double barrier to the: (Level 1)
+@@Possible back-flow of fuel from center tank.
+Possible back-flow of NEA from center tank.
+Possible back-flow of OEA from center tank.
+If the Oxygen sensor senses an  Oxygen rate higher than 12% : (Level 1)
+The ICU de-energizes the IGGS Gate Valve solenoid.
+@@The Gate Valve solenoid and DFSOV closed.
+FTIS system closes.
+The Air Separation Module (ASM) is a semi-permeable hollow-fiber membrane bundle in a: (Level 1)
+@@Pressure containment canister.
+Open to air canister.
+Fuel filled canister.
+The ICU supplies the two solenoids of the DFSOV to control the position as: (Level 1)
+OPEN/CLOSE.
+OPEN/HIGH flow.
+@@OPEN/CLOSE and NEA flow as LOW/MID/HIGH. 
+The Dual Flapper Check Valves are on the: (Level 1)
+Inner side of the center tank.
+@@Outer side of the center tank.
+Side wall of the center tank.
+The information ADIRU 1 supply to the ICU are: (Level 1)
+STD Altitude (STD ALT), True Air Speed (TAS) only.
+Total Air Temperature (TAT) only.
+@@STD ALT, TAS, TAT, and Altitude Rate signals.
+When the Aircraft speed is below 30 Knots, The ADIRU data are sent by ICU to CCU as: (Level 1)
+@@No Computer Data (NCD).
+Aircraft on the Ground.
+FTIS in STBY mode.
+The purpose of APU in A320 family aircraft is: (Level 1)
+@@Which enables the aircraft to be independent of external Electrical and Pneumatic sources.
+To provide electrical power only, in Ground or in Flight.
+To provide pneumatic power only, in Ground or in Flight.
+The APU provides bleed air for the: (Level 1)
+Main Engine Starting (MES) only.
+Air-conditioning (ECS) only.
+@@Engine starting (MES), Air-conditioning (ECS) and Wing Anti Icing testing on ground.
+The bleed air for air conditioning and pressurization from APU in flight available at: (Level 1)
+All flight altitudes.
+@@Until the specified APU manufacturer limit.
+Until Cruise level only.
+The APU electrical power available in flight at the: (Level 1)
+@@Entire flight envelope.
+Until Cruise altitude.
+During descent phase.
+The types of APU available for A320 Family are: (Level 1)
+Honeywell type 131-9(A).
+APIC type APIC3200 only.
+@@Either Honeywell or APIC type can be installed.
+The APU controlled and monitored by: (Level 1)
+Full Authority Digital Engine Control (FADEC) unit.
+Engine Interface Unit (EIU).
+@@Electronic Control Box (ECB)
+What are the Environmental precautions to be followed during maintenance operation: (Level 1)
+Avoid use of the APU, if APU BLEED is not required.
+Turn-off Unused GPU/ACU/Air cart etc... If not required.
+@@Follow local airport requirements.
+The APU vibration isolators are installed between the APU mount brackets and the tie roads to: (Level 1)
+Prevent Aircraft vibration shocks to the APU only.
+@@Prevent Aircraft vibration shocks and APU vibration transmission to the structure.
+For APU installation in the Compartment.
+The APU COMPT drain mast fluids connected to the drain tank are emptied by: (Level 1)
+Regular draining.
+@@When the A/C speed is above 200 knots by suction effect.
+Weekly checks.
+The APU oil level information available in the cockpit are from: (Level 1)
+Displayed in EIS only.
+MCDU only.
+@@ECAM-APU SD page for LOW OIL LEVEL advisory and from MCDU APU SERVICE DATA page.
+In case of an APU inlet actuator failure, the APU may be dispatched, as per MEL with the: (Level 1)
+Inlet OPEN only.
+Inlet CLOSED only.
+@@Inlet OPEN or CLOSED with AMM/MEL procedures.
+The Safety precaution taken during APU cowls open position during maintenance is to: (Level 1)
+@@Make sure that proper size firefighting equipment is available.
+No safety precaution required APU fire bottle is adequate.
+No safety procedure required because the APU doors are open during maintenance.
+During APU normal operations: (Level 1)
+@@The electric power supply has priority over the bleed air supply
+The bleed air supply has priority over the electric power supply
+There is no priority order
+The ECB controlled oil component in the APU oil system is: (Level 1)
+Low oil level sensor
+Low oil pressure sensor
+@@De-oiling solenoid valve.
+The APU Bleed Control Valve is: (Level 1)
+Pneumatically operated
+Electrically operated
+@@Electrically controlled by the ECB and Fuel operated
+The inlet Guide Vane (IGV) is controlled: (Level 1)
+By theBMC1.
+By the BMC2
+@@By the ECB
+The components in the APU fuel system controlled by ECB are: (Level 1)
+The fuel metering valve and the pressure regulator.
+@@The fuel metering valve and 3-way solenoid valve.
+The fuel metering valve, the pressure regulator and 3-way solenoid valve.
+The APU oil cooler is used to remove the heat from oil system: (Level 1)
+With RAM air
+With fuel
+@@With the air vented by fan
+The APU Air intake Flap open: (Level 1)
+@@As soon as MASTER SW in “ON” position
+As soon as N>7%
+As soon as ignition begin
+The ECB enters the start preparation state of APU at: (Level 1)
+55% rpm
+@@7% rpm
+95% rpm
+The flow divider solenoid valve function in APU is to: (Level 1)
+Prevent fuel flow in the primary nozzles during cold start.
+Provide positive fuel during shut-off in case of emergency shut down.
+@@Block the secondary fuel nozzles during cold or high altitude start.
+When the FUEL VENT push button switch is pressed in at the APU compartment then: (Level 1)
+@@APU fuel pump runs, and fuel isolation valve opens.
+Left wing main fuel pumps run and APU fuel isolation valve closes.
+APU fuel pump stops and Fuel Control Unit closes.
+During Ram Air Turbine extension (RAT), in electrical emergency configuration the starting of APU is: (Level 1)
+@@Inhibited by 45 seconds by Battery Charge Limiter (BCL).
+Not limited can start APU at any time.
+Normally RAT will start the APU once it is online.
+In the APU, ECB power Up test is performed at each time: (Level 1)
+When any one of the main engines started.
+When Battery P/B SW is ON.
+@@When APU master switch is set to ON.
+The APU total operation hours/APU cycles can be obtained from: (Level 1)
+Post Flight Report (PFR) on ground.
+Current Leg report in flight.
+@@System Report Menu -APU pages on MCDU.
+The parameters displayed on the ECAM-SD-APU page, when APU is in operation are: (Level 1)
+@@APU Speed (N) and EGT temperature.
+Fuel Flow and Oil temperature.
+Oil quantity and Oil temperature.
+The ECB monitored Oil system parameters are: (Level 1)
+High Oil temperature and High oil Pressure.
+Low oil temperature and oil clog conditions.
+@@High oil temperature, low oil pressure, oil pressure differential and oil clog condition.
+APU operates all the flight envelope but: (Level 1)
+Electrical power is available until maximum altitude of FL200 for the Honeywell 131-9A & FL 225 for the APIC 3200.
+APU bleed air available at all flight level.
+@@Electrical power is available at all flight level and APU bleed air available until maximum altitude of FL200 for the Honeywell 131-9A & FL 225 for the APIC 3200.
+The fuselage typical design used in A320 family is: (Level 1)
+@@The skin is attached to the frames and stiffened by stringers.
+The skin is attached to the frames and stiffened by rivets.
+The skin is attached to the frames and stiffened by welding.
+The boxes typical design used in A320 family is: (Level 1)
+@@The skin stiffened with stiffeners are attached to spars and ribs.
+The skin is attached to ribs.
+The skins attached to spars by welding.
+The Shark-lets are specially designed for A320 family for: (Level 1)
+@@better Eco-efficiency, enhance payload-range performance
+For cosmetic appearance. 
+To differentiate with other Aircraft.
+The Aircraft structure is divided according to the: (Level 1)
+EASA 100 specifications.
+FAA 100 specifications.
+@@ATA 100 specifications.
+The station (STA) numbers of fuselage is measured as: (Level 1)
+@@The distance in Centimeter of a cross-section from a reference point.
+The distance in Centimeter of a cross-section from Radome.    
+The distance in Centimeter of a cross-section Nose landing gear.
+The Major Zones are identified as: (Level 1)
+Each Major Zone is identified by the first digit of four digits number.
+@@Each Major Zone is identified by the first digit of three digits number.
+Each Major Zone is identified by the first digit of five digits number
+The pressure loads on the passenger doors are transferred by: (Level 1)
+@@Stop fittings located on each side of the door and the frame.
+Stop fittings located on the left side of the door and the frame.
+Stop fittings located on the right side of the door and the frame.
+The number of Over-wing Emergency Exits doors, the A320 aircraft has: (Level 1)
+@@Four type III doors, two on each side of the fuselage.
+Two type III doors, one on each side of the fuselage.
+Four type ‘C’ doors, two on each side of the fuselage
+The number of Emergency Exits doors the A321 aircraft has: (Level 1)
+@@Four type “C” doors, two FWD of the wing (LH/RH) and two AFT of the wings (LH/RH).
+Two type “C” doors, one FWD of the wing (LH) and one AFT of the wing (LH)
+Two type “C” doors, one FWD of the wing (RH) and one AFT of the wing (RH)
+The fuselage is divided in to: (Level 1)
+Three main parts Nose forward/forward/ center fuselage.
+Four main parts Nose forward/forward/ center/rear fuselage.
+@@Five main parts Nose forward/forward/ center/rear fuselage and the cone/rear fuselage.
+The skin panel just below the windshield is made of: (Level 1)
+Aluminum alloy.
+Composite.
+@@Titanium alloy for bird impact requirements.
+The structure of the cabin floor has: (Level 1)
+Cross beams and Floor panels.
+Seat tracks and Floor support struts.
+@@Cross beams/Seat tracks/Floor support struts and Floor panels.
+The rear pressure bulkhead made off: (Level 1)
+Solid Aluminum alloy.
+@@Spherical membrane, segment joints and radial stiffeners
+Composite.
+The tail cone APU compartment is made from Titanium alloy to create: (Level 1)
+@@Fire containment compartment.
+Soundproofing compartment for APU noise.
+Easy maintenance.
+The main function of the Engine pylons installed under each wing is: (Level 1)
+To support the Engines.
+To transmit the Engine thrust to the aircraft.
+@@Enable the routing and attachment of all systems connected with the engine. 
+The information concerning structure of nacelle can be found in: (Level 1)
+Aircraft Maintenance Manual (AMM)
+Trouble Shooting Manual (TSM).
+@@Nacelle manufacturer documentation.
+The first document to be referred during maintenance for structural damage assessment and repair procedure is: (Level 1)
+Aircraft Maintenance Manual (AMM)
+Trouble Shooting Manual (TSM)
+@@Structural Repair manual (SRM)
+The allowable damage is found in SRM in: (Level 1)
+Page Block 1-100.
+@@Page Block 101-199.
+Page Block 201-299.
+The Stabilizers are composed of: (Level 1)
+Trimmable Horizontal Stabilizer (THS) and Elevators.
+Rudder.
+@@THS/Elevator/Vertical stabilizer and Rudder.
+In the THS center joint is made of: (Level 1)
+CFRP composite.
+Steel alloy.
+@@Titanium alloy.
+The windshield and Fixed side windows are mounted in a frame and can: (Level 1)
+@@Removed and installed from the exterior.
+Removed and installed from the cockpit.
+Removed from outside and installed from inside.
+The windshield panes from various windows supplier can be: (Level 1)
+@@Interchangeable.
+Not Interchangeable.
+Different size for A320 family.
+The cabin windows are removed and installed from: (Level 1)
+@@Inside the aircraft cabin.
+Outside of the aircraft.
+Removal from outside and Installation from inside cabin
+The aircraft wing is in the continuity of the structure going through the fuselage which is divided into: (Level 1)
+Two parts Left outer wing and right outer wing.
+Two parts inner wing and right inner wing
+@@Three parts the center wing box/Left outer wing and right outer wing.
+The wing root joint with center wing box as: (Level 1)
+Cruciform fitting in upper and lower side with outer wing box.
+Triform fitting in upper and lower side with outer wing box.
+@@Cruciform fitting in upper and triform fitting in lower side with outer wing box.
+The wing trailing edge control surfaces are: (Level 1)
+Flaps. Spoilers and ailerons.
+@@Inboard/outboard flaps/Two ailerons and five spoilers.
+Flaps and slats.
+The wing spars are machined aluminum alloy used to give strength to the wing box, and they extended from: (Level 1)
+@@Rib 1 to Rib 27.
+Rib 22 to Rib 27.
+Rib 1 to Rib 14.
+There are seven non-load carrying access panels installed under the wing between: (Level 1)
+Rib 1 to Rib 7 and clamped on the wing skin.
+Rib 1 to Rib 10 and clamped on the wing skin.
+@@Rib 1 to Rib 13 and clamped on the wing skin.
+There are Fourteen load-carrying access panels installed under the wing between: (Level 1)
+Rib 1 to Rib 10 and bolted on the wing skin panel.
+Rib 7 to Rib 14 and bolted on the wing skin panel.
+@@Rib 14 to Rib 27 and bolted on the wing skin panel.
+The sliding windows in the cockpit can be used as an emergency escape, with the help of rope for: (Level 1)
+Cabin crew.
+@@Cockpit crew.
+Cabin crew and cockpit crew.
+The Shark-let is mainly made up of: (Level 1)
+Aluminum alloy.
+@@Carbon Fiber Reinforced Plastics (CFRP).
+Titanium alloy.
+The access for maintenance to the center wing box is through: (Level 1)
+Triangular openings in the bottom.
+Triangular openings in the front spar.
+@@Triangular openings in the rear spar.
+The vent hole in the inner pane on cabin windows is to: (Level 1)
+@@Allows to pressurize the outer pan in normal operation.
+For defogging.
+Cleaning.
+The leading edge of Vertical stabilizer is fitted with Glass Fiber this is: (Level 1)
+To prevent erosion damage.
+@@The HF radio antenna installed 
+For lightning struck protection.
+Opening the door from outside will: (Level 1)
+@@Disarm the escape slide mechanism automatically, the slide remains and not deployed.
+Open the door but the slide will be deployed.
+Not permitted at all 
+The number of over wing emergency exit door equipped with A321 LR is: (Level 1)
+Four (two on each side).
+All the four are located on the Left side.
+@@Four (two on each side) and two emergency exit doors (one on each side) located AFT of the wings.
+If the cabin emergency door is opened from outer side with the escape slide in ARMED mode: (Level 1)
+@@The ARMED mode of the escape slide changes to DISARMED mode as well as passenger door.
+The escape slide will deploy
+The door cannot be opened.
+For the emergency exits door, which device makes sure that the locking shaft mechanism is always in the over centered position? (Level 1)
+@@The spring unit
+The control mechanism
+The locking hook.
+Where is the escape slide pack of cabin emergency door located? (Level 1)
+Holds on the door
+@@Holds in a container underneath the door
+Holds on the overhead stowage compartment
+Where the inflation reservoir of the emergency exits door located? (Level 1)
+At the bottom of the door
+@@In the overhead stowage compartment
+In the AFT cargo compartment
+In A320 Family the four avionics compartment access doors on the lower fuselage area around the Nose Landing Gear Bay are: (Level 1)
+Hydraulically operated and open outwards.
+Electrically operated and open inwards
+@@Manually operated and open inwards
+The cockpit door locking system include: (Level 1)
+Cockpit Door panel on the center pedestal.
+Overhead control unit in OVHD panel.
+@@Center pedestal panel and OVHD panel integrated with maintenance annunciator
+Do not open Passenger/crew door if the wind speed is more than: (Level 1)
+100 Kts.
+@@65 Kts.
+10 Kts.
+The pressure -sealed doors NOT to be opened if, full or residual pressure in the aircraft it will cause: (Level 1)
+@@Explosive Decompression can cause injury or kill the persons.
+Outside Hot air enter the cabin
+Outside Noise will enter the cabin.
+The cabin pressure loads are transmitted by: (Level 1)
+@@Adjustable stop fittings to the door frame and to the fuselage.
+Door handle to the fuselage.
+Door outer skin to the fuselage
+The door seal is a rubber extrusion with: (Level 1)
+@@Equally spaced pressurization holes.
+Randomly spaced pressurization holes.
+Solid single unit and No pressurization holes 
+The escape slide/raft is fastened to the: (Level 1)
+Door frame.
+Bottom floor panel.
+@@Girt Bar.
+The over-wing evacuation slide will deploy if the over -wing emergency door (OWD) is: (Level 1)
+Opened from outside.
+Opened from inside.
+@@Opened from outside or inside.
+During maintenance on the over wing slide it must be disarmed by: (Level 1)
+Keeping pressed.
+@@Turning it Counter-clockwise.
+Turning it clockwise.
+The inflation reservoirs are installed in A318, A319&A320 at the: (Level 1)
+FWD cargo compartment.
+@@AFT cargo compartment.
+Cabin overhead stowage
+The inflation reservoirs are installed in A321 at the: (Level 1)
+FWD cargo compartment.
+AFT cargo compartment.
+@@Above each door in the overhead stowage compartment.
+The type of escape slide in A321 are: (Level 1)
+@@Single-lane type.
+Dual-lane type.
+Wide -lane type.
+The serviceability of the Pax doors emergency cylinder can be checked on the: (Level 1)
+Flight Attendant Panel (FAP)
+ECAM DOOR/OXY page.
+@@Direct Reading gauge and FAP.
+In A319/A320/A321, the FWD and AFT cargo doors are: (Level 1)
+Interchangeable.
+@@Structurally the same, but they are Not interchangeable.
+Different manufacturer
+The purpose of double check valve, depressurizes the cargo door system after operation: (Level 1)
+To prevent loss of reservoir pressure.
+To hold the door in controlled position.
+@@To prevent loss of reservoir pressure and hydraulic fluid leak.
+The cargo door must be leached and locked within a minute to prevent: (Level 1)
+@@Re-opening due to internal leakage.
+Re-opening due to External leakage.
+Re- opening due to Air pressure.
+The cargo door hydraulic actuators in open position: (Level 1)
+Lock internally to maintain an open position without pressure.
+@@Lock internally to maintain an open position with pressure.
+Lock externally to maintain an open position without pressure.
+The code pad provides increase security levels and is used to notify the cockpit crew of: (Level 1)
+Request for entry only.
+@@Request for entry or to open the door in case of confirmed incapacitation of both the pilots.
+Passenger free entry into cockpit.
+The Control Door Locking System is a control box located in the overhead panel for: (Level 1)
+@@Monitoring the latches and rapid pressure variation in the cockpit.
+Just an open/close panel.
+It is a backup panel for central pedestal switching panel.
+On the cockpit door there is three hinges, the top and bottom hinges are attached to the: (Level 1)
+Top and bottom hinges to cockpit structure.
+Top and bottom hinges to cockpit door frame structure.
+@@Top hinge to cockpit structure and bottom engages with the floor structure.
+If there is a total failure of the CDLS, the A/C can be operated under MEL condition provided: (Level 1)
+Put an INOP sticker on both sides of the door.
+Can be closed manually from cabin side with a deadbolt.
+@@Can be closed manually from cockpit side with a deadbolt.
+The Red flashing light indicates an excessive residual cabin pressure when: (Level 1)
+As soon as one or Two engines are off.
+The escape slide is disarmed.
+@@The cabin residual pressure is more than 0.04 psi (2.5 millibars).
+If it is necessary to open the emergency exit for maintenance, the safety precaution must be followed: (Level 1)
+Switch of the Ground Power.
+Switch of the APU if running.
+@@The automatic slide deployment mechanism must be deactivated.
+Each Passenger door is monitored by proximity switches that are: (Level 1)
+Locking hook proximity S/W.
+Locking Shaft Proximity S/W.
+@@Locking hook, Locking Shaft and escape slide proximity S/W's.
+When the door is locked, the locking hook and locking shaft proximity S/W targets are near then: (Level 1)
+@@The Green door symbol on the ECAM DOOR/OXY page.
+The Amber door symbol on the ECAM DOOR/OXY page.
+The White door symbol on the ECAM DOOR/OXY page
+The FWD and AFT cargo doors, the number of proximity S/W’s installed. (Level 1)
+One handle proximity S/W.
+Two Latching shaft and Frame Proximity S/W’s.
+@@Three handles/the frame and latching shaft proximity S/W’s.
+For thrust balance and prevention of A/C movement during run up (Level 1)
+The single engine operation is allowed up to 80% N1
+If power is higher than 75% N1, the A/C must be immobilized by wheel chocks and parking brake.
+@@If power is higher than 75% N1, the A/C must be immobilized by wheel chocks and brake pedals.
+Engine replacement requires: (Level 1)
+Only T/R cowls to be removed
+Both fan and T/R cowling to be removed
+@@Neither Fan nor T/R cowl needs to be removed.
+Fan cowls: (Level 1)
+@@Must always be held open by both struts each.
+Must be held open by both struts each when the wind is more than 65 knots.
+Must be opened by releasing 4 latches in sequence from the rear to the front.
+The engine oil servicing panel is located: (Level 1)
+On the outboard side of the inlet cowl
+@@On the left side fan cowl door
+On the left side of the inlet cowl
+When the engine is running: (Level 1)
+No person is allowed to get access to the engine
+@@Access to the engine is permitted within the Entry/Exit corridor if power do not exceed min idle
+Access to the engine is permitted within the Entry/Exit corridor at all power rating
+The engine run up at Min idle can be carried out with: (Level 1)
+@@Fan cowls opened and secured
+Thrust Reverser cowls opened and secured
+Both Reverser and Fan cowls opened and secured
